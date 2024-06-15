@@ -1,0 +1,83 @@
+"appid" "1338040"
+"common"
+{
+	"name" "Automobilista 2 - Dedicated Server"
+	"type" "Tool"
+	"parent" "1066890"
+	"releasestate" "released"
+	"logo" "da409d82270283b39d3fe750acfef7d639745cd8"
+	"logo_small" "da409d82270283b39d3fe750acfef7d639745cd8_thumb"
+	"icon" "c3099dee505501dc6ca8800ff9042495729d2903"
+	"clienticon" "619c117330af778dc9669b75e78c026048a462d5"
+	"clienttga" "299eab4abeee2aae735c98cda8bd71aadfe4fa04"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"associations"
+	{
+	}
+	"gameid" "1338040"
+}
+"config"
+{
+	"installdir" "Automobilista 2 - Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DedicatedServerCmd.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1338041"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3893607858911812867"
+				"size" "15996810"
+				"download" "5186208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"stagingtest"
+			{
+				"gid" "513DC423D226B139E99BF1B2C8531165"
+				"size" "85E902CF86B4736E171409C4779CED5F"
+				"download" "7C9858AB3AD576D85D72F2C1B4E59E64"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13902116"
+			"timeupdated" "1711801481"
+		}
+		"stagingtest"
+		{
+			"buildid" "13902116"
+			"pwdrequired" "1"
+			"timeupdated" "1711798169"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22971050"
+"_sha" "fb8c2583879a3d12b0621f5cbe88f0eb669deab1"
+"_size" "1432"
