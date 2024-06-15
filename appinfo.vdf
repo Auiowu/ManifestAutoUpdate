@@ -1,0 +1,297 @@
+"appid" "384300"
+"common"
+{
+	"name" "CPUCores :: Maximize Your FPS"
+	"type" "Application"
+	"releasestate" "released"
+	"logo" "92396b4c462de9462e4545e7823ef11325a4b054"
+	"logo_small" "92396b4c462de9462e4545e7823ef11325a4b054_thumb"
+	"icon" "a2eae472e22b350837901dee7c4f7e203f6021fd"
+	"clienticon" "33aba4bc14a6eb804cf1c7f90a8e83c282bf415c"
+	"clienttga" "40a133952901983d9de65ede3bb5f4bbcc94236d"
+	"oslist" "windows"
+	"exfgls" "0"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669852800"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "80.69767441860466"
+			"height_pct" "49.24008549038234"
+		}
+	}
+	"store_asset_mtime" "1632319458"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Smorb Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Smorb Software"
+		}
+	}
+	"primary_genre" "57"
+	"genres"
+	{
+		"0" "53"
+		"1" "57"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1435906800"
+	"steam_release_date" "1436166300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "384300"
+	"store_tags"
+	{
+		"0" "87"
+		"1" "8013"
+		"2" "150626"
+		"3" "603297"
+		"4" "1663"
+		"5" "5348"
+		"6" "4182"
+		"7" "84"
+		"8" "492"
+		"9" "11123"
+		"10" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+	"review_score_bombs" "6"
+	"review_percentage_bombs" "74"
+}
+"extended"
+{
+	"disableoverlay" "1"
+	"developer" "Smorb Software"
+	"publisher" "Smorb Software"
+	"homepage" "http://cpucores.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/384300/"
+	"listofdlc" "726480,736580,842680"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "CPUCores"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "cpucores.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"384301"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2464109320478490543"
+				"size" "3218951"
+				"download" "1926176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cpuca"
+			{
+				"gid" "8ED3ADC52D04919BBF69FED6A94341B2"
+				"size" "2D14D11B60BDA76DAC0E674221BD8293"
+				"download" "82E9265B2964BE2DB65CBBB667912EFD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "3758805"
+			"timeupdated" "1555959292"
+		}
+		"cpuca"
+		{
+			"buildid" "13247991"
+			"pwdrequired" "1"
+			"timeupdated" "1706010104"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23655153"
+"_sha" "17035eb3615fc3b69b967f16d4ff84c63f0a846b"
+"_size" "4829"
