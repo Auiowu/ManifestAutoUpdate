@@ -1,0 +1,612 @@
+"appid" "1166860"
+"common"
+{
+	"name" "Rival Stars Horse Racing"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticns" "aa55ebc376dbd90e84705120d4008e3ecb3ce379"
+	"clienticon" "7fa7352ee76c8360f4afdb9139d723f9d9a9d99a"
+	"clienttga" "7e17059f46e5f56a447c5d5b817a64f577c785fb"
+	"icon" "52c8d5e50834060af6d72119b30f9e5a6fdc3091"
+	"logo" "110d51808aff953ea7d2a8ca864ed6bc7c39ccc6"
+	"logo_small" "110d51808aff953ea7d2a8ca864ed6bc7c39ccc6_thumb"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1675468800"
+		"tested_build_id" "10436938"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rival Stars Horse Racing"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50.403304839959624"
+			"height_pct" "49.65642130790781"
+		}
+	}
+	"store_asset_mtime" "1717534191"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PikPok"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PikPok"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1593030572"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1166860"
+	"store_tags"
+	{
+		"0" "6041"
+		"1" "699"
+		"2" "9204"
+		"3" "701"
+		"4" "12472"
+		"5" "1775"
+		"6" "3878"
+		"7" "4747"
+		"8" "87918"
+		"9" "122"
+		"10" "4191"
+		"11" "1742"
+		"12" "597"
+		"13" "599"
+		"14" "9"
+		"15" "4175"
+		"16" "5350"
+		"17" "5608"
+		"18" "3859"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "PikPok"
+	"publisher" "PikPok"
+	"homepage" "https://pikpok.com/games/rival-stars-horse-racing-desktop-edition/"
+}
+"config"
+{
+	"installdir" "Rival Stars Horse Racing"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RivalStarsHorseRacing.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "RivalStarsHorseRacing.app\\Contents\\MacOS\\RivalStarsHorseRacing"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1166861"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7173375958736719625"
+				"size" "3844703992"
+				"download" "2389154896"
+			}
+			"local"
+			{
+				"gid" "5568375545895013952"
+				"size" "2776915580"
+				"download" "1680212256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"multiplayertest"
+			{
+				"gid" "062602110580793E8FF42E35AB1D1C64"
+				"size" "23E0CA35A3B14D0225E37CA92587B0AA"
+				"download" "8D5D75F9B8C97A6859BF65371C8F07CF"
+			}
+			"old_version"
+			{
+				"gid" "778B6F05D96175E9BB23A0E73C887E56"
+				"size" "10B0613FC9287A45CF08CF5EC0A9C841"
+				"download" "5CF52D6EA67A6134BE176376F4C06F33"
+			}
+			"release_candidate"
+			{
+				"gid" "AB079C0D7A9246FD67AC2B2EE9154F22"
+				"size" "FCB83289B7B5203807B33AF82281FDE7"
+				"download" "EC6020DD4129F788EE185AD57FBDED44"
+			}
+			"staging"
+			{
+				"gid" "558A30FF10F94EBFAFC9B33DB8C51F18"
+				"size" "4C745DED73072E65890F2436A86CB42C"
+				"download" "119CDCDEF18B5A7CFD746F8F028BC6B0"
+			}
+			"build_1_20_qa_multiplayer"
+			{
+				"gid" "3BA3448D69890695CCFBDA8CBC0C4936"
+				"size" "3987E3882836C01EAE12ED8CAF2487BC"
+				"download" "5AB923D7AC9FD0AB246467681A8B6E25"
+			}
+			"build_1_20_sub_multiplayer"
+			{
+				"gid" "05478E1B97FCC7894A1C89C7F117C643"
+				"size" "D0244CCF899FC995CC123EA90A4BDDD7"
+				"download" "96D68755495FB85285C76D0124D91A1F"
+			}
+			"build_1_21_qa_newbreeding"
+			{
+				"gid" "A3004DA62190CB091BFC801E0732A94C"
+				"size" "89E57D5ECC1569FA7331C8399319957D"
+				"download" "59AD0896854E6754D2A3E559AD1F822E"
+			}
+			"build_1_21_sub_newbreeding"
+			{
+				"gid" "60A9C5063D1BDE6CFF00151BE70C4739"
+				"size" "D64F313678301403A8DD5D4E5427349F"
+				"download" "D1E0B25067CC40321DFD4D8EA5BA6B96"
+			}
+			"build_1_22_qa_steeplchase"
+			{
+				"gid" "A816CCC87C10ECEF22F04D10295D2AB8"
+				"size" "413C023FB73364CCB7CFCEDA9483C426"
+				"download" "96AF05500193CB673886CFA002900E1F"
+			}
+			"build_1_22_sub_steeplchase"
+			{
+				"gid" "A650C7FFF0B945D04C48CE72B78E1308"
+				"size" "30E522E5EE011DA2F95FAC64F2F9FF36"
+				"download" "E345E0A7180FB5B6FBA3F79E084DC3D6"
+			}
+			"build_1_23_qa_ftue"
+			{
+				"gid" "293470F1D555343B0A5AE1CC4B4A3F33"
+				"size" "9739EB16A1B0CD3F3ADDBC595758DAEF"
+				"download" "0231B9F5C7417927710541B65503624F"
+			}
+			"build_1_23_sub_ftue"
+			{
+				"gid" "DE6CF9AD00B6FE7A2AF7F6DBA4859638"
+				"size" "592DAEF18BDDA66D9F726C7C630CFB5A"
+				"download" "B8D453DF3684DACBC243EA616EF93887"
+			}
+			"build_1_24_qa_breeds"
+			{
+				"gid" "7927495DD5D347DD7A0FC94ACE0E498A"
+				"size" "4E41456DE52083F8AD0C3F1058DE9ABB"
+				"download" "70CB0DDBB49F047B43B0AA6FF19840F9"
+			}
+			"wizardqa"
+			{
+				"gid" "F03AC86399DF4DB425BEA46B795ADD27"
+				"size" "AB34A4EB7C347EE9C75DB38A573372E7"
+				"download" "7C3F645B49CCCAF896DB195CA7FB463A"
+			}
+			"wizardrc"
+			{
+				"gid" "8913D76FD1C2DE7F7B38A8C8F7E1E6B2"
+				"size" "EEF519AD92E431A42D43BD89A2605401"
+				"download" "E3466001C11314AEC9F6AA0147282387"
+			}
+			"wizardtest"
+			{
+				"gid" "28A0DE421F701539C86C174FC802D5F1"
+				"size" "B94D52F810A039C0C752D691D014B891"
+				"download" "6575424CB208D73CC090CF163A92277F"
+			}
+		}
+	}
+	"1166862"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7840023146262823930"
+				"size" "4091427002"
+				"download" "2431901952"
+			}
+			"local"
+			{
+				"gid" "7676226893386532025"
+				"size" "3003168638"
+				"download" "1715058128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"multiplayertest"
+			{
+				"gid" "4A7A25A2AB3D53BC7CD3E4F6ABA7034F"
+				"size" "32060CA750AD471A9726AF0E665DCD11"
+				"download" "C9549EB4CDCC6878DD7926165D05C272"
+			}
+			"old_version"
+			{
+				"gid" "7D5D1A75A20C1839E0911994161AEC9B"
+				"size" "AF6547A1D90C84BC6E27AB1BDF16D680"
+				"download" "2BDA7C24778EE4939A458E6482DAD4D5"
+			}
+			"release_candidate"
+			{
+				"gid" "404687DF0917C0537EE789870E82F490"
+				"size" "B58873BDCCD6942EA28F0662B440D4EA"
+				"download" "816A09557B5E9815300C240CA42462B1"
+			}
+			"staging"
+			{
+				"gid" "D16074DE3AFD46A53FF5ACE55B5E68A4"
+				"size" "C54B76570E3FBBA64DE155A477BD4847"
+				"download" "48AEFEB0F5EEB4992FCF7664B5F0148A"
+			}
+			"build_1_20_qa_multiplayer"
+			{
+				"gid" "6970006E9CDF1E29614CD2456582C2A5"
+				"size" "D22DE4F96021ABF140D49DB7F35C8EE9"
+				"download" "EE287E294C9F650CEC49D19361DD423E"
+			}
+			"build_1_20_sub_multiplayer"
+			{
+				"gid" "B9249DFD14E949E0113C80AC54FF0BAA"
+				"size" "50BA6C726C26C5035F4C989700EE9C1D"
+				"download" "109523B59D484FE2C341BA0953ECD5DF"
+			}
+			"build_1_21_qa_newbreeding"
+			{
+				"gid" "98E1F878EA4E4DF65C488ED6E9A0B28F"
+				"size" "C5E5F0C69334A42EE544DF1E9DF7B67E"
+				"download" "49B781BA20B68FAEDF81C0DC595D3098"
+			}
+			"build_1_21_sub_newbreeding"
+			{
+				"gid" "79F730B43666D32DF831C9CC5711C948"
+				"size" "6A8EA99022090E98EA3F2A44A099A254"
+				"download" "6A1C9AA7B06981AE73216CD1771D7D80"
+			}
+			"build_1_22_qa_steeplchase"
+			{
+				"gid" "21970E46FC29B1FEA9794A768316ADE0"
+				"size" "0B824642F4DF60B93A6D76C2779860C0"
+				"download" "8A04A1AA270CDF25267932EC4110F617"
+			}
+			"build_1_22_sub_steeplchase"
+			{
+				"gid" "A44EB42563E1B7DCAEA3CED7FD800C77"
+				"size" "20FA6098EDC8B182285BD4A7568B1B06"
+				"download" "F91261267F0790508D610BE0EEC3A947"
+			}
+			"build_1_23_qa_ftue"
+			{
+				"gid" "FBDA1FD3E0C595459DAD44AE52D3607A"
+				"size" "6B5000332D342E4220837EA75EA1482D"
+				"download" "8CFA791C45FC7BE71401C2BE8A18FD15"
+			}
+			"build_1_23_sub_ftue"
+			{
+				"gid" "5FA030D48AE73AF2750DCF3852FFE6AE"
+				"size" "63B273079B761BB67256DB118E4D7DF6"
+				"download" "1748CA29BE36BB59D496B5092AD8B7D4"
+			}
+			"build_1_24_qa_breeds"
+			{
+				"gid" "D409F788932D03A9A0D6A0E9A6A1C515"
+				"size" "48DBFADDB5434380C8B74F01F7F4D95E"
+				"download" "A4B5BE1EC7B45C226B743744245EE60D"
+			}
+			"wizardqa"
+			{
+				"gid" "D0FCC1F0117B385930869063AA0DAB26"
+				"size" "D55292EEF1C17323C38E1A914F73574E"
+				"download" "D5FF1A83B3A0CF9B1574100AE32216A4"
+			}
+			"wizardrc"
+			{
+				"gid" "698C02065DDEA2932D8EF1E94D99E467"
+				"size" "C4A63B7776CA86659B37838F674600FA"
+				"download" "0A425298CDC3517E73D1768C9E46CA04"
+			}
+			"wizardtest"
+			{
+				"gid" "366F5C32DFF4B748E91F3B0C41E917D3"
+				"size" "A489959C44EE3525433E0C18E0D46AB2"
+				"download" "21E7166AEB9E71ACFD4D0E7B25C351B2"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,turkish,latam"
+	"workshopdepot" "1166860"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14460825"
+			"timeupdated" "1717106245"
+		}
+		"local"
+		{
+			"buildid" "6890468"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1623981683"
+		}
+		"multiplayertest"
+		{
+			"buildid" "8209827"
+			"pwdrequired" "1"
+			"timeupdated" "1644966331"
+		}
+		"old_version"
+		{
+			"buildid" "5320547"
+			"pwdrequired" "1"
+			"timeupdated" "1599427680"
+		}
+		"release_candidate"
+		{
+			"buildid" "7813095"
+			"pwdrequired" "1"
+			"timeupdated" "1638415926"
+		}
+		"staging"
+		{
+			"buildid" "5311501"
+			"pwdrequired" "1"
+			"timeupdated" "1595290087"
+		}
+		"build_1_20_qa_multiplayer"
+		{
+			"buildid" "14320295"
+			"pwdrequired" "1"
+			"timeupdated" "1715292916"
+		}
+		"build_1_20_sub_multiplayer"
+		{
+			"buildid" "14320268"
+			"pwdrequired" "1"
+			"timeupdated" "1715292836"
+		}
+		"build_1_21_qa_newbreeding"
+		{
+			"buildid" "14320306"
+			"pwdrequired" "1"
+			"timeupdated" "1715293022"
+		}
+		"build_1_21_sub_newbreeding"
+		{
+			"buildid" "14320312"
+			"pwdrequired" "1"
+			"timeupdated" "1715293075"
+		}
+		"build_1_22_qa_steeplchase"
+		{
+			"buildid" "14320329"
+			"pwdrequired" "1"
+			"timeupdated" "1715293157"
+		}
+		"build_1_22_sub_steeplchase"
+		{
+			"buildid" "14320349"
+			"pwdrequired" "1"
+			"timeupdated" "1715293225"
+		}
+		"build_1_23_qa_ftue"
+		{
+			"buildid" "14320374"
+			"pwdrequired" "1"
+			"timeupdated" "1715293352"
+		}
+		"build_1_23_sub_ftue"
+		{
+			"buildid" "14320388"
+			"pwdrequired" "1"
+			"timeupdated" "1715293425"
+		}
+		"build_1_24_qa_breeds"
+		{
+			"buildid" "14320408"
+			"pwdrequired" "1"
+			"timeupdated" "1715293526"
+		}
+		"wizardqa"
+		{
+			"buildid" "14408625"
+			"pwdrequired" "1"
+			"timeupdated" "1715982079"
+		}
+		"wizardrc"
+		{
+			"buildid" "14460825"
+			"pwdrequired" "1"
+			"timeupdated" "1716415851"
+		}
+		"wizardtest"
+		{
+			"buildid" "14210846"
+			"pwdrequired" "1"
+			"timeupdated" "1714406931"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "5"
+}
+"_missing_token" "False"
+"_change_number" "23827947"
+"_sha" "b896da568f7fce314759ee0dcf3f1504259607bb"
+"_size" "13389"
