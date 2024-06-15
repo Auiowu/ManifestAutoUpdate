@@ -1,0 +1,17 @@
+name: Trigger Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Trigger Workflow
+      run: |
+        curl \
+          -X POST \
+          -H "Authorization: Bearer ${{ secrets.TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          -d '{"ref": "main", "inputs": {}}' \
+          https://api.github.com/repos/Auiowu/ManifestAutoUpdate/actions/workflows/CI.yml/dispatches \
