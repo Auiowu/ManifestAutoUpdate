@@ -1,0 +1,1258 @@
+"appid" "1184370"
+"common"
+{
+	"name" "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "29bd070b807ee77d0a596576ee42bf010df592ba"
+	"logo_small" "29bd070b807ee77d0a596576ee42bf010df592ba_thumb"
+	"icon" "03f542f563cf40c7412ed85259a46366631552a8"
+	"clienttga" "bdf55aac872709821f6fe9365c617eadc480707e"
+	"clienticon" "adba6386455fa8ce979a907d9646d6dc2f41cbc2"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644364800"
+		"tested_build_id" "7615213"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Pathfinder: Wrath of the Righteous"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "59.763450277563436"
+			"height_pct" "60.63880313464735"
+		}
+	}
+	"store_asset_mtime" "1718363402"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Owlcat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "META Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Owlcat Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Owlcat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "META Publishing"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1630598400"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/pathfinder-wrath-of-the-righteous\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1184370"
+	"store_tags"
+	{
+		"0" "4342"
+		"1" "5716"
+		"2" "6971"
+		"3" "4559"
+		"4" "4474"
+		"5" "3993"
+		"6" "122"
+		"7" "4747"
+		"8" "4604"
+		"9" "1742"
+		"10" "1684"
+		"11" "3834"
+		"12" "21725"
+		"13" "4947"
+		"14" "5851"
+		"15" "6426"
+		"16" "17389"
+		"17" "4325"
+		"18" "9"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Owlcat Games"
+	"publisher" "META Publishing"
+	"homepage" "https://wrath.owlcatgames.com/"
+	"listofdlc" "1694800,1694801,1713800,1725540,1725541,1816820,1816821,1849470,1882540,1889980,1889981,2064590,2145870,2266770,2564570,2564580"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Pathfinder Second Adventure"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wrath.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Wrath.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1184370"
+	"hasdepotsindlc" "1"
+	"1184371"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"1.3.7d"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"1.4.4g"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.0.7o"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.1.5r"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"betatest"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+			"2.2.4p"
+			{
+				"gid" "3717212101766653364"
+				"size" "24204723223"
+				"download" "19803946672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-dlc"
+			{
+				"gid" "B6B17646C8CDA21350D12C9BE75B8A0A"
+				"size" "780D1A9D524B47102954BD96394A69D1"
+				"download" "5798067F3292BA7C0897799B62E3DD92"
+			}
+			"mod-dev"
+			{
+				"gid" "EE815AE05F83FD91B1FC8781775E54F2"
+				"size" "B69C9C5EC8A64AF847BA09B295512259"
+				"download" "A1DCB563F3085E3229A52551DF5A22BC"
+			}
+			"owlcat-brach-name"
+			{
+				"gid" "84133E1B8C63C7CCAEAAB10D8B43F9E0"
+				"size" "90B50CDCE044456464459E5A9C0BF79A"
+				"download" "B06A4C5D35B4B69EB59299C6565FD9DF"
+			}
+			"owlcat-debug-test"
+			{
+				"gid" "22E6D12B9E530AE077D6B2D4E26632AD"
+				"size" "3C15525D779C366382D51AC34F176734"
+				"download" "4CFDF0FD98BE6B3374EA1D067ECB1D71"
+			}
+			"owlcat-next-release-debug"
+			{
+				"gid" "C3613D006A65978FAF359363C8C406DB"
+				"size" "AFD593D27BC6EEC79D6023AF925221C4"
+				"download" "5A4D4A293F4DC76CAA126721D32E9797"
+			}
+			"owlcat-next-release-test"
+			{
+				"gid" "7BF90BE52D0030D7B6EDF842D4428F90"
+				"size" "6554F83CE49FF807BB739E57CDA5A695"
+				"download" "8E91F08858A289371F3BE5CC6E462259"
+			}
+			"owlcat-performance-test"
+			{
+				"gid" "99954A2D6581C627DF82B74B645B13F6"
+				"size" "FD94EC306A87C26473C24000CB6F009D"
+				"download" "19C2569BB9B4CAD3320914E5BF0632FC"
+			}
+			"valvetest"
+			{
+				"gid" "5DF6510E780873FF3B490A8048BC107B"
+				"size" "C8836D37D36FDED95E08C990040574E5"
+				"download" "8EB8E96B8387099D3DED93B6FA407EA9"
+			}
+			"alternate_test"
+			{
+				"gid" "A02B76132E888EF6871B1235F643EF49"
+				"size" "130BE7AA2B0A7F1231767A595C70E0E0"
+				"download" "866C9A1308B1BC38D1CBC0CEE666239B"
+			}
+			"media"
+			{
+				"gid" "57B76E5932167D1C0C82A99FE5A1E732"
+				"size" "D125994052CE94ADF49C3D88F8AFA934"
+				"download" "DE59DA4F1D772A45911A5658BD6DD17D"
+			}
+			"mods"
+			{
+				"gid" "A498FE8879191E05626B33EE2ED77564"
+				"size" "C52184C4A327A4EC55B27DB519313ABF"
+				"download" "A8D4217F0E71A714B90510C8B2E40AD0"
+			}
+			"owlcat-master"
+			{
+				"gid" "716D2E3E80394FE1F6599915CF1D26C2"
+				"size" "A1948DBB8536B424D491D67A2148C8DD"
+				"download" "608C457CF9886350F019CD1EA3EC2345"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "22B350E04E890294222C3170C0346525"
+				"size" "E3859C388459DF1547346F1AECE1CA91"
+				"download" "6F9E1C602EDDE436D1D259C619DDAC9F"
+			}
+			"owlcat-test"
+			{
+				"gid" "A412ECC376E6A2730B8D6FC27C287926"
+				"size" "EAD39BABD2146987B077DD34E2F43090"
+				"download" "D7F3DC5401958D18BA7B0C9A757B2F3E"
+			}
+		}
+	}
+	"1184379"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"1.3.7d"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"1.4.4g"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.0.7o"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.1.5r"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"betatest"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+			"2.2.4p"
+			{
+				"gid" "7030613816386541594"
+				"size" "15876308699"
+				"download" "9708898672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-dlc"
+			{
+				"gid" "30177A3DD773825EB364E028ED5ECDE5"
+				"size" "3886A71236282DFCAFF9198D58B57CF8"
+				"download" "77134DDEB4032644AF7BAC262DB0DE4B"
+			}
+			"mod-dev"
+			{
+				"gid" "2A3C941F73858C6C3BE0BC0F025DA9E9"
+				"size" "A5C0EAE3E91647ED830C9F6F5FEF2EEB"
+				"download" "F27A15B48C991BBBE2EECF3C7CDD2D4C"
+			}
+			"owlcat-brach-name"
+			{
+				"gid" "0A4E06BC0528A6A63AB6D8B9CFE3E83A"
+				"size" "BF2FBB965BE6B01DDD26FBCDA9E903FB"
+				"download" "425D93B34128D98C193C40B09EAF7F10"
+			}
+			"owlcat-debug-test"
+			{
+				"gid" "27FE125237D11EC39598FB8F17C97635"
+				"size" "EE457F0054205FEF197F58203FB731D1"
+				"download" "78675A6F67D23CE457F8B2DD3B9AF071"
+			}
+			"owlcat-next-release-debug"
+			{
+				"gid" "764652FA53445F34C712BDB847F494EC"
+				"size" "A287728ED32B4A4543DBA24DBA5B35D7"
+				"download" "6BE5FBAD5C3AB50B078A77A05D072CB1"
+			}
+			"owlcat-next-release-test"
+			{
+				"gid" "D0FB47B9F463D4BC7FDDFC0ACC5EC3B8"
+				"size" "658B6A987970448B126E5DBE11B1B46C"
+				"download" "2FFBD24822123027ABAFD793665432EF"
+			}
+			"owlcat-performance-test"
+			{
+				"gid" "6892357A166F9AF8C7AE119D1886BC87"
+				"size" "043CEBA183EE43218B1CCBABC6BEC6C6"
+				"download" "FFB8D240AD3F9AAD3D684C9EDD78412B"
+			}
+			"valvetest"
+			{
+				"gid" "840CC3A07B4B292F6DF95D46B302403F"
+				"size" "3D873D68B22B0D7D5AB2D4C10F2A625D"
+				"download" "6D366D8E7BD94A4C6404EDB05916D419"
+			}
+			"alternate_test"
+			{
+				"gid" "F12D0F3DA82A34CD203CCF634195ABFF"
+				"size" "1BFB5EF0BFC93766F8EB5F77404E70CD"
+				"download" "89817469EE44C458D460004FD5F58D79"
+			}
+			"media"
+			{
+				"gid" "2876D61691EBD92289E30D8E0EAADD69"
+				"size" "FBF9FCC4EE2CA16D3C0EC8374CAFCEE7"
+				"download" "673F2DF74560E5E9CE1E077DCED2B7A8"
+			}
+			"mods"
+			{
+				"gid" "427B4FB6B9D1A3432ED9ABE9EE2B8BF8"
+				"size" "0714E1E2C2BC43E6B3D5C645B8A56641"
+				"download" "6E8BB76027385D60FE98F7BF5EC3D856"
+			}
+			"owlcat-master"
+			{
+				"gid" "2B1FA25D4DDDAC8F6FD2B42858B14C7E"
+				"size" "D98D57F08D0EAA191F83B03FA65BE165"
+				"download" "344A8547B5FA19795842A9AA2686D9F1"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "251357FF880C55CA601E3AAA74FC9761"
+				"size" "25E95C85BD2B03C416565F70623DAA04"
+				"download" "C6995835680317B8C4B83EEA1FF35D7A"
+			}
+			"owlcat-test"
+			{
+				"gid" "532E174C931AEE382998B18769A74759"
+				"size" "699A5477F0ABA5302B9678D603C131E1"
+				"download" "5DFBD5089D1C793E3CD21C939BC3AE20"
+			}
+		}
+	}
+	"1184372"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6471786797666950182"
+				"size" "33866448747"
+				"download" "27066223584"
+			}
+			"1.3.7d"
+			{
+				"gid" "7527851383142730328"
+				"size" "30316698521"
+				"download" "23827176416"
+			}
+			"1.4.4g"
+			{
+				"gid" "5963272864892377235"
+				"size" "38783561302"
+				"download" "29997600640"
+			}
+			"2.0.7o"
+			{
+				"gid" "6137582048720657958"
+				"size" "29381763483"
+				"download" "23256465872"
+			}
+			"2.1.5r"
+			{
+				"gid" "557038035598604008"
+				"size" "42044801623"
+				"download" "32819846624"
+			}
+			"betatest"
+			{
+				"gid" "5361301512259511487"
+				"size" "30875530332"
+				"download" "24578991296"
+			}
+			"2.2.4p"
+			{
+				"gid" "3616555767055230058"
+				"size" "32380892097"
+				"download" "25816723664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-dlc"
+			{
+				"gid" "6A8BFFF3A9ECF86B1B9B02FEAF84AA65"
+				"size" "CB4B39F5CEEBB64A543A7638E10666A3"
+				"download" "3F31CCC4F9AB6FDEA010A699D8917C68"
+			}
+			"mod-dev"
+			{
+				"gid" "BE1714B0F94D772AC0C7966378B14AEE"
+				"size" "7D81FB5854F012A880A98A15D35FD512"
+				"download" "EECF6293EED1C02DED9276019909F048"
+			}
+			"owlcat-brach-name"
+			{
+				"gid" "38F456385D39942462238FBC13E4E0D7"
+				"size" "F45A68AEA16BC041E83C837D38E162D7"
+				"download" "59FA34A28D4D0B1104DF1BAA332651DC"
+			}
+			"owlcat-debug-test"
+			{
+				"gid" "2CE7560912463DD8A227D17A2D267CBB"
+				"size" "304119D7E09EF979B8486C4D43F47391"
+				"download" "E17D33DDAF83705F5A68F9E16659D112"
+			}
+			"owlcat-next-release-debug"
+			{
+				"gid" "4D6F23692B4B72F6DE36551C9C0C7158"
+				"size" "7814CAF03321343926FAE958EBE99EC1"
+				"download" "95649BE403B75EAEC54B582099F44B52"
+			}
+			"owlcat-next-release-test"
+			{
+				"gid" "9A67EC8C548E35C5438AA74BA41F862E"
+				"size" "B3463248C1311E8CC156EDA6040917EF"
+				"download" "ED492E7DEC50BF1B4E0BAD2897572A2C"
+			}
+			"owlcat-performance-test"
+			{
+				"gid" "E04149F8FB1412AC0E284BC9E96DEBFF"
+				"size" "4C863D487FE4A402713F2262DE482EC1"
+				"download" "238089800D13510FAB736C43FE97A868"
+			}
+			"valvetest"
+			{
+				"gid" "6EA30EC3AA9F62296B8C27BB57C453FE"
+				"size" "536E1BB9BF5C12F659543D580BA0B1DA"
+				"download" "5F032EA205EB587E4577835B774FE620"
+			}
+			"alternate_test"
+			{
+				"gid" "6ACB4A4A898A98742413900F5F016445"
+				"size" "6F6E93043DE41AC5CD49169921B44A04"
+				"download" "95E540CE251FA023C59FCE8D851ABD73"
+			}
+			"media"
+			{
+				"gid" "02E788FDA1BA130106CD11C40859C341"
+				"size" "696DD9B3E0CBC5A03D5FBABC61F35739"
+				"download" "18B5153DE16D0081CFD5EC47DAC53820"
+			}
+			"mods"
+			{
+				"gid" "14FEE1CE64DB6EA40A68D70F6E0066E9"
+				"size" "AC1C5203E2865B70AAEDE4815B8775FE"
+				"download" "FCAFDE7C77A3FD0878343466DDE3D934"
+			}
+			"owlcat-master"
+			{
+				"gid" "78D835C05F3B1DA5B9C941E038D888DD"
+				"size" "ABDFB8EF64DA33BE9C9EFEFE7D4C1D71"
+				"download" "61A4FD6FB32C05448173F507068974CB"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "4D0E49DA954E5CF75320E833805B3ADA"
+				"size" "85F36823209C9F08A3C43EA170CBC938"
+				"download" "6C51757E2D725F169AA99864DE3E1BC5"
+			}
+			"owlcat-next-test"
+			{
+				"gid" "C80E0E2F3A65FBBA0C03B46E3719245D"
+				"size" "B40868F3FED3CF6FAEE7F73964DB9871"
+				"download" "BE8BA4E94B5F10C93459213B98BAC3B7"
+			}
+			"owlcat-test"
+			{
+				"gid" "A679F04C4CA750F3517A369E6617E259"
+				"size" "87A352755617D580CC7A18CCA6C3951D"
+				"download" "8813BF9231C35506636B17CDFAC919EA"
+			}
+		}
+	}
+	"1694800"
+	{
+		"dlcappid" "1694800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2879750353866152114"
+				"size" "3370263576"
+				"download" "3411309488"
+			}
+			"1.3.7d"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"1.4.4g"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"2.0.7o"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"2.1.5r"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"betatest"
+			{
+				"gid" "4137935089491020266"
+				"size" "2444746382"
+				"download" "2474067280"
+			}
+			"2.2.4p"
+			{
+				"gid" "2879750353866152114"
+				"size" "3370263576"
+				"download" "3411309488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-dlc"
+			{
+				"gid" "C7D0E58403B3F7A98E58A19F92A7A301"
+				"size" "007300C16116A6FAA4F769E1E0138FD5"
+				"download" "60335643261A2502D71D22E534AB362F"
+			}
+			"mod-dev"
+			{
+				"gid" "B3CC802728A048E755F7D3DD1D682A66"
+				"size" "DC93C8E8873E45AE1AA71B7E3BED4593"
+				"download" "C8645CE1A44CBC4AD3B114BEF9B09474"
+			}
+			"owlcat-brach-name"
+			{
+				"gid" "51BA875164A9CC7A6B68616157865968"
+				"size" "483182AAA0262484D3C68F8C9CD964C9"
+				"download" "F341A1FA58BA9619D2412BD30C6F3665"
+			}
+			"owlcat-debug-test"
+			{
+				"gid" "23ECCA128A0898C73486BC0D0E483DF3"
+				"size" "7065F7726242F4775DB04D8A97EA8732"
+				"download" "7BFFD241BBBDBACD04F2A1D002539F31"
+			}
+			"owlcat-next-release-debug"
+			{
+				"gid" "30A14786AFB23A2F2D5E171834BD02DA"
+				"size" "E07A2583BC0D381FE449307E2031EAAD"
+				"download" "21C242D1D4647851B1C4A56C7708F51F"
+			}
+			"owlcat-next-release-test"
+			{
+				"gid" "81E68958D5F9B302E4F2C720A155B7AD"
+				"size" "E6B106E7D5B29C4D6FEB2A472EC58115"
+				"download" "670B37093CC1F320A94B469B2AFE5D2F"
+			}
+			"owlcat-performance-test"
+			{
+				"gid" "5852CC2984B8F7C41BB58649BCF78DBA"
+				"size" "2FDEB06A331E5A3EBE73B9DD86B51028"
+				"download" "314468D8792E1FF815525BFA0E4C976C"
+			}
+			"valvetest"
+			{
+				"gid" "B057551612EDDA8CA32A9756C2E300F3"
+				"size" "538CF712081FACF030281BB8A2F96A58"
+				"download" "9C43270761FF3B5DA3B6DBCF29F9B0B9"
+			}
+			"alternate_test"
+			{
+				"gid" "24A337A6EB5FBA887CE5F41CB219E5EF"
+				"size" "E95ECBD2F2EE742C170B20AE137EC47B"
+				"download" "D73E069EB7C1B9C6B4B3C76D5650A023"
+			}
+			"media"
+			{
+				"gid" "244A2733EABB7B2076807392AA3C5B47"
+				"size" "F6703BD6C86166A210820933AFEC925A"
+				"download" "74612DE72CB3F23E52399244E4F5C21F"
+			}
+			"mods"
+			{
+				"gid" "9A37927765429212EC6BE1D6D2B7EACD"
+				"size" "3D077E8B9D56ABCAE223ABCB172471FB"
+				"download" "C2BE6FDD911D80F1A23477D587C43785"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "8D837782AB7402DF9C4AA4C871BDDA9A"
+				"size" "3A705CD7D19280A8A2ACEC8FDFC27558"
+				"download" "F216DD64009F4B5FA45886A1483FDB5E"
+			}
+			"owlcat-test"
+			{
+				"gid" "BB730CF56246304ECF63C29BFBC7DD83"
+				"size" "22D529DF058DAD45CEC7DCD0A6724249"
+				"download" "E69EB663B37546CB7EED55D61B29C342"
+			}
+		}
+	}
+	"1184373"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "583051610529501134"
+				"size" "33892819789"
+				"download" "27079475696"
+			}
+			"1.3.7d"
+			{
+				"gid" "3742404312161394127"
+				"size" "28529865595"
+				"download" "22505310144"
+			}
+			"1.4.4g"
+			{
+				"gid" "2360559571796973580"
+				"size" "28666884558"
+				"download" "22601475264"
+			}
+			"2.0.7o"
+			{
+				"gid" "5623604976682209296"
+				"size" "29398662628"
+				"download" "23263505104"
+			}
+			"2.1.5r"
+			{
+				"gid" "3220126889643440204"
+				"size" "41927750911"
+				"download" "32785725216"
+			}
+			"betatest"
+			{
+				"gid" "4123887072865106483"
+				"size" "30894166301"
+				"download" "24585975856"
+			}
+			"2.2.4p"
+			{
+				"gid" "2254802519848433239"
+				"size" "32452870112"
+				"download" "25866301024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-dlc"
+			{
+				"gid" "88286EA04FDDAE19CA3CE95BD1A638A4"
+				"size" "9DEC0C54D92BD6E41A9EBEF2F5B34BE9"
+				"download" "0DD776809131D9B182F05DCBEAB46E05"
+			}
+			"mod-dev"
+			{
+				"gid" "050FD74EEC56F3A803D653196201E3B3"
+				"size" "3C8776E242C907654CB9607D26690816"
+				"download" "6C5F0D8F6DDA10D88870F0E8F529F110"
+			}
+			"owlcat-brach-name"
+			{
+				"gid" "91D1D851CA449DB2599623E3CD979E81"
+				"size" "1683C7B63A409B19FDAE9F1C8B043258"
+				"download" "A4BD7DD7BDFB7189BFC595C5B0E6C679"
+			}
+			"owlcat-debug-test"
+			{
+				"gid" "D1F84ED9B2AE47DA0C602D6373C5ACD1"
+				"size" "EDD5FFBEB827BE5BF7CFD6C5099917D1"
+				"download" "90F2E99F59ED609B88D0DD916F37E1BF"
+			}
+			"owlcat-next-release-debug"
+			{
+				"gid" "131A1A2824DE24034EB00074A4052F70"
+				"size" "E142D9250DD12B513DB353AE878DD1D2"
+				"download" "B68C9465D4E51E9741AF0CC946AA582E"
+			}
+			"owlcat-next-release-test"
+			{
+				"gid" "1F5D6F17DCE1452EF7A5A663DF01D07E"
+				"size" "1D9E13582275A9330440CEC275344238"
+				"download" "9F29EEE8AB8E20FA2DDA4DA4C33E554C"
+			}
+			"owlcat-performance-test"
+			{
+				"gid" "672BECA980A10A942ECD47A2D0ECF4F2"
+				"size" "B292EC29BD5CAEBFDAC46171EB361008"
+				"download" "EFD5E59AB2F8221FB84998A019D15FC4"
+			}
+			"valvetest"
+			{
+				"gid" "DEED93196DC1F2CC3A015488C1D86B84"
+				"size" "6B6A8FFD8594A93BB5DD05E9DC3FF69D"
+				"download" "5B8F1707A7A5EAC49E08652B38A01E6D"
+			}
+			"alternate_test"
+			{
+				"gid" "8859832DA48364D30B4ADC9C80EBC3B6"
+				"size" "BB59093611E2971544B02C55C43A33B5"
+				"download" "4F0AA19252C9A26BE37E54E3AE12F5DC"
+			}
+			"media"
+			{
+				"gid" "D0D12E0BAB7A859063E87CF65F2E123E"
+				"size" "A3DE22A7F02A76A3E20A89978CE11E6A"
+				"download" "8A90754A49C81E7D487075B6279D03E8"
+			}
+			"mods"
+			{
+				"gid" "72D4D9BFBE3F8998F159AD2B994C00AA"
+				"size" "138538DC5BAEF1D97DE8673B7200841B"
+				"download" "2AA9A62CA8632E15F62ABD42CB929198"
+			}
+			"owlcat-master"
+			{
+				"gid" "0E10427DD5CB8A80E258C486CC68FDB1"
+				"size" "1D9B350B19D9794213E5551023E9FB78"
+				"download" "3D5FD08B3E8066C9CE0AD16319E3C4B1"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "804763785EECBA24018A13C9AC2DAD4C"
+				"size" "94107818DFBB2AD518247029C12FFD6B"
+				"download" "91438D0D8813E9FA22DE9953CC3BCE14"
+			}
+			"owlcat-next-test"
+			{
+				"gid" "8CB2993EF145117A5B769E83ECA644CF"
+				"size" "F25CD8317BF923AA03D05ECCA21A881B"
+				"download" "C7A730FB67DAB38D04D23D2E6E916BD4"
+			}
+			"owlcat-test"
+			{
+				"gid" "4A907150100B27AB1E65DB06B3373D39"
+				"size" "85A6D696086D0F86FF4337C4A5181B53"
+				"download" "6ABB96D36E6BED698F12A4621B87BB08"
+			}
+		}
+	}
+	"1184374"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"1.3.7d"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"1.4.4g"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.0.7o"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.1.5r"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"betatest"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+			"2.2.4p"
+			{
+				"gid" "9059805660516767946"
+				"size" "28497436391"
+				"download" "23733011280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-dlc"
+			{
+				"gid" "33B1DF8E7D623985ACC8ABDA1B14F8E3"
+				"size" "9964FF6E1DB43368AF65E1DA5C57B9F4"
+				"download" "D567DAD801FE04410555F29D43F5336A"
+			}
+			"mod-dev"
+			{
+				"gid" "972EC62999E7CD50E2FFB3FA70F8604D"
+				"size" "33C7EB217CB683469C089E991D1A7A38"
+				"download" "657EA456EC8E241000BC240A61116C73"
+			}
+			"owlcat-brach-name"
+			{
+				"gid" "E58DC3315C640906F12590ECBB494604"
+				"size" "AEAA9717DACFB01697F5B51FE706462B"
+				"download" "DA1CF1A2827F11450E107B0A87FE057B"
+			}
+			"owlcat-debug-test"
+			{
+				"gid" "441DC4C1F4CF33D6C387C2305B823265"
+				"size" "30C654647E1AE47321A9E366A46136A4"
+				"download" "ACA0CAE2501E4CC8716C0E23701B2E12"
+			}
+			"owlcat-next-release-debug"
+			{
+				"gid" "2C205C4EC7E5AE583D3EF7695586D001"
+				"size" "930D7C4F1CABC8DED1A598A33D015DE3"
+				"download" "07AF53AAA725FB7D210625A73766F99E"
+			}
+			"owlcat-next-release-test"
+			{
+				"gid" "1C6E8169174AD6B9F59DE2867991F8C9"
+				"size" "9B4F04C70BC5E49886EEE29875F80574"
+				"download" "E57C4B52960803AF9AC8C1AE1EE29953"
+			}
+			"owlcat-performance-test"
+			{
+				"gid" "DE084E58AB5FED8D398580DA192F195E"
+				"size" "1CEDB2ED6FB95A50CFA40E4F2CD28708"
+				"download" "C3233C584CC4BBBF4AA3882355831352"
+			}
+			"valvetest"
+			{
+				"gid" "6375BE0905937598CC927890973904AD"
+				"size" "6DB8B1DFF1AEE469C25C3E9DAFD1D8E3"
+				"download" "882EFF8A8D84F810D6F2DF58F643860A"
+			}
+			"alternate_test"
+			{
+				"gid" "6E59E1451DC5E770A7CF4ACCDD22D9CD"
+				"size" "666C90B2E346FA75A88E771027573DD2"
+				"download" "9DF1F94C50A98E107A3BD9091AE390A1"
+			}
+			"media"
+			{
+				"gid" "296B9E0C64D4F37EBBEE14927258BAAB"
+				"size" "CBA892623B912892F5A66F722F2788AA"
+				"download" "D6B8BC1AD6AB2C8E6E9D21DB769A6688"
+			}
+			"mods"
+			{
+				"gid" "8B12C50AEFE36E4D92777A1638DE3603"
+				"size" "DB8F3229119ACDDB95F673B107B098F2"
+				"download" "1F8D0AE4E1F7065640EC7EDE3E2ACE4B"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "935A9181754495134E2620222D3B09D7"
+				"size" "B1E74665354B43311767C1406AE02BC7"
+				"download" "0E6BA7D7767BC3F4728463465AD29158"
+			}
+			"owlcat-test"
+			{
+				"gid" "0ADCB544BAD7EDC43E7CC0FA2693516F"
+				"size" "3D38DFF36EB592536AA564BE6E95DE3B"
+				"download" "07E25E7DB2A83AE8B51245A718DCF185"
+			}
+		}
+	}
+	"1184375"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14723974"
+			"timeupdated" "1718400899"
+		}
+		"1.3.7d"
+		{
+			"buildid" "9126755"
+			"description" "old version 1.3"
+			"timeupdated" "1661777152"
+		}
+		"1.4.4g"
+		{
+			"buildid" "9568347"
+			"description" "old version 1.4"
+			"timeupdated" "1664362568"
+		}
+		"2.0.7o"
+		{
+			"buildid" "10558719"
+			"description" "old version 2.0"
+			"timeupdated" "1678182153"
+		}
+		"2.1.5r"
+		{
+			"buildid" "11836624"
+			"description" " old version 2.1"
+			"timeupdated" "1700580972"
+		}
+		"betatest"
+		{
+			"buildid" "10620336"
+			"description" "Betatest version"
+			"timeupdated" "1677159245"
+		}
+		"internal-dlc"
+		{
+			"buildid" "8182296"
+			"pwdrequired" "1"
+			"timeupdated" "1644524814"
+		}
+		"mod-dev"
+		{
+			"buildid" "9579757"
+			"pwdrequired" "1"
+			"timeupdated" "1663951016"
+		}
+		"owlcat-brach-name"
+		{
+			"buildid" "11160592"
+			"pwdrequired" "1"
+			"timeupdated" "1683254637"
+		}
+		"owlcat-debug-test"
+		{
+			"buildid" "14032861"
+			"pwdrequired" "1"
+			"timeupdated" "1712914312"
+		}
+		"owlcat-next-release-debug"
+		{
+			"buildid" "11054933"
+			"pwdrequired" "1"
+			"timeupdated" "1682037985"
+		}
+		"owlcat-next-release-test"
+		{
+			"buildid" "9720456"
+			"pwdrequired" "1"
+			"timeupdated" "1665737896"
+		}
+		"owlcat-performance-test"
+		{
+			"buildid" "13873646"
+			"pwdrequired" "1"
+			"timeupdated" "1711562976"
+		}
+		"valvetest"
+		{
+			"buildid" "8341446"
+			"pwdrequired" "1"
+			"timeupdated" "1646951467"
+		}
+		"2.2.4p"
+		{
+			"buildid" "14480165"
+			"description" "old version 2.2"
+			"timeupdated" "1718275913"
+		}
+		"alternate_test"
+		{
+			"buildid" "14368960"
+			"pwdrequired" "1"
+			"timeupdated" "1715947397"
+		}
+		"media"
+		{
+			"buildid" "14639146"
+			"pwdrequired" "1"
+			"timeupdated" "1717762373"
+		}
+		"mods"
+		{
+			"buildid" "14560536"
+			"pwdrequired" "1"
+			"timeupdated" "1717158227"
+		}
+		"owlcat-master"
+		{
+			"buildid" "14724910"
+			"pwdrequired" "1"
+			"timeupdated" "1718408527"
+		}
+		"owlcat-next-debug"
+		{
+			"buildid" "14723354"
+			"pwdrequired" "1"
+			"timeupdated" "1718395874"
+		}
+		"owlcat-next-test"
+		{
+			"buildid" "14722935"
+			"pwdrequired" "1"
+			"timeupdated" "1718392754"
+		}
+		"owlcat-test"
+		{
+			"buildid" "14599564"
+			"pwdrequired" "1"
+			"timeupdated" "1717584527"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "/Library/Application Support/Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23980423"
+"_sha" "d47d335db9ce8d77fdc605735796bfa55abfa178"
+"_size" "28706"
