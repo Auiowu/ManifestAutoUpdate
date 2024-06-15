@@ -1,0 +1,496 @@
+"appid" "1295500"
+"common"
+{
+	"name" "Warhammer 40,000: Battlesector"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1295500_eula_0"
+			"name" "Battle Sector EULA"
+			"url" "https://store.steampowered.com//eula/1295500_eula_0"
+			"version" "2"
+		}
+	}
+	"logo" "6c7363029b794b62431abc33c475800417279a85"
+	"logo_small" "6c7363029b794b62431abc33c475800417279a85_thumb"
+	"clienttga" "bb793d0421acfdbd68f448cf5f64b7a1b3771d1a"
+	"clienticon" "b1e2e91495a45c339e2585172fd5386322cfed4d"
+	"icon" "da834f752b2aa0ad3a3567ccec96372cc4a890ce"
+	"name_localized"
+	{
+		"schinese" "战锤40,000：战区"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1676937600"
+		"tested_build_id" "10525482"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716482849"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Black Lab Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Warhammer"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_44" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1626962700"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1295500"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "12286"
+		"2" "14139"
+		"3" "1741"
+		"4" "4191"
+		"5" "3942"
+		"6" "5851"
+		"7" "1708"
+		"8" "4325"
+		"9" "1775"
+		"10" "4182"
+		"11" "17770"
+		"12" "3993"
+		"13" "3859"
+		"14" "4667"
+		"15" "1678"
+		"16" "1677"
+		"17" "1755"
+		"18" "4711"
+		"19" "5310"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "devtest"
+	"developer" "Black Lab Games"
+	"publisher" "Slitherine Ltd."
+	"gamemanualurl" "https://store.steampowered.com/manual/1295500/"
+	"listofdlc" "1718640,1793050,1793051,2011980,2199370,2305830,2583910"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Warhammer 40000 Battlesector"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "default devtest battlesectorgw blacklabtest devtest2 preview battlesectorbeta legacy"
+			}
+			"description_loc"
+			{
+				"english" "Launcher"
+			}
+			"description" "Launcher"
+		}
+		"3"
+		{
+			"executable" "Warhammer 40K Battlesector.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "blacklabtest"
+			}
+			"description_loc"
+			{
+				"english" "Launch Game"
+			}
+			"description" "Launch Game"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2933010570"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,battlesectorbeta,battlesectorgw,beta,blacklabtest,devtest,epictest,marketing,press,preview,publictest,steamdeck"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1295501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4081164944955590647"
+				"size" "11914273991"
+				"download" "8059361152"
+			}
+			"legacy"
+			{
+				"gid" "4993111080546118130"
+				"size" "9786093092"
+				"download" "6417204832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"blacklabtest"
+			{
+				"gid" "3A64DEB4B12F00250F4D73945CED401E"
+				"size" "C47227F7E74E4316E1F3D29DD8912375"
+				"download" "3E5C95634FA4258B7DBDD5871DABA867"
+			}
+			"dlcbeta"
+			{
+				"gid" "ACECEF955C16E95D627892A9ABCCDD09"
+				"size" "41066E57DCE0B89408BBA6EB14F1D539"
+				"download" "DF83EA6648774796A98364C821CEB6CE"
+			}
+			"battlesectorgw"
+			{
+				"gid" "59A86ACEC2CAFC4758980F54027882AC"
+				"size" "294140DD892057483B1A06B0D80A4127"
+				"download" "E4959A97B3686C0E0EDAAE403B5ADE2B"
+			}
+			"marketing"
+			{
+				"gid" "6C60EAB07EAF78059141057D158DACCD"
+				"size" "20E3FCCBBE263CD68C68A52ACB7C7332"
+				"download" "06B68604429B2B95F7D94C71BD509941"
+			}
+			"press"
+			{
+				"gid" "5211970737EA2E5199424E7F34E7500E"
+				"size" "D67935E92F3810E06A045E29272A004A"
+				"download" "D624279311B25A18C8868C822C1A07FD"
+			}
+			"devtest"
+			{
+				"gid" "A46332269558F95ADFB52227218B6122"
+				"size" "DAEB54128D0C327C99AB156728681334"
+				"download" "EB6FF0B289D1C7DC4BF50E40218D79E0"
+			}
+		}
+	}
+	"1295502"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "953973097269808086"
+				"size" "51153101"
+				"download" "47193552"
+			}
+			"legacy"
+			{
+				"gid" "6164202536364982493"
+				"size" "43804166"
+				"download" "40346544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlcbeta"
+			{
+				"gid" "BD901780D2CBEAAB3604E3F267320574"
+				"size" "BF8958428D3D0A3F16607CF6B671671E"
+				"download" "5FC8F3872037BF60F44110AA1095DA5E"
+			}
+			"battlesectorgw"
+			{
+				"gid" "7172480149737D5B2DF06D20CC3EEEFA"
+				"size" "CF1880DDB6E2710C631CB4A726E22FB3"
+				"download" "9057FE1CF054437B0802A4C359E72388"
+			}
+			"marketing"
+			{
+				"gid" "CFF497BF21E9885CE5D6E7512D2936F0"
+				"size" "D135A92B67FF419C8EBE8CF1C3F9A931"
+				"download" "320351A7EAAE3CB6504AC4C7F3E06B67"
+			}
+			"press"
+			{
+				"gid" "C54BFACD904AC7A948197F9ECF84F9F1"
+				"size" "337C69C308388D3E3248994D53DDB3EC"
+				"download" "E7E0E5D3BF5D14C294BB08E4001F9B17"
+			}
+			"devtest"
+			{
+				"gid" "7D766EFB61BF0567330BB8F43C5FC5D2"
+				"size" "80644C48345C45A7482397C5CD9F47FF"
+				"download" "718D5D0A31B3E4BEFFEED32AB919296A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14597882"
+			"timeupdated" "1717678930"
+		}
+		"blacklabtest"
+		{
+			"buildid" "13152539"
+			"pwdrequired" "1"
+			"timeupdated" "1705025567"
+		}
+		"dlcbeta"
+		{
+			"buildid" "14301418"
+			"pwdrequired" "1"
+			"timeupdated" "1715170530"
+		}
+		"legacy"
+		{
+			"buildid" "10675170"
+			"description" "v1.02.46"
+			"timeupdated" "1681739401"
+		}
+		"battlesectorgw"
+		{
+			"buildid" "11273201"
+			"pwdrequired" "1"
+			"timeupdated" "1684921261"
+		}
+		"marketing"
+		{
+			"buildid" "14011592"
+			"pwdrequired" "1"
+			"timeupdated" "1712824664"
+		}
+		"press"
+		{
+			"buildid" "13369806"
+			"pwdrequired" "1"
+			"timeupdated" "1707150420"
+		}
+		"devtest"
+		{
+			"buildid" "14597882"
+			"pwdrequired" "1"
+			"timeupdated" "1717503487"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Black Lab Games/Warhammer 40,000 Battlesector/Saves"
+			"pattern" "*.bssave"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Black Lab Games/Warhammer 40,000 Battlesector/Skirmish"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Black Lab Games/Warhammer 40,000 Battlesector"
+			"pattern" "*.txt"
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "Black Lab Games/Warhammer 40,000 Battlesector/Maps"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "Black Lab Games/Warhammer 40,000 Battlesector/Campaigns"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23909487"
+"_sha" "3730fed1ed07a193038a877fd42c589d0c8c8d34"
+"_size" "9860"
