@@ -1,0 +1,733 @@
+"appid" "275850"
+"common"
+{
+	"name" "No Man\'s Sky"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"clienticon" "46266eaec5fdccb672f5fd8728268bb19d53876d"
+	"clienttga" "4b3c7ef66147eb054a7017995f3b81a758e13d3f"
+	"icon" "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e"
+	"logo" "cba0b86aa959a8c63eeda8f5f6d19ef986262b67"
+	"logo_small" "cba0b86aa959a8c63eeda8f5f6d19ef986262b67_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+	}
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "275850_eula_0"
+			"name" "No Man\'s Sky EULA"
+			"url" "http://store.steampowered.com//eula/275850_eula_0"
+		}
+	}
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"openvr_action_manifest_path" "GAMEDATA/INPUT/ACTIONS.JSON"
+	"openvrsupport" "1"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"clienticns" "d73ff59a19960bef746e6650b3184456ad43228c"
+	"name_localized"
+	{
+		"schinese" "No Man\'s Sky 无人深空"
+		"tchinese" "No Man\'s Sky 無人深空"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645228800"
+		"tested_build_id" "8210303"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "No Man\'s Sky"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716978930"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hello Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hello Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_52" "1"
+		"category_27" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_29" "1"
+		"category_61" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1471021020"
+	"metacritic_score" "61"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/no-mans-sky\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "275850"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1100689"
+		"2" "1755"
+		"3" "3834"
+		"4" "3942"
+		"5" "1662"
+		"6" "5125"
+		"7" "21"
+		"8" "3839"
+		"9" "3810"
+		"10" "4182"
+		"11" "3859"
+		"12" "4166"
+		"13" "1702"
+		"14" "16598"
+		"15" "492"
+		"16" "19"
+		"17" "599"
+		"18" "1663"
+		"19" "21978"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"minclientversion" "1565656602"
+	"vrheadsetstreaming" "1"
+	"developer" "Hello Games"
+	"publisher" "Hello Games"
+	"homepage" "http://www.no-mans-sky.com"
+	"listofdlc" "513130"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "No Man\'s Sky"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Binaries\\NMS.exe"
+			"workingdir" "Binaries"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Binaries\\NMS.exe"
+			"arguments" "-HmdEnable 1"
+			"workingdir" "Binaries"
+			"description" "No Man\'s Sky VR"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "No Man\'s Sky.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "13"
+	"steamconfigurator3rdpartynative" "65535"
+	"matchmaking_uptodate" "1"
+	"steaminputmanifestpath" "GAMEDATA/INPUT/STEAM_INPUT_MANIFEST.VDF"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054622553"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,experimental,internal"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,brazilian"
+	"workshopdepot" "275850"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"275851"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4687977719404286055"
+				"size" "15846917275"
+				"download" "15059149568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "62F9D43928715167AFFD721712757361"
+				"size" "D3398FD8037442A371C41DFFCAB840BF"
+				"download" "764BABBCC9AA293FCB1B07EEE0CF37E7"
+			}
+			"internal"
+			{
+				"gid" "BEFA3F82CBDE7424CBE13CE3F0C0B869"
+				"size" "9E5B39624C179FF605EA777BB821E7E1"
+				"download" "43C86162365BC01C72E711A4FC0E54E4"
+			}
+		}
+	}
+	"275852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7003221029089404799"
+				"size" "14927487157"
+				"download" "11347503616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "0FF737A332076DC94FDC584F23EE943D"
+				"size" "D6D8E41407DF76AC305D5D311A97B9A5"
+				"download" "5B47FB589C73FF8A3BCC8E239AA0D576"
+			}
+			"internal"
+			{
+				"gid" "9D082FA9C2B6A025590DC8041AB3E7B6"
+				"size" "518D99B8FFD3A506AC8177AD57949207"
+				"download" "06ECA9EB496AC0CF6F54877C990D5427"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14624643"
+			"timeupdated" "1717670774"
+		}
+		"experimental"
+		{
+			"buildid" "14706980"
+			"pwdrequired" "1"
+			"timeupdated" "1718289871"
+		}
+		"internal"
+		{
+			"buildid" "14703773"
+			"pwdrequired" "1"
+			"timeupdated" "1718273250"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "220000000"
+	"maxnumfiles" "1050"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "HelloGames/NMS/st_{64BitSteamID}/"
+			"pattern" "*.hg"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Translating alien languages"
+				"#activity_farming" "Performing exo-botany"
+				"#activity_modecreative" "Exploring without limits"
+				"#activity_modenormal" "Charting an infinite universe"
+				"#activity_modesurvival" "Charting an infinite universe"
+				"#activity_modepermadeath" "Charting an infinite universe"
+				"#activity_spacecombat" "Dogfighting amidst the stars"
+				"#activity_trading" "Conducting interstellar trade"
+				"#location_planet" "Surveying a planet"
+				"#location_space" "Flying through outer space"
+				"#location_storm" "Surviving extreme conditions"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Übersetzt fremde Sprachen"
+				"#activity_farming" "Arbeitet in der Exobotanik"
+				"#activity_modecreative" "Erkundet ohne Grenzen"
+				"#activity_modenormal" "Kartiert ein unendliches Universum"
+				"#activity_modesurvival" "Kartiert ein unendliches Universum"
+				"#activity_modepermadeath" "Kartiert ein unendliches Universum"
+				"#activity_spacecombat" "Kämpft in den Sternen"
+				"#activity_trading" "Führt interstellaren Handel durch"
+				"#location_planet" "Begutachtet einen Planeten"
+				"#location_space" "Fliegt durch das Weltall"
+				"#location_storm" "Überlebt extreme Bedingungen"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Traduciendo idiomas alienígenas"
+				"#activity_farming" "Realizando exobotánica"
+				"#activity_modecreative" "Explorando sin límites"
+				"#activity_modenormal" "Trazando un universo infinito"
+				"#activity_modesurvival" "Trazando un universo infinito"
+				"#activity_modepermadeath" "Trazando un universo infinito"
+				"#activity_spacecombat" "Luchando entre las estrellas"
+				"#activity_trading" "Realizando comercio interestelar"
+				"#location_planet" "Inspeccionando un planeta"
+				"#location_space" "Volando por el espacio exterior"
+				"#location_storm" "Sobreviviendo en condiciones extremas"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Traduit des langues extraterrestres"
+				"#activity_farming" "Effectue de l\'exo-botanique"
+				"#activity_modecreative" "En exploration sans limite"
+				"#activity_modenormal" "Établit la carte d\'un univers infini"
+				"#activity_modesurvival" "Établit la carte d\'un univers infini"
+				"#activity_modepermadeath" "Établit la carte d\'un univers infini"
+				"#activity_spacecombat" "En combat de chasseurs parmi les étoiles"
+				"#activity_trading" "Effectue du commerce interstellaire"
+				"#location_planet" "Examine une planète"
+				"#location_space" "Vole à travers le cosmos"
+				"#location_storm" "Survit à des conditions extrêmes"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Traduco lingue aliene"
+				"#activity_farming" "Mi occupo di exobotanica"
+				"#activity_modecreative" "Esploro senza limiti"
+				"#activity_modenormal" "Tengo traccia di un universo infinito"
+				"#activity_modesurvival" "Tengo traccia di un universo infinito"
+				"#activity_modepermadeath" "Tengo traccia di un universo infinito"
+				"#activity_spacecombat" "Faccio a scazzottate tra le stelle"
+				"#activity_trading" "Dirigo il commercio interstellare"
+				"#location_planet" "Ispeziono un pianeta"
+				"#location_space" "Volo attraverso lo spazio"
+				"#location_storm" "Sopravvivo a condizioni estreme"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "エイリアン語を翻訳中"
+				"#activity_farming" "エクソ植物学パフォーマンス中"
+				"#activity_modecreative" "限度無しで探査中"
+				"#activity_modenormal" "無限宇宙チャート中"
+				"#activity_modesurvival" "無限宇宙チャート中"
+				"#activity_modepermadeath" "無限宇宙チャート中"
+				"#activity_spacecombat" "星同士がドッグファイト中"
+				"#activity_trading" "インターステラートレード中"
+				"#location_planet" "惑星調査中"
+				"#location_space" "宇宙空間飛行中"
+				"#location_storm" "厳しい環境で生存中"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "외계인 언어 번역 중"
+				"#activity_farming" "외래 식물학 연구 중"
+				"#activity_modecreative" "무한 탐험 중"
+				"#activity_modenormal" "무한 우주 지도 그리는 중"
+				"#activity_modesurvival" "무한 우주 지도 그리는 중"
+				"#activity_modepermadeath" "무한 우주 지도 그리는 중"
+				"#activity_spacecombat" "행성 간 공중전 중"
+				"#activity_trading" "우주 교역 중"
+				"#location_planet" "행성 조사 중"
+				"#location_space" "외우주 비행 중"
+				"#location_storm" "극한 조건에서 생존 중"
+			}
+		}
+		"dutch"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Buitenaardse talen vertalen"
+				"#activity_farming" "Exobotanie uitvoeren"
+				"#activity_modecreative" "Verkennen zonder grenzen"
+				"#activity_modenormal" "Een oneindig universum in kaart brengen"
+				"#activity_modesurvival" "Een oneindig universum in kaart brengen"
+				"#activity_modepermadeath" "Een oneindig universum in kaart brengen"
+				"#activity_spacecombat" "Vuurgevechten tussen de sterren"
+				"#activity_trading" "Interstellair handel voeren"
+				"#location_planet" "Een planeet onderzoeken"
+				"#location_space" "Vliegen door de ruimte"
+				"#location_storm" "Extreme omstandigheden overleven"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Tłumaczenie obcych języków"
+				"#activity_farming" "Zajmowanie się egzobotaniką"
+				"#activity_modecreative" "Eksploracja bez granic"
+				"#activity_modenormal" "Sporządzanie mapy nieskończonego wszechświata"
+				"#activity_modesurvival" "Sporządzanie mapy nieskończonego wszechświata"
+				"#activity_modepermadeath" "Sporządzanie mapy nieskończonego wszechświata"
+				"#activity_spacecombat" "Walka pośród gwiazd"
+				"#activity_trading" "Prowadzenie handlu międzygwiezdnego"
+				"#location_planet" "Badanie planety"
+				"#location_space" "Przemierzanie przestrzeni kosmicznej"
+				"#location_storm" "Przetrwanie w ekstremalnych warunkach"
+			}
+		}
+		"portuguese"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "A traduzir idiomas alienígenas"
+				"#activity_farming" "A executar exobotânica"
+				"#activity_modecreative" "A explorar sem limites"
+				"#activity_modenormal" "A cartografar um universo infinito"
+				"#activity_modesurvival" "A cartografar um universo infinito"
+				"#activity_modepermadeath" "A cartografar um universo infinito"
+				"#activity_spacecombat" "A combater entre as estrelas"
+				"#activity_trading" "A fazer comércio interestelar"
+				"#location_planet" "A investigar um planeta"
+				"#location_space" "A voar pelo espaço"
+				"#location_storm" "A sobreviver a condições extremas"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Traduzindo idiomas alienígenas"
+				"#activity_farming" "Realizando exobotânica"
+				"#activity_modecreative" "Explorando sem limites"
+				"#activity_modenormal" "Mapeando um universo infinito"
+				"#activity_modesurvival" "Mapeando um universo infinito"
+				"#activity_modepermadeath" "Mapeando um universo infinito"
+				"#activity_spacecombat" "Combatendo entre as estrelas"
+				"#activity_trading" "Conduzindo um negócio interestelar"
+				"#location_planet" "Analisando um planeta"
+				"#location_space" "Voando pelo espaço sideral"
+				"#location_storm" "Sobrevivendo em condições extremas"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "Переводит инопланетные языки"
+				"#activity_farming" "Занимается космической ботаникой"
+				"#activity_modecreative" "Занимается неограниченными исследованиями"
+				"#activity_modenormal" "Составляет карту бесконечной вселенной"
+				"#activity_modesurvival" "Составляет карту бесконечной вселенной"
+				"#activity_modepermadeath" "Составляет карту бесконечной вселенной"
+				"#activity_spacecombat" "Сражается в ближнем бою среди звезд"
+				"#activity_trading" "Занимается межзвездной торговлей"
+				"#location_planet" "Осматривает планету"
+				"#location_space" "Летит сквозь космическое пространство"
+				"#location_storm" "Выживает в экстремальных условиях"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "释义外星语言"
+				"#activity_farming" "开展异星植物研究"
+				"#activity_modecreative" "无限制探索"
+				"#activity_modenormal" "绘制一个无垠宇宙"
+				"#activity_modesurvival" "绘制一个无垠宇宙"
+				"#activity_modepermadeath" "绘制一个无垠宇宙"
+				"#activity_spacecombat" "星系太空缠斗"
+				"#activity_trading" "实施星际贸易"
+				"#location_planet" "勘测星球"
+				"#location_space" "外太空穿梭飞行"
+				"#location_storm" "在恶劣条件下生存"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#activity_conversation" "釋義外星語言"
+				"#activity_farming" "開展異星植物研究"
+				"#activity_modecreative" "無限制探索"
+				"#activity_modenormal" "繪製一個無垠宇宙"
+				"#activity_modesurvival" "繪製一個無垠宇宙"
+				"#activity_modepermadeath" "繪製一個無垠宇宙"
+				"#activity_spacecombat" "星系太空纏鬥"
+				"#activity_trading" "實施星際貿易"
+				"#location_planet" "勘測星球"
+				"#location_space" "外太空穿梭飛行"
+				"#location_storm" "在惡劣條件下生存"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23957697"
+"_sha" "926be5d7185e3b5ba986d4db1f924a465bf3fe60"
+"_size" "19342"
