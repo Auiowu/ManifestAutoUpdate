@@ -1,0 +1,423 @@
+"appid" "1755830"
+"common"
+{
+	"name" "Astrea: Six-Sided Oracles"
+	"type" "Game"
+	"logo" "882a9e7658c01b7c277d9f6455f70f7e692d577b"
+	"logo_small" "882a9e7658c01b7c277d9f6455f70f7e692d577b_thumb"
+	"icon" "76177e2e01a1d7ecc25092ca71904af1f03e5437"
+	"clienttga" "498cad8aa477ac2b8064801f99ac7cffa42c0e63"
+	"clienticon" "09c1ae8558106d2c86b1b47f5c61fc3fce2cff41"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1696291200"
+		"tested_build_id" "12265389"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Astrea: Six-Sided Oracles"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.79069767441859"
+			"height_pct" "61.778674899073856"
+		}
+	}
+	"store_asset_mtime" "1703279662"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Little Leo Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Akupara Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Akupara Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1695311136"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/astrea-six-sided-oracles\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1755830"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "791774"
+		"2" "1716"
+		"3" "1666"
+		"4" "9"
+		"5" "1677"
+		"6" "32322"
+		"7" "3959"
+		"8" "4325"
+		"9" "1741"
+		"10" "5125"
+		"11" "4711"
+		"12" "4026"
+		"13" "492"
+		"14" "122"
+		"15" "3871"
+		"16" "6815"
+		"17" "4604"
+		"18" "4182"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Little Leo Games"
+	"publisher" "Akupara Games"
+	"listofdlc" "2608590"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Astrea"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Astrea.exe"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Astrea.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta"
+			}
+			"description_loc"
+			{
+				"english" "Beta Branch"
+			}
+			"description" "Beta Branch"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1755831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6891286812410485638"
+				"size" "2463469436"
+				"download" "463644256"
+			}
+			"beta"
+			{
+				"gid" "76085322541316056"
+				"size" "2470739248"
+				"download" "464786416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-footage"
+			{
+				"gid" "5544665C59169ECA6FF105A549D5612A"
+				"size" "9563C2B53639A9594BF86BE654709F2D"
+				"download" "9EEA84EF5F63644FB7BA0D770159DDE6"
+			}
+			"beta-internal"
+			{
+				"gid" "8EE59D21D460ADFC582CA9440633F103"
+				"size" "20A29D5C9BBE299D3CC71C3CA77D2788"
+				"download" "820E6B6BE349DEC9674090A1ECEDBB46"
+			}
+			"beta-mod"
+			{
+				"gid" "2DE7953CEE9A0C8DC33652DF4A4E2162"
+				"size" "089F7B349553B47C785A5ACAD751C299"
+				"download" "8BD372BC5EA638F94AE136479E73965B"
+			}
+			"release-candidate"
+			{
+				"gid" "891A632A6CD42766A0A95BFA7B490D3F"
+				"size" "782B4A03D12C6215AD12B5FA3CBFE3F5"
+				"download" "06E0182AA9C0F5E6F9CE9F7766FDCAF0"
+			}
+		}
+	}
+	"2608590"
+	{
+		"dlcappid" "2608590"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8151793117649717077"
+				"size" "215434329"
+				"download" "212729200"
+			}
+			"beta"
+			{
+				"gid" "8151793117649717077"
+				"size" "215434329"
+				"download" "212729200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-internal"
+			{
+				"gid" "46A2D4F68A333099252593082D2F2545"
+				"size" "C792898C30E292ADE2FCE815B59D4FC4"
+				"download" "D173514032087B23DE2FD8036774843B"
+			}
+			"beta-mod"
+			{
+				"gid" "BEB40C1A868CBD3B359E89027F58872C"
+				"size" "EAE34FA52D52D9F18278FF3C0A82EF03"
+				"download" "425CEAB59CE42A971869B5B8C05C0419"
+			}
+			"release-candidate"
+			{
+				"gid" "FEDC8DCFCE4769F8E9148A0210AFE130"
+				"size" "D14DA0296BEAF3441F3CB6125EE044B7"
+				"download" "1721BF8FFA87CFCD817137C594EB6B7D"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"workshopdepot" "1755830"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14320143"
+			"timeupdated" "1715300705"
+		}
+		"beta-footage"
+		{
+			"buildid" "14015817"
+			"pwdrequired" "1"
+			"timeupdated" "1712791181"
+		}
+		"beta"
+		{
+			"buildid" "14647138"
+			"description" "beta branch"
+			"timeupdated" "1717862795"
+		}
+		"beta-internal"
+		{
+			"buildid" "14715960"
+			"pwdrequired" "1"
+			"timeupdated" "1718353693"
+		}
+		"beta-mod"
+		{
+			"buildid" "14296502"
+			"pwdrequired" "1"
+			"timeupdated" "1715125949"
+		}
+		"release-candidate"
+		{
+			"buildid" "14320143"
+			"pwdrequired" "1"
+			"timeupdated" "1715292124"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Little Leo Games/Astrea"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Little Leo Games/Astrea"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "LinuxHome"
+			"path" "Little Leo Games/Astrea"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23969488"
+"_sha" "8e41c574e1a8306c8680f7c80c2e5e445675b0e1"
+"_size" "7866"
