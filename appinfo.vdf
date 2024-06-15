@@ -1,0 +1,701 @@
+"appid" "323190"
+"common"
+{
+	"name" "Frostpunk"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"clienticon" "ff63d3a47b367f7c434e391d1bce02c9d717e4b7"
+	"clienttga" "7d40ca0b9cc83bd4fc74f8b9ff6822e696b64cc4"
+	"icon" "0561084dfe24c469c905fe0681da82aa31102836"
+	"logo" "6c0c14be33ccb2c10e4d35286e30ffd3c4ebdbdf"
+	"logo_small" "6c0c14be33ccb2c10e4d35286e30ffd3c4ebdbdf_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1648166400"
+		"tested_build_id" "7179920"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Frostpunk"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "62"
+			"height_pct" "90"
+		}
+	}
+	"store_asset_mtime" "1709739145"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "11 bit studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "11 bit studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "11 bit studios"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1524574920"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/frostpunk\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "323190"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "1662"
+		"2" "8945"
+		"3" "9"
+		"4" "3835"
+		"5" "1777"
+		"6" "220585"
+		"7" "1643"
+		"8" "7332"
+		"9" "4182"
+		"10" "599"
+		"11" "12472"
+		"12" "6426"
+		"13" "4166"
+		"14" "4695"
+		"15" "4342"
+		"16" "4026"
+		"17" "1676"
+		"18" "1756"
+		"19" "7107"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "11 bit studios"
+	"publisher" "11 bit studios"
+	"homepage" "http://www.frostpunkgame.com/"
+	"listofdlc" "1103840,1125020,1146960,1147010"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Frostpunk"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Frostpunk.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Frostpunk.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2020423513"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2778935973"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,bc_test"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian"
+	"323195"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2780018488014656924"
+				"size" "53877392"
+				"download" "12999824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "95F3E0A3132A795B8D4ED3A11FD9073D"
+				"size" "E4BB228ED08059D9B1CC1E8CF0D233D8"
+				"download" "4134A6BFF0166DC3DE2E22512A985E63"
+			}
+			"bc_test"
+			{
+				"gid" "2ACC4FA4606042691FE4E2A33E892966"
+				"size" "A7AEE78D5300F448AC2429EE19C85F32"
+				"download" "27C852D28C5B56AC7C241C73F2650E7A"
+			}
+		}
+	}
+	"323196"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"323197"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9204927270716451152"
+				"size" "600631122"
+				"download" "592110144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "2BE352A7E092E016CEFCFA7B882540BB"
+				"size" "93CC89E4C30E6CDFCCDA35E4BD670DA9"
+				"download" "D4B9E046AAAB2BEF7D7CC09838B0418E"
+			}
+			"bc_test"
+			{
+				"gid" "30E3D5D443F00C537745894D96418938"
+				"size" "9C3D1B44A625A6DD1CABC2A1462E48B9"
+				"download" "B74C1B5280A4C4AEAD819FAAC83FC647"
+			}
+		}
+	}
+	"323198"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8794516335400067086"
+				"size" "9687450"
+				"download" "9791744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "F5631E7165D876CF06C23C5E3027E883"
+				"size" "9B5F2576A03FFB1AFC64DF7A6CBC679E"
+				"download" "FFE21AF6D5A8F1C00F8E4F043733EF3E"
+			}
+			"bc_test"
+			{
+				"gid" "CCAC3AFBB4B3B81F8C2E0DF528CDADCB"
+				"size" "A1B850D6D3575DFD72DB456AE0F9C083"
+				"download" "E15E0557FA32379FDF58721D9E960AEB"
+			}
+		}
+	}
+	"323199"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6991146275187026320"
+				"size" "387868774"
+				"download" "387006640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "8F86DDA6AA14059DED11016A897B17C2"
+				"size" "B499FD98C4AC970E873EDC566BB74735"
+				"download" "4D5C6BA32150AC677B981B29B88C2924"
+			}
+			"bc_test"
+			{
+				"gid" "BE335D1F15B8245D5FEDAAC1BEF770EA"
+				"size" "289936EB3F2C663B1A04CA47CBC3536D"
+				"download" "B6C37D31993F4330E53F6AB157D161BC"
+			}
+		}
+	}
+	"323200"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6610197375809892384"
+				"size" "6778709305"
+				"download" "6556986048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "E4D53DB690CAD4D105F895A843866D46"
+				"size" "BE8099DE06B868527EFD0D260C74D14D"
+				"download" "64C11982C502BDA9097A934DF8C6BA52"
+			}
+			"bc_test"
+			{
+				"gid" "1995A865CDF8EB293E3735BD499366CC"
+				"size" "DAF443B953403807FAC02FDB8B83D366"
+				"download" "6B47F985350D97BD1AE26877EBF100FC"
+			}
+		}
+	}
+	"323201"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4539829644852495580"
+				"size" "1854638747"
+				"download" "1836062288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "A93B719CFA35B271DFB8D7CE30A33EDB"
+				"size" "AE80E7870CB3C9B640E601FC4D10D551"
+				"download" "F73DE79E1D9C4ACD44F0C5705FF10C92"
+			}
+			"bc_test"
+			{
+				"gid" "2C609108593FE7DB470AB98DA0859ED5"
+				"size" "C224B6CC400115141F6F10B226939538"
+				"download" "9B538CDDD1CE43FE5C112D5E9CE7084E"
+			}
+		}
+	}
+	"1103840"
+	{
+		"dlcappid" "1103840"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4822668135599750534"
+				"size" "1154118375"
+				"download" "1169888192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "030803E7740401C73097895E6AA3F6E7"
+				"size" "8E4D66317A2BD9BE5576606B165BF575"
+				"download" "3FB1F6D3131C143BC9F38E0B9244FBFB"
+			}
+			"rctest"
+			{
+				"gid" "7A8D859FDB2E6FECAE7877043D597D65"
+				"size" "5375029C8E676134292B93A5C2E125FC"
+				"download" "3A01A9F113BBFF6649E3DDC7649A031E"
+			}
+			"test"
+			{
+				"gid" "1941C2E834D705593CC9E2E32C36955E"
+				"size" "E94D0A6B6F72E199C728B2F7FE8714E0"
+				"download" "CCB62A45E4F68117961017FF971C0621"
+			}
+			"bc_test"
+			{
+				"gid" "9EE37FFC2127BB3C29DA1ECEE4C0AC75"
+				"size" "422416E6A4FB1A6B4685929067CFE74B"
+				"download" "72B19FA2807C9FB162A534DA374AECB7"
+			}
+		}
+	}
+	"323193"
+	{
+		"dlcappid" "1103840"
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2329912539174946404"
+				"size" "1151854046"
+				"download" "1167586912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "D5F9EA88B5A299980306BDBB431434C9"
+				"size" "39D1C4781D7D2591AC93899A7A0AB08C"
+				"download" "FBA79C9A10CBF8159AB5BBDA2BA63F9A"
+			}
+			"rctest"
+			{
+				"gid" "C8130014E7B1F09D6D07227BAFBCBB95"
+				"size" "093E0496683947A34C677E21E1FE11D4"
+				"download" "732B21B0A76BE410CFD4DDF5616768DE"
+			}
+			"test"
+			{
+				"gid" "B0AA2484FC89C03CDEA6CC01CE4C98CF"
+				"size" "4EF3BBAAE905BAC2799D0C9EFA7AC79F"
+				"download" "73CFE4DFD943C6AFD851CC9F7369F455"
+			}
+			"bc_test"
+			{
+				"gid" "5478E7AF9ABC7B43CEDE393A413B3B30"
+				"size" "99F57A658D12A0A417A83F911A7ABB0F"
+				"download" "59961146F2A914D5F0678FFB8BBE65D0"
+			}
+		}
+	}
+	"323192"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6650641894337318223"
+				"size" "9657663415"
+				"download" "9312059760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newsfeed_test"
+			{
+				"gid" "8784C9DEE5DD161A0112160ADCC5A981"
+				"size" "CF6A096D08570472799813D52E071ECC"
+				"download" "E6F69664AB6230140C9476CD70AAA634"
+			}
+			"rctest"
+			{
+				"gid" "F1B999A2777D6C2062726FCF6B427E70"
+				"size" "BFC6021D8387314A696FFD9C49247446"
+				"download" "D0DE053B56CC6256A017E9D1D0F9BE44"
+			}
+			"bc_test"
+			{
+				"gid" "2111C78D714A4D32874AE978DA92B4DA"
+				"size" "F454DBE13610E8100ED31BADAC79D7A5"
+				"download" "EC9D148A2EE013CC09DF9C3932AB8E36"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14668909"
+			"timeupdated" "1718097423"
+		}
+		"newsfeed_test"
+		{
+			"buildid" "12391373"
+			"pwdrequired" "1"
+			"timeupdated" "1696840763"
+		}
+		"rctest"
+		{
+			"buildid" "6289078"
+			"pwdrequired" "1"
+			"timeupdated" "1614193774"
+		}
+		"test"
+		{
+			"buildid" "7172467"
+			"pwdrequired" "1"
+			"timeupdated" "1628681468"
+		}
+		"bc_test"
+		{
+			"buildid" "14676742"
+			"pwdrequired" "1"
+			"timeupdated" "1718104437"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "25000000000"
+	"maxnumfiles" "2000"
+}
+"_missing_token" "False"
+"_change_number" "23921664"
+"_sha" "7a21612dc1211c8db929707d17f252a059467db1"
+"_size" "13189"
