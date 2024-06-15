@@ -1,0 +1,471 @@
+"appid" "864700"
+"common"
+{
+	"name" "Dinosaur Fossil Hunter"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "807b48e37a355f30d2a1710bcc18b0a4fec09910"
+	"logo" "cf19a8d37c6657b4d811127f5302400c43ff51ba"
+	"logo_small" "cf19a8d37c6657b4d811127f5302400c43ff51ba_thumb"
+	"clienttga" "e88ac1262a9acc8b8f2872a82629ca97a35a711a"
+	"clienticon" "ac024b951e4cfc3b46392cb7a020b4656ac1ecd6"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "恐龙化石猎人 古生物学家模拟器 (Dinosaur Fossil Hunter)"
+		"polish" "Dinosaur Fossil Hunter - Symulator Paleontologa"
+		"french" "Dinosaur Fossil Hunter - Simulateur de paléontologie"
+		"german" "Dinosaur Fossil Hunter - Paläontologie-Simulator"
+		"italian" "Dinosaur Fossil Hunter - Simulatore di paleontologia"
+		"russian" "Dinosaur Fossil Hunter - симулятор палеонтологии"
+		"spanish" "Dinosaur Fossil Hunter - Simulador de paleontología"
+		"ukrainian" "Dinosaur Fossil Hunter - Симулятор палеонтології"
+		"turkish" "Dinosaur Fossil Hunter - Paleontoloji Simülatör"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1710892800"
+		"tested_build_id" "13524077"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "3"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,pl,ru,zh-cn,es,it,fr,de"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "59.71792948237061"
+			"height_pct" "89.47457386738435"
+		}
+	}
+	"store_asset_mtime" "1709233678"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "▲ Pyramid Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "▲ Pyramid Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Pyramid Games S.A."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1651683600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "864700"
+	"store_tags"
+	{
+		"0" "5981"
+		"1" "599"
+		"2" "5160"
+		"3" "1643"
+		"4" "3810"
+		"5" "1695"
+		"6" "3839"
+		"7" "12472"
+		"8" "3834"
+		"9" "4175"
+		"10" "1654"
+		"11" "5900"
+		"12" "4182"
+		"13" "30358"
+		"14" "8945"
+		"15" "5350"
+		"16" "9204"
+		"17" "21"
+		"18" "4711"
+		"19" "4166"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "▲ Pyramid Games"
+	"publisher" "▲ Pyramid Games"
+	"homepage" "http://pyramid.games"
+	"listofdlc" "2065550,2217690"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Dinosaur Fossil Hunter"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dinosaur Fossil Hunter.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"864701"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "326556106419806971"
+				"size" "18011733706"
+				"download" "10611626128"
+			}
+			"public_testing"
+			{
+				"gid" "326556106419806971"
+				"size" "18011733706"
+				"download" "10611626128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external_testing"
+			{
+				"gid" "94754CE69FA76669D4ECA8AF236323F3"
+				"size" "B10EEC495B5FA7F809F7E2F6C854F81F"
+				"download" "2EAF8D16C77D8E1E9C7DA0C547CE29A0"
+			}
+			"internal_testing"
+			{
+				"gid" "FCA2A768CAC45696D9EFBF1B877FC49D"
+				"size" "70319EE61255122DEE63D9C160B0C353"
+				"download" "7A880FAC499EA9FDD00E70D275B480B9"
+			}
+			"internal_testing_patch"
+			{
+				"gid" "D2E1B26B11136E809C109D70F7E816CF"
+				"size" "AB8B157236D9188E27285F6BA8BAA4C6"
+				"download" "B01B8E5EA76323FADACD35F36C42B3CF"
+			}
+			"internal_testing_stable"
+			{
+				"gid" "B6DDD8BDA21079BDD8B4EAA873C42095"
+				"size" "5DD00E9C42BF3444EEFA8FFEB791805A"
+				"download" "EEE60A0717C2AB066F23A13B78267F5B"
+			}
+			"pre_previous_build"
+			{
+				"gid" "088E788C5A14E70940BD01BAE4DAF0EA"
+				"size" "3536F493EF6816FFAECE819D87723328"
+				"download" "28F2FD84D92C2F6C393E797A9D96B07D"
+			}
+			"previous_build"
+			{
+				"gid" "9E97282B60EC910569A2CC7225C8A398"
+				"size" "D402569B1EC92CD3D8C1FBC429898B7E"
+				"download" "9B85A929205541E8DA413715A95797CA"
+			}
+			"streaming_stable"
+			{
+				"gid" "B46580DA4E88800A6DAF5B691EC1CBD2"
+				"size" "987DD15C0946AE7EF7140C16C5B5D8CC"
+				"download" "4077D8079E5AD7604C332FD89D508595"
+			}
+		}
+	}
+	"workshopdepot" "864700"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13785209"
+			"timeupdated" "1712064852"
+		}
+		"external_testing"
+		{
+			"buildid" "13785209"
+			"pwdrequired" "1"
+			"timeupdated" "1711529288"
+		}
+		"internal_testing"
+		{
+			"buildid" "13922367"
+			"pwdrequired" "1"
+			"timeupdated" "1712058279"
+		}
+		"internal_testing_patch"
+		{
+			"buildid" "8906298"
+			"pwdrequired" "1"
+			"timeupdated" "1654868835"
+		}
+		"internal_testing_stable"
+		{
+			"buildid" "13785209"
+			"pwdrequired" "1"
+			"timeupdated" "1712064694"
+		}
+		"pre_previous_build"
+		{
+			"buildid" "10155192"
+			"pwdrequired" "1"
+			"timeupdated" "1712064813"
+		}
+		"previous_build"
+		{
+			"buildid" "13524077"
+			"pwdrequired" "1"
+			"timeupdated" "1712064827"
+		}
+		"public_testing"
+		{
+			"buildid" "13785209"
+			"description" "public_testing"
+			"timeupdated" "1711529306"
+		}
+		"streaming_stable"
+		{
+			"buildid" "8816248"
+			"pwdrequired" "1"
+			"timeupdated" "1665467080"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PyramidGames/Dinosaur Fossil Hunter/GameSaves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23841135"
+"_sha" "208f1d12ecfe530addd1bf07580fbb75229e0587"
+"_size" "9350"
