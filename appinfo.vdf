@@ -1,0 +1,492 @@
+"appid" "1307550"
+"common"
+{
+	"name" "Craftopia"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "0c3e469d150dfd1f7d424012bee14a1b663bb8aa"
+	"logo_small" "0c3e469d150dfd1f7d424012bee14a1b663bb8aa_thumb"
+	"icon" "51d2ce598e11bb589644d746f674f73e53a22eab"
+	"clienttga" "0a13b8ab342e36699b198f01b24fbadd8e43ea70"
+	"clienticon" "b6eabc569cbd4aef7355abca16037d5c20b0f755"
+	"name_localized"
+	{
+		"schinese" "Craftopia / 创世理想乡"
+		"japanese" "Craftopia / クラフトピア"
+		"english" "Craftopia"
+		"tchinese" "Craftopia / 始世樂土"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644364800"
+		"tested_build_id" "7511224"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1710311863"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pocketpair"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pocketpair"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_18" "1"
+		"category_42" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1599220740"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1307550"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1702"
+		"2" "1662"
+		"3" "3859"
+		"4" "1100689"
+		"5" "122"
+		"6" "3810"
+		"7" "1643"
+		"8" "3843"
+		"9" "19"
+		"10" "21"
+		"11" "493"
+		"12" "1685"
+		"13" "4085"
+		"14" "4747"
+		"15" "492"
+		"16" "1646"
+		"17" "255534"
+		"18" "4182"
+		"19" "1697"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+	"review_score_bombs" "6"
+	"review_percentage_bombs" "78"
+}
+"extended"
+{
+	"developer" "Pocketpair"
+	"publisher" "Pocketpair"
+	"homepage" "https://www.pocketpair.jp/craftopia"
+}
+"config"
+{
+	"installdir" "Craftopia"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Craftopia.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2258517468"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1307551"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6248535952346046392"
+				"size" "22181009691"
+				"download" "8734294992"
+			}
+			"legacy"
+			{
+				"gid" "9019849637081614226"
+				"size" "9733871963"
+				"download" "3640890576"
+			}
+			"alpha-unstable"
+			{
+				"gid" "7465410261295249497"
+				"size" "23431555359"
+				"download" "9157943360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_net"
+			{
+				"gid" "14370D59D0104F6E6EACE8BD8A3D99B2"
+				"size" "EE3CA346B72E54E738E5A94533A3A18F"
+				"download" "AD018DD8B1EBECBBC795A431DCF25FB0"
+			}
+			"private_omi"
+			{
+				"gid" "D01A24420D1224A2F0B1E9A52611680B"
+				"size" "87E9ADC311A50339B8DD7D77E98232CA"
+				"download" "BD1A53E38461C875C5C7196B948859D6"
+			}
+			"private_test2"
+			{
+				"gid" "5FF6A3115DA6D6F9EDC40F016FFCAD33"
+				"size" "09A84615B88871D81EBCF2BCE0FA9B83"
+				"download" "65D413AF5D2BCFB93264CF50A5D4A8EB"
+			}
+			"private_dev"
+			{
+				"gid" "B478A7A95BBF501426093B03E7D47427"
+				"size" "FA1AF9AD52A70870A0C823F6BAEF7B85"
+				"download" "7388B2A7977DB6ED75EA2C01BAD0E943"
+			}
+			"private_ow"
+			{
+				"gid" "7B8A643BA816366222FF0D2E1889CC1D"
+				"size" "D0F019DD273888EEFB68392D0959F0B5"
+				"download" "3F9FDC2D3CC245FCD191A1F2F299E034"
+			}
+			"private_ow_development"
+			{
+				"gid" "C6DEEDEA1BC7EA9DE3C4176AD32AB158"
+				"size" "8540AA638735430B831EBA4E11EC3E58"
+				"download" "8303985F234765157D335DE896FCAC45"
+			}
+			"private_qa"
+			{
+				"gid" "81607369D5BC08A82CD349B739616A4D"
+				"size" "2BE53E002CBE132014CE6EA0BC07265E"
+				"download" "2B07DBC2635056E5BFCCF0FDB9FE6093"
+			}
+			"private_qa2"
+			{
+				"gid" "B3B7926ACF03A901192F73B0F84863AB"
+				"size" "55289FB01B911E6B38CE9AE27E7F47F4"
+				"download" "D2754B82FD04A911398F02989E5D8B12"
+			}
+			"private_test"
+			{
+				"gid" "5EF7040D1392D6F27651A5BE86327D2D"
+				"size" "0179105BB24D06C8382695F13575B9C8"
+				"download" "AC8278C80CC1B32054F0D0AC356A7481"
+			}
+		}
+	}
+	"1307552"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+	}
+	"1307553"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+	}
+	"1307554"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+	}
+	"workshopdepot" "1307550"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14186092"
+			"timeupdated" "1714532760"
+		}
+		"legacy"
+		{
+			"buildid" "10827022"
+			"description" "The legacy version of Craftopia before Seamless World Update has been released on June 28, 2023"
+			"timeupdated" "1687512703"
+		}
+		"private_net"
+		{
+			"buildid" "11748337"
+			"pwdrequired" "1"
+			"timeupdated" "1689857625"
+		}
+		"private_omi"
+		{
+			"buildid" "12376213"
+			"pwdrequired" "1"
+			"timeupdated" "1696825174"
+		}
+		"private_test2"
+		{
+			"buildid" "14080217"
+			"pwdrequired" "1"
+			"timeupdated" "1713350102"
+		}
+		"alpha-unstable"
+		{
+			"buildid" "14705214"
+			"timeupdated" "1718347923"
+		}
+		"private_dev"
+		{
+			"buildid" "14323886"
+			"pwdrequired" "1"
+			"timeupdated" "1715323104"
+		}
+		"private_ow"
+		{
+			"buildid" "14722808"
+			"pwdrequired" "1"
+			"timeupdated" "1718391875"
+		}
+		"private_ow_development"
+		{
+			"buildid" "14722890"
+			"pwdrequired" "1"
+			"timeupdated" "1718392449"
+		}
+		"private_qa"
+		{
+			"buildid" "14705214"
+			"pwdrequired" "1"
+			"timeupdated" "1718281017"
+		}
+		"private_qa2"
+		{
+			"buildid" "14467915"
+			"pwdrequired" "1"
+			"timeupdated" "1716464756"
+		}
+		"private_test"
+		{
+			"buildid" "14307393"
+			"pwdrequired" "1"
+			"timeupdated" "1717468910"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "PocketPair/Craftopia/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PocketPair\\Craftopia\\PPSave"
+			"pattern" "*.db"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PocketPair\\Craftopia\\PPSave\\Players"
+			"pattern" "*.db"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "PocketPair\\Craftopia\\PPSave\\Worlds"
+			"pattern" "*.db"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "23978002"
+"_sha" "c3cf9c44449af1b89976a874b4e7cbfaf603632a"
+"_size" "9343"
