@@ -1,0 +1,822 @@
+"appid" "704270"
+"common"
+{
+	"name" "Generation Zero®"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"clienticon" "5a8a8236a1e4b2ba4043402591ccd9208ceaa091"
+	"clienttga" "a9c5f39b0c1ed96fd8e4fdbe509de85e0c6a3fad"
+	"icon" "8e55fc5328374be6e476a6f97ee4e4209de272cf"
+	"logo" "f9bf209d0cef652aaec6af5e1f91a415926b34c2"
+	"logo_small" "f9bf209d0cef652aaec6af5e1f91a415926b34c2_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "704270_eula_0"
+			"name" "Generation Zero® EULA"
+			"url" "https://store.steampowered.com//eula/704270_eula_0"
+			"version" "4"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "6604972"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Generation Zero®"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.57338802356719"
+			"height_pct" "38.19444444444445"
+		}
+	}
+	"store_asset_mtime" "1707224681"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Systemic Reaction™"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Systemic Reaction™"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "1553583600"
+	"steam_release_date" "1553590440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "704270"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "6730"
+		"2" "1695"
+		"3" "3978"
+		"4" "1662"
+		"5" "1685"
+		"6" "1663"
+		"7" "3859"
+		"8" "1100689"
+		"9" "5752"
+		"10" "3810"
+		"11" "1774"
+		"12" "4166"
+		"13" "1702"
+		"14" "3835"
+		"15" "3942"
+		"16" "4821"
+		"17" "7743"
+		"18" "1667"
+		"19" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "Systemic Reaction™"
+	"publisher" "Systemic Reaction™"
+	"homepage" "https://generationzero.com/en/"
+	"listofdlc" "974380,1062400,1062420,1099600,1103830,1157550,1173930,1252740,1301740,1450340,1580920,1610690,1610720,1771050,1850670,2009530,2144760,2144761,2200740,2334430,2473770,2591100,2689180"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "GenerationZero"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GenerationZero_F.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+		}
+		"2"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "marketing"
+			}
+		}
+		"3"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_1"
+			}
+		}
+		"4"
+		{
+			"executable" "GenerationZero_P.exe"
+			"description" "Profile Build"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "compatability"
+			}
+		}
+		"5"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release Build"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "compatability"
+			}
+		}
+		"6"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release Build"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "localization"
+			}
+		}
+		"7"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release Build"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_2"
+			}
+		}
+		"8"
+		{
+			"executable" "GenerationZero_P.exe"
+			"description" "Profile Build"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hw_vendors"
+			}
+		}
+		"9"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release Build"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_3"
+			}
+		}
+		"10"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release Build"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "design_review"
+			}
+		}
+		"11"
+		{
+			"executable" "GenerationZero_R.exe"
+			"description" "Release Buid"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "code_01"
+			}
+		}
+		"12"
+		{
+			"executable" "GenerationZero_R.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "apex"
+			}
+			"description_loc"
+			{
+				"english" "Release Buid"
+			}
+			"description" "Release Buid"
+		}
+		"13"
+		{
+			"executable" "GenerationZero_F.exe"
+			"arguments" "-netlagsim"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "Final Build netlagsim"
+			}
+			"description" "Final Build netlagsim"
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,spanish,schinese,russian,japanese,polish"
+	"704271"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4543251557632302991"
+				"size" "62067003630"
+				"download" "38082760848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"apex"
+			{
+				"gid" "C28A18CCD3577D90AFED44A90956716C"
+				"size" "D97753F1336AE83D49ED4342227682DD"
+				"download" "67AEF8E191E96D80FBEF660110637958"
+			}
+			"baseline"
+			{
+				"gid" "F8A042A8DF507C1CF2584AF80CC6339E"
+				"size" "7CA78FDB2BB806A1CA76F568E97FC1BD"
+				"download" "9B98C96524D7A72022E9C54894F2A67B"
+			}
+			"code_01"
+			{
+				"gid" "208D680E408AAB8ADD7744449A605FD3"
+				"size" "82ABCA9AB58C152FE02B52391E9D920F"
+				"download" "AAB1BE1B36C9C91CC9989F85E5834F1A"
+			}
+			"design_review"
+			{
+				"gid" "E75F1542D3337EFC777B845E43754C6B"
+				"size" "3C7D13DD59E5FF6FD533206C16113A3D"
+				"download" "04DA2E2B6F84D85671EB99A9FB6BBBFE"
+			}
+			"gz_ur_external"
+			{
+				"gid" "C8ADC42E4F58A12023A435E686EEF132"
+				"size" "AA98FC22421268FD31303A4432C28066"
+				"download" "A081BF89478912E074B0506A79414E45"
+			}
+			"gz_ur_test"
+			{
+				"gid" "4ABF88EDDD4B878BF4EB2F42ECB7EE2D"
+				"size" "6D4AD7D7849CE89E257FEA6D6F92F532"
+				"download" "2129C602F04EE3098A1ADCFD55BDC34C"
+			}
+			"hw_vendors"
+			{
+				"gid" "78691BF899A3FA1C3104515954D5DC94"
+				"size" "3DFB13430AE1B61661641B01F85AA2B3"
+				"download" "0E2571397EF778A3CA05E7DE47B38F46"
+			}
+			"marketing_2"
+			{
+				"gid" "BC5344021BBBC29839DB678E94E36750"
+				"size" "8FC0B50F9FC03E54B0A3AD65D31D9714"
+				"download" "489E95512B1AA4DA84078200369620FD"
+			}
+			"svensson"
+			{
+				"gid" "726F85F641CAF1CD31A379F9D401319A"
+				"size" "067ACEC7A2538B65AFFD07E52FBCB75F"
+				"download" "90382FF41A3BDD3E91FC55688C204F52"
+			}
+			"development"
+			{
+				"gid" "F4E55B3001612D2F05D5D1014DD35F9F"
+				"size" "F0925EF6A35D5A352C3F482150C1D296"
+				"download" "A8BA30578D6343AB1E8F1098B894CDE0"
+			}
+			"gz_friends"
+			{
+				"gid" "D417B774AA9DCB6228CB3A700ADA920C"
+				"size" "743414254158BF9A6F229606EEAC5E11"
+				"download" "45F5CCD01F532DC738127BA035749498"
+			}
+			"gz_rm"
+			{
+				"gid" "FFE0938E564221C9AF87C4B900E66F04"
+				"size" "5A187374B2208E727CA935C708532E31"
+				"download" "49F9C36748C8ECD7EE04FA79F8480C57"
+			}
+			"gz_test"
+			{
+				"gid" "24132B50E359CC33268B3A5018E143D8"
+				"size" "0AD6E336696E0CB9AA268E184F1A1060"
+				"download" "0F3F52FF64C16BCCDDFB1726B44B7FEC"
+			}
+			"localization"
+			{
+				"gid" "7AD6C4701A1D0697A1F84BD9F7238980"
+				"size" "99A2181F35224B92E347F69CC944D275"
+				"download" "1256BF323858BD074600072711CA555C"
+			}
+			"marketing"
+			{
+				"gid" "385C2D5694F2A656D772137608198B11"
+				"size" "9DDA294895B1FB5A22D9743DE8B93938"
+				"download" "71C5000F0A63B4C418A2F37D177DFDBE"
+			}
+			"qa_1"
+			{
+				"gid" "F726D1EBDA07D7141DADA0DDE313BA94"
+				"size" "D380C1378F4D4692E4A79399DA110CCE"
+				"download" "CD1C1F9CFF199F14D13FBCD818F087E9"
+			}
+			"qa_2"
+			{
+				"gid" "8BE4A335BD66F9741C5FF21D6B120BA6"
+				"size" "9C037C7C27EB86DFF5402294A3CFBD93"
+				"download" "E3C2FFD26D132903B0407C2E4E20FA11"
+			}
+			"qa_3"
+			{
+				"gid" "0D81F216D6E442AE1826C7B9E390AE6E"
+				"size" "684B54F79A795A949ADE574DE4BDF6E3"
+				"download" "DB6F7F491C10DEA6B15F3D00F0C94713"
+			}
+		}
+	}
+	"704272"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "374453053515296734"
+				"size" "2020095740"
+				"download" "342182240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"apex"
+			{
+				"gid" "063DF071732CB271662D0A9835E19BC0"
+				"size" "F258F881CB66F860856D04980B434BE8"
+				"download" "E9F6799B7F064CA8D9E49F96A1DB3805"
+			}
+			"baseline"
+			{
+				"gid" "D805FF21AE1DE74ED3172BADA6246DAF"
+				"size" "86F2CEF18891CB3E17A6F947CBB3806D"
+				"download" "7BA8F345BADF4DA36DECD07F12C101EE"
+			}
+			"code_01"
+			{
+				"gid" "4FB5F70E57E6E9387A24885FFC8486C7"
+				"size" "DA6787CA1060C04084B67B0460F3C520"
+				"download" "956C29B76E0D4193501FB50E405109B1"
+			}
+			"design_review"
+			{
+				"gid" "2CEC259A21FF0CE83BC59C3541AA000C"
+				"size" "7E9ECF6402947DD5308E5ED1308EC1B2"
+				"download" "CDCB3C91614E67C7BCEA28F7E7130563"
+			}
+			"gz_ur_external"
+			{
+				"gid" "CCD41EE7D3F9AEC584034ED5FB54B87E"
+				"size" "27B1F08BD5A5C95EC5CBD07CD7C595F1"
+				"download" "32B20F0DBB3B706D2737EF1050838E8F"
+			}
+			"gz_ur_test"
+			{
+				"gid" "655618B1ACB95441E347C4F4B2DDBD47"
+				"size" "DD06AD332D1A13FD2A069CE97D463345"
+				"download" "4744D743FAFD1899D9EC7B10DDAD1EE8"
+			}
+			"hw_vendors"
+			{
+				"gid" "20911F240A05F5F6E6E37D4FFBAF18E2"
+				"size" "D799925246D08A61287E562674C5441F"
+				"download" "44F8C53E943461F1E5AFFA0C4086549E"
+			}
+			"marketing_2"
+			{
+				"gid" "AD5C258AF7BB34D17A0705F45D44580D"
+				"size" "8286409361C4C4C3F86DAEECD5D9A97F"
+				"download" "C4AF8CF52DAD19425DECFBCB9531A19E"
+			}
+			"svensson"
+			{
+				"gid" "BA7A5063E506274EEAB1CF33B76036DD"
+				"size" "D3CB94CD2D31708215357C0D49FB7B4C"
+				"download" "8E5348D8C852F4CE280D687C389AD002"
+			}
+			"development"
+			{
+				"gid" "30F26357910ACE0A685AB632803CBC1E"
+				"size" "BF340BB8A86EFF35B6F1CEC2ED3EC2A4"
+				"download" "E4FB27671E42AB80FF6642387BD4D830"
+			}
+			"gz_friends"
+			{
+				"gid" "7D222569EB4B4A9FE42BDFB565E9F016"
+				"size" "ADBFD4B8F24AC6D308004A2BBC097BA7"
+				"download" "C2AD58E377DB37B5D4B78FA8C379FCDE"
+			}
+			"gz_rm"
+			{
+				"gid" "D0DCBBD25945E8866BED2685178E0017"
+				"size" "F89D8FEDA85B8F88361638F653F37DA2"
+				"download" "F4B2B78D6F6182FB80A143F8739A401F"
+			}
+			"gz_test"
+			{
+				"gid" "F087F919E6BD3CACCD4522EA08F36078"
+				"size" "7713DC180D53FF6093899E9B451CDEA0"
+				"download" "481B304D545EEBF5581E55C5BBE61B6A"
+			}
+			"localization"
+			{
+				"gid" "F7C6D41181435AF82F866534FDF28677"
+				"size" "5C160F4BC8F840B385FE90F11804EDFA"
+				"download" "A5170B8FAE506FD329FCE7854D4E75FF"
+			}
+			"marketing"
+			{
+				"gid" "E6F574C0FA712D872354F352985CAEEC"
+				"size" "8E46AE0F4A4BF12687D40E160A4AB22E"
+				"download" "6F911BE3D982251DDB1FFB86AE1933E6"
+			}
+			"qa_1"
+			{
+				"gid" "0CF4CA367958AC9295F9AA1743B85B21"
+				"size" "C70E0AF599868D8C68D3A45FF4B54631"
+				"download" "A54097E211833619F0728A49F5F96557"
+			}
+			"qa_2"
+			{
+				"gid" "E4293F87396AB1FC24B3C149811FCDAD"
+				"size" "0FA3AD9A2C5FB5392912487DC684D6D1"
+				"download" "D18BF77121A2D36B94A82B56FB9407C3"
+			}
+			"qa_3"
+			{
+				"gid" "81C07392201BAA5AB932816CCE9A5C9B"
+				"size" "85DB6AF7F7BFB03E22C9A6F4400F8BDD"
+				"download" "BDF82E9345A3E03B77078A5F8D5575CE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13776419"
+			"timeupdated" "1711533659"
+		}
+		"apex"
+		{
+			"buildid" "9146067"
+			"pwdrequired" "1"
+			"timeupdated" "1658222385"
+		}
+		"baseline"
+		{
+			"buildid" "3518520"
+			"pwdrequired" "1"
+			"timeupdated" "1549272136"
+		}
+		"code_01"
+		{
+			"buildid" "11184416"
+			"pwdrequired" "1"
+			"timeupdated" "1683633617"
+		}
+		"design_review"
+		{
+			"buildid" "12498620"
+			"pwdrequired" "1"
+			"timeupdated" "1698045860"
+		}
+		"gz_ur_external"
+		{
+			"buildid" "12431825"
+			"pwdrequired" "1"
+			"timeupdated" "1698922364"
+		}
+		"gz_ur_test"
+		{
+			"buildid" "8687933"
+			"pwdrequired" "1"
+			"timeupdated" "1651823189"
+		}
+		"hw_vendors"
+		{
+			"buildid" "4756716"
+			"pwdrequired" "1"
+			"timeupdated" "1583750303"
+		}
+		"marketing_2"
+		{
+			"buildid" "13776419"
+			"pwdrequired" "1"
+			"timeupdated" "1711458977"
+		}
+		"svensson"
+		{
+			"buildid" "5627615"
+			"pwdrequired" "1"
+			"timeupdated" "1601638601"
+		}
+		"development"
+		{
+			"buildid" "14640363"
+			"pwdrequired" "1"
+			"timeupdated" "1718006610"
+		}
+		"gz_friends"
+		{
+			"buildid" "14569193"
+			"pwdrequired" "1"
+			"timeupdated" "1717401774"
+		}
+		"gz_rm"
+		{
+			"buildid" "14640363"
+			"pwdrequired" "1"
+			"timeupdated" "1718026707"
+		}
+		"gz_test"
+		{
+			"buildid" "14390276"
+			"pwdrequired" "1"
+			"timeupdated" "1715869651"
+		}
+		"localization"
+		{
+			"buildid" "14463350"
+			"pwdrequired" "1"
+			"timeupdated" "1716444399"
+		}
+		"marketing"
+		{
+			"buildid" "14463350"
+			"pwdrequired" "1"
+			"timeupdated" "1716468919"
+		}
+		"qa_1"
+		{
+			"buildid" "14640363"
+			"pwdrequired" "1"
+			"timeupdated" "1717769430"
+		}
+		"qa_2"
+		{
+			"buildid" "14684605"
+			"pwdrequired" "1"
+			"timeupdated" "1718178784"
+		}
+		"qa_3"
+		{
+			"buildid" "13776419"
+			"pwdrequired" "1"
+			"timeupdated" "1717148904"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Avalanche Studios/GenerationZero/Saves/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23935633"
+"_sha" "0fccb162ced8af266e7da79019eb138e16385b63"
+"_size" "17003"
