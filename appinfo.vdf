@@ -1,0 +1,1008 @@
+"appid" "1127500"
+"common"
+{
+	"name" "Mini Motorways"
+	"type" "Game"
+	"icon" "567195f974791f4082704682b431e2a2ff358ff9"
+	"logo" "ad4056adba51bd92206011b6b10bc8666ec58d87"
+	"logo_small" "ad4056adba51bd92206011b6b10bc8666ec58d87_thumb"
+	"clienticon" "2579657a784bfa72789388d1600d6cda96a4aa23"
+	"clienttga" "ff6a343605c53756e08a3bb3f3afd3d211991a3d"
+	"linuxclienticon" "3020a16a759d20d3eea04c7a8409948cf7f2831e"
+	"clienticns" "99f9ea70c058580ba0d6db33db90eca9db963cc0"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "7547337"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Mini Motorways"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.85883672487495"
+			"height_pct" "72.79743528853001"
+		}
+	}
+	"store_asset_mtime" "1667780939"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dinosaur Polo Club"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dinosaur Polo Club"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1626792743"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/mini-motorways\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1127500"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "597"
+		"3" "492"
+		"4" "12472"
+		"5" "4094"
+		"6" "1664"
+		"7" "1654"
+		"8" "10383"
+		"9" "1643"
+		"10" "4252"
+		"11" "4182"
+		"12" "4791"
+		"13" "5411"
+		"14" "4328"
+		"15" "5350"
+		"16" "1756"
+		"17" "8945"
+		"18" "25085"
+		"19" "3859"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Dinosaur Polo Club"
+	"publisher" "Dinosaur Polo Club"
+	"homepage" "https://dinopoloclub.com/"
+}
+"config"
+{
+	"installdir" "Mini Motorways"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mini Motorways.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Mini Motorways.app/Contents/MacOS/Mini Motorways"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian"
+	"1127501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3298530745439219511"
+				"size" "211220581"
+				"download" "138455936"
+			}
+			"1.12_aurora_borealis"
+			{
+				"gid" "325012004176255820"
+				"size" "229472144"
+				"download" "140704496"
+			}
+			"1.10_endless_expert"
+			{
+				"gid" "5639111916594631275"
+				"size" "224035834"
+				"download" "138275168"
+			}
+			"1.11_miniversary"
+			{
+				"gid" "2845776647361762882"
+				"size" "228740219"
+				"download" "140050032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-testing"
+			{
+				"gid" "6C30A20F1AADD14FC81DF5D74C8F52AE"
+				"size" "62A2466D9464D7A78BC9A790BB7AAF22"
+				"download" "3DD6BD7314193607AA1229A76DC1095F"
+			}
+			"internal"
+			{
+				"gid" "B5407044B3CCD967CA4F696CA2CD0634"
+				"size" "D7F37DC35FCF7D4BA1A0D0EA7D097898"
+				"download" "DDA2B9F9DCF39A510604023F8667E323"
+			}
+			"internal-dev"
+			{
+				"gid" "ED954B0194F326AEF0479706452DEDED"
+				"size" "1C1A0C31300E0E6F54E201ABEAADDDC9"
+				"download" "396241720A7E524E76635CDB3E0FD612"
+			}
+			"internal-release"
+			{
+				"gid" "3AAD1C80C6BFF845A7C2CFE89AA82F02"
+				"size" "238ED053788CE1E4BE82C0582486F678"
+				"download" "467040C9BD895B011E55A3E81679B526"
+			}
+			"marketing"
+			{
+				"gid" "C574BF261CE26FC9D5396A23B3D3BEE5"
+				"size" "9D3E584318851B9F45E76221BF863E28"
+				"download" "F5C8128F7727523CF61AAC03663E4EA8"
+			}
+			"mindthegap"
+			{
+				"gid" "1D25908A974497EE65AD34BBF3FE6A49"
+				"size" "A73252D339F64AB3A8C4E1C6C994122A"
+				"download" "28121CFB6E6A3611DEFAC03FB93488F6"
+			}
+			"nightly"
+			{
+				"gid" "2BA1C77DF9C0114D7FD61EA598587117"
+				"size" "AEFEE476562796834B8FD475AC0AB6BB"
+				"download" "5195514CDD182C1BC9E09DF1C8B340B0"
+			}
+			"nightly-marketing"
+			{
+				"gid" "9A9E008782F3D16F0FCE091D04A5B873"
+				"size" "7EED2021D1F1678324F7C80B965E095D"
+				"download" "34353E9FF75152D0C6AC6D39C05E7493"
+			}
+			"press"
+			{
+				"gid" "ABFFB558316BE5B06EF3A0AD0AEFA953"
+				"size" "2B4233F8287BB8810BEEC769EE820CB4"
+				"download" "5D0A63B9EFD6B065CFA0BAD3DFD585D1"
+			}
+			"previously-live"
+			{
+				"gid" "833F85B0911DA744AE6F986C04AA5F07"
+				"size" "72F7F13E55A31875B1B0E43C884161B7"
+				"download" "1F6001982CA0A0B8763B49E627F0C888"
+			}
+			"qa-testing"
+			{
+				"gid" "270E4D2CC0ABB2CCAB0470087542F72C"
+				"size" "1048989B5669DAF1450CFF149AB7F856"
+				"download" "2BFBD38E5DB3C8D2FE2E7FA572AA021B"
+			}
+			"staging"
+			{
+				"gid" "2F62088D0EDF79F6D225C85F9A0F0E90"
+				"size" "F0CB75F8EA9BDBA6E65EC3162EEDD24F"
+				"download" "69F5A56BCE965CE7F36C7B91072F799B"
+			}
+		}
+	}
+	"1127502"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5654666692623627303"
+				"size" "250983532"
+				"download" "145737328"
+			}
+			"1.12_aurora_borealis"
+			{
+				"gid" "3507045339804861328"
+				"size" "240560277"
+				"download" "141967088"
+			}
+			"1.10_endless_expert"
+			{
+				"gid" "4176864338619032587"
+				"size" "234819646"
+				"download" "139464256"
+			}
+			"1.11_miniversary"
+			{
+				"gid" "5817271829161117709"
+				"size" "239735568"
+				"download" "141301600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-testing"
+			{
+				"gid" "B21B3433BB19581973A4EFE434135FF7"
+				"size" "C391E9DC49ECA850CA0EC6C0C7D223F0"
+				"download" "22A7A044439226B3C01B40C370ED94F0"
+			}
+			"internal"
+			{
+				"gid" "E8B752D7C3A49D57105FEFA747E46075"
+				"size" "AC3B93E2C5D885A2D81048F8E480C656"
+				"download" "EF9A7CAEBF36267FD6644EA88809A403"
+			}
+			"internal-dev"
+			{
+				"gid" "74A465947ACD4071F10D280C94F2B1C5"
+				"size" "0D811CE66744034EA6ADE808F7BFBF0B"
+				"download" "7AF19EBA22F83E9C7CCEF19FF786D901"
+			}
+			"internal-release"
+			{
+				"gid" "5C0FD6FA79F385C2BAD63F7E84520EE2"
+				"size" "83DEBBCC5265E4FA441D18304583A12C"
+				"download" "AA8EAD3C9C55C9F9AD8F9FBC9E8F8856"
+			}
+			"marketing"
+			{
+				"gid" "5B1AD0ACCE57E76ACB3851F6837CFFA9"
+				"size" "0770B7DDF68AD1EEB2CC425F5340344D"
+				"download" "B61DFEC23F9AEA9DDA771C1C642C8026"
+			}
+			"mindthegap"
+			{
+				"gid" "3160D294B5B6FDC8A35D06317150DBC4"
+				"size" "561B5FFC5A936ABA7C8DDB510A820A5C"
+				"download" "1A59F1354AF84D1FD40904E1768959DD"
+			}
+			"nightly"
+			{
+				"gid" "E3F49E6BABA48B4B0ABB59D1355ADB0A"
+				"size" "7E2680D0497A0C499DD83681E2AF4EF4"
+				"download" "47A3933D04689DF47D1B61DE5D90FF8A"
+			}
+			"nightly-marketing"
+			{
+				"gid" "AD48D3EE68C84F53770A628D16517B8D"
+				"size" "6396DB5DA917543F4B503719E098B257"
+				"download" "862C22155434DEA16003D5A597196E70"
+			}
+			"press"
+			{
+				"gid" "7D0F6E7661E3C44731AA4CCBA0B7951C"
+				"size" "471D1F1E4EF673D28F9B69A368AB4253"
+				"download" "07B5C99CB431A40A8DED322DC81D7238"
+			}
+			"previously-live"
+			{
+				"gid" "2C34E430E721FFA9DE7BFE21B53BD4D9"
+				"size" "9F44D3766623D7F99645878FA9C975CE"
+				"download" "1A56108016412C56592C5B30579EFEC5"
+			}
+			"qa-testing"
+			{
+				"gid" "16B58874A753B9D5E79060497B8E108D"
+				"size" "9E914D381B72EDFD87BE0503709C4324"
+				"download" "B29B4A1F04919F436E67A3686702E061"
+			}
+			"staging"
+			{
+				"gid" "B5F39D5C8852AA85219403E20B4F5DEF"
+				"size" "5BAD499C4CED49D54CC87FE11B9B406B"
+				"download" "4A4B3DA630689D3ED77BCDFAE0B9C5E7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14621867"
+			"timeupdated" "1717718121"
+		}
+		"1.12_aurora_borealis"
+		{
+			"buildid" "12945442"
+			"description" "A snapshot of the game for the Aurora Borealis update"
+			"timeupdated" "1718077841"
+		}
+		"beta-testing"
+		{
+			"buildid" "13866384"
+			"pwdrequired" "1"
+			"timeupdated" "1711578731"
+		}
+		"1.10_endless_expert"
+		{
+			"buildid" "11143143"
+			"description" "A snapshot of the game for the Endless and Expert Patch Update"
+			"timeupdated" "1689808314"
+		}
+		"1.11_miniversary"
+		{
+			"buildid" "11742016"
+			"description" "A snapshot of the game for the Miniversary Update"
+			"timeupdated" "1695951991"
+		}
+		"internal"
+		{
+			"buildid" "13503100"
+			"pwdrequired" "1"
+			"timeupdated" "1708394345"
+		}
+		"internal-dev"
+		{
+			"buildid" "13640203"
+			"pwdrequired" "1"
+			"timeupdated" "1709601816"
+		}
+		"internal-release"
+		{
+			"buildid" "14621867"
+			"pwdrequired" "1"
+			"timeupdated" "1717710436"
+		}
+		"marketing"
+		{
+			"buildid" "12945442"
+			"pwdrequired" "1"
+			"timeupdated" "1708022622"
+		}
+		"mindthegap"
+		{
+			"buildid" "12203166"
+			"pwdrequired" "1"
+			"timeupdated" "1694827136"
+		}
+		"nightly"
+		{
+			"buildid" "14706791"
+			"pwdrequired" "1"
+			"timeupdated" "1718288954"
+		}
+		"nightly-marketing"
+		{
+			"buildid" "14709099"
+			"pwdrequired" "1"
+			"timeupdated" "1718302480"
+		}
+		"press"
+		{
+			"buildid" "14711918"
+			"pwdrequired" "1"
+			"timeupdated" "1718328983"
+		}
+		"previously-live"
+		{
+			"buildid" "14607839"
+			"pwdrequired" "1"
+			"timeupdated" "1717722220"
+		}
+		"qa-testing"
+		{
+			"buildid" "14621867"
+			"pwdrequired" "1"
+			"timeupdated" "1717710449"
+		}
+		"staging"
+		{
+			"buildid" "14711918"
+			"pwdrequired" "1"
+			"timeupdated" "1718321874"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Beijing"
+				"#city_tokyo" "Tokyo"
+				"#city_london" "London"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "New York City"
+				"#city_dar_es_salaam" "Dar es Salaam"
+				"#city_moscow" "Moscow"
+				"#city_munich" "Munich"
+				"#city_zurich" "Zürich"
+				"#city_manila" "Manila"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubai"
+				"#city_mexico_city" "Mexico City"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Warsaw"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lisbon"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavík"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Designing the roads of {#City_%city%}"
+				"#modedailychallenge" "Competing in the {#City_%city%} Daily Challenge"
+				"#modeweeklychallenge" "Competing in the {#City_%city%} Weekly Challenge"
+			}
+		}
+		"arabic"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "ﻟﻮﺱ ﺃﻧﺠﻠﻮﺱ"
+				"#city_beijing" "ﺑﻜﻴﻦ"
+				"#city_tokyo" "ﻃﻮﻛﻴﻮ"
+				"#city_london" "ﻟﻨﺪﻥ"
+				"#city_mumbai" "ﻣﻮﻣﺒﺎﻱ"
+				"#city_new_york_city" "ﻣﺪﻳﻨﺔ ﻧﻴﻮﻳﻮﺭﻙ"
+				"#city_dar_es_salaam" "ﺩﺍﺭ ﺍﻟﺴﻼﻡ"
+				"#city_moscow" "ﻣﻮﺳﻜﻮ"
+				"#city_munich" "ﻣﻴﻮﻧﺦ"
+				"#city_zurich" "ﺯﻳﻮﺭﺥ"
+				"#city_manila" "ﻣﺎﻧﻴﻼ"
+				"#city_rio_de_janeiro" "ﺭﻳﻮ ﺩﻱ ﺟﺎﻧﻴﺮﻭ"
+				"#city_dubai" "ﺩﺑﻲ"
+				"#city_mexico_city" "ﻣﻜﺴﻴﻜﻮ ﺳﻴﺘﻲ"
+				"#city_wellington" "ﻭﻳﻠﻴﻨﻐﺘﻮﻥ"
+				"#city_warsaw" "ﻭﺍﺭﺳﻮ"
+				"#city_chiang_mai" "ﺗﺸﻴﺎﻧﻎ ﻣﺎﻱ"
+				"#city_lisbon" "ﻟﺸﺒﻮﻧﺔ"
+				"#city_busan" "ﺑﻮﺳﺎﻥ"
+				"#city_reykjavik" "ﺭﻳﻜﻴﺎﻓﻴﻚ"
+				"#city_vancouver" "فانكوفر"
+				"#modecity" "ﺗﺼﻤﻴﻢ ﻃﺮﻕ {#City_%city%}"
+				"#modedailychallenge" "ﺍﻟﻤﻨﺎﻓﺴﺔ ﻓﻲ ﺗﺤﺪﻱ {#City_%city%} ﺍﻟﻴﻮﻣﻲ"
+				"#modeweeklychallenge" "ﺍﻟﻤﻨﺎﻓﺴﺔ ﻓﻲ ﺗﺤﺪﻱ {#City_%city%} ﺍﻷﺳﺒﻮﻋﻲ"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Peking"
+				"#city_tokyo" "Tokio"
+				"#city_london" "London"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "New York City"
+				"#city_dar_es_salaam" "Daressalam"
+				"#city_moscow" "Moskau"
+				"#city_munich" "München"
+				"#city_zurich" "Zürich"
+				"#city_manila" "Manila"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubai"
+				"#city_mexico_city" "Mexiko-Stadt"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Warschau"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lissabon"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavík"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Die Straßen von {#City_%city%} designen"
+				"#modedailychallenge" "In der täglichen Herausforderung von {#City_%city%} teilnehmen"
+				"#modeweeklychallenge" "In der wöchentlichen Herausforderung von {#City_%city%} teilnehmen"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Ángeles"
+				"#city_beijing" "Pekín"
+				"#city_tokyo" "Tokio"
+				"#city_london" "Londres"
+				"#city_mumbai" "Bombay"
+				"#city_new_york_city" "Nueva York"
+				"#city_dar_es_salaam" "Dar es-Salam"
+				"#city_moscow" "Moscú"
+				"#city_munich" "Múnich"
+				"#city_zurich" "Zúrich"
+				"#city_manila" "Manila"
+				"#city_rio_de_janeiro" "Río de Janeiro"
+				"#city_dubai" "Dubái"
+				"#city_mexico_city" "Ciudad de México"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Varsovia"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lisboa"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reikiavik"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Diseñar las carreteras de {#City_%city%}"
+				"#modedailychallenge" "Competir en el reto diario de {#City_%city%}"
+				"#modeweeklychallenge" "Competir en el reto semanal de {#City_%city%}"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Pékin"
+				"#city_tokyo" "Tokyo"
+				"#city_london" "Londres"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "New York"
+				"#city_dar_es_salaam" "Dar es Salam"
+				"#city_moscow" "Moscou"
+				"#city_munich" "Munich"
+				"#city_zurich" "Zurich"
+				"#city_manila" "Manille"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubaï"
+				"#city_mexico_city" "Mexico"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Varsovie"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lisbonne"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavik"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Dessine les routes de {#City_%city%}"
+				"#modedailychallenge" "Participe au défi quotidien de {#City_%city%}"
+				"#modeweeklychallenge" "Participe au défi hebdomadaire de {#City_%city%}"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Pechino"
+				"#city_tokyo" "Tokyo"
+				"#city_london" "Londra"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "New York"
+				"#city_dar_es_salaam" "Dar es Salaam"
+				"#city_moscow" "Mosca"
+				"#city_munich" "Monaco"
+				"#city_zurich" "Zurigo"
+				"#city_manila" "Manila"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubai"
+				"#city_mexico_city" "Città del Messico"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Varsavia"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lisbona"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavík"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Progettando le strade di {#City_%city%}"
+				"#modedailychallenge" "Partecipando alla sfida giornaliera di {#City_%city%}"
+				"#modeweeklychallenge" "Partecipando alla sfida settimanale di {#City_%city%}"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "ロサンゼルス"
+				"#city_beijing" "北京"
+				"#city_tokyo" "東京"
+				"#city_london" "ロンドン"
+				"#city_mumbai" "ムンバイ"
+				"#city_new_york_city" "ニューヨーク"
+				"#city_dar_es_salaam" "ダルエスサラーム"
+				"#city_moscow" "モスクワ"
+				"#city_munich" "ミュンヘン"
+				"#city_zurich" "チューリッヒ"
+				"#city_manila" "マニラ"
+				"#city_rio_de_janeiro" "リオデジャネイロ"
+				"#city_dubai" "ドバイ"
+				"#city_mexico_city" "メキシコシティ"
+				"#city_wellington" "ウェリントン"
+				"#city_warsaw" "ワルシャワ"
+				"#city_chiang_mai" "チェンマイ"
+				"#city_lisbon" "リスボン"
+				"#city_busan" "釜山"
+				"#city_reykjavik" "レイキャビク"
+				"#city_vancouver" "バンクーバー"
+				"#modecity" "{#City_%city%} の道路をデザイン"
+				"#modedailychallenge" "{#City_%city%} デイリーチャレンジに挑戦"
+				"#modeweeklychallenge" "{#City_%city%} ウィークリーチャレンジに挑戦"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "로스앤젤레스"
+				"#city_beijing" "베이징"
+				"#city_tokyo" "도쿄"
+				"#city_london" "런던"
+				"#city_mumbai" "뭄바이"
+				"#city_new_york_city" "뉴욕"
+				"#city_dar_es_salaam" "다르에스살람"
+				"#city_moscow" "모스크바"
+				"#city_munich" "뮌헨"
+				"#city_zurich" "취리히"
+				"#city_manila" "마닐라"
+				"#city_rio_de_janeiro" "리우데자네이루"
+				"#city_dubai" "두바이"
+				"#city_mexico_city" "멕시코시티"
+				"#city_wellington" "웰링턴"
+				"#city_warsaw" "바르샤바"
+				"#city_chiang_mai" "치앙마이"
+				"#city_lisbon" "리스본"
+				"#city_busan" "부산"
+				"#city_reykjavik" "레이캬비크"
+				"#city_vancouver" "밴쿠버"
+				"#modecity" "{#City_%city%}의 도로 설계"
+				"#modedailychallenge" "{#City_%city%} 일간 챌린지 완료"
+				"#modeweeklychallenge" "{#City_%city%} 주간 챌린지 완료"
+			}
+		}
+		"dutch"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Peking"
+				"#city_tokyo" "Tokio"
+				"#city_london" "Londen"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "New York"
+				"#city_dar_es_salaam" "Dar es Salaam"
+				"#city_moscow" "Moskou"
+				"#city_munich" "München"
+				"#city_zurich" "Zürich"
+				"#city_manila" "Manilla"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubai"
+				"#city_mexico_city" "Mexico City"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Warschau"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lissabon"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavik"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Ontwerp de wegen van {#City_%city%}"
+				"#modedailychallenge" "Ga de uitdaging van de dag aan in {#City_%city%}"
+				"#modeweeklychallenge" "Ga de uitdaging van de week aan in {#City_%city%}"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Pequim"
+				"#city_tokyo" "Tóquio"
+				"#city_london" "Londres"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "Nova York"
+				"#city_dar_es_salaam" "Dar es Salaam"
+				"#city_moscow" "Moscou"
+				"#city_munich" "Munique"
+				"#city_zurich" "Zurique"
+				"#city_manila" "Manila"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubai"
+				"#city_mexico_city" "Cidade do México"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Varsóvia"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lisboa"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavík"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "Desenhando as ruas de {#City_%city%}"
+				"#modedailychallenge" "Competindo no desafio diário de {#City_%city%}"
+				"#modeweeklychallenge" "Competindo no desafio semanal de {#City_%city%}"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Лос-Анджелес"
+				"#city_beijing" "Пекин"
+				"#city_tokyo" "Токио"
+				"#city_london" "Лондон"
+				"#city_mumbai" "Мумбаи"
+				"#city_new_york_city" "Нью-Йорк"
+				"#city_dar_es_salaam" "Дар-эс-Салам"
+				"#city_moscow" "Москва"
+				"#city_munich" "Мюнхен"
+				"#city_zurich" "Цюрих"
+				"#city_manila" "Манила"
+				"#city_rio_de_janeiro" "Рио-де-Жанейро"
+				"#city_dubai" "Дубай"
+				"#city_mexico_city" "Мехико"
+				"#city_wellington" "Веллингтон"
+				"#city_warsaw" "Варшава"
+				"#city_chiang_mai" "Чиангмай"
+				"#city_lisbon" "Лиссабон"
+				"#city_busan" "Пусан"
+				"#city_reykjavik" "Рейкьявик"
+				"#city_vancouver" "Ванкувер"
+				"#modecity" "Планирование дорог: {#City_%city%}"
+				"#modedailychallenge" "Завершение ежедневного челленджа: {#City_%city%}"
+				"#modeweeklychallenge" "Завершение еженедельного челленджа: {#City_%city%}"
+			}
+		}
+		"turkish"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "Los Angeles"
+				"#city_beijing" "Pekin"
+				"#city_tokyo" "Tokyo"
+				"#city_london" "Londra"
+				"#city_mumbai" "Mumbai"
+				"#city_new_york_city" "New York City"
+				"#city_dar_es_salaam" "Darüsselam"
+				"#city_moscow" "Moskova"
+				"#city_munich" "Münih"
+				"#city_zurich" "Zürih"
+				"#city_manila" "Manila"
+				"#city_rio_de_janeiro" "Rio de Janeiro"
+				"#city_dubai" "Dubai"
+				"#city_mexico_city" "Meksiko"
+				"#city_wellington" "Wellington"
+				"#city_warsaw" "Varşova"
+				"#city_chiang_mai" "Chiang Mai"
+				"#city_lisbon" "Lizbon"
+				"#city_busan" "Busan"
+				"#city_reykjavik" "Reykjavik"
+				"#city_vancouver" "Vancouver"
+				"#modecity" "{#City_%city%} şehrinin yollarını tasarlama"
+				"#modedailychallenge" "{#City_%city%} Günlük Görevine Katılım"
+				"#modeweeklychallenge" "{#City_%city%} Haftalık Görevine Katılım"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "洛杉矶"
+				"#city_beijing" "北京"
+				"#city_tokyo" "东京"
+				"#city_london" "伦敦"
+				"#city_mumbai" "孟买"
+				"#city_new_york_city" "纽约"
+				"#city_dar_es_salaam" "达累斯萨拉姆"
+				"#city_moscow" "莫斯科"
+				"#city_munich" "慕尼黑"
+				"#city_zurich" "苏黎世"
+				"#city_manila" "马尼拉"
+				"#city_rio_de_janeiro" "里约热内卢"
+				"#city_dubai" "迪拜"
+				"#city_mexico_city" "墨西哥城"
+				"#city_wellington" "惠灵顿"
+				"#city_warsaw" "华沙"
+				"#city_chiang_mai" "清迈"
+				"#city_lisbon" "里斯本"
+				"#city_busan" "釜山"
+				"#city_reykjavik" "雷克雅未克"
+				"#city_vancouver" "温哥华"
+				"#modecity" "设计{#City_%city%}的公路网"
+				"#modedailychallenge" "在{#City_%city%}完成每日挑战"
+				"#modeweeklychallenge" "在{#City_%city%}完成每周挑战"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#city_los_angeles" "洛杉磯"
+				"#city_beijing" "北京"
+				"#city_tokyo" "東京"
+				"#city_london" "倫敦"
+				"#city_mumbai" "孟買"
+				"#city_new_york_city" "紐約市"
+				"#city_dar_es_salaam" "三蘭港"
+				"#city_moscow" "莫斯科"
+				"#city_munich" "慕尼黑"
+				"#city_zurich" "蘇黎世"
+				"#city_manila" "馬尼拉"
+				"#city_rio_de_janeiro" "里約熱內盧"
+				"#city_dubai" "杜拜"
+				"#city_mexico_city" "墨西哥城"
+				"#city_wellington" "威靈頓"
+				"#city_warsaw" "華沙"
+				"#city_chiang_mai" "清邁"
+				"#city_lisbon" "里斯本"
+				"#city_busan" "釜山"
+				"#city_reykjavik" "雷克雅維克"
+				"#city_vancouver" "溫哥華"
+				"#modecity" "設計{#City_%city%}的路網"
+				"#modedailychallenge" "完成{#City_%city%}的每日挑戰"
+				"#modeweeklychallenge" "完成{#City_%city%}的每周挑戰"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23965645"
+"_sha" "946820dea89b7af9fdc600ea0ea3a2d1f92183e8"
+"_size" "26773"
