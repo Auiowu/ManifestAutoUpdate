@@ -1,0 +1,528 @@
+"appid" "1307890"
+"common"
+{
+	"name" "Kingdoms Reborn"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "c3f94bfe90b72d45ffd81875b3017a6a66191d14"
+	"logo" "0f40d100b093245fc871030df107be73321579ca"
+	"logo_small" "0f40d100b093245fc871030df107be73321579ca_thumb"
+	"clienttga" "83a68a07e8bbe38515ae152bd82eca419f80212c"
+	"clienticon" "052d7ca084dd78eb18f3f3f0d8eb69a55c422e32"
+	"name_localized"
+	{
+		"schinese" "Kingdoms Reborn 王国重生"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1662076800"
+		"tested_build_id" "8337697"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "68.90139399748395"
+			"height_pct" "78.25268416224371"
+		}
+	}
+	"store_asset_mtime" "1709117900"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Earthshine"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Earthshine"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1604389837"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1307890"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "7332"
+		"2" "220585"
+		"3" "3859"
+		"4" "12472"
+		"5" "9"
+		"6" "4172"
+		"7" "1685"
+		"8" "4695"
+		"9" "8945"
+		"10" "599"
+		"11" "493"
+		"12" "1775"
+		"13" "4182"
+		"14" "1643"
+		"15" "1676"
+		"16" "5125"
+		"17" "1695"
+		"18" "1662"
+		"19" "1666"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Earthshine"
+	"publisher" "Earthshine"
+	"homepage" "https://kingdomsreborn.com/"
+}
+"config"
+{
+	"installdir" "Kingdoms Reborn"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KingdomsReborn.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"1307891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1849308876690562207"
+				"size" "3994245037"
+				"download" "3446657520"
+			}
+			"old_patch_coop"
+			{
+				"gid" "7779586017453225194"
+				"size" "2773165202"
+				"download" "2327313984"
+			}
+			"old_patch_japan"
+			{
+				"gid" "8760460235312951170"
+				"size" "2902142465"
+				"download" "2440473008"
+			}
+			"old_patch_viking"
+			{
+				"gid" "4985099036882136723"
+				"size" "2176669978"
+				"download" "1749678128"
+			}
+			"old_update"
+			{
+				"gid" "2307735569543665341"
+				"size" "1804825304"
+				"download" "1593797968"
+			}
+			"stable"
+			{
+				"gid" "1849308876690562207"
+				"size" "3994245037"
+				"download" "3446657520"
+			}
+			"test"
+			{
+				"gid" "1849308876690562207"
+				"size" "3994245037"
+				"download" "3446657520"
+			}
+			"test2"
+			{
+				"gid" "1849308876690562207"
+				"size" "3994245037"
+				"download" "3446657520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"desynccheck18"
+			{
+				"gid" "616F69302C014301B603EC54FDC32107"
+				"size" "DE268E94F59DA041642DB6125FC41814"
+				"download" "A87C31765F6D8247F7885BB94268BC93"
+			}
+			"desynccheck19"
+			{
+				"gid" "5E29FA74ADF118CD81B0DA1D3F581835"
+				"size" "ACC21D3A34251F3540E0810CB3E1833C"
+				"download" "9340BD48D54E7AEC1BA33F20B4233321"
+			}
+			"japanbetainternal2"
+			{
+				"gid" "10C8D3E7780537AF3AD83DA0A5DC622F"
+				"size" "A18011B0011D2279D0508CCBDC20A587"
+				"download" "C1F9570688210FFD76C67FC5010356B1"
+			}
+			"japan_beta_internal"
+			{
+				"gid" "97A80A51448F680FF0DDDA4B2A59DF63"
+				"size" "5DAA2B56AC15FBF8F1D81D661F4B4BE4"
+				"download" "690066BA91DD2E55986F3F976DFDE220"
+			}
+			"kingdomsreborn1"
+			{
+				"gid" "3BC713A3C6E65E9B31892763ABC220A1"
+				"size" "9BE7CFC440E1A00F3BCCE35C34A90948"
+				"download" "402270B71850AF5D976A734F4776A82E"
+			}
+			"kingdomsreborn2"
+			{
+				"gid" "F35F456B73FB36CBDE663578B7AE1EEC"
+				"size" "497030BC6D707A0BB0106F418A77A25C"
+				"download" "70CDA1AE05D122AC07C96651721EDF92"
+			}
+			"kingdomsreborn3"
+			{
+				"gid" "E412C4126B2084752DB20666ECE1AAA1"
+				"size" "14E93738685C8C553D0668B2603607A2"
+				"download" "21F07A025A55A390384037FD8F577907"
+			}
+			"kingdomsreborn10"
+			{
+				"gid" "9416E967BD608B84E23119D25CBE3972"
+				"size" "CCBB381A895DB38C77349DE65B0D5A28"
+				"download" "CB55A99F9AE4EEE4748A8773490F1CB8"
+			}
+			"kingdomsreborn11"
+			{
+				"gid" "5434EE02E01AE1EAB3EC7498E5DFE200"
+				"size" "85831DCA89F7FF544F42C828996A7D6E"
+				"download" "CDDCAEC62132E81D0F729C7F1EDF09F2"
+			}
+			"kingdomsreborn12"
+			{
+				"gid" "B116D78C0D49654AE6ADA6483717A2AE"
+				"size" "48AFA1231236D36619F20148A196D5CE"
+				"download" "F1C3BFAB5CD1B1C7D8C272512C44F5E0"
+			}
+			"testsavecrash"
+			{
+				"gid" "CD4483FC138ECD25EE0F1CC8A92DE508"
+				"size" "B16FCA25BA5CE9D0BB48CFBDB9EB72E2"
+				"download" "E478E1B02448B7172294AE9103BEBE54"
+			}
+			"testsavecrash3"
+			{
+				"gid" "FED593181133664BBA7304E862BB7D28"
+				"size" "5C2C4A8D6B052630C92595B7B345B73F"
+				"download" "B8CC048EAB4D125AE091694CD9324FCC"
+			}
+			"testsavecrash_justbefore427"
+			{
+				"gid" "774072E01828C4D854C73FEAA6C33843"
+				"size" "88D51F2A49B7D7FB867F5BFFF51B5C83"
+				"download" "063BBCADC153B91C186B745E9595D582"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14491079"
+			"timeupdated" "1716614897"
+		}
+		"desynccheck18"
+		{
+			"buildid" "13668435"
+			"pwdrequired" "1"
+			"timeupdated" "1709875305"
+		}
+		"desynccheck19"
+		{
+			"buildid" "13679573"
+			"pwdrequired" "1"
+			"timeupdated" "1709892381"
+		}
+		"japanbetainternal2"
+		{
+			"buildid" "11270925"
+			"pwdrequired" "1"
+			"timeupdated" "1684492979"
+		}
+		"japan_beta_internal"
+		{
+			"buildid" "11270158"
+			"pwdrequired" "1"
+			"timeupdated" "1684486827"
+		}
+		"kingdomsreborn1"
+		{
+			"buildid" "14476941"
+			"pwdrequired" "1"
+			"timeupdated" "1716519273"
+		}
+		"kingdomsreborn2"
+		{
+			"buildid" "14477427"
+			"pwdrequired" "1"
+			"timeupdated" "1716522931"
+		}
+		"kingdomsreborn3"
+		{
+			"buildid" "14479790"
+			"pwdrequired" "1"
+			"timeupdated" "1716539219"
+		}
+		"kingdomsreborn10"
+		{
+			"buildid" "14481475"
+			"pwdrequired" "1"
+			"timeupdated" "1716548623"
+		}
+		"kingdomsreborn11"
+		{
+			"buildid" "14481720"
+			"pwdrequired" "1"
+			"timeupdated" "1716549610"
+		}
+		"kingdomsreborn12"
+		{
+			"buildid" "14392172"
+			"pwdrequired" "1"
+			"timeupdated" "1715877178"
+		}
+		"old_patch_coop"
+		{
+			"buildid" "11846240"
+			"description" "Old Patch (Co-op)"
+			"timeupdated" "1693887347"
+		}
+		"old_patch_japan"
+		{
+			"buildid" "12391959"
+			"description" "Old Patch (Japan)"
+			"timeupdated" "1708785895"
+		}
+		"old_patch_viking"
+		{
+			"buildid" "10503263"
+			"description" "Old Patch (Viking)"
+			"timeupdated" "1684501748"
+		}
+		"old_update"
+		{
+			"buildid" "8337697"
+			"description" "Old Patch (Emirates)"
+			"timeupdated" "1671175234"
+		}
+		"stable"
+		{
+			"buildid" "14491079"
+			"description" "stable (mostly the same as default branch)"
+			"timeupdated" "1716996933"
+		}
+		"test"
+		{
+			"buildid" "14491079"
+			"description" "Latest Test Branch"
+			"timeupdated" "1716996847"
+		}
+		"test2"
+		{
+			"buildid" "14491079"
+			"description" "2nd Latest Test Branch (if latest has issues)"
+			"timeupdated" "1716996900"
+		}
+		"testsavecrash"
+		{
+			"buildid" "11271959"
+			"pwdrequired" "1"
+			"timeupdated" "1685691633"
+		}
+		"testsavecrash3"
+		{
+			"buildid" "11293494"
+			"pwdrequired" "1"
+			"timeupdated" "1685697766"
+		}
+		"testsavecrash_justbefore427"
+		{
+			"buildid" "11297177"
+			"pwdrequired" "1"
+			"timeupdated" "1685697248"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "PunCity\\Saved\\GameSaves"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23853698"
+"_sha" "18b0dfc7011d56affb4722e2fbd88fb7d856f482"
+"_size" "10504"
