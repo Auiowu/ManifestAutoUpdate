@@ -1,0 +1,391 @@
+"appid" "2064590"
+"common"
+{
+	"name" "Pathfinder: Wrath of the Righteous – The Treasure of the Midnight Isles"
+	"type" "DLC"
+	"parent" "1184370"
+	"releasestate" "released"
+	"icon" "1e29d3edbfcf8f16a9fd9d3b439b4f167c17336d"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"metacritic_name" "Pathfinder: Wrath of the Righteous"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1661250274"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Owlcat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "META Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Owlcat Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Owlcat Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "META Publishing"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1661867972"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/pathfinder-wrath-of-the-righteous\?ftag=MCD-06-10aaa1f"
+	"gameid" "2064590"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "21"
+		"2" "122"
+		"3" "492"
+		"4" "4667"
+	}
+	"review_score" "5"
+	"review_percentage" "47"
+}
+"extended"
+{
+	"dlcforappid" "1184370"
+	"mustownapptopurchase" "1184370"
+	"developer" "Owlcat Games"
+	"publisher" "META Publishing"
+	"homepage" "https://wrath.owlcatgames.com/"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2064590"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "2064590"
+	}
+	"2064591"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2789654037556054543"
+				"size" "8221833710"
+				"download" "6131026272"
+			}
+			"1.4.4g"
+			{
+				"gid" "3242957820682387083"
+				"size" "8506371272"
+				"download" "6203896400"
+			}
+			"2.0.7o"
+			{
+				"gid" "5130176196713219663"
+				"size" "8533639952"
+				"download" "6226168448"
+			}
+			"2.1.5r"
+			{
+				"gid" "8962784871439663991"
+				"size" "8633820802"
+				"download" "6373910816"
+			}
+			"betatest"
+			{
+				"gid" "1731094677398391287"
+				"size" "8696034558"
+				"download" "6378159104"
+			}
+			"2.2.4p"
+			{
+				"gid" "6116944423267907782"
+				"size" "8276151879"
+				"download" "6181450560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alternate_test"
+			{
+				"gid" "673CC9063F8C65ABA7D02FDF72409346"
+				"size" "F40598C1050AD14EBDC4D592CAA59B30"
+				"download" "32E0259C34FA794DCBD8038E8BE8365D"
+			}
+			"media"
+			{
+				"gid" "A77306F0205B0C7B50357402B7D51AE9"
+				"size" "53D90D7AEC82C264422223FA7D34D8F2"
+				"download" "3F289962B08DA62A4BC6E7786D37BF8F"
+			}
+			"mods"
+			{
+				"gid" "A78A57CCA5BEF564C9D54EAD59A726F8"
+				"size" "236485569F6B51D09D7DCBC9B4AF27DC"
+				"download" "6904CFB0BBA13D0015BAB881C8E0497F"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "0B656A04F0D99B5B33068501FD96DF2C"
+				"size" "B6E02140E14ACF0075E210F96D05A87A"
+				"download" "144C044FDCD7E999E0E9F98ACAF5CAFD"
+			}
+			"owlcat-next-test"
+			{
+				"gid" "AC977385340E3FD7EC55F46E11865074"
+				"size" "F901B5BC4157C57F6A424644631F2E3B"
+				"download" "78867BD5BADCA0445A485052ED378B3B"
+			}
+			"owlcat-test"
+			{
+				"gid" "8BC7BBE5505BFF2F4A5E3D33F5C0B1BF"
+				"size" "E9189246824C0C54DF745E4E0DC57ABD"
+				"download" "C6E97E29BBCDD05112698E97EAFFBBCD"
+			}
+		}
+		"dlcappid" "2064590"
+	}
+	"2064592"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4307070273545889580"
+				"size" "8221532226"
+				"download" "6130284400"
+			}
+			"1.4.4g"
+			{
+				"gid" "2956632346182776644"
+				"size" "8506860329"
+				"download" "6203535872"
+			}
+			"2.0.7o"
+			{
+				"gid" "1119229008198465739"
+				"size" "8533437569"
+				"download" "6225968304"
+			}
+			"2.1.5r"
+			{
+				"gid" "7050864475980995197"
+				"size" "8633413471"
+				"download" "6373570000"
+			}
+			"betatest"
+			{
+				"gid" "788357704040771486"
+				"size" "8695860040"
+				"download" "6377977120"
+			}
+			"2.2.4p"
+			{
+				"gid" "2707473710962919183"
+				"size" "8275501732"
+				"download" "6181226112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alternate_test"
+			{
+				"gid" "9EE9A4C87B12425CBD53710E6292A2D0"
+				"size" "3DA5136A7DC4559E065E2F9FBC28E77B"
+				"download" "D99A5BACCB1D3649FA0F3DD0DFCFE253"
+			}
+			"media"
+			{
+				"gid" "5F4A3E486BB9456D0B8CA2D1A71FBAD5"
+				"size" "34505CFD72A999505F419A7A5E2BEB7C"
+				"download" "F989CF760A866C6E1CBF28239F1C1804"
+			}
+			"mods"
+			{
+				"gid" "404EC0D414E0F223B67A35772F46595F"
+				"size" "F4F8F36508B0DEA46FE8257180DC0812"
+				"download" "66F186AAB9D02CFDBAE3004A31DEDF72"
+			}
+			"owlcat-next-debug"
+			{
+				"gid" "DD977D53FBDB897EFE5EF86B950B2B1B"
+				"size" "C1A96D7B3A26DBD416AED95E3CC573ED"
+				"download" "055C7FAB22936850D66EA22D77A4B2AE"
+			}
+			"owlcat-next-test"
+			{
+				"gid" "7D1E4411D5DFA7DAE0D840B2712D803A"
+				"size" "DF19C734B9C793B0124A5880AA9912B8"
+				"download" "1DB6FA987D4318A7CADE2F786BCA3C89"
+			}
+			"owlcat-test"
+			{
+				"gid" "63713A018B4A40CAB3B4C1F020899E9A"
+				"size" "EC8BDF790D832E039D34C8206F3DA33D"
+				"download" "F7C1E49F12B1E6924FC7A53149934135"
+			}
+		}
+		"dlcappid" "2064590"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14706808"
+			"timeupdated" "1718289023"
+		}
+		"1.4.4g"
+		{
+			"buildid" "9568354"
+			"description" "old version 1.4"
+			"timeupdated" "1664362538"
+		}
+		"2.0.7o"
+		{
+			"buildid" "10555983"
+			"description" "old version 2.0"
+			"timeupdated" "1678182254"
+		}
+		"2.1.5r"
+		{
+			"buildid" "11774178"
+			"description" " old version 2.1"
+			"timeupdated" "1700581065"
+		}
+		"alternate_test"
+		{
+			"buildid" "12702492"
+			"pwdrequired" "1"
+			"timeupdated" "1700121813"
+		}
+		"betatest"
+		{
+			"buildid" "10620346"
+			"description" "Betatest version"
+			"timeupdated" "1677159327"
+		}
+		"2.2.4p"
+		{
+			"buildid" "13207260"
+			"description" "old version 2.2"
+			"timeupdated" "1718275979"
+		}
+		"media"
+		{
+			"buildid" "14639175"
+			"pwdrequired" "1"
+			"timeupdated" "1717762556"
+		}
+		"mods"
+		{
+			"buildid" "14560585"
+			"pwdrequired" "1"
+			"timeupdated" "1717158452"
+		}
+		"owlcat-next-debug"
+		{
+			"buildid" "14665385"
+			"pwdrequired" "1"
+			"timeupdated" "1718029233"
+		}
+		"owlcat-next-test"
+		{
+			"buildid" "14664541"
+			"pwdrequired" "1"
+			"timeupdated" "1718025338"
+		}
+		"owlcat-test"
+		{
+			"buildid" "14611122"
+			"pwdrequired" "1"
+			"timeupdated" "1717584600"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23957479"
+"_sha" "c7a4f6de68d40c14aef6d7ae6a93044312b09aba"
+"_size" "7525"
