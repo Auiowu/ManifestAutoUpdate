@@ -1,0 +1,396 @@
+"appid" "1272320"
+"common"
+{
+	"name" "Diplomacy is Not an Option"
+	"type" "Game"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1272320_eula_1"
+			"name" "Diplomacy is Not an Option EULA"
+			"url" "https://store.steampowered.com//eula/1272320_eula_1"
+			"version" "2"
+		}
+	}
+	"logo" "87146fc50e04b07325f2e685d4756d180ab99776"
+	"logo_small" "87146fc50e04b07325f2e685d4756d180ab99776_thumb"
+	"icon" "3a013eec1a7ff2aef7a136a49c340b703ce7aae3"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "3f6a00fbd8921cd0845af2cd96c3247f0863b194"
+	"clienttga" "60619f2565906e004c51d52063b3c4d77dc2548e"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1660780800"
+		"tested_build_id" "1272320"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "27.860661140699705"
+			"height_pct" "60.13278656484087"
+		}
+	}
+	"store_asset_mtime" "1713962255"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Door 407"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Door 407"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1644429337"
+	"community_hub_visible" "1"
+	"gameid" "1272320"
+	"store_tags"
+	{
+		"0" "1676"
+		"1" "3810"
+		"2" "4328"
+		"3" "1645"
+		"4" "9"
+		"5" "7332"
+		"6" "1643"
+		"7" "4182"
+		"8" "1662"
+		"9" "1723"
+		"10" "4172"
+		"11" "21"
+		"12" "12472"
+		"13" "1678"
+		"14" "5125"
+		"15" "4191"
+		"16" "4026"
+		"17" "492"
+		"18" "3993"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Door 407"
+	"publisher" "Door 407"
+}
+"config"
+{
+	"installdir" "Diplomacy is Not an Option"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Diplomacy is Not an Option.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1272321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5040678840610163144"
+				"size" "3290252321"
+				"download" "1088331552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-test"
+			{
+				"gid" "9FA906C1C3A62B16AAB5D2D9CB068823"
+				"size" "A993082A9DF4D91768D104B991F73B76"
+				"download" "8E44A423E3282596F40A1730269BB687"
+			}
+			"internal-test"
+			{
+				"gid" "904DF9F2B2DC95D8340C6B3EE35EBF1E"
+				"size" "BA5E27E1AA33DBEE667FA011CE887852"
+				"download" "EE3D6B646965D5D197A30A2C4E8E7A60"
+			}
+			"playtests"
+			{
+				"gid" "509D61A1C58E16AE505F306BA1076A70"
+				"size" "6F54B502A790C686686119BE4113461E"
+				"download" "37EFBA7D207C5C7BC3F57FD90AB34C87"
+			}
+			"playtests_alter"
+			{
+				"gid" "0A026114E3805643BECA6E301F469D48"
+				"size" "723DD71B9DDA857957C84A2CB2B42072"
+				"download" "9BED5B8BB66F8154D9DB999868E67853"
+			}
+			"pr-preview"
+			{
+				"gid" "6762627B2FDAA47084679F56109FD444"
+				"size" "13E747F1FDED21BBECD4304D3B39DC41"
+				"download" "1B60BE40B671958BAFBBE9E823955499"
+			}
+			"previous-default"
+			{
+				"gid" "7E255C39018B4D7CAADA0B1E65EE0D9D"
+				"size" "F68F8C713CBF8A57F6AD7940A924E710"
+				"download" "662B6A61C784B53B3664AC90C6F85ECE"
+			}
+		}
+	}
+	"2941670"
+	{
+		"dlcappid" "2941670"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6609707324126560425"
+				"size" "650096274"
+				"download" "655652960"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14717476"
+			"timeupdated" "1718361400"
+		}
+		"beta-test"
+		{
+			"buildid" "14420421"
+			"pwdrequired" "1"
+			"timeupdated" "1716137821"
+		}
+		"internal-test"
+		{
+			"buildid" "14455222"
+			"pwdrequired" "1"
+			"timeupdated" "1716383399"
+		}
+		"playtests"
+		{
+			"buildid" "14455222"
+			"pwdrequired" "1"
+			"timeupdated" "1716440867"
+		}
+		"playtests_alter"
+		{
+			"buildid" "14669269"
+			"pwdrequired" "1"
+			"timeupdated" "1718052169"
+		}
+		"pr-preview"
+		{
+			"buildid" "14455222"
+			"pwdrequired" "1"
+			"timeupdated" "1716440875"
+		}
+		"previous-default"
+		{
+			"buildid" "14031912"
+			"pwdrequired" "1"
+			"timeupdated" "1716137560"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Door 407/Diplomacy is Not an Option/DNOPersistentData"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "unity.Door 407.Diplomacy is Not an Option"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23971239"
+"_sha" "75b427ae3d23ac7074e517fa74ae3cb62e8e1901"
+"_size" "7246"
