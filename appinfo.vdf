@@ -1,0 +1,459 @@
+"appid" "1584090"
+"common"
+{
+	"name" "东方夜雀食堂 - Touhou Mystia\'s Izakaya"
+	"type" "Game"
+	"logo" "7a89f9144026aae3dbfe6860ca1e9ab57f20f070"
+	"logo_small" "7a89f9144026aae3dbfe6860ca1e9ab57f20f070_thumb"
+	"icon" "80de67530dfa1caeb41ab1c1252aae8956d8be93"
+	"clienttga" "e08ab913639995026380283ad2e84dc2ff66e1b5"
+	"clienticon" "4ff3144562b059a1e43de75176e87dbf7529ef37"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Touhou Mystia\'s Izakaya"
+		"schinese" "东方夜雀食堂 - Touhou Mystia\'s Izakaya"
+		"tchinese" "東方夜雀食堂 - Touhou Mystia\'s Izakaya"
+		"japanese" "東方夜雀食堂 - Touhou Mystia\'s Izakaya"
+		"koreana" "동방야작식당 -Touhou Mystia\'s Izakaya"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "8217860"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.8709677419355"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708286090"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "二色幽紫蝶"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Re零同人社"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "二色幽紫蝶"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Re零同人社"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "东方Project"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "二色幽紫蝶"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1633082335"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1584090"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "597"
+		"2" "599"
+		"3" "122"
+		"4" "16689"
+		"5" "180368"
+		"6" "1719"
+		"7" "4085"
+		"8" "4434"
+		"9" "3871"
+		"10" "3920"
+		"11" "5984"
+		"12" "379975"
+		"13" "4562"
+		"14" "4845"
+		"15" "1742"
+		"16" "7208"
+		"17" "3916"
+		"18" "6691"
+		"19" "4695"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+	"review_score_bombs" "9"
+	"review_percentage_bombs" "98"
+}
+"extended"
+{
+	"developer" "二色幽紫蝶"
+	"publisher" "二色幽紫蝶"
+	"listofdlc" "1838750,1927110,2122050,2191950,2399330,2399331"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Touhou Mystia Izakaya"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Touhou Mystia Izakaya.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TMI.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1584091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7722972277769182513"
+				"size" "1998697911"
+				"download" "1398907712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"adp_ui_framework_alphatest"
+			{
+				"gid" "A9FC8413D7CBD1579283CD9CD82D6B10"
+				"size" "7370BC3FF71483BDA8C944AE195522E2"
+				"download" "4C29ADCB7C5CFC01FCA18263B3EDA401"
+			}
+			"alphatest_master"
+			{
+				"gid" "3D237E5DE0B3EDC6BC0B7DD3BA869F12"
+				"size" "609A4DA2EB308C017EEC7043AF539E03"
+				"download" "C61E8492FE400C634E933DACDC226030"
+			}
+			"betatest"
+			{
+				"gid" "3EE03CD6CEF566C61CA491614FB1AF54"
+				"size" "01531DAF94961F2A4595589374432FAC"
+				"download" "3663D313399A6716A51142343EB46931"
+			}
+			"mac_os_test"
+			{
+				"gid" "995456D6B48B6566021610CD30097F19"
+				"size" "8C7960A0D4F5C0C69A35D3D94F53D329"
+				"download" "858784C59A13CEF4BF29027DE284E8B3"
+			}
+			"musicgame_alphatest"
+			{
+				"gid" "01063233398C3A3DCA7190F7D0E88B75"
+				"size" "A8BD3B050AAA46378EA09A276B065177"
+				"download" "922EA7A021654DF10C5D2753AFF012BA"
+			}
+			"tranlatorpreview"
+			{
+				"gid" "61528DBAEEF7B7E23ACEEB8057682A04"
+				"size" "718825C896A78E39D8DEE68B3A84682F"
+				"download" "438D59DC54D90FA6F3361914EC2C6581"
+			}
+			"alphatest"
+			{
+				"gid" "5E37086D0192E802D15B04179E352302"
+				"size" "C68E9B78757D5C5DFC2E03AFB5909427"
+				"download" "6DF8073C796A5D56CC9E2CB0649C6E95"
+			}
+			"forkk"
+			{
+				"gid" "A936C1996BC302823842604AEAB3ACDA"
+				"size" "86EE909BB80FAA46C7C277C965FE701E"
+				"download" "37AA8BFFF50A55A9FA482E66BF582678"
+			}
+			"internal"
+			{
+				"gid" "2FB74209CB48359F7FE15C138AF50A78"
+				"size" "64D0526E702B1B7DE0126CC75AFFDDBB"
+				"download" "AE265677B86FE828CE67D7405CA87376"
+			}
+		}
+	}
+	"1584092"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8646082639768104704"
+				"size" "1719910316"
+				"download" "1245952912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"adp_ui_framework_alphatest"
+			{
+				"gid" "D11070B7651E82C754C7D33F32C116E3"
+				"size" "8D4C17670956B50379CDAC0DBC2F546A"
+				"download" "B3B8623112CA27D3E837C553AC768E85"
+			}
+			"alphatest_master"
+			{
+				"gid" "82B9EE3D053540E27E7945AD44C65EF2"
+				"size" "67EBCB271B92C5D252E1A40CDCE938BA"
+				"download" "4EBF2675DA46E85B90A5AA4D44FB9DFA"
+			}
+			"betatest"
+			{
+				"gid" "93C118491FC81E786C760A7DBA743E1B"
+				"size" "7EDA2DA9528CE2F3BC102E6043403253"
+				"download" "76C2974CD01EF118CB478A8ECF3D808E"
+			}
+			"mac_os_test"
+			{
+				"gid" "CBC688D4283DD547CD600A1F962065AA"
+				"size" "5DE9A4BF184B8ACF37D108DD31B7F026"
+				"download" "6F0BC13EDA7D6393F894EA341BFDCC67"
+			}
+			"musicgame_alphatest"
+			{
+				"gid" "5654367F6521D16877EC8CB55F61CBAC"
+				"size" "43B20F149F57513481339D40C74376AA"
+				"download" "3F4AA73A5A819F74DA16A33C602E6590"
+			}
+			"tranlatorpreview"
+			{
+				"gid" "F37807FFC2CB64F65A096E41C5A883A6"
+				"size" "E69E898E1130078A198E823F8E34A116"
+				"download" "49DE21987D582F96E84FE57082FB73C5"
+			}
+			"alphatest"
+			{
+				"gid" "7B2D1EC4D214F1F1DC226A8A35C1C29B"
+				"size" "E0BF92323691D65D890C5FEF2451C274"
+				"download" "32FC94ED51A64D5DCB2DF14FB6B1909C"
+			}
+			"forkk"
+			{
+				"gid" "B0402ACF00739A74972839853B1ED381"
+				"size" "F63C868266A90C931E708D7267C7DDB0"
+				"download" "7208AA46BAFE90D11FD8692F0052A089"
+			}
+			"internal"
+			{
+				"gid" "81CC1D2715439C77C1A9304E175E2A40"
+				"size" "D59FBAFB080B35911F280005F428414A"
+				"download" "A9D9C991D59749C4561DE469E8140DEA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14492064"
+			"timeupdated" "1716628391"
+		}
+		"adp_ui_framework_alphatest"
+		{
+			"buildid" "9346545"
+			"pwdrequired" "1"
+			"timeupdated" "1660900852"
+		}
+		"alphatest_master"
+		{
+			"buildid" "13102940"
+			"pwdrequired" "1"
+			"timeupdated" "1704477700"
+		}
+		"betatest"
+		{
+			"buildid" "8137387"
+			"pwdrequired" "1"
+			"timeupdated" "1643880558"
+		}
+		"mac_os_test"
+		{
+			"buildid" "7974847"
+			"pwdrequired" "1"
+			"timeupdated" "1641395165"
+		}
+		"musicgame_alphatest"
+		{
+			"buildid" "10115343"
+			"pwdrequired" "1"
+			"timeupdated" "1670599267"
+		}
+		"tranlatorpreview"
+		{
+			"buildid" "13497035"
+			"pwdrequired" "1"
+			"timeupdated" "1708347085"
+		}
+		"alphatest"
+		{
+			"buildid" "14275686"
+			"pwdrequired" "1"
+			"timeupdated" "1714982191"
+		}
+		"forkk"
+		{
+			"buildid" "14491723"
+			"pwdrequired" "1"
+			"timeupdated" "1716623725"
+		}
+		"internal"
+		{
+			"buildid" "14492064"
+			"pwdrequired" "1"
+			"timeupdated" "1716628018"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "20971520"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "23919549"
+"_sha" "3a1154a0f316ef2d8da462e4f2865176a6f947c8"
+"_size" "9467"
