@@ -1,0 +1,634 @@
+"appid" "1147560"
+"common"
+{
+	"name" "Skul: The Hero Slayer"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"logo" "04d4e5fa23170296dc75068cbffac76d96551021"
+	"logo_small" "04d4e5fa23170296dc75068cbffac76d96551021_thumb"
+	"icon" "a236593e8d5c8d6fdf3db3d004b9d37c0debf3b4"
+	"clienttga" "6073fa7fc22aedee0fa2d48758851cd11fa45daf"
+	"clienticon" "5e9a2814031737b9438bce7f6fad402d963b822c"
+	"clienticns" "8d9e480b2707bc7972dd82eb0d973fbb54be0bd9"
+	"linuxclienticon" "4280145b7135945913160ce19d817202cdee3657"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1147560_eula_0"
+			"name" "Skul: The Hero Slayer EULA"
+			"url" "https://store.steampowered.com//eula/1147560_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "小骨：英雄杀手(Skul: The Hero Slayer)"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1648252800"
+		"tested_build_id" "6984462"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Skul: The Hero Slayer"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1703571272"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SOUTHPAW GAMES"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NEOWIZ"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "NEOWIZ"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1611185694"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/skul-the-hero-slayer\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1147560"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "19"
+		"2" "42804"
+		"3" "3964"
+		"4" "3871"
+		"5" "1716"
+		"6" "3959"
+		"7" "4182"
+		"8" "1628"
+		"9" "1625"
+		"10" "4026"
+		"11" "3798"
+		"12" "1646"
+		"13" "21"
+		"14" "11333"
+		"15" "4106"
+		"16" "1742"
+		"17" "1684"
+		"18" "4726"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "SOUTHPAW GAMES"
+	"publisher" "NEOWIZ"
+	"homepage" "https://playneowiz.com/skul"
+	"listofdlc" "2512790"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Skul"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Skul.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Skul.app\\Contents\\MacOS\\Skul"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Skul.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2071636943"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1147566"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8698334163980942389"
+				"size" "1974720097"
+				"download" "1577486496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"1.7.0_beta"
+			{
+				"gid" "CFA5460B148F2B5A66A297895D936ED0"
+				"size" "9E2823AF525BA2A056E9C1EA1B35768B"
+				"download" "6A47164DDF9CAFF9F87E7B9C69CE36F4"
+			}
+			"alpha_test"
+			{
+				"gid" "35A5F04A4FCB0070260EABF79E74761D"
+				"size" "09706256B29334DE8DF564FDEF799D3D"
+				"download" "ED322529869ACFAACD505FDE965C034B"
+			}
+			"apple_silicon"
+			{
+				"gid" "05C5738EA7E8443ADB63BC1C2F1D975E"
+				"size" "7FB6155E6E7710732CE839DAD516F1DD"
+				"download" "5C0BF3BC3B76816683581D1D9D1ED74E"
+			}
+			"dc_test"
+			{
+				"gid" "646A9BA763492E8A3D0602CD7D606790"
+				"size" "3025B98ECEEE82C1F8F9E7CF5BCE200B"
+				"download" "4022D6E27BB339138E50B0EB1F89C0AB"
+			}
+			"develop"
+			{
+				"gid" "66CE02C6DEAB9E3062C70A1B2692CC4E"
+				"size" "5138E876E9D4CE33E9B29EB5717A566B"
+				"download" "F56D56D44B3104DBC5D168DBA04DFDFA"
+			}
+			"whitelist"
+			{
+				"gid" "5515541579472A3263A986D048047A42"
+				"size" "AA3D86F45FF13C6685CBF81B5B19838F"
+				"download" "E07E4717D22B7FAECAE6C67F93BAF2B2"
+			}
+		}
+	}
+	"1147567"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7679941742799634375"
+				"size" "1990105698"
+				"download" "1582250416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"1.7.0_beta"
+			{
+				"gid" "CCA7A6EBF5789C3E927886F2F15AB9E1"
+				"size" "8DF504849BBFB909E4B26BA3F3A3B4D2"
+				"download" "545C98066AFB73C7E13CD40D38CA819F"
+			}
+			"alpha_test"
+			{
+				"gid" "88B5E387CAC5048E964F8EE4A87393DE"
+				"size" "1FF3100972CC2668E2A325D44A625F2C"
+				"download" "D54F6BA2EBB2D9145367F078049CF2CF"
+			}
+			"apple_silicon"
+			{
+				"gid" "F9652F481E2F2135488A25A6E88B7D3D"
+				"size" "9313A720A26992EC087C1BD59028144B"
+				"download" "198F8DB7350C328E15A6621E3E60D018"
+			}
+			"dc_test"
+			{
+				"gid" "B6585812DBDBC45D85F893F345D8058F"
+				"size" "4A1B814481313EE5E673AD3F6A6AF3E6"
+				"download" "C07EF497075597534EDE070C026394B3"
+			}
+			"develop"
+			{
+				"gid" "2888B445E09B0C6BC40A5EA29ACD6B1A"
+				"size" "BA5EC7621AEDD91964000847211B2593"
+				"download" "1C612104599F104701103BEBF7FCA8A0"
+			}
+			"whitelist"
+			{
+				"gid" "2C39B9AC25825A3B57143F36CFDB104A"
+				"size" "086CD49C3812C1995116A8C6D995D918"
+				"download" "60501A6279D7BC66C295A1957B7E6850"
+			}
+		}
+	}
+	"1147568"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2326200470477259013"
+				"size" "1985196955"
+				"download" "1579357872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"1.7.0_beta"
+			{
+				"gid" "667DB916397C90F0B0BD3BAF62B77BC8"
+				"size" "BC4EF8B1A948712E608E03BBF6B708E9"
+				"download" "11EF9D2E88595B5C3162EA2E61CB6084"
+			}
+			"alpha_test"
+			{
+				"gid" "84E34D321A263151385DDD3632F3BBA9"
+				"size" "3D60BF8033B7AEC71632FA9F7E338C01"
+				"download" "655186A8B92A77D35603EB3EC011CBB4"
+			}
+			"apple_silicon"
+			{
+				"gid" "C8CE5029632931D3E9EC01E15FB5B393"
+				"size" "8D5F072A1082F1EF7659ACF1FCA71988"
+				"download" "1CF11B51518F8596A4F866453E3A0C56"
+			}
+			"dc_test"
+			{
+				"gid" "D1AA7251B99B3CF2A0906FDB13061618"
+				"size" "7515D2F9C5CAC9EA830FACC09624E236"
+				"download" "5A9182301832534A8DFEBF59F90418A8"
+			}
+			"develop"
+			{
+				"gid" "6C6969519DFD7E536BEA92F79549E112"
+				"size" "6DD10B51128D1E50A8357CB8A2761AC5"
+				"download" "9CD3AC0A6B0F010FFC348A0652174C51"
+			}
+			"whitelist"
+			{
+				"gid" "8A1E5CECC0217CC4E49DCAA8B4778F25"
+				"size" "FEE8904BAC995D3418FCFA4AB79FBAF3"
+				"download" "2AB1CE10958AD4F654AF0DB72ADF0A68"
+			}
+		}
+	}
+	"1147569"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6228117782150405427"
+				"size" "2006492330"
+				"download" "1574332960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"1.7.0_beta"
+			{
+				"gid" "A97388E34BA65ABC66C5F8EA49D46BD4"
+				"size" "05912A706C4DBB401FA3C7395C1D7846"
+				"download" "0D682AE1ABD6744B265924A279C20000"
+			}
+			"alpha_test"
+			{
+				"gid" "25AD11CE60C267C511FD92584297727E"
+				"size" "6C9F28BCEC3D8812F945E4514CE861E1"
+				"download" "ED4DCE2CCECB18291C0536F048719E90"
+			}
+			"apple_silicon"
+			{
+				"gid" "EDC11A79A56EEF2BF5963274EB84B232"
+				"size" "7D9A3FF9A384CBAC3337ACEB860CCB93"
+				"download" "EFB28FE3A7F36F46DDC0FB484ED2DF19"
+			}
+			"dc_test"
+			{
+				"gid" "33D8C7ACA9B5F63AE57E9ED6B3F517F0"
+				"size" "4A454C6DE1D83B586AAB20393DEA7B88"
+				"download" "48B4F61557CCE8E49BEA04F6E453AB9B"
+			}
+			"develop"
+			{
+				"gid" "B4325785BB84C7FFD8905853A9E8AE51"
+				"size" "FC7377EA59E5D235BD842011E07CCAA1"
+				"download" "33E7A60E2C3805E275822707EA9C987C"
+			}
+			"whitelist"
+			{
+				"gid" "471F9908A11449AF2EEC7239CB7E1D03"
+				"size" "3F2DD8FF71B95633AC6F1BDB49B7F31C"
+				"download" "8939A91B8B5B1535C910B3244406AE70"
+			}
+		}
+	}
+	"1147565"
+	{
+	}
+	"1147564"
+	{
+	}
+	"2512790"
+	{
+		"dlcappid" "2512790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3142867800017130549"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha_test"
+			{
+				"gid" "3C6BA5E0177623BA8FFE1F656275A87A"
+				"size" "049D9649A666572CE7E9C7B27B031425"
+				"download" "049D9649A666572CE7E9C7B27B031425"
+			}
+			"develop"
+			{
+				"gid" "DDD50F539E64A6151687980D4A677272"
+				"size" "6B7B5EBE721E93E8FEF253105A2E15D4"
+				"download" "6B7B5EBE721E93E8FEF253105A2E15D4"
+			}
+			"whitelist"
+			{
+				"gid" "6B6EE3DDEA0B07427AC7E6D148933627"
+				"size" "16DD6B196E97851BB9DFD5469D55633D"
+				"download" "16DD6B196E97851BB9DFD5469D55633D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13958237"
+			"timeupdated" "1712300014"
+		}
+		"1.7.0_beta"
+		{
+			"buildid" "10258850"
+			"pwdrequired" "1"
+			"timeupdated" "1672889327"
+		}
+		"alpha_test"
+		{
+			"buildid" "13958237"
+			"pwdrequired" "1"
+			"timeupdated" "1712291997"
+		}
+		"apple_silicon"
+		{
+			"buildid" "6151153"
+			"pwdrequired" "1"
+			"timeupdated" "1611828231"
+		}
+		"dc_test"
+		{
+			"buildid" "12531006"
+			"pwdrequired" "1"
+			"timeupdated" "1698233076"
+		}
+		"develop"
+		{
+			"buildid" "13958237"
+			"pwdrequired" "1"
+			"timeupdated" "1712292062"
+		}
+		"whitelist"
+		{
+			"buildid" "13678379"
+			"pwdrequired" "1"
+			"timeupdated" "1709882757"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Southpaw Games/Skul"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Southpaw Games/Skul"
+					"replace" "com.SouthpawGames.Skul"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Southpaw Games/Skul"
+					"replace" ".config/unity3d/Southpaw Games/Skul"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23888725"
+"_sha" "c603bdf43aea24b008fae49c6de86dc2dac6e365"
+"_size" "12541"
