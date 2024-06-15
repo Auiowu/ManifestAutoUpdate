@@ -1,0 +1,244 @@
+"appid" "2231450"
+"common"
+{
+	"name" "Pizza Tower"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "691205b0250f552dc7d4128e4c8c460e5658c8ef"
+	"clienttga" "223fc128fe853cd8c15115f74d2ac93dafd08556"
+	"icon" "8b7e86d9fa3634015a44c6af85618a21758edc34"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677110400"
+		"tested_build_id" "10573127"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.913652275379235"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1712946401"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tour De Pizza"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Tour De Pizza"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1674756019"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2231450"
+	"store_tags"
+	{
+		"0" "1756"
+		"1" "5379"
+		"2" "1734"
+		"3" "4195"
+		"4" "492"
+		"5" "1625"
+		"6" "4136"
+		"7" "1719"
+		"8" "4182"
+		"9" "3964"
+		"10" "19"
+		"11" "3871"
+		"12" "3965"
+		"13" "4305"
+		"14" "4026"
+		"15" "4004"
+		"16" "6691"
+		"17" "21"
+		"18" "10397"
+		"19" "1678"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,le-playtest"
+	"developer" "Tour De Pizza"
+	"publisher" "Tour De Pizza"
+}
+"config"
+{
+	"installdir" "Pizza Tower"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PizzaTower.exe"
+			"type" "default"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2231451"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2934725857760328673"
+				"size" "303637936"
+				"download" "232283152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"new-playtest"
+			{
+				"gid" "7E57A3C2DA28455423B7EFC0CD590117"
+				"size" "AC757470FADFD4F04BFC47485BC35919"
+				"download" "DDCACFECA8B1B3774DD356EEBB47AED0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13806823"
+			"timeupdated" "1711004087"
+		}
+		"new-playtest"
+		{
+			"buildid" "14724596"
+			"pwdrequired" "1"
+			"timeupdated" "1718406490"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "6"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "PizzaTower_GM2"
+			"pattern" "*.ini"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23980238"
+"_sha" "d217ded373722747448abd5202f3dcfd3324bf56"
+"_size" "4322"
