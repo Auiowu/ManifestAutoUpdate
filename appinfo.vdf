@@ -1,0 +1,2905 @@
+"appid" "529340"
+"common"
+{
+	"name" "Victoria 3"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "57c23a64677d35fe859dd33492d448ad41739dd4"
+	"logo_small" "57c23a64677d35fe859dd33492d448ad41739dd4_thumb"
+	"icon" "da7eddaef804905207eaf0ba9580b5026385f041"
+	"clienticon" "fa4e8b452114cea8b7e105095dd419d82bedd63b"
+	"clienttga" "d4ee3753e0e576acf0e1bc41f89b907fe3eca5f5"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "529340_eula_0"
+			"name" "Victoria 3 EULA"
+			"url" "https://store.steampowered.com//eula/529340_eula_0"
+			"version" "1"
+		}
+	}
+	"clienticns" "48bdecfd286e4cf83fed934a02eb368f15584a4c"
+	"linuxclienticon" "7f54c93f648caa76bc18d95eb1f5a3d1f5522925"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667606400"
+		"tested_build_id" "9746145"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715686379"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Paradox Development Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Victoria"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1666713540"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "529340"
+	"store_tags"
+	{
+		"0" "4364"
+		"1" "3987"
+		"2" "26921"
+		"3" "4695"
+		"4" "9"
+		"5" "4845"
+		"6" "6310"
+		"7" "12472"
+		"8" "4754"
+		"9" "599"
+		"10" "4598"
+		"11" "1669"
+		"12" "4853"
+		"13" "7107"
+		"14" "8945"
+		"15" "4711"
+		"16" "4182"
+		"17" "3859"
+		"18" "3810"
+		"19" "4168"
+	}
+	"review_score" "5"
+	"review_percentage" "65"
+}
+"extended"
+{
+	"developer" "Paradox Development Studio"
+	"publisher" "Paradox Interactive"
+	"listofdlc" "2071470,2071471,2071472,2282100,2348450,2366580,2411230,2411231,2591240,2800730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Victoria 3"
+	"launch"
+	{
+		"6"
+		{
+			"executable" "launcher/dowser.exe"
+			"description" "Launcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"7"
+		{
+			"executable" "launcher/dowser"
+			"description" "Launcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "launcher/dowser"
+			"description" "Launcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "529340"
+	"529341"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3538492335458783036"
+				"size" "9340302134"
+				"download" "5006272912"
+			}
+			"1.0.6"
+			{
+				"gid" "1628001105835627788"
+				"size" "8553113517"
+				"download" "4710000368"
+			}
+			"1.1.2"
+			{
+				"gid" "2730805356525057897"
+				"size" "8553063575"
+				"download" "4710035344"
+			}
+			"1.2.7"
+			{
+				"gid" "5179838084574476520"
+				"size" "8518916546"
+				"download" "4663753248"
+			}
+			"1.3.6"
+			{
+				"gid" "4971264572444331839"
+				"size" "8695219420"
+				"download" "4726616768"
+			}
+			"1.4.0"
+			{
+				"gid" "2181904395763722902"
+				"size" "8791838703"
+				"download" "4767289312"
+			}
+			"1.4.1"
+			{
+				"gid" "7504944916789166599"
+				"size" "8791838703"
+				"download" "4767289312"
+			}
+			"1.4.2"
+			{
+				"gid" "4072446809041452980"
+				"size" "8791846572"
+				"download" "4767293856"
+			}
+			"1.5.10"
+			{
+				"gid" "4345301221788759168"
+				"size" "9299806023"
+				"download" "4987747632"
+			}
+			"1.5.11"
+			{
+				"gid" "3716013201326708236"
+				"size" "9302530740"
+				"download" "4988208864"
+			}
+			"1.5.12"
+			{
+				"gid" "3716013201326708236"
+				"size" "9302530740"
+				"download" "4988208864"
+			}
+			"1.5.13"
+			{
+				"gid" "8059244117536134095"
+				"size" "9302530939"
+				"download" "4988208912"
+			}
+			"1.5.5"
+			{
+				"gid" "2511378351056933315"
+				"size" "9137144533"
+				"download" "4893560992"
+			}
+			"1.5.7"
+			{
+				"gid" "3947079123195111772"
+				"size" "9314840933"
+				"download" "4984378320"
+			}
+			"1.5.8"
+			{
+				"gid" "3297284097562980121"
+				"size" "9314901047"
+				"download" "4984393568"
+			}
+			"1.5.9"
+			{
+				"gid" "5955382370993750410"
+				"size" "9314901099"
+				"download" "4984393584"
+			}
+			"1.6.0"
+			{
+				"gid" "7732828379316907082"
+				"size" "9340297827"
+				"download" "5006272224"
+			}
+			"1.6.1"
+			{
+				"gid" "7732828379316907082"
+				"size" "9340297827"
+				"download" "5006272224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "5C520FA8217269F0CC244D30B1EBF4D9"
+				"size" "0047E25EEBD5F30BEA02CD471593CCE6"
+				"download" "9BD591580E0A79FE0D52EE0ECDECA1B1"
+			}
+			"partner-test"
+			{
+				"gid" "2B6BE33E3F391CDC1BD5C6691DD74686"
+				"size" "043DE47AF72B39C808234A9966881E18"
+				"download" "ABD45491A76BE9876F352893B199D9E1"
+			}
+			"preview2"
+			{
+				"gid" "9F00EBFDA8C851A8B4C4068785FAA2FB"
+				"size" "689A5E4AEC39EAFFFF6082D4BA4221FB"
+				"download" "1B1B72052384CAA37291291097E84A66"
+			}
+			"atlantis_rising"
+			{
+				"gid" "6E49DA73C74722838F0B97FC26F41025"
+				"size" "7C0943223638D448A7647A6426A35A12"
+				"download" "5FA8C1649439770D925C7238BCA89F1B"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "82A254333A62993714B92D380C674332"
+				"size" "6FF9D4A0EEC12A35A1F0A36C95AEC19B"
+				"download" "8EDA7596BFD16851978A290B9D23680D"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "5E8D939A97E08AF42CFE09A07743AE07"
+				"size" "766C1BBF87C8C9134042EC89593E9557"
+				"download" "7BB17E81593A0E560CBB172853A932EA"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "553D2D58C2123657FD006927CE2967E6"
+				"size" "664609E0488BD2156F7601B198064452"
+				"download" "81529F2BCEBA8257611C9795828A758B"
+			}
+			"preview"
+			{
+				"gid" "6BFB6D550A26C9C1D6C27529F43649A0"
+				"size" "E0967D7309BE4CE356FF1235ED8E002E"
+				"download" "15D76EC20CD87F7C0161BEC59B2600EA"
+			}
+		}
+	}
+	"529342"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6741285302138472235"
+				"size" "230610252"
+				"download" "114094464"
+			}
+			"1.0.6"
+			{
+				"gid" "2752188293260123248"
+				"size" "111541792"
+				"download" "31549808"
+			}
+			"1.1.2"
+			{
+				"gid" "6333850281039018073"
+				"size" "116622695"
+				"download" "32562992"
+			}
+			"1.2.7"
+			{
+				"gid" "8711489289962059938"
+				"size" "119049273"
+				"download" "33086112"
+			}
+			"1.3.6"
+			{
+				"gid" "5403934911798736128"
+				"size" "121135067"
+				"download" "33557264"
+			}
+			"1.4.0"
+			{
+				"gid" "4928718689667559520"
+				"size" "225896123"
+				"download" "112813232"
+			}
+			"1.4.1"
+			{
+				"gid" "9201646890530906279"
+				"size" "225892027"
+				"download" "112813328"
+			}
+			"1.4.2"
+			{
+				"gid" "8373693053691094938"
+				"size" "225896966"
+				"download" "112812384"
+			}
+			"1.5.10"
+			{
+				"gid" "7595565843116804009"
+				"size" "230514898"
+				"download" "113931728"
+			}
+			"1.5.11"
+			{
+				"gid" "8403310450283288960"
+				"size" "230516434"
+				"download" "113931296"
+			}
+			"1.5.12"
+			{
+				"gid" "8080402577221057696"
+				"size" "230515922"
+				"download" "113936832"
+			}
+			"1.5.13"
+			{
+				"gid" "3683821357706553669"
+				"size" "230242314"
+				"download" "113911536"
+			}
+			"1.5.5"
+			{
+				"gid" "5234945956821655590"
+				"size" "229150459"
+				"download" "113596480"
+			}
+			"1.5.7"
+			{
+				"gid" "3287025094383519061"
+				"size" "230144208"
+				"download" "113846384"
+			}
+			"1.5.8"
+			{
+				"gid" "5318210003807950244"
+				"size" "230149328"
+				"download" "113847696"
+			}
+			"1.5.9"
+			{
+				"gid" "1571245757487594915"
+				"size" "230149840"
+				"download" "113847152"
+			}
+			"1.6.0"
+			{
+				"gid" "1917308566902610370"
+				"size" "230629196"
+				"download" "114097904"
+			}
+			"1.6.1"
+			{
+				"gid" "6910074257618789554"
+				"size" "230629708"
+				"download" "114102320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "B16905677E7B2C99B00CB50996FED121"
+				"size" "5147E630CBAC4CFFFC673BA3368E2E9F"
+				"download" "C13E939D44DDB504B91E513389464BDC"
+			}
+			"partner-test"
+			{
+				"gid" "1F14EC695E76BF6ECD086AF3B96084C4"
+				"size" "F65A4086AC256D3B09D39940D0AE12DC"
+				"download" "6D9C72215769E1B64BB9DD56ED68FB96"
+			}
+			"preview2"
+			{
+				"gid" "364FE3F64ABBBB95B0B86EA87D12C51C"
+				"size" "9775525B24766C43FB9D88A8DAA18CB9"
+				"download" "8FFA40DFA25DCCB434CEBCAF2F08970D"
+			}
+			"atlantis_rising"
+			{
+				"gid" "5AA83FC5B0F881FCA44D1EC7CAFF0336"
+				"size" "5A938F6B2F5F2481028EBFA96540B143"
+				"download" "799050185797D705B9F31380B2BA6572"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "7560AFFD11534EA2BE639E4D6D5FDFA0"
+				"size" "59062BAE706A1C602223677CC1FBC70C"
+				"download" "139F8D921A2BFDEA598E2A91DC105DE8"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "992728871B5A4E8C61F65660BC01685B"
+				"size" "353F49CA1398B492F460877578D01EB7"
+				"download" "A57099EBF6536AC244E7D48CF6C4264D"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "2E9A3C828CCBE83CD7068CBD413F6516"
+				"size" "AD450A5DA80561F51DDCF7CD26E56390"
+				"download" "92E2EB16503F4063B81BD088C4EC4150"
+			}
+			"preview"
+			{
+				"gid" "6E1BAA5C9284438C02FB32E2549578F9"
+				"size" "7260AF7E59D3563FC2D3159B0B455284"
+				"download" "1908FC5CD00D2C5FF2D2C9CA8A0F9D55"
+			}
+		}
+	}
+	"529343"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9195892874629856149"
+				"size" "804607717"
+				"download" "179707232"
+			}
+			"1.0.6"
+			{
+				"gid" "1830734770231745877"
+				"size" "298337522"
+				"download" "48833520"
+			}
+			"1.1.2"
+			{
+				"gid" "7874260956199811481"
+				"size" "317393393"
+				"download" "51398944"
+			}
+			"1.2.7"
+			{
+				"gid" "1746630971937500800"
+				"size" "328602539"
+				"download" "53534304"
+			}
+			"1.3.6"
+			{
+				"gid" "1797413768177622749"
+				"size" "337407886"
+				"download" "55830608"
+			}
+			"1.4.0"
+			{
+				"gid" "3717255749787869722"
+				"size" "447805845"
+				"download" "135448912"
+			}
+			"1.4.1"
+			{
+				"gid" "7321106281734930607"
+				"size" "447794149"
+				"download" "135467408"
+			}
+			"1.4.2"
+			{
+				"gid" "6256648379236847685"
+				"size" "447800024"
+				"download" "135479424"
+			}
+			"1.5.10"
+			{
+				"gid" "7001087736969275239"
+				"size" "789382469"
+				"download" "177843168"
+			}
+			"1.5.11"
+			{
+				"gid" "2736248789500394711"
+				"size" "789517620"
+				"download" "177814400"
+			}
+			"1.5.12"
+			{
+				"gid" "6050357989150233808"
+				"size" "789536949"
+				"download" "177817088"
+			}
+			"1.5.13"
+			{
+				"gid" "2905992080547206698"
+				"size" "789582165"
+				"download" "177824736"
+			}
+			"1.5.5"
+			{
+				"gid" "1360774338093351606"
+				"size" "781627709"
+				"download" "176696480"
+			}
+			"1.5.7"
+			{
+				"gid" "3088447449001245573"
+				"size" "787341378"
+				"download" "177563008"
+			}
+			"1.5.8"
+			{
+				"gid" "8052606436711108255"
+				"size" "787383187"
+				"download" "177552272"
+			}
+			"1.5.9"
+			{
+				"gid" "2078783582327682423"
+				"size" "787383394"
+				"download" "177571200"
+			}
+			"1.6.0"
+			{
+				"gid" "3258298768999564603"
+				"size" "804606677"
+				"download" "179730048"
+			}
+			"1.6.1"
+			{
+				"gid" "1996931614893009930"
+				"size" "804606693"
+				"download" "179740240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "747C3F85B5F2ECE97AA055E22C1A1680"
+				"size" "352D3730F30581D83EE1F50AC7A3604E"
+				"download" "FBA309045E06C071692BDAB81AD3A5A9"
+			}
+			"partner-test"
+			{
+				"gid" "21E93901C93D747DF4A7123A2D9A19D8"
+				"size" "3BF016862B17458DF8CD2E372393C423"
+				"download" "9ECFBCF48074DCB959A24734B1614453"
+			}
+			"preview2"
+			{
+				"gid" "6658C54BA7C0BEA7738EE371BA2B56CB"
+				"size" "8CE8753C15D23B21377F8E3CE4FF9295"
+				"download" "D29D6DB0B999BFD353A1A8CDBBF1C0B5"
+			}
+			"atlantis_rising"
+			{
+				"gid" "963E84A6DC44B61EBFD5103AA59513FC"
+				"size" "8974F9000BF1F87EB23E8B8416B8781A"
+				"download" "4D475ABDD004F78CCE2CB21C5CF96EB6"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "0D3ED59CF4C525900346FF59BE5C1617"
+				"size" "7D8347A1F9D3E63B3633044B5A1D1D01"
+				"download" "BE3C95DE03323DD1DFF8AF7757CC35BC"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "91C78F44DF005016C1C601FBAF15E415"
+				"size" "FF875FA64E7914AAF61C21803CEDC10D"
+				"download" "0D781179C61E215E5BB015B092C3AF72"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "44FCFCEF92EF7C488C90DEB3EC3B8384"
+				"size" "6B172CE74F219915BDB73CB8B4843FB3"
+				"download" "606B742F60D49BDB061DE9A874823686"
+			}
+			"preview"
+			{
+				"gid" "9639EE8CBA98B6F7F967F79EAC87ED5F"
+				"size" "2845D54AECD16E980FAC9C791CB5B7A8"
+				"download" "A8B02EBC562D46F386F2E0D527FE270F"
+			}
+		}
+	}
+	"529344"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5032933793483616420"
+				"size" "394146310"
+				"download" "129441648"
+			}
+			"1.0.6"
+			{
+				"gid" "4526516799181419551"
+				"size" "202197046"
+				"download" "38813856"
+			}
+			"1.1.2"
+			{
+				"gid" "665623044712423997"
+				"size" "212907301"
+				"download" "40660160"
+			}
+			"1.2.7"
+			{
+				"gid" "6898850884395652629"
+				"size" "220103087"
+				"download" "43070624"
+			}
+			"1.3.6"
+			{
+				"gid" "2464461697834742926"
+				"size" "222965545"
+				"download" "43463648"
+			}
+			"1.4.0"
+			{
+				"gid" "5695531037466430356"
+				"size" "388794337"
+				"download" "127420688"
+			}
+			"1.4.1"
+			{
+				"gid" "5572178410720172872"
+				"size" "388790241"
+				"download" "127418992"
+			}
+			"1.4.2"
+			{
+				"gid" "180859003764668261"
+				"size" "388797228"
+				"download" "127420912"
+			}
+			"1.5.10"
+			{
+				"gid" "6674067946456926404"
+				"size" "402693228"
+				"download" "129802528"
+			}
+			"1.5.11"
+			{
+				"gid" "2436194813780192791"
+				"size" "402713708"
+				"download" "129803280"
+			}
+			"1.5.12"
+			{
+				"gid" "2488711324796670976"
+				"size" "402725996"
+				"download" "129795872"
+			}
+			"1.5.13"
+			{
+				"gid" "3472642568743008619"
+				"size" "402742380"
+				"download" "129804656"
+			}
+			"1.5.5"
+			{
+				"gid" "1697392767982828174"
+				"size" "400983317"
+				"download" "129354752"
+			}
+			"1.5.7"
+			{
+				"gid" "1629413361797964317"
+				"size" "402299946"
+				"download" "129683776"
+			}
+			"1.5.8"
+			{
+				"gid" "7671535657874607832"
+				"size" "402304043"
+				"download" "129683712"
+			}
+			"1.5.9"
+			{
+				"gid" "7977445917130705535"
+				"size" "402304042"
+				"download" "129684464"
+			}
+			"1.6.0"
+			{
+				"gid" "432705152749689095"
+				"size" "394138118"
+				"download" "129439056"
+			}
+			"1.6.1"
+			{
+				"gid" "100680979321718816"
+				"size" "394134022"
+				"download" "129451024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "5EA204218A3F4CEA14E107473A410880"
+				"size" "C5518E68CB1946E6257BEB4CC6816666"
+				"download" "EBE817FABA3B3F18EA6CC3198BA5003F"
+			}
+			"partner-test"
+			{
+				"gid" "F26AFD2E1E26046181C47B6CFC743803"
+				"size" "C3125B353D36C38386BA42A7D750901B"
+				"download" "2B967B66C89565EEFC0EE2774579B2B5"
+			}
+			"preview2"
+			{
+				"gid" "0E9F2395C7F6FEA85FDD62F73AE420BA"
+				"size" "109C1490AE4E46DF3AE1D32EB560AA5F"
+				"download" "3CCE4DC73866827F18ECE62D5A6E4C68"
+			}
+			"atlantis_rising"
+			{
+				"gid" "C36F36BA8BE267F9EA142FD049E9BF6B"
+				"size" "808E920364E6460C7E043BECB1D5FF0B"
+				"download" "877891EFF7D41F37E4F9368378E113ED"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "F4ECC5F69041578A73277D08C6F4DF5B"
+				"size" "9B550A209DC7ACCD7872E6584620DAE7"
+				"download" "FA71A2617CB055C720A319334F20467D"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "DCD7E395089778EFCF776052D6FDB9F5"
+				"size" "B11F7C9C2FC61426A0CA33498E69A980"
+				"download" "C3375C88698462453A307AA0621200C0"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "BC43909318FC415330BA6F4CD00A3FA1"
+				"size" "C23EF483F3B18E19E80CC1C6D6D901A1"
+				"download" "CEEB623E1D713D128031418E80079587"
+			}
+			"preview"
+			{
+				"gid" "D8D09ED24AECD49FC462E91FB0AE15A0"
+				"size" "406B2C3471DD4C67631F5FA780AD3811"
+				"download" "C7E0DF4A32883E18B8ECDCC07D943CB3"
+			}
+		}
+	}
+	"529345"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5497334221630972445"
+				"size" "137849531"
+				"download" "133842160"
+			}
+			"1.0.6"
+			{
+				"gid" "4897218923743379411"
+				"size" "113435532"
+				"download" "109211984"
+			}
+			"1.1.2"
+			{
+				"gid" "1668999971862766205"
+				"size" "113435534"
+				"download" "109211984"
+			}
+			"1.2.7"
+			{
+				"gid" "3260762807013795980"
+				"size" "125183881"
+				"download" "121051456"
+			}
+			"1.3.6"
+			{
+				"gid" "1268554343345933587"
+				"size" "125229960"
+				"download" "121094224"
+			}
+			"1.4.0"
+			{
+				"gid" "5340323361491350397"
+				"size" "125067654"
+				"download" "120953632"
+			}
+			"1.4.1"
+			{
+				"gid" "4936809001279700781"
+				"size" "125075846"
+				"download" "120959216"
+			}
+			"1.4.2"
+			{
+				"gid" "4139393969536795426"
+				"size" "125075846"
+				"download" "120959216"
+			}
+			"1.5.10"
+			{
+				"gid" "1524211000370023185"
+				"size" "138002819"
+				"download" "133993872"
+			}
+			"1.5.11"
+			{
+				"gid" "870744338598804159"
+				"size" "138079107"
+				"download" "134067136"
+			}
+			"1.5.12"
+			{
+				"gid" "6136088024563059589"
+				"size" "138079107"
+				"download" "134067136"
+			}
+			"1.5.13"
+			{
+				"gid" "4187955930101820989"
+				"size" "138107779"
+				"download" "134095440"
+			}
+			"1.5.5"
+			{
+				"gid" "275306076067987591"
+				"size" "128000388"
+				"download" "123899280"
+			}
+			"1.5.7"
+			{
+				"gid" "5327168117888287724"
+				"size" "140267905"
+				"download" "136290800"
+			}
+			"1.5.8"
+			{
+				"gid" "7064876879613791378"
+				"size" "140267905"
+				"download" "136290800"
+			}
+			"1.5.9"
+			{
+				"gid" "782905234074492073"
+				"size" "140267905"
+				"download" "136290800"
+			}
+			"1.6.0"
+			{
+				"gid" "1977182372685036714"
+				"size" "138124163"
+				"download" "134114144"
+			}
+			"1.6.1"
+			{
+				"gid" "2717059149524290195"
+				"size" "138124163"
+				"download" "134114144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "A2F6EA0BBBE44C0030F469FD5A6B6E17"
+				"size" "4ABD3C46AD044ADECC94BA2872561416"
+				"download" "220ED742F1495967E6E2C354E785ED46"
+			}
+			"partner-test"
+			{
+				"gid" "F9CFBE086A0B4C45065391113862D5C5"
+				"size" "9357F60EAFDE4A49664FF6DDFFF5231A"
+				"download" "3F65B64D5E8E3A8DC987D12CBAAFF99D"
+			}
+			"preview2"
+			{
+				"gid" "8F8D76FDC40C8A3BC4B0636C4FD0826D"
+				"size" "404B4BC1166D9BF351DA5272AA140FAA"
+				"download" "C0019B98E5D42EC952092E64792AD136"
+			}
+			"atlantis_rising"
+			{
+				"gid" "9CF8586940CEB1D693BD7022B5AA184E"
+				"size" "48E70E88CBC14F2D492B310516CEF3AA"
+				"download" "60A1779AED3D3ABF6E97D1DF1B541ED4"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "25A9D897AE41853423FC50DE7A1E6878"
+				"size" "331885FB5C234DD36F9DAE421A7E2402"
+				"download" "C9D04307614F9BB4007831E03EBEEE38"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "226BEE033835A0AA8DE6B79286FDE2BA"
+				"size" "23018699BD1EA09C1EC2B367EE2C9F59"
+				"download" "EEEE1BC08D4C5D959A4F5A8484003D0D"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "DCE662ECFF677A6BC59E4E9E214197FC"
+				"size" "2F5CDDEE0800DD305CFF8B2C89D21310"
+				"download" "BBEDAEF38775D38E66CFE2BCFEFE0488"
+			}
+			"preview"
+			{
+				"gid" "CE69711196C0B0DE65BA2793153235B9"
+				"size" "82C352DDEEC4E0B4B58FFA7C5697D46A"
+				"download" "89C00F9D1EDC3B48C95F576E30560287"
+			}
+		}
+	}
+	"529346"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5092703422751129407"
+				"size" "277097678"
+				"download" "271541168"
+			}
+			"1.0.6"
+			{
+				"gid" "7357788982498572075"
+				"size" "220565719"
+				"download" "214418592"
+			}
+			"1.1.2"
+			{
+				"gid" "7456163083005298571"
+				"size" "220565721"
+				"download" "214418592"
+			}
+			"1.2.7"
+			{
+				"gid" "8703486812012013300"
+				"size" "266407780"
+				"download" "260745792"
+			}
+			"1.3.6"
+			{
+				"gid" "2886293775940374827"
+				"size" "266504035"
+				"download" "260845152"
+			}
+			"1.4.0"
+			{
+				"gid" "3617026019735439601"
+				"size" "266532929"
+				"download" "260872848"
+			}
+			"1.4.1"
+			{
+				"gid" "416570655427974107"
+				"size" "266553569"
+				"download" "260875552"
+			}
+			"1.4.2"
+			{
+				"gid" "963132342801714276"
+				"size" "266553569"
+				"download" "260875552"
+			}
+			"1.5.10"
+			{
+				"gid" "1527456790091781319"
+				"size" "276844670"
+				"download" "271282752"
+			}
+			"1.5.11"
+			{
+				"gid" "2562663319479342534"
+				"size" "276993726"
+				"download" "271445264"
+			}
+			"1.5.12"
+			{
+				"gid" "1191966300435067562"
+				"size" "276993726"
+				"download" "271445264"
+			}
+			"1.5.13"
+			{
+				"gid" "2423777191903646086"
+				"size" "277051518"
+				"download" "271507392"
+			}
+			"1.5.5"
+			{
+				"gid" "2224936023277990335"
+				"size" "258759903"
+				"download" "252983584"
+			}
+			"1.5.7"
+			{
+				"gid" "5884242475116451421"
+				"size" "281216220"
+				"download" "275718112"
+			}
+			"1.5.8"
+			{
+				"gid" "5896030466699736532"
+				"size" "281216220"
+				"download" "275718112"
+			}
+			"1.5.9"
+			{
+				"gid" "320449185466970127"
+				"size" "281216220"
+				"download" "275718112"
+			}
+			"1.6.0"
+			{
+				"gid" "2938361428226556876"
+				"size" "277076286"
+				"download" "271526096"
+			}
+			"1.6.1"
+			{
+				"gid" "7984134240134589674"
+				"size" "277076286"
+				"download" "271526096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "B988917F48A8F1FAD4A1F13C2D76A3A3"
+				"size" "08846E2A41E4A794A48BE6648B0EC5B9"
+				"download" "580754F16D5B80E668C61C0F7595E553"
+			}
+			"partner-test"
+			{
+				"gid" "670F5BB01A32638166E033E088A47277"
+				"size" "8376441F2E2BCB1A7B9F62A11C3A48BA"
+				"download" "B29DD0E7EABC3E4C14C7639625B68803"
+			}
+			"preview2"
+			{
+				"gid" "51D0E3FF64742AFB0F0EB90BFB97B225"
+				"size" "1758D164E6887A8CC45754B94FDD4883"
+				"download" "68038BC053B709F924AED334B90CC0FE"
+			}
+			"atlantis_rising"
+			{
+				"gid" "8415A7266EF3F6A64DBF94581A5C7C2F"
+				"size" "ADD75E3DCDB6A7240094F63699806BFB"
+				"download" "0E08351CD63D50451BD675E571D2AAAB"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "6ADD0C7507515DACFC3DCE980C5EDC5F"
+				"size" "A216D7361AC62F1B2345EA8097289EE2"
+				"download" "B7A482CC315A3ABB6FF3535D7B7B7C96"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "2F9AC7E749210F0E6C6B87E2229DC785"
+				"size" "5D48E8BB3A8FFB92B9D62A2DE62E9B4F"
+				"download" "A609558F7ED43ADAF09B1BB84CED2269"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "D9C5D3CE25CF616BD92CCFA6D6B37F82"
+				"size" "EC95869451D1EDBA4CE75FAB56F7FA94"
+				"download" "B6D4504A260F9B4CF7FD299B8F337DA2"
+			}
+			"preview"
+			{
+				"gid" "28DA069A89BD71D4995D24FE618A1C8A"
+				"size" "441549C6C8E58A6B2ECB65AFE15DD57C"
+				"download" "7D278D5A0003455EAA389E87B4E17B24"
+			}
+		}
+	}
+	"529347"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "555315901966292621"
+				"size" "139776733"
+				"download" "134357056"
+			}
+			"1.0.6"
+			{
+				"gid" "2154792881923220403"
+				"size" "113446398"
+				"download" "107746208"
+			}
+			"1.1.2"
+			{
+				"gid" "7062855251377227284"
+				"size" "113446400"
+				"download" "107746208"
+			}
+			"1.2.7"
+			{
+				"gid" "4496395833716406477"
+				"size" "126045896"
+				"download" "120495088"
+			}
+			"1.3.6"
+			{
+				"gid" "9161251667094627293"
+				"size" "126087389"
+				"download" "120534912"
+			}
+			"1.4.0"
+			{
+				"gid" "2663217237360631964"
+				"size" "126107867"
+				"download" "120559664"
+			}
+			"1.4.1"
+			{
+				"gid" "3950647250774140393"
+				"size" "126120155"
+				"download" "120571040"
+			}
+			"1.4.2"
+			{
+				"gid" "1563266772745564706"
+				"size" "126120155"
+				"download" "120571040"
+			}
+			"1.5.10"
+			{
+				"gid" "5066930695124498998"
+				"size" "139645144"
+				"download" "134232816"
+			}
+			"1.5.11"
+			{
+				"gid" "6100754096171396978"
+				"size" "139727255"
+				"download" "134309680"
+			}
+			"1.5.12"
+			{
+				"gid" "2107382301696369223"
+				"size" "139727255"
+				"download" "134309680"
+			}
+			"1.5.13"
+			{
+				"gid" "6879635492968660272"
+				"size" "139743639"
+				"download" "134327024"
+			}
+			"1.5.5"
+			{
+				"gid" "7696054298942760716"
+				"size" "127344857"
+				"download" "121796432"
+			}
+			"1.5.7"
+			{
+				"gid" "4713559956498524747"
+				"size" "142090454"
+				"download" "136713600"
+			}
+			"1.5.8"
+			{
+				"gid" "750514004522072755"
+				"size" "142090454"
+				"download" "136713600"
+			}
+			"1.5.9"
+			{
+				"gid" "8961948280036717135"
+				"size" "142090454"
+				"download" "136713600"
+			}
+			"1.6.0"
+			{
+				"gid" "1439434929341185404"
+				"size" "139764119"
+				"download" "134347440"
+			}
+			"1.6.1"
+			{
+				"gid" "8158840176525950705"
+				"size" "139764119"
+				"download" "134347440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "FCD617FC31F6ECE6CA12344E395D2C0C"
+				"size" "53583E2CB22E4DB96AD2BB4C7191350A"
+				"download" "1CC238476D25D4797B372A4BE9E87CBB"
+			}
+			"partner-test"
+			{
+				"gid" "9F4ECF53542195D7F65A40076AD07A9E"
+				"size" "F0E3D6CA52513A957D6E245BA42B8513"
+				"download" "91D53900748B183CCD93F850F5D663F9"
+			}
+			"preview2"
+			{
+				"gid" "6DDF6A0B3B02865029E389E911FE6B38"
+				"size" "853E99FD05ED962065EA1768D2CDB217"
+				"download" "4AECA2FAD101C7D56D4704BAA8214B2D"
+			}
+			"atlantis_rising"
+			{
+				"gid" "F7827CB011A8A841CBAC3E91AF7E78E8"
+				"size" "604BEEB881E9AFD4AD294652412315F4"
+				"download" "47A5D07DD8E37ABFB723E8916D4CA697"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "EDE2C7D3900F954E63511B08111D2D38"
+				"size" "9337E13E6A2F4E819C59A8586A7FBA69"
+				"download" "F94F64C2A7B36D59F81F8D72D426C065"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "EA597D8F8C7F011450563AD9AE011C6C"
+				"size" "DCB6B6BF7987B915C370CAD3A5430BA5"
+				"download" "C7CE5D4F98F9BC479005B64E7CD32A01"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "33D7BC405CA321BF75B1DFC377A9235D"
+				"size" "2A53D9813B4BDC602B8356E30165ADBC"
+				"download" "956CE1007C3491A26E4BF1CD05EE7CF9"
+			}
+			"preview"
+			{
+				"gid" "BF5C8086E26D8EE9A242FA6B3CA6AAB8"
+				"size" "CD70EC142EE47BA4C190D8770444B646"
+				"download" "051C5D2193F7A3D11348ABB052F0D68F"
+			}
+		}
+	}
+	"1340390"
+	{
+		"dlcappid" "1340390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.0.6"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.1.2"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.2.7"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.3.6"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.4.0"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.4.1"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.4.2"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.10"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.11"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.12"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.13"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.5"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.7"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.8"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.5.9"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.6.0"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+			"1.6.1"
+			{
+				"gid" "5897262907736816768"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "6E780378067E0AAF03EC26B8B854F07E"
+				"size" "C9CF891714C54EA14D5817E593984EA0"
+				"download" "C9CF891714C54EA14D5817E593984EA0"
+			}
+			"partner-test"
+			{
+				"gid" "6C2CDC51CE749EFC5FD8184D9FA466A4"
+				"size" "088C07D42067A5A5748AABDD21809B74"
+				"download" "088C07D42067A5A5748AABDD21809B74"
+			}
+			"preview2"
+			{
+				"gid" "9DBC20C4802152E3E8FD15923954E5FD"
+				"size" "C518F2B4C926D2A39914E118AE7D3B4B"
+				"download" "C518F2B4C926D2A39914E118AE7D3B4B"
+			}
+			"atlantis_rising"
+			{
+				"gid" "70BC496804684F5403C525B0646CE0CF"
+				"size" "817B5A26876D5794BB92F1ACDD4F696E"
+				"download" "817B5A26876D5794BB92F1ACDD4F696E"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "9ADE0DFE6E2661345F75CF479221B693"
+				"size" "958DB253E7633E18652BA704879F5458"
+				"download" "958DB253E7633E18652BA704879F5458"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "4515316AEC1E0663DBF2DD88196F6DE4"
+				"size" "695FEB239F2FE5FEFFD13ECB9216EC21"
+				"download" "695FEB239F2FE5FEFFD13ECB9216EC21"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "D34F079BCC84786CFC64026EA7EC213B"
+				"size" "CCC38C443422D4C52C405AC2127F1543"
+				"download" "CCC38C443422D4C52C405AC2127F1543"
+			}
+			"preview"
+			{
+				"gid" "7D4BA5FAFB9FCE987FD1A38714ED7E16"
+				"size" "4DA9838FF3339BC45389F00317BFC1D2"
+				"download" "4DA9838FF3339BC45389F00317BFC1D2"
+			}
+		}
+	}
+	"2071470"
+	{
+		"dlcappid" "2071470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.0.6"
+			{
+				"gid" "2123175469197985613"
+				"size" "529832599"
+				"download" "512617344"
+			}
+			"1.1.2"
+			{
+				"gid" "2123175469197985613"
+				"size" "529832599"
+				"download" "512617344"
+			}
+			"1.2.7"
+			{
+				"gid" "3450295641877929076"
+				"size" "529838694"
+				"download" "512618960"
+			}
+			"1.3.6"
+			{
+				"gid" "6145558256398027976"
+				"size" "529838685"
+				"download" "512618944"
+			}
+			"1.4.0"
+			{
+				"gid" "6145558256398027976"
+				"size" "529838685"
+				"download" "512618944"
+			}
+			"1.4.1"
+			{
+				"gid" "6145558256398027976"
+				"size" "529838685"
+				"download" "512618944"
+			}
+			"1.4.2"
+			{
+				"gid" "6145558256398027976"
+				"size" "529838685"
+				"download" "512618944"
+			}
+			"1.5.10"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.11"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.12"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.13"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.5"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.7"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.8"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.5.9"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.6.0"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+			"1.6.1"
+			{
+				"gid" "8145970981984831825"
+				"size" "604574365"
+				"download" "582238400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "2306572A8417E67D279D4CDF8F766150"
+				"size" "E186D89603495E7D6797C91199B33026"
+				"download" "BA0B05F8EFD67739389EB40786E83AFE"
+			}
+			"partner-test"
+			{
+				"gid" "1F834CF471139E7BAD4CC0E4A5398DA6"
+				"size" "CB39164B28D9A80BE544923CB9CAAB8A"
+				"download" "61A1E674D69C125BCA9960DD90331976"
+			}
+			"preview2"
+			{
+				"gid" "EB701896DB43140C6F25B415E2DEDA85"
+				"size" "80B3C5DE931A7DEB880632575A6CE55B"
+				"download" "BF36EA42E2FC3777888FB9189A5ADD8B"
+			}
+			"atlantis_rising"
+			{
+				"gid" "B50D4D5653B6BE3F514EA436D8A00F37"
+				"size" "B8B7BB9445DA31B5D0D0403B37645BB0"
+				"download" "326D75AB48472F4AC4FD4C94E748325D"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "DDEB0C6735F56164B9B4029E2E72AADA"
+				"size" "B22D3C2428FABF0B48173D3489611F05"
+				"download" "5CA127A7950CA2D3726A044301C2349A"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "154A3AE31945A0254E8A70C80661B7E6"
+				"size" "5FEB8B00F4A6D9821B5023A0B0E10E45"
+				"download" "64332E5149719A5B9CA54F7CDE7E7CAB"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "A37F00F7C0B2B58F1C5AB09CCF547FBA"
+				"size" "6222006237B2D1D31CA3CBE44A661012"
+				"download" "D141C46C19FF031E53473B4F7E09EF29"
+			}
+			"preview"
+			{
+				"gid" "382ADCA66535957A03B6B77F56E49042"
+				"size" "0AF3565F39F27CADE4F8AFFE19003C2D"
+				"download" "FBD1181B91325B86484BB21C10804680"
+			}
+		}
+	}
+	"2071471"
+	{
+		"dlcappid" "2071471"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.0.6"
+			{
+				"gid" "8401132413215486669"
+				"size" "96274"
+				"download" "96768"
+			}
+			"1.1.2"
+			{
+				"gid" "8401132413215486669"
+				"size" "96274"
+				"download" "96768"
+			}
+			"1.2.7"
+			{
+				"gid" "8401132413215486669"
+				"size" "96274"
+				"download" "96768"
+			}
+			"1.3.6"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.4.0"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.4.1"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.4.2"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.10"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.11"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.12"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.13"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.5"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.7"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.8"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.5.9"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.6.0"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+			"1.6.1"
+			{
+				"gid" "5517741351546977109"
+				"size" "96255"
+				"download" "96752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "9DCC24384931C0C0736A7FB70A70AFBF"
+				"size" "AD73A5D6DC77645504798FE8E97E7900"
+				"download" "55AF105AD74A78C6E3F00E70429C4D69"
+			}
+			"partner-test"
+			{
+				"gid" "1DB3B22268E0B8A87FA9BA00570B4AC5"
+				"size" "96AACB88B2766C0FB50F659F5E2367C2"
+				"download" "43A261122B0D78D2689E76377F5212E5"
+			}
+			"preview2"
+			{
+				"gid" "49705D0E4BEB63037C0541BD7F2759EB"
+				"size" "168AC33C17811609AD63E8CF785D27D4"
+				"download" "C83E5AA9A7D6DD47BA775B8CADE6510C"
+			}
+			"atlantis_rising"
+			{
+				"gid" "66C23690161048D5223DDA91AF4FC21E"
+				"size" "C99C460DF8F3C13FDE0CADDFA9BAAE1A"
+				"download" "F151D0B0C2BD39D625B4A9F9DA1728E1"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "824E97024B29A97AA6E1ADFE7387531A"
+				"size" "20B0CAAD6F6F2DF1ABF76679EC18E7BA"
+				"download" "1406D44B3181ACCF70124CC9C8F0F9BC"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "A67A9ED7E052F26766FD7E3666345DE8"
+				"size" "8E6479CE040686C6229FE44E3A06848B"
+				"download" "9BE8331032DAC0BFBD676C0A0DD85E7D"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "EE1C136CFE13045D775F8015137F4CB5"
+				"size" "F734F1F46B2878AB78B35B1B73212D70"
+				"download" "75F7F8FF49C1AD6455794886E963EDFB"
+			}
+			"preview"
+			{
+				"gid" "F0093A7DA3E0465A16AB22D907A0F360"
+				"size" "4E6EC1843AC4A3C9B07845D32F02D7B5"
+				"download" "07F28AFB5190CCC6E8763E58DE3390C4"
+			}
+		}
+	}
+	"2348450"
+	{
+		"dlcappid" "2348450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.2.7"
+			{
+				"gid" "1981761221201119020"
+				"size" "720379669"
+				"download" "725287712"
+			}
+			"1.3.6"
+			{
+				"gid" "8625560855073387913"
+				"size" "720380061"
+				"download" "725287952"
+			}
+			"1.4.0"
+			{
+				"gid" "8625560855073387913"
+				"size" "720380061"
+				"download" "725287952"
+			}
+			"1.4.1"
+			{
+				"gid" "8625560855073387913"
+				"size" "720380061"
+				"download" "725287952"
+			}
+			"1.4.2"
+			{
+				"gid" "8625560855073387913"
+				"size" "720380061"
+				"download" "725287952"
+			}
+			"1.5.10"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.11"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.12"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.13"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.5"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.7"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.8"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.5.9"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.6.0"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+			"1.6.1"
+			{
+				"gid" "1310809419530897821"
+				"size" "720381917"
+				"download" "725288608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"partner-test"
+			{
+				"gid" "4C4E8D3A58EACF08973FC6D14537D060"
+				"size" "70746B053901A1A86A5B9C9F1FF081FE"
+				"download" "AAD87016E7ADD1EB855BADF3EC34F336"
+			}
+			"preview2"
+			{
+				"gid" "9B83A59A12C9579D582062749DD2B3BC"
+				"size" "0CF56B550B01F81F69B2F834A7F417F6"
+				"download" "EC8AA6B538AFD5B90A878DDBD55BDEB4"
+			}
+			"atlantis_rising"
+			{
+				"gid" "8D51C874D6ABD3706FAD5F43DF1455D0"
+				"size" "582E5E9F2AECE6C0FC9BD151A92E8089"
+				"download" "C5E009050DAFF57DFE5EFF22B51EF835"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "88D92CEF8A9D45D1F3368CC706A624F6"
+				"size" "040CB45650BE7B1F33A0E0FC7DE62F5B"
+				"download" "6C6E137B1CF8A56F1032C08976FFBE01"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "840B029FC9772ED6259F2D3F2F03AE68"
+				"size" "DEAD4C6F9B8ADD67BC80378DD52219FC"
+				"download" "43944E409F1972898ADFD84D19B74182"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "0EB341236D93EB378CDF0A7E6FF6B104"
+				"size" "FDCB6E9864A6CB3E70A8151D4456385F"
+				"download" "39596B7C603916CA45F385CD82191680"
+			}
+			"preview"
+			{
+				"gid" "2D22902287488B49EFE2A476C614BD76"
+				"size" "05FA048B6810CABC72F3D37945B0EDF9"
+				"download" "9325B3B35CD859F542D844F6D46A24FA"
+			}
+		}
+	}
+	"2282100"
+	{
+		"dlcappid" "2282100"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "495038053266442867"
+				"size" "786019317"
+				"download" "379673600"
+			}
+			"1.3.6"
+			{
+				"gid" "8919483743288128844"
+				"size" "781822582"
+				"download" "376711440"
+			}
+			"1.4.0"
+			{
+				"gid" "3820053071439959566"
+				"size" "786124287"
+				"download" "379704368"
+			}
+			"1.4.1"
+			{
+				"gid" "3820053071439959566"
+				"size" "786124287"
+				"download" "379704368"
+			}
+			"1.4.2"
+			{
+				"gid" "3820053071439959566"
+				"size" "786124287"
+				"download" "379704368"
+			}
+			"1.5.10"
+			{
+				"gid" "3387109243055763042"
+				"size" "786020401"
+				"download" "379673600"
+			}
+			"1.5.11"
+			{
+				"gid" "3387109243055763042"
+				"size" "786020401"
+				"download" "379673600"
+			}
+			"1.5.12"
+			{
+				"gid" "3387109243055763042"
+				"size" "786020401"
+				"download" "379673600"
+			}
+			"1.5.13"
+			{
+				"gid" "3387109243055763042"
+				"size" "786020401"
+				"download" "379673600"
+			}
+			"1.5.5"
+			{
+				"gid" "7546075738049362399"
+				"size" "786122728"
+				"download" "379704176"
+			}
+			"1.5.7"
+			{
+				"gid" "3051923363710755752"
+				"size" "786122650"
+				"download" "379704176"
+			}
+			"1.5.8"
+			{
+				"gid" "8469129865602692676"
+				"size" "786067586"
+				"download" "379689536"
+			}
+			"1.5.9"
+			{
+				"gid" "8469129865602692676"
+				"size" "786067586"
+				"download" "379689536"
+			}
+			"1.6.0"
+			{
+				"gid" "495038053266442867"
+				"size" "786019317"
+				"download" "379673600"
+			}
+			"1.6.1"
+			{
+				"gid" "495038053266442867"
+				"size" "786019317"
+				"download" "379673600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"partner-test"
+			{
+				"gid" "2A55FDDC1F92099AE2F7AE16C8D247DD"
+				"size" "DA088C7097F8B3291FF6ACC369091D53"
+				"download" "F22FE01C414427123BE063B8382A2E41"
+			}
+			"preview2"
+			{
+				"gid" "63C74A0BAEDB274AB7503519DC9CA107"
+				"size" "5495999E6F73AC9B0D735372CA0E6EED"
+				"download" "CA34A4FCDFA75557B06088555F3DDEB9"
+			}
+			"atlantis_rising"
+			{
+				"gid" "C3DB762D516D46585F2BF2280EFE5367"
+				"size" "86F8A82ECABBC18874DBB637BCA18384"
+				"download" "A2AB04C9D10102C442F7BD5AE1C5D1F3"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "1A5D650DE4F5F62560FC402E1D419BB2"
+				"size" "8C1D1D45D8D129C88E8767D0FD41E172"
+				"download" "92FA151551041B5FD1A2E5694D3AEA3D"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "9E90AD893A701637833E1F4580CF70FD"
+				"size" "B39212F2C443ACD550CD6677C1192CAF"
+				"download" "608D45FF81058BCB7138F145FFBCF9C1"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "DC264D223FD390F666CA02EFB4DF0787"
+				"size" "B123769D6CE10A375264D2A0075FDC0B"
+				"download" "5C14C7055FF4E4645C9C7EE9086571FC"
+			}
+			"preview"
+			{
+				"gid" "DB89171A1564D62792EF298FCF908E0A"
+				"size" "6AC35C6FBE563BBBDE40DA0C6AF0A890"
+				"download" "41DE6460494A2ED408C5F29FFD2C8BA6"
+			}
+		}
+	}
+	"2366580"
+	{
+		"dlcappid" "2366580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.3.6"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.4.0"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.4.1"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.4.2"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.10"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.11"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.12"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.13"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.5"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.7"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.8"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.5.9"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.6.0"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+			"1.6.1"
+			{
+				"gid" "389926826450109697"
+				"size" "99008"
+				"download" "99744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"partner-test"
+			{
+				"gid" "21F841BD2E2425F108C74D2B3BAC95D3"
+				"size" "CC4D6BC091DD81627EC62B5FBCEA375F"
+				"download" "B4AC27566183F8BB6037DA2D0D367380"
+			}
+			"preview2"
+			{
+				"gid" "5EE959C53A43A8E00463D35DA51822BC"
+				"size" "FB4B2E5B87FE51567C81845676A2C540"
+				"download" "B7D526B8491AAD371DE4C22028154017"
+			}
+			"atlantis_rising"
+			{
+				"gid" "376515573C6A562A8465F36F5E1408B7"
+				"size" "30B4D27A8B36FB81236E6190F54DE463"
+				"download" "F26723777EA6C9DA82418BCEEEFF682D"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "74796C3547FC7F5253430BC36424BFCD"
+				"size" "6F77FED0ED3702E8A9616955E929C756"
+				"download" "F00C79E45F285196F44DD1606CACD368"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "47A304E5A073E76A20E2EF176A85D872"
+				"size" "BFB23800C12708972E44F00BF0F421EE"
+				"download" "6D73C5EAD62E57BCF2C16E37A9A77757"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "A805928122942B49ADA091C6E2099B51"
+				"size" "7B3BAABD833D3B9EAE84DD286B539962"
+				"download" "27BEB83887EACB06D3036DDD0567A288"
+			}
+			"preview"
+			{
+				"gid" "DA114B4F7828950C4D91DACB8BD970F8"
+				"size" "54778E5C352E87D31C3FE70536B1BA24"
+				"download" "4C3D74A064B0041377ED2C30DE990998"
+			}
+		}
+	}
+	"2411230"
+	{
+		"dlcappid" "2411230"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.4.0"
+			{
+				"gid" "2382625074891815549"
+				"size" "498993886"
+				"download" "115765696"
+			}
+			"1.4.1"
+			{
+				"gid" "157619193631203130"
+				"size" "498993886"
+				"download" "115765696"
+			}
+			"1.4.2"
+			{
+				"gid" "4694060593974717402"
+				"size" "498993888"
+				"download" "115765696"
+			}
+			"1.5.10"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.11"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.12"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.13"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.5"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.7"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.8"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.5.9"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.6.0"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+			"1.6.1"
+			{
+				"gid" "8798215589755302587"
+				"size" "498993839"
+				"download" "115765696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"preview2"
+			{
+				"gid" "5979C7C48AC562D816A725461315186C"
+				"size" "EB29BA3D2428301D37BA314B58F4D013"
+				"download" "F95CC134342A502400A803072DD28C20"
+			}
+			"atlantis_rising"
+			{
+				"gid" "D48C6E637633AFA9E7A3DFEFC8FB9273"
+				"size" "868DBCB903CA8F92C40A8D67EB3E34EA"
+				"download" "A44AE5F42CED8E54A00EE53DCA018D8D"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "186BEB0E14E8663028E86A5D817CBECD"
+				"size" "81799C8ABE921E401419387062709D7F"
+				"download" "2944FDADEC14CC5884395471F1980A40"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "386D8EEAC697247DAD1F3AC223FD89D4"
+				"size" "545BEB456841E78BF3726DDD0093EFF0"
+				"download" "9817EC232B8385FA3F36E52B0C5FE6D0"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "4FB215156F592AD83183F25975C6E42A"
+				"size" "467AC278C40DC59D9142FFD669A07550"
+				"download" "4CAB690603BB2D62F44A63AA9D17A652"
+			}
+			"preview"
+			{
+				"gid" "AE7C4BBD4B12A678F472D81D40387358"
+				"size" "69FD796CA3F4C4D6BCD6EB9E4DC605F4"
+				"download" "F6CC5508ED6F4C923E5A98D27BA50C7E"
+			}
+		}
+	}
+	"2591240"
+	{
+		"dlcappid" "2591240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.10"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.11"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.12"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.13"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.7"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.8"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.5.9"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.6.0"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+			"1.6.1"
+			{
+				"gid" "531805294570425058"
+				"size" "50100927"
+				"download" "45026912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"preview2"
+			{
+				"gid" "B8E76F9C8484091E07E93A1DE7B12E75"
+				"size" "D16FF248F177ED83082E3FBDD94558A6"
+				"download" "A546BBFB2A045E32B4D56E089EDF212E"
+			}
+			"atlantis_rising"
+			{
+				"gid" "5528228F2249E40191094B44CA3BC909"
+				"size" "2966033366620E03BE836AF37CE94B70"
+				"download" "9ADD0BA59F393A47A762B5DE17A493AE"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "4B97649A54556F3B40AF1CE216A08F76"
+				"size" "AFE243A5129A3E1814E967E5D27C4BE3"
+				"download" "BD748B44D42D3DDD2486C044FD6A8F9E"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "35E86EE5AC9430E823D10190F9EF5570"
+				"size" "FE0E1AC0FC51027AEF4F59A74D4F548D"
+				"download" "DEB73910B50325821EAA40892331B66E"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "9000A6E4E56F9A7B9FCDC12722D656A0"
+				"size" "FF41EBE9C71575191BAFD3C886A0A000"
+				"download" "86B182F0882C713F9DE978CBA3CF56B5"
+			}
+			"preview"
+			{
+				"gid" "E60522C4FC632E856CBF0C5E8EA4406B"
+				"size" "2427B4476F8E94ACFABE3BAE75E13FCE"
+				"download" "67BC249231A1FF3052B135ADAF5ED4E3"
+			}
+		}
+	}
+	"2800730"
+	{
+		"dlcappid" "2800730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "106030915970450331"
+				"size" "21774681"
+				"download" "3871024"
+			}
+			"1.6.0"
+			{
+				"gid" "3628861009861679524"
+				"size" "21774681"
+				"download" "3871024"
+			}
+			"1.6.1"
+			{
+				"gid" "268296336392156141"
+				"size" "21774681"
+				"download" "3871024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"atlantis_rising"
+			{
+				"gid" "6E806A5E8CDEE3FF72DB78829BFB8F68"
+				"size" "CFBFE888570D9657082568AECF97457D"
+				"download" "C51AC901857B62A6DD095D281A1FA17B"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "D4094BAB9672243D22E11D03C1D4E8CD"
+				"size" "B7730CDEA4DD6504F8AEA534A9835C7E"
+				"download" "6A14C5D76327AC04A8EEC3C5A846B9D9"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "1B4810365DCA0DF043C8503D38DC4B56"
+				"size" "C09F6124FAD4F32247772D7C410F0E67"
+				"download" "9B01D890A69B42D5A9E13F9600C039B3"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "9E4CF5CF61E1F00406591D336D01C345"
+				"size" "B2AB9D832A402F9B1CDA665771DF8DA6"
+				"download" "144A817EFC4CC9BA224E81BD50783F55"
+			}
+			"preview"
+			{
+				"gid" "51588233C8A19E98540E21FEB9C429C7"
+				"size" "AAF7468445AFB35C4FB83C7E4FF0B618"
+				"download" "7CD19DBD3802708FC0DAEA429C151455"
+			}
+		}
+	}
+	"2411231"
+	{
+		"dlcappid" "2411231"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"atlantis_rising"
+			{
+				"gid" "5EAE2F807328C35EF5E433786B49CEE8"
+				"size" "9F428E619289E0EDC67DB83030E26476"
+				"download" "825B4FCDA94B3B92E4D87A61F0A2FAEC"
+			}
+			"atlantis_sunset"
+			{
+				"gid" "59391F25C3C1E08913A2B995B8B28209"
+				"size" "39BE0D1C0CA9D8FC378292C1F5F9DCB5"
+				"download" "9BFC79136DF478178DF6ED4D39488063"
+			}
+			"atlantis_sunset_backup"
+			{
+				"gid" "BAD41AEC550AB909FED1BC5526732A17"
+				"size" "1D03F189ABB55896AA6CF02880723E5C"
+				"download" "961A47ED9843E6E763FF5DBD48B6F35D"
+			}
+			"atlantis_twilight"
+			{
+				"gid" "BEC1E75BB33326B02BCD567A8AD7DC47"
+				"size" "94FDC6CE620EB9525E42D8A26995DE6F"
+				"download" "5710F1F8FDA3E44DCA61EF8421A0F6F6"
+			}
+			"preview"
+			{
+				"gid" "D7CD5FACF33B52CCF5D4586972A1401B"
+				"size" "EAD731CBD63921BF1BD1BE2FCC373BA8"
+				"download" "97F1E7116C525C276CAC4321BF444974"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13727517"
+			"timeupdated" "1710421170"
+		}
+		"1.0.6"
+		{
+			"buildid" "9902173"
+			"description" "1.0.6 Vanilla"
+			"timeupdated" "1670010570"
+		}
+		"1.1.2"
+		{
+			"buildid" "10116461"
+			"description" "1.1.2 Earl Grey"
+			"timeupdated" "1678453586"
+		}
+		"1.2.7"
+		{
+			"buildid" "10826657"
+			"description" "1.2.7 Hot Cinnamon Spice"
+			"timeupdated" "1684741673"
+		}
+		"1.3.6"
+		{
+			"buildid" "11578793"
+			"description" "1.3.6 Thé à la menthe"
+			"timeupdated" "1693217815"
+		}
+		"1.4.0"
+		{
+			"buildid" "12002812"
+			"description" "1.4.0 rollback"
+			"timeupdated" "1693397289"
+		}
+		"1.4.1"
+		{
+			"buildid" "12061115"
+			"description" "1.4.1 rollback"
+			"timeupdated" "1694098471"
+		}
+		"1.4.2"
+		{
+			"buildid" "12105732"
+			"description" "1.4.2 Irish Breakfast"
+			"timeupdated" "1699613922"
+		}
+		"1.5.10"
+		{
+			"buildid" "12809124"
+			"description" "1.5.10 rollback"
+			"timeupdated" "1702460172"
+		}
+		"1.5.11"
+		{
+			"buildid" "12942017"
+			"description" "1.5.11 rollback"
+			"timeupdated" "1702555124"
+		}
+		"1.5.12"
+		{
+			"buildid" "12960574"
+			"description" "1.5.12 rollback"
+			"timeupdated" "1708433232"
+		}
+		"1.5.13"
+		{
+			"buildid" "13249685"
+			"description" "1.5.13 rollback"
+			"timeupdated" "1709039622"
+		}
+		"1.5.5"
+		{
+			"buildid" "12491205"
+			"description" "1.5.5 beta rollback"
+			"timeupdated" "1699960247"
+		}
+		"1.5.7"
+		{
+			"buildid" "12661468"
+			"description" "1.5.7 rollback"
+			"timeupdated" "1700144694"
+		}
+		"1.5.8"
+		{
+			"buildid" "12720446"
+			"description" "1.5.8 rollback"
+			"timeupdated" "1700225955"
+		}
+		"1.5.9"
+		{
+			"buildid" "12732606"
+			"description" "1.5.9 rollback"
+			"timeupdated" "1701159459"
+		}
+		"1.6.0"
+		{
+			"buildid" "13565420"
+			"description" "1.6.0 rollback"
+			"timeupdated" "1709741777"
+		}
+		"1.6.1"
+		{
+			"buildid" "13657017"
+			"description" "1.6.1 rollback"
+			"timeupdated" "1710164440"
+		}
+		"baseline"
+		{
+			"buildid" "9438644"
+			"pwdrequired" "1"
+			"timeupdated" "1662462856"
+		}
+		"partner-test"
+		{
+			"buildid" "11114778"
+			"pwdrequired" "1"
+			"timeupdated" "1683893060"
+		}
+		"preview2"
+		{
+			"buildid" "12630129"
+			"pwdrequired" "1"
+			"timeupdated" "1699622928"
+		}
+		"atlantis_rising"
+		{
+			"buildid" "14722174"
+			"pwdrequired" "1"
+			"timeupdated" "1718387685"
+		}
+		"atlantis_sunset"
+		{
+			"buildid" "14681474"
+			"pwdrequired" "1"
+			"timeupdated" "1718129024"
+		}
+		"atlantis_sunset_backup"
+		{
+			"buildid" "14601651"
+			"pwdrequired" "1"
+			"timeupdated" "1717602836"
+		}
+		"atlantis_twilight"
+		{
+			"buildid" "14709748"
+			"pwdrequired" "1"
+			"timeupdated" "1718306775"
+		}
+		"preview"
+		{
+			"buildid" "14690841"
+			"pwdrequired" "1"
+			"timeupdated" "1718191711"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#mainmenu" "Main Menu"
+				"#inlobby" "In Lobby"
+				"#playingas" "Playing as %country% in %year%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23977147"
+"_sha" "6c5e2deda2b869ac3a4d7f8b2d5733052f809f2f"
+"_size" "60141"
