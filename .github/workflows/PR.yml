@@ -9,7 +9,7 @@ on:
       repo:
         description: repo
         required: true
-        default: https://github.com/Auiowu/ManifestAutoUpdate-Cache
+        default: https://github.com/Auiowu/ManifestAutoUpdate
       level:
         description: Logging Level
         required: true
@@ -44,4 +44,8 @@ jobs:
       - run: |
           git config --local user.name github-actions[bot]
           git config --local user.email 41898282+github-actions[bot]@users.noreply.github.com
+<<<<<<< HEAD
+          python pr.py --repo ${{ github.event.inputs.repo || 'https://github.com/Auiowu/ManifestAutoUpdate' }} -t ${{ secrets.token }} -l ${{ github.event.inputs.level || 'INFO' }}
+=======
           python pr.py --repo ${{ github.event.inputs.repo || 'https://github.com/Auiowu/ManifestAutoUpdate-Cache' }} -t ${{ secrets.token }} -l ${{ github.event.inputs.level || 'INFO' }}
+>>>>>>> dbf63c274cb4457bbf7e0e120ade3bf2ffefe0fa
