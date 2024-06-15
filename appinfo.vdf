@@ -1,0 +1,951 @@
+"appid" "701160"
+"common"
+{
+	"name" "Kingdom Two Crowns"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"releasestate" "released"
+	"logo" "3da9798afd42d3af248462dbcebee7e5f638b236"
+	"logo_small" "3da9798afd42d3af248462dbcebee7e5f638b236_thumb"
+	"icon" "7bf44c4e301a0f6fae78f697b39b5a1268223945"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "259b0c510f58bf7d1d064ac69c4e41b6a6dafe91"
+	"clienttga" "e30f6f632ac6f7d13de2fcbd09b251a88b9e0f48"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "王国：两位君主"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1700697600"
+		"tested_build_id" "12698400"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "76.14502805503034"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716219784"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stumpy🐙Squid"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Fury Studios"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Coatsink"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Raw Fury"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Kingdom"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Raw Fury"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Kingdom Two Crowns"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_1" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1544541120"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "701160"
+	"store_tags"
+	{
+		"0" "4166"
+		"1" "599"
+		"2" "21"
+		"3" "1685"
+		"4" "3859"
+		"5" "7481"
+		"6" "1645"
+		"7" "4094"
+		"8" "3841"
+		"9" "4172"
+		"10" "3798"
+		"11" "7332"
+		"12" "3871"
+		"13" "3843"
+		"14" "3810"
+		"15" "4328"
+		"16" "122"
+		"17" "220585"
+		"18" "1662"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Stumpy🐙Squid"
+	"publisher" "Raw Fury"
+	"homepage" "http://www.kingdomthegame.com/"
+	"listofdlc" "980450,988810,1299270,1708680,2736340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kingdom Two Crowns"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KingdomTwoCrowns.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "KingdomTwoCrowns.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "KingdomTwoCrowns.x86"
+			"arguments" "-screen-fullscreen 1 -screen-width 1920 -screen-height 1080"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1896344843"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"701161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6443901847607890670"
+				"size" "1445009103"
+				"download" "803533872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalqa-retail"
+			{
+				"gid" "E2392E9C3F7F814479F95C13D7AAB8E1"
+				"size" "9A24B143DA38D6F2A05A3550C77078ED"
+				"download" "8CDB9A0E38A7CA1EA2026F58DFCF0C07"
+			}
+			"externalqa2"
+			{
+				"gid" "3A9DF8D392FCA6C320BDCE4EA28AAA0B"
+				"size" "FFAC88C08DCC92C5CAC189007D8FC3DD"
+				"download" "A0AE3D044150A8AF5D727C89B69B20FF"
+			}
+			"hotfix_candidate"
+			{
+				"gid" "8414894B8E976B795C8DCF16E78CDAD4"
+				"size" "DC0F525CD6CBC866031BA0E2DEF50550"
+				"download" "4E96B0E9CB2F1382A7A7BF61B98FE2F1"
+			}
+			"ost_only"
+			{
+				"gid" "D5B64CFE1CF9E87D3536450D5EE4A53A"
+				"size" "88C44DC37933572A8B60AD61EA9EE215"
+				"download" "40F12F31152C7A71BEF1FF424F9A7C3C"
+			}
+			"public-test_candidate"
+			{
+				"gid" "A7ABDF72D1CE39AFC933764DC8A050F1"
+				"size" "2CD8A205BBD5B7833B0F73A758B5D851"
+				"download" "AE562DBFD9BD3325C547D113460939FF"
+			}
+			"release_candidate"
+			{
+				"gid" "5FDE212FBEC93CF1512B3C389FE96ACD"
+				"size" "708B57F8D06E24D8D8A93B838063922F"
+				"download" "AB763DD94BB66C06921088DE568ED4B6"
+			}
+			"automated-builds"
+			{
+				"gid" "4E0EB38D28A2986354F17AF804845643"
+				"size" "078D33550D9B38397F8210C14BDCC677"
+				"download" "7AA6DB9685EF3E6BE7C273437B063A08"
+			}
+			"capture"
+			{
+				"gid" "3B82448B0B631963CD45FA6213678768"
+				"size" "12EC4173ACE808A62B4273EF5D1B8583"
+				"download" "0F541C420ABBC9F461C363EF3EC04925"
+			}
+			"externalqa"
+			{
+				"gid" "A40E0E309DC13BCB873730E359BDA9F2"
+				"size" "CD196184313E0F33D486D3F96C31F752"
+				"download" "63507462E2A48C438B04675C8EB52384"
+			}
+			"gotestify"
+			{
+				"gid" "2E38AB638D112055F6495A836FF85912"
+				"size" "E5844BA9C87EAD21DB54C240917010CE"
+				"download" "1D3C50E01F658F8CD631D3BA2689F6D5"
+			}
+			"greece-playtest"
+			{
+				"gid" "F9C00600AB92939F1E4C7810650B4298"
+				"size" "D5A1AEF7DC591CF25C439B181CA8862A"
+				"download" "A1F4C1D9199D66312F348E9A2979648F"
+			}
+			"internal-testing"
+			{
+				"gid" "4F1D77DECB12D68F3D79ACD0C8E63927"
+				"size" "B9CA63AE02FBECCC090D72ED535BC184"
+				"download" "0BE9F8F7F0362766D4AE9FD36982B743"
+			}
+			"internal-testing2"
+			{
+				"gid" "2663D7E7A134D71967AD18AD7A98ABC1"
+				"size" "14EC266F337F77EE30108E8D871CFFA5"
+				"download" "C5C0125F8298E1E16A1DBA91243D39F7"
+			}
+			"internal-testing3"
+			{
+				"gid" "1F9ADE8AC59B054AB3E7A76282309B0A"
+				"size" "9FD15AB5375ACB2505F36332970A86B6"
+				"download" "D20108F4DA437B6A57AB9D921BA3F09E"
+			}
+			"internal-testing4"
+			{
+				"gid" "3C5EAE3DA3B6A7B2A9CB636998833682"
+				"size" "B67B55744591ED3EB30F29A0FC348AAA"
+				"download" "93342E3AC6D7EAB2DF8CD4EAFF77BA82"
+			}
+			"loc-qa"
+			{
+				"gid" "043C034317BD38318ABA13F50B32BDB7"
+				"size" "94849D64F39325AB04AE1C4750F81794"
+				"download" "C74A95434537F90576D804F5B0025075"
+			}
+			"royalrumble"
+			{
+				"gid" "7A51B4A36F155DF739AED81DD0303AA3"
+				"size" "FCE757629CFB8F7B919E928F4EB2CD32"
+				"download" "9AE579FF43ED378CDDDDC9204C5D507D"
+			}
+		}
+	}
+	"701162"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7154279350430330308"
+				"size" "1468441755"
+				"download" "807435168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalqa-retail"
+			{
+				"gid" "84330B9BD2283D7356829A7ABADEEAC1"
+				"size" "132AE383C5477681718381966E06C0CD"
+				"download" "112C48B0279B2C71191AE3C3583A9E72"
+			}
+			"externalqa2"
+			{
+				"gid" "EDFCA92B5218FFC634CD5D47A243129D"
+				"size" "BA125DD31837361D402C2C25D9C3EED1"
+				"download" "3EF0EA5E699F21C788917B9032FFC9AD"
+			}
+			"hotfix_candidate"
+			{
+				"gid" "638601B88869E538F7F5AF77D5393168"
+				"size" "9449A0EA14BA66E0051685FF3BCB7505"
+				"download" "8F6B10CF6C13953BFBDD8EFE689B439C"
+			}
+			"ost_only"
+			{
+				"gid" "49736E1DA655324C8AB370592E8247A3"
+				"size" "AC478235813DC164DBBC234442FCB290"
+				"download" "8BE25AE939DFD2881D60854D7EFFA0E5"
+			}
+			"public-test_candidate"
+			{
+				"gid" "AAC8405E75F6CD56D99394BFE3581D5D"
+				"size" "E8C5984DCC64A92918F5B571CDA0620D"
+				"download" "D05444D00E2C695BB2D62B88AD864E3E"
+			}
+			"release_candidate"
+			{
+				"gid" "446B18563F9C47307FFB2E666B046612"
+				"size" "FB2DCF1127AFDD80A0610CF582D85BB8"
+				"download" "C478F01BD8C1740826BAED512E192E9E"
+			}
+			"automated-builds"
+			{
+				"gid" "88EE9E06D3B21996FDEFF6205C96C888"
+				"size" "8D3EF7B055B44DC24CAC7E9A4B923B86"
+				"download" "475FB8CDC23DD663550EB72562684328"
+			}
+			"capture"
+			{
+				"gid" "C07AA5383EB7C6D8699340CBAC135C30"
+				"size" "7322C837FEC7CE4D87EB5F57F297C3BD"
+				"download" "9E5CB1722E5F4AE10D9B871D901E1A75"
+			}
+			"externalqa"
+			{
+				"gid" "9AF5DD1F69A6CC0DE7BD0462B3ACD73F"
+				"size" "DD3BF729B743C8ADC8E5AF1A4A7659A9"
+				"download" "6EB288B2330A3E114AA5F427A483E40D"
+			}
+			"gotestify"
+			{
+				"gid" "CBA6B3449BDB7CE0CBB5A03421A6379B"
+				"size" "DFB630B50293699712B625D00F71F757"
+				"download" "D31EC4C772892C3EC2FE8D58700405C1"
+			}
+			"greece-playtest"
+			{
+				"gid" "316436472BE0E9B8E1243958CD2E2E99"
+				"size" "CF3D4A7FCD40D8640E7C2C5427B07F8C"
+				"download" "D296C45828DB99D2094601317AA6AE7E"
+			}
+			"internal-testing"
+			{
+				"gid" "CAF66F1FE81AE0228A93F52D2ED102CC"
+				"size" "921FCB63ACE727C56F08766DDF3C593F"
+				"download" "9A5B2E8D99260FA738BD6E531254DCFF"
+			}
+			"internal-testing2"
+			{
+				"gid" "5E1FBB0AEB05848D7314187AED73A590"
+				"size" "81FAAE783CC64EC57692AF67250282E1"
+				"download" "601B948938307834F4D7CE42ACE49481"
+			}
+			"internal-testing3"
+			{
+				"gid" "B911B4B4F5F3DAF90D9E3A9E18B0A9F1"
+				"size" "CE3498447798D850814565E9B9DE9119"
+				"download" "B58A0DE20F343D7D708FB6B32FA8A1E7"
+			}
+			"internal-testing4"
+			{
+				"gid" "2A25CFCBE6A973724EFA3F3DC5CBB1CD"
+				"size" "B88076D476B157AEAE49537E4B2CD059"
+				"download" "2E418D200F53B3AFB536242E230A3555"
+			}
+			"loc-qa"
+			{
+				"gid" "EBD56B5F261E42F37528BA44C80B6B6D"
+				"size" "66D37A54C54C1BB8AD43C76E9AB2C77F"
+				"download" "96589668DB3818D38BDBD71014539C8C"
+			}
+			"royalrumble"
+			{
+				"gid" "1B86F1B5A378A52EFD266C31AAAC7304"
+				"size" "902159F8F19268B72B5FA2B80EC39234"
+				"download" "F7CEDB6F71B320CF4EADB8D5B0C21E15"
+			}
+		}
+	}
+	"701163"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5304647052635547410"
+				"size" "1438793321"
+				"download" "801759152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalqa-retail"
+			{
+				"gid" "45A2A5745F0B64918E24479CA5C82B17"
+				"size" "D72E0382FCEF9DC137F1FF09FCA5EE8E"
+				"download" "FE21A63139DC0F9567BE9530E16B30B5"
+			}
+			"externalqa2"
+			{
+				"gid" "B5720052F07AFA946FC47AF761C83A52"
+				"size" "83CB10E61B68B59A12F19B8CAE0CD999"
+				"download" "5DAD59A72DDB450CD804A2BAA20916DB"
+			}
+			"hotfix_candidate"
+			{
+				"gid" "1E063725A20C25B37DB24D1AC7988474"
+				"size" "04DB077A1C16F9B6BD380E1266657BE8"
+				"download" "20896ED559A23D5648ADE3C810DA16C0"
+			}
+			"ost_only"
+			{
+				"gid" "5A09F42E538121EF4B01B88387AA9DE3"
+				"size" "E0154EA4A80F8FC1E7E64F90903D4649"
+				"download" "A5A58AB03DCD893FD2A1727FA0063E1A"
+			}
+			"public-test_candidate"
+			{
+				"gid" "90E2729FD5C826D35708A1DC737DCE0D"
+				"size" "73F8E44F4D3FE36B3344962E38107E0F"
+				"download" "91F7823FD58BE43307F3858729204C5B"
+			}
+			"release_candidate"
+			{
+				"gid" "061E7371EE1BA73AC78DDE7411331044"
+				"size" "7F1FA3F5CAE7DC7E01A2CB9EB4206238"
+				"download" "4A4C488B5E2D4F2EB155FBE384274A00"
+			}
+			"automated-builds"
+			{
+				"gid" "E311E548433F019AA55412482F1EC0B7"
+				"size" "B95687A69FBC68139B08B62767A11231"
+				"download" "40F65447289132E36D17ABA4FFCEC229"
+			}
+			"capture"
+			{
+				"gid" "4EC31039E77943518D31972251FE0BEE"
+				"size" "CF1029CD123487082437A9B74B9C66A4"
+				"download" "542F3F1868965C674C450F55C3836237"
+			}
+			"externalqa"
+			{
+				"gid" "A8F9AC6ED354FA8C83ABA3AD77190420"
+				"size" "D9343F1FFA5E685EBFCC8F38D5226F44"
+				"download" "33E1BF87909B0633AE545C4B07803C1E"
+			}
+			"gotestify"
+			{
+				"gid" "B211582820BA7B72CEE4E29DEE256FC3"
+				"size" "A6250F230545F678E4C53AF84131A026"
+				"download" "6B43BC4E65A75FC1A81518C5E84C1E11"
+			}
+			"greece-playtest"
+			{
+				"gid" "BA19CA98A4E6A1B3618AD5D63DF56C96"
+				"size" "B6755F84A44DC286F3705493538AE01A"
+				"download" "C347FC3A9091A0C4F13B9CC885FCECAA"
+			}
+			"internal-testing"
+			{
+				"gid" "860B7EAAE66B4D32AE42A679B50DD05B"
+				"size" "3524194107E95244FFDAAAB027E92167"
+				"download" "6374883379AD22FC81EDB41C6F3E90E5"
+			}
+			"internal-testing2"
+			{
+				"gid" "705A8A02E223A3B0E4344195EA513160"
+				"size" "D5B94AE0E220FC76D5F62A0EB6BA3956"
+				"download" "08299AEED7D1F583C726F316E1C70DD4"
+			}
+			"internal-testing3"
+			{
+				"gid" "FE2845454CBDDB471A8F8A185D8F3B36"
+				"size" "59F8A4890D0732AA4A9C820AFBE23E3A"
+				"download" "2018575016AB1BC25E93BCF8E916A2F9"
+			}
+			"internal-testing4"
+			{
+				"gid" "ABD8ECD012A95346E4A69E39E68C71E9"
+				"size" "BAF5A99A461D4D2ED715F8548C753CCB"
+				"download" "5C2915E47624A607896AA4DD28BAAFC0"
+			}
+			"loc-qa"
+			{
+				"gid" "41A9C6A11FB03048C8B0FC4B1E14C167"
+				"size" "25BCEC5EFD6C0A0F248581F563830C07"
+				"download" "B41B3BB6DC3D79D1BB3876A13841859F"
+			}
+			"royalrumble"
+			{
+				"gid" "944BFBE398493E7E364E375BFD83EC29"
+				"size" "6E80D8784E6FCAACD50D335AC8BFE426"
+				"download" "CEFD2C48D741E4D97DD9AC0A1E20976F"
+			}
+		}
+	}
+	"988810"
+	{
+		"dlcappid" "988810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3927842009364706930"
+				"size" "1254026319"
+				"download" "1263322992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalqa-retail"
+			{
+				"gid" "6D341CB32C01A4B24F4D36F6D8B08457"
+				"size" "F427F7938265350CE668540450E8A0FF"
+				"download" "9B2660213E64B753E3FDE3A93F7D1020"
+			}
+			"externalqa2"
+			{
+				"gid" "D044330B846CADEAAF96204CC59FAB56"
+				"size" "3DDC00895E0BCD33D220C744EAA4C05B"
+				"download" "DEAAC43C4473433C566984F9E305EA7E"
+			}
+			"hotfix_candidate"
+			{
+				"gid" "D6DD4A4EC6C4823148826238E6C101D6"
+				"size" "50EB6C4BB3ECF3FE754F0D9206AB97C6"
+				"download" "980A29B43B938843423EBBFA5AAF95C6"
+			}
+			"ost_only"
+			{
+				"gid" "4EB594FCBB09868F2995B86AA3A24ED7"
+				"size" "FFC4E51BC96F01B226F6FEC3B9F01BD7"
+				"download" "B311566C23066EED5D5EB562AC29928C"
+			}
+			"public-test_candidate"
+			{
+				"gid" "A8FE789F835C79C7059F5AA3EC8F1234"
+				"size" "F6D1BE90C47615081B7EC67F8D61813C"
+				"download" "A4A49BE85D70E08DB95D622FF8B76585"
+			}
+			"release_candidate"
+			{
+				"gid" "45E4666E15D8EC693CA4564DBD1DE4C5"
+				"size" "2B4D21BD6991AA8150809F9E19DA3CD2"
+				"download" "6A671E679D5EA57DFA59AA86CD063AAF"
+			}
+			"automated-builds"
+			{
+				"gid" "CC01E02897C93F7E8DD7E90798383C5A"
+				"size" "1584ED85895398842B31ED18F7D4AE5C"
+				"download" "DCB08BE20D578F48999561038910205E"
+			}
+			"capture"
+			{
+				"gid" "4FB21050577DA3D01B5EB49D95C18B8A"
+				"size" "6D4318B2F887F58470C32471F90B2C2D"
+				"download" "E49EBC0E1F490A4A7789A199E73CB1D2"
+			}
+			"externalqa"
+			{
+				"gid" "7167153C74B7C1B65B4E6BD4D4D07E98"
+				"size" "30421CE78FE6C0C836C41C26927BB1F4"
+				"download" "340782493AE3B4F10EE8A7E13171302F"
+			}
+			"gotestify"
+			{
+				"gid" "43CE1D153FBD27D824CF481ECD63883E"
+				"size" "530161D6FF5CAD55380DD188D96A4AAD"
+				"download" "F42A9E6BF80020F6DD3A305A51E4AB97"
+			}
+			"greece-playtest"
+			{
+				"gid" "5237DAA59D047AE80AC7E8495FF29A4E"
+				"size" "9FA57890CFF35D5C0B2417067C456073"
+				"download" "681553C71D9CEAA57D51D9B492C71FB7"
+			}
+			"internal-testing"
+			{
+				"gid" "7F53227A395C52E14C8C13DBFA58AB3B"
+				"size" "9DAC61B635F6930EB9DD6E9F739E3350"
+				"download" "3D74C60711B6943C657E95CA47307C40"
+			}
+			"internal-testing2"
+			{
+				"gid" "CA8CD88B52BE43CAD1D5D5E3464D040B"
+				"size" "E1479D4D98E8CF614B31F6600BEDB550"
+				"download" "8F2202BABEC76B667CD1B4BC94A51C53"
+			}
+			"internal-testing3"
+			{
+				"gid" "13F24BEB55B10366095AA6498B57C190"
+				"size" "DF49D50B750D0F33BB535C3BBF11665F"
+				"download" "043205CEDF88F85B69EBA682145E9EEF"
+			}
+			"internal-testing4"
+			{
+				"gid" "29710E1A555C71C2A89D3E85552A6910"
+				"size" "4F5FB0C9C86FCBEF7B19E9E2F1786D0E"
+				"download" "6961BBAE595EBEE4A87B349483D79C64"
+			}
+			"loc-qa"
+			{
+				"gid" "FA53D990A5F0B7C4728C555F8BA3E63B"
+				"size" "C0EF148DF35F28833F6A1DCA0A93777C"
+				"download" "12544CCF05CC22ECE0476742F5C7C0E3"
+			}
+			"royalrumble"
+			{
+				"gid" "9EB7EDA769EDBE578325CB06A2A46D81"
+				"size" "9D99DA350A20811DF2702A6DB8FBEFA0"
+				"download" "396F7323EF4703E1E3765073B516E6E3"
+			}
+		}
+	}
+	"1708680"
+	{
+		"dlcappid" "1708680"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12698400"
+			"timeupdated" "1699960364"
+		}
+		"externalqa-retail"
+		{
+			"buildid" "8299578"
+			"pwdrequired" "1"
+			"timeupdated" "1646215874"
+		}
+		"externalqa2"
+		{
+			"buildid" "9035283"
+			"pwdrequired" "1"
+			"timeupdated" "1656579067"
+		}
+		"hotfix_candidate"
+		{
+			"buildid" "7834888"
+			"pwdrequired" "1"
+			"timeupdated" "1638793051"
+		}
+		"ost_only"
+		{
+			"buildid" "12698892"
+			"pwdrequired" "1"
+			"timeupdated" "1699963479"
+		}
+		"public-test_candidate"
+		{
+			"buildid" "8027009"
+			"pwdrequired" "1"
+			"timeupdated" "1642413071"
+		}
+		"release_candidate"
+		{
+			"buildid" "12630315"
+			"pwdrequired" "1"
+			"timeupdated" "1699367582"
+		}
+		"automated-builds"
+		{
+			"buildid" "14715405"
+			"pwdrequired" "1"
+			"timeupdated" "1718350832"
+		}
+		"capture"
+		{
+			"buildid" "14682410"
+			"pwdrequired" "1"
+			"timeupdated" "1718135323"
+		}
+		"externalqa"
+		{
+			"buildid" "14717236"
+			"pwdrequired" "1"
+			"timeupdated" "1718360356"
+		}
+		"gotestify"
+		{
+			"buildid" "14230695"
+			"pwdrequired" "1"
+			"timeupdated" "1714678279"
+		}
+		"greece-playtest"
+		{
+			"buildid" "14388718"
+			"pwdrequired" "1"
+			"timeupdated" "1715860139"
+		}
+		"internal-testing"
+		{
+			"buildid" "14704963"
+			"pwdrequired" "1"
+			"timeupdated" "1718279445"
+		}
+		"internal-testing2"
+		{
+			"buildid" "14632349"
+			"pwdrequired" "1"
+			"timeupdated" "1717716205"
+		}
+		"internal-testing3"
+		{
+			"buildid" "14460725"
+			"pwdrequired" "1"
+			"timeupdated" "1716415075"
+		}
+		"internal-testing4"
+		{
+			"buildid" "14230695"
+			"pwdrequired" "1"
+			"timeupdated" "1714551198"
+		}
+		"loc-qa"
+		{
+			"buildid" "14463112"
+			"pwdrequired" "1"
+			"timeupdated" "1716448883"
+		}
+		"royalrumble"
+		{
+			"buildid" "14468919"
+			"pwdrequired" "1"
+			"timeupdated" "1716470060"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "75000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "noio/KingdomTwoCrowns/Release/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "nl.noio.kingdom-two-crowns/Release/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "unity3d/noio/KingdomTwoCrowns/Release/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23970986"
+"_sha" "d4df94820efeff86c546d9001d67b8a7c7fd1d6c"
+"_size" "21383"
