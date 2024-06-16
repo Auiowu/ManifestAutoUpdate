@@ -1,0 +1,1329 @@
+"appid" "434650"
+"common"
+{
+	"name" "Lost Castle"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "01ec38bd5b3c45b73d60870383c166b8ea3bb601"
+	"logo_small" "01ec38bd5b3c45b73d60870383c166b8ea3bb601_thumb"
+	"icon" "8462ea7ace0444710f30a8681714b57a4a7643d6"
+	"clienttga" "04d322c3d1a73dd3a285b9aa256495ef71b971d4"
+	"clienticon" "b0097c72355dbf2c4db63b7fab98342cfa213ffc"
+	"clienticns" "854e0469c518c8b43477b8f58bd6582e1a67d622"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"sc_schinese" "失落城堡"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1655251200"
+		"tested_build_id" "7315828"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Lost Castle"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-xc,en"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "72.58530672697833"
+			"height_pct" "83.92114660660344"
+		}
+	}
+	"store_asset_mtime" "1696406956"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hunter Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Neon Doctrine"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Neon Doctrine"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Lost Castle"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1472691300"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "434650"
+	"store_tags"
+	{
+		"0" "4840"
+		"1" "42804"
+		"2" "3798"
+		"3" "4158"
+		"4" "1720"
+		"5" "3959"
+		"6" "1646"
+		"7" "3859"
+		"8" "1716"
+		"9" "1775"
+		"10" "6730"
+		"11" "4026"
+		"12" "4231"
+		"13" "122"
+		"14" "3871"
+		"15" "7368"
+		"16" "6971"
+		"17" "4305"
+		"18" "4236"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"gamedir" "LostCastle"
+	"serverbrowsername" "Lost Castle Browser"
+	"developer" "Hunter Studio"
+	"publisher" "Neon Doctrine"
+	"listofdlc" "1415420"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Lost Castle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Lost_Castle.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamchina"
+			}
+		}
+		"1"
+		{
+			"executable" "Lost_Castle.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"realm" "steamglobal"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollerconfigfileids" "197127737"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862305852"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,steam_china_only"
+			"use_action_block" "false"
+			"has_localization_schinese" "1"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,spanish,schinese,russian,japanese"
+	"434651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5881653720638449823"
+				"size" "2354596493"
+				"download" "289667248"
+			}
+			"default_backup"
+			{
+				"gid" "5102354873549090267"
+				"size" "1605645055"
+				"download" "235099552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "45F566E9CFDFA67397CCD9DF015A3A4D"
+				"size" "3078765E9DC8C1243C9BE87ACBEC648C"
+				"download" "59AD2A9611AAF5C42071AABFE4D2F8E4"
+			}
+			"default_backup_1"
+			{
+				"gid" "250871B922E8260DED4A7C0F93C8819B"
+				"size" "D4884092DBDBB45E636D090C4CC7158A"
+				"download" "6F618E3A99169CC17FB2C424D9E04AF4"
+			}
+			"forshow"
+			{
+				"gid" "73696EAC9EA2D168037CC8D04657DF17"
+				"size" "9A55025514D759D304CE1CE739D09E83"
+				"download" "5A2CC9C1F8B239F4D90E45EEB5DFC9ED"
+			}
+			"game_manager"
+			{
+				"gid" "20FAA36E3B19E32A2A11EFC333A9AFDA"
+				"size" "E8DD4AF8774376C0EBC82FB9686CAB8E"
+				"download" "C3BE6D8E6D3BE665E29975B53864EA14"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "707E51057768BA73BDF5D0FEB31688BA"
+				"size" "622C17823A2BB67F3EAEB554C4053F47"
+				"download" "2FA1BB4286174389DA28F7FC8B7FF466"
+			}
+			"nd-development"
+			{
+				"gid" "14BC2C4B3EDF1B7F71C910E89F221C55"
+				"size" "0A7CD64611F7539B5144707E11A34CC5"
+				"download" "25822A24AACCF20C59C26C722BBB0A77"
+			}
+			"recover_record"
+			{
+				"gid" "085DBFAD10527EDFFD2E34BAAD735086"
+				"size" "4BA5DDCD2B59243C4A89159E46813D9B"
+				"download" "E5AC3674E05E1A81CD6EE89DF0BBD41D"
+			}
+			"steam_china_only"
+			{
+				"gid" "4D34598278ED59A9348457E7A78B5681"
+				"size" "B41E3AA00DFBD28165540EA9FEB59792"
+				"download" "4518C737C26A17CCB987D292CD85F21B"
+			}
+			"testing"
+			{
+				"gid" "897DE584BD74CE9EC4B2B74EE816C9EC"
+				"size" "025AD57EF51B9A0C66C9921B9399F736"
+				"download" "D0750EA30DE4440CEC18F58CC27A2E50"
+			}
+			"testing_china"
+			{
+				"gid" "C0862840F90469B95B3752C19EEA7BF4"
+				"size" "54B2E6EC1CEDF6AE6FBD9E732A79D8B8"
+				"download" "9E239CE389CFE1FBE2B07DE6A4BEF3E7"
+			}
+			"ludeo-dev"
+			{
+				"gid" "A798BB2D3151D5E73A52107B69B756A6"
+				"size" "C15A39E628ECFB2934974DC4B39B881E"
+				"download" "8C46588BE8D1A0178A7143B32CCA0BBD"
+			}
+			"ludeo-test"
+			{
+				"gid" "CBF5489CD0798C80480E3B1B21F64BAF"
+				"size" "6A3C81D62ED21BEB6FCFE42C2B24D723"
+				"download" "ADA516D71B12E7429682EE00953B02EA"
+			}
+		}
+	}
+	"434652"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4218522937103658672"
+				"size" "2336677309"
+				"download" "284855664"
+			}
+			"default_backup"
+			{
+				"gid" "1690170400501777330"
+				"size" "2337585647"
+				"download" "284967520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "D8CE3CF1663516F05925C9E51F5C0D74"
+				"size" "6DC523A402C5D7B42E405C12393CE280"
+				"download" "87FD2EE6D73E4BD2BB67076E99A245FA"
+			}
+			"default_backup_1"
+			{
+				"gid" "5805169763222D772488799FF8793D0A"
+				"size" "3420208D2FEA89083EE9103C3FCF48F8"
+				"download" "6070E7B910F349BCB5025B2329F0D9F4"
+			}
+			"forshow"
+			{
+				"gid" "FE83DD09D6FEFACC4D2986522D3408A4"
+				"size" "5F0BD7471860537298D17B67ACE2FE6A"
+				"download" "32FC751B9AB3BD28D2F95C351C6291B0"
+			}
+			"game_manager"
+			{
+				"gid" "914DC2733D3C5036CE2C9FFB1F685E5B"
+				"size" "D77D68D9DB12B6710A094DE194A6B4A4"
+				"download" "3A522AE019EF64F87B0467D8E69A974C"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "01F36915F850DD7BD53DA387CB9B7938"
+				"size" "A9C5F160F123A78B0A0B1F00C14BDEC5"
+				"download" "E38D9065DF336D45ABA3F0E7B7F61888"
+			}
+			"nd-development"
+			{
+				"gid" "A85A34B3C6D39B37AAD5F3A4414F25E6"
+				"size" "315533FC54AE37A5C6AA0363600D98DB"
+				"download" "6539E0972D55D727D931548044560D96"
+			}
+			"recover_record"
+			{
+				"gid" "0FC461D9EADCEE3BBE7A3181763A8BC1"
+				"size" "870CA1ACB86A88B052CE25DDA7C7276D"
+				"download" "B629E0EF2E8363038DBDAAA2B567A6B1"
+			}
+			"steam_china_only"
+			{
+				"gid" "AC5FF55EE61E5DF07A57B86E2950DD51"
+				"size" "887C858A9F833C2579D26D4549979E3D"
+				"download" "5C17A288C25C60E93438ADF7A36D24DF"
+			}
+			"testing"
+			{
+				"gid" "05A9513CE5A1399263CAA04169C4CDD8"
+				"size" "BA2563A38A9FE7836456FD7D7115E4A8"
+				"download" "A82EA9B54014FF960F5225840CADC335"
+			}
+			"testing_china"
+			{
+				"gid" "663EC743047FFA4C36B3A0391B7C653F"
+				"size" "88968FC19673780FB279DEE04B8448E7"
+				"download" "0FBBD2112F7C869FF8730887754EFA90"
+			}
+			"ludeo-dev"
+			{
+				"gid" "27FF63E89FC6F0168751CF49C5643B0F"
+				"size" "A426B305E47461E42CF56D9F1CFC2EC2"
+				"download" "18AC4BCC55882EEB0509EBAA0C3746EF"
+			}
+			"ludeo-test"
+			{
+				"gid" "E56C25D89D6AD677DB7DA3F5676C9495"
+				"size" "73A4870F61C8C437BECE65648F89F358"
+				"download" "5D97E515BBF4BDED494EA9C31A9F3E8E"
+			}
+		}
+	}
+	"434653"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6883244826974776485"
+				"size" "2354596493"
+				"download" "289656288"
+			}
+			"default_backup"
+			{
+				"gid" "1906515668500611424"
+				"size" "2355505343"
+				"download" "289768832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "9A9901B72DB64398C790F9FBABE1F4C7"
+				"size" "D4BD17474FA8B143EC98A3B891FEE82D"
+				"download" "96FC48BDC22B7749BDA831E20A6FBFAB"
+			}
+			"default_backup_1"
+			{
+				"gid" "1033FDCED5305E95DAF9CB1C374C5DEF"
+				"size" "4842D2B69022982FA41FA4B7BEB20BBD"
+				"download" "80CC93C5F3EA3E8352E18910851F134E"
+			}
+			"forshow"
+			{
+				"gid" "51591626BC6CB857C9C3214154E439BE"
+				"size" "E32848EB2271413F2584D73415FA06BD"
+				"download" "E2363E6E73ABDAF029D5C3AA0D8160EE"
+			}
+			"game_manager"
+			{
+				"gid" "2D6033B2EC842E024618D9F219DBB4D2"
+				"size" "FF107A41D3756CA83A7DF31615CC65B4"
+				"download" "A45E8E538DE7218DD55AB09D8AF1B54C"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "9DEDC10F55B114C9E3F5FA22D9E8B1E1"
+				"size" "C7E154903E776557297E4F48DAB269A9"
+				"download" "206D1527713AFC1C93B36EF335C2393F"
+			}
+			"nd-development"
+			{
+				"gid" "78E90BC3955545D50DC448B22948BFED"
+				"size" "42A775F5034B943B31EC07903A252D74"
+				"download" "BD5645EFCA80F8ACA4A3643D7C892D3E"
+			}
+			"recover_record"
+			{
+				"gid" "43E4ABB20AA2AE575C2964855D00359C"
+				"size" "FBF1B3E24A3862E7C0BCB5B90977941B"
+				"download" "348156248CA84E5DF2EB27E94EC18C6A"
+			}
+			"steam_china_only"
+			{
+				"gid" "A902C7573DDF84D89B7DB3C547B00DFE"
+				"size" "34207A72001A9525F6723B19DDC754CD"
+				"download" "3B33B5AE671BC57DA91EB00E9A11A14F"
+			}
+			"testing"
+			{
+				"gid" "8E1E6431BB2EEF631EB5ED86565BF255"
+				"size" "025AD57EF51B9A0C66C9921B9399F736"
+				"download" "70B11F5A1B9CEF5AC692E5FD6EAF1893"
+			}
+			"testing_china"
+			{
+				"gid" "2B1C61EB8670F0F3057BD883D905E98C"
+				"size" "283ACB4FA848938A3D005DAEF605A8B8"
+				"download" "D72981F38688A47A2081F38F69D9642A"
+			}
+			"ludeo-dev"
+			{
+				"gid" "F3F1273CDE1F8BB156C9EC981CF82ACE"
+				"size" "C15A39E628ECFB2934974DC4B39B881E"
+				"download" "C78E3D47C344AA4E2C6BFD7B8BF0675D"
+			}
+			"ludeo-test"
+			{
+				"gid" "11A855763D507BD516A4AD54F34EA27B"
+				"size" "6A3C81D62ED21BEB6FCFE42C2B24D723"
+				"download" "725AEF8C2CC60947BAF24BFF1EE19502"
+			}
+		}
+	}
+	"434654"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4958110972766102810"
+				"size" "2336677309"
+				"download" "284844704"
+			}
+			"default_backup"
+			{
+				"gid" "4115331712468801492"
+				"size" "2337585647"
+				"download" "284956496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "420912E1F5D82C854A7990468199FCEB"
+				"size" "C4EB918F7CA6730997A628C24B8C935A"
+				"download" "55E941971960BEB631CE7991DE40E254"
+			}
+			"default_backup_1"
+			{
+				"gid" "0A878D1DD4E6B300AB9C5B7A08E47F56"
+				"size" "476A465A2D4EE4E44B8F61081FCCEA4C"
+				"download" "BAAC2D7F5121C18767653B340182596B"
+			}
+			"forshow"
+			{
+				"gid" "1401AAFA002D7EB9AB5F3F26E34DF05D"
+				"size" "5FFBA8D489982D43A57D7378EC1A923A"
+				"download" "58F5E3AC9536110335F408DCBDAF48A1"
+			}
+			"game_manager"
+			{
+				"gid" "511F78306095395727DE917543312103"
+				"size" "5BBBCDAEE2A63C03631FB228C2117DEE"
+				"download" "32C064C228BBED94C6AF4B8238662FB9"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "CE56E8D45C4A098DB19BBE637A330D99"
+				"size" "A9C5F160F123A78B0A0B1F00C14BDEC5"
+				"download" "43E47E1BC8F965EC6C4DC4811F2167B8"
+			}
+			"nd-development"
+			{
+				"gid" "AD851A3699AFB892C05811E03C38DD17"
+				"size" "315533FC54AE37A5C6AA0363600D98DB"
+				"download" "1991DA6BD0925C764CFAF588CFBF6478"
+			}
+			"recover_record"
+			{
+				"gid" "D87F0DD2D466EF0A7DA6F5F064DF9690"
+				"size" "B290D2679A4D88F37F8F6AB1AC2A6F4B"
+				"download" "1206A3F5C184EDE363A2E225F27F0463"
+			}
+			"steam_china_only"
+			{
+				"gid" "11FE99E654D5F06B4B534B1A37C755CF"
+				"size" "D606BD8FD9D2E44CC48536D3838FE5EB"
+				"download" "1EBF708E8766A22FF2DFCC08EA163566"
+			}
+			"testing"
+			{
+				"gid" "14483E61D8849D0C2667483BB54ABC87"
+				"size" "BA2563A38A9FE7836456FD7D7115E4A8"
+				"download" "B030CBF5DDB183BA8309B8B98EBE2AC8"
+			}
+			"testing_china"
+			{
+				"gid" "79D8A8F074E45E660E1E8DFC991CD590"
+				"size" "C6AA9136B93EFCBED746962782A5F945"
+				"download" "4FEB3D317C24F943F4955FD4BF94A7AA"
+			}
+			"ludeo-dev"
+			{
+				"gid" "3625EB2B3783CBF219FCEEAF0AFAB813"
+				"size" "A426B305E47461E42CF56D9F1CFC2EC2"
+				"download" "C4C5E7C04CC493E69B38F7E6B7287844"
+			}
+			"ludeo-test"
+			{
+				"gid" "B69CB2BC95F2025A4534667DECF77260"
+				"size" "73A4870F61C8C437BECE65648F89F358"
+				"download" "CED656D6E4D3533D1E9FD01803099FEA"
+			}
+		}
+	}
+	"434655"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4235097331883403552"
+				"size" "2394593665"
+				"download" "301376352"
+			}
+			"default_backup"
+			{
+				"gid" "4453208805097825381"
+				"size" "2395471113"
+				"download" "301489088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "3539678003500510CBED92ABD1DE222E"
+				"size" "DBF1962941BAD071C3F625ABC9AEF4B9"
+				"download" "01A893090FE00A5C521F4F18B5F3DA56"
+			}
+			"default_backup_1"
+			{
+				"gid" "63D5EC6AB83F869BCE55122DCF384962"
+				"size" "9D75F9AFE76C6B6629DC60E8E34910E4"
+				"download" "8A9D88D8411DEB1C232DD4CDB564A29C"
+			}
+			"forshow"
+			{
+				"gid" "D508FBB5808DD92CED96409A5E3450D2"
+				"size" "FFAC07B0A0816747789E783AF86570C7"
+				"download" "0349B809FD0D40F0DA64B9A7948DCD1C"
+			}
+			"game_manager"
+			{
+				"gid" "B49454D3F6AA8E8F572B0C114E91DFBA"
+				"size" "7097124F34A7BE7AEE070A3588182A51"
+				"download" "E2064DD4D543CA7BC2B6A6F052622B64"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "7182CFD135428DE9FF5BD916A9FB7ACA"
+				"size" "74C6EB71AD53EA0DFC898A829ECAC399"
+				"download" "7C7C3212F231A23590D6FFAA0DCF6DD5"
+			}
+			"nd-development"
+			{
+				"gid" "ACB3C928F5356667533D07788E348C4B"
+				"size" "B64A0E78BB9BAC7965892DA3EFFFA9AD"
+				"download" "4D3171C27193BF710B207663217220AC"
+			}
+			"recover_record"
+			{
+				"gid" "BF28C4D203F9F92C84DC6C3131D72F3B"
+				"size" "AC972B380A5F7DD3B1DF4B5779AB5DFC"
+				"download" "96F8E30855AE58C192C91EEB2761F2CD"
+			}
+			"steam_china_only"
+			{
+				"gid" "6F261BC19D0E63BFF5A90832E6F483E5"
+				"size" "52C32E811BBEAC694E9376F54E03EFD0"
+				"download" "030F8704163B66002E0C82D12D0DA4B0"
+			}
+			"testing"
+			{
+				"gid" "7BCAAB7B74A67A0428EC17184DA21C4B"
+				"size" "95381F20B2860AB892B8663A3FDDD410"
+				"download" "332D6A514D345C4146D63BA865BC6820"
+			}
+			"testing_china"
+			{
+				"gid" "185A27559E8DF743B8C34C63E2A6D783"
+				"size" "F188977CB0CBD4B636F43833F2E3DE2E"
+				"download" "76135350B693E80D9E29F8826BCB584D"
+			}
+			"ludeo-dev"
+			{
+				"gid" "D3C19A347C34F912911A59C2C14DE354"
+				"size" "5AE76D2BA61AB3A376E4E42AA3123042"
+				"download" "866462FDE1566D58898A32E12FFDBD63"
+			}
+			"ludeo-test"
+			{
+				"gid" "0C1F698F1F6E931BB257D272A7195385"
+				"size" "6B8684100BFA1FB82D40A79B3C13E3BA"
+				"download" "4911265E15ACEC45A2D8E1E588DFBC3D"
+			}
+		}
+	}
+	"434656"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6851217793287486540"
+				"size" "2394593665"
+				"download" "301374000"
+			}
+			"default_backup"
+			{
+				"gid" "361922679345966849"
+				"size" "2395471113"
+				"download" "301482608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "A925C48B9309A7C064C1279F6C407B36"
+				"size" "5F6C4FA4AB924AF5FC1D0D6B147BDC2E"
+				"download" "A758B005F85E9AFE474427F8A49ECA51"
+			}
+			"default_backup_1"
+			{
+				"gid" "B6C2694B2F8D2A5AB8B38464712D2E65"
+				"size" "9A2A2DA19C7B898170572DE9BFEA29AD"
+				"download" "B8B8ACC7AAC54F549581440488028D7D"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "842217DD5CEC6D3BC9F0BC9DE4B2ED01"
+				"size" "74C6EB71AD53EA0DFC898A829ECAC399"
+				"download" "177DA9891254B4AE17E8F962310F839B"
+			}
+			"nd-development"
+			{
+				"gid" "FC6238012D83D6307C57F0A19328B0E0"
+				"size" "B64A0E78BB9BAC7965892DA3EFFFA9AD"
+				"download" "DC0858BFC752709BED09C734DA3824B7"
+			}
+			"testing"
+			{
+				"gid" "ECEBFC0F34C2EC6149E994AF24469FF4"
+				"size" "95381F20B2860AB892B8663A3FDDD410"
+				"download" "263E361A45FB333CF33A54418A82DCEC"
+			}
+			"ludeo-dev"
+			{
+				"gid" "0CE2F436774F3E5E7383C203977AAC8E"
+				"size" "5AE76D2BA61AB3A376E4E42AA3123042"
+				"download" "494430256D93703D5D7A3405B470ACF5"
+			}
+			"ludeo-test"
+			{
+				"gid" "D06688B2F2F59C2D837842107F60C58B"
+				"size" "6B8684100BFA1FB82D40A79B3C13E3BA"
+				"download" "B14396B5E5F2F50E83C7CCBC553482A3"
+			}
+		}
+	}
+	"434657"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9104478769012973093"
+				"size" "2394593665"
+				"download" "301374000"
+			}
+			"default_backup"
+			{
+				"gid" "5243663959610105895"
+				"size" "2395471113"
+				"download" "301482608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "A257B9506265F148D8AF6F173F675090"
+				"size" "DBF1962941BAD071C3F625ABC9AEF4B9"
+				"download" "EF625A0E06699025A815C0C7B3DDA304"
+			}
+			"default_backup_1"
+			{
+				"gid" "E2BF3031A5DD5670D05DF48815D9E986"
+				"size" "9A2A2DA19C7B898170572DE9BFEA29AD"
+				"download" "B8B8ACC7AAC54F549581440488028D7D"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "9AA942D86454ABCDBF1923D924772E41"
+				"size" "74C6EB71AD53EA0DFC898A829ECAC399"
+				"download" "177DA9891254B4AE17E8F962310F839B"
+			}
+			"nd-development"
+			{
+				"gid" "639466C0250C670C9DFF66EE8EFA0055"
+				"size" "B64A0E78BB9BAC7965892DA3EFFFA9AD"
+				"download" "DC0858BFC752709BED09C734DA3824B7"
+			}
+			"testing"
+			{
+				"gid" "64DFDCBDE41C3BA989604509565A78FC"
+				"size" "95381F20B2860AB892B8663A3FDDD410"
+				"download" "263E361A45FB333CF33A54418A82DCEC"
+			}
+			"ludeo-dev"
+			{
+				"gid" "92A8DB91E054866AF8A15F859CDF6539"
+				"size" "5AE76D2BA61AB3A376E4E42AA3123042"
+				"download" "494430256D93703D5D7A3405B470ACF5"
+			}
+			"ludeo-test"
+			{
+				"gid" "4B02BA0142123E551C55D31B005987C9"
+				"size" "6B8684100BFA1FB82D40A79B3C13E3BA"
+				"download" "B14396B5E5F2F50E83C7CCBC553482A3"
+			}
+		}
+	}
+	"434658"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7581417376513178719"
+				"size" "1623828860"
+				"download" "231126912"
+			}
+			"default_backup"
+			{
+				"gid" "7581417376513178719"
+				"size" "1623828860"
+				"download" "231126912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "B244F9B5BEA0638AFC9ADDE4B71E1771"
+				"size" "8EA567E0046F161A1DE2C9B9BC863034"
+				"download" "649C2527469596A308C55EBE640EA5E7"
+			}
+			"default_backup_1"
+			{
+				"gid" "BF26F10D13128CB5974A776138E55001"
+				"size" "ABC32845D251445BD28E8035514087EE"
+				"download" "5319956A17DD835DD07F6F68B170A225"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "1132F32E138B773167AA21AF5B51B032"
+				"size" "3B1D27B36B0252BAA24B4838C50F65E6"
+				"download" "1572F51EFDBF96396B836B350907A2B4"
+			}
+			"nd-development"
+			{
+				"gid" "1A598ABFC05ECD69C75D77450EF11AB3"
+				"size" "9A66A90C04B1E743092A38C3BD8B5BD0"
+				"download" "78D60490B4E4DBEC57B067AB3507C831"
+			}
+			"testing"
+			{
+				"gid" "056D822742C36BA21560B49D8A000C87"
+				"size" "89D4644DDBE2E44CDAC3CBF7E31EBB06"
+				"download" "0A69A9768CD414284F2180A4463F745F"
+			}
+			"testing_china"
+			{
+				"gid" "BC253FC0E5CB22CEB35DCB0696247454"
+				"size" "2CB4FF8909123E7118AB8FCE5843B784"
+				"download" "33434E83D52B311F9A9334FE7FE4C29F"
+			}
+			"ludeo-dev"
+			{
+				"gid" "5DAAF03DB9DA1E38DCC56F49357C4C2B"
+				"size" "0BF456DBA67F7F2E001967B12CD270CF"
+				"download" "60BB68920B9A77E3C3C07804B5620EBC"
+			}
+			"ludeo-test"
+			{
+				"gid" "CAB01160F90B5A6192307DAE255C24AF"
+				"size" "6A37BBB65175A70A8F7D3D19D533EE44"
+				"download" "E864B61F29DFE2F52EE0B6552C08871F"
+			}
+		}
+	}
+	"434659"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6776297297651433719"
+				"size" "1612417708"
+				"download" "227746208"
+			}
+			"default_backup"
+			{
+				"gid" "6776297297651433719"
+				"size" "1612417708"
+				"download" "227746208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "F8F2B0AA7474332B5CBBD8DFB3E83684"
+				"size" "1E7DA1E521B526BA7EE7491B72FAB01D"
+				"download" "9AB3D64EC28ADA8D46E048B28415150B"
+			}
+			"default_backup_1"
+			{
+				"gid" "21FF6B37891C402FE124988D37E1E6C5"
+				"size" "EC068F745DF561CE2F5294A4B5DE2971"
+				"download" "8EC05EEF6D3DDABD1949F3A1EAD61CE0"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "9F7BD8A705A78295D5E9F868007F080F"
+				"size" "F389749A7A224A4625289ABBFB622CBF"
+				"download" "507D9D46AABDEEF325D0386C74708805"
+			}
+			"nd-development"
+			{
+				"gid" "E7BBC8A4831210167B37A4A448933D3D"
+				"size" "1FF049F649BF195A6A465E1FBB65FD7A"
+				"download" "708EDA533DB6D5B558D354878C83B967"
+			}
+			"testing"
+			{
+				"gid" "12E46BC132115591B6824CE15D99D2F0"
+				"size" "1BBA50D2BDB2C7B8C5178A532932312B"
+				"download" "119326E1C126F9872E9FFC341B1A66B6"
+			}
+			"testing_china"
+			{
+				"gid" "98E3CA49193E638AB50EEDA3CD03CAF9"
+				"size" "6A44E725482DCC1380293B9B4A7DE6CE"
+				"download" "FCDD9561F5BCF3CE8B93C6B62A4CB7A1"
+			}
+			"ludeo-dev"
+			{
+				"gid" "3AA5F6B39B3D72B3E64A702F3281491E"
+				"size" "723D9BD5EF76A6ED9307D7FBA93FE2CC"
+				"download" "CF09EC53854C5C6FF136C78059F2D26C"
+			}
+			"ludeo-test"
+			{
+				"gid" "A4B06F342617310A519BDC68577435A6"
+				"size" "F514D82D59C608A73C46EBC55333B443"
+				"download" "51ACBC63147213272DD3C6E3934383A1"
+			}
+		}
+	}
+	"1415423"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5741171158896144076"
+				"size" "1679371466"
+				"download" "244683824"
+			}
+			"default_backup"
+			{
+				"gid" "5741171158896144076"
+				"size" "1679371466"
+				"download" "244683824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"certification"
+			{
+				"gid" "9C1BC313B2C2EF241D51FEE6B274DC5A"
+				"size" "FB61BBEC6840D8B75F14B0A36EBACA63"
+				"download" "8BE47BEA2B53842DFED90A02D54F3CB7"
+			}
+			"default_backup_1"
+			{
+				"gid" "0AFFB5A38AC47F3A1E30D7CBECA0FE2D"
+				"size" "763C4BE238F371BFA6D9E9F962169D0F"
+				"download" "181EB48C5AA57E3DF4BD1B10C1827509"
+			}
+			"lostcastle_p2p"
+			{
+				"gid" "71A6FBB6584E2BF9F006366A834E9EF5"
+				"size" "9956331A42D2D5D837E2145B6280B6A1"
+				"download" "0003330282B6E83A28A74E24AFC05B2D"
+			}
+			"nd-development"
+			{
+				"gid" "F6A9C666CEA06D4F4B2954CBEB25BD70"
+				"size" "C9DF12A2EBF4C7603A9D6FFE7F67A8C5"
+				"download" "8361CE6BA6E5330B7A63FB6B0D1FD770"
+			}
+			"testing"
+			{
+				"gid" "7B1AFAAB6AFB7A8EB7A5B81502BE4A04"
+				"size" "D46DDF56077D0934971F1957C2B5B724"
+				"download" "B5A1934A698FB7A85A9CC68D65731213"
+			}
+			"testing_china"
+			{
+				"gid" "ACE3B081CEF8A95020EEBAE133DA53C0"
+				"size" "65AEAF74783E43C46A665469A4001B4E"
+				"download" "A196553EAB99930356023D60D32D0FF1"
+			}
+			"ludeo-dev"
+			{
+				"gid" "53F64C30FAF496853F14D3A9E874F9C2"
+				"size" "55F1069A298872ADB4D09C53E7F41F26"
+				"download" "38E02D4CA9A3C9FC05DB903EBEB583F2"
+			}
+			"ludeo-test"
+			{
+				"gid" "9592D69722B7EA1CBB3EF8136BD3DA45"
+				"size" "966614433186D54B61EA75FCFA4BBA35"
+				"download" "654D4A7C8E775AEBBC83FB5FC78EB4DC"
+			}
+		}
+	}
+	"1415421"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5809351921055758898"
+				"size" "1605645055"
+				"download" "235148720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nd-development"
+			{
+				"gid" "9A10832350D42F712671956449AC0423"
+				"size" "800D6E50ECBA040CA0F1E31AEEFFFBAD"
+				"download" "AAD84E8AEC52652D97D4D9B4FBB24F0C"
+			}
+			"testing"
+			{
+				"gid" "47741276E4D5121154F9C7678483587E"
+				"size" "3FF92BEDB3541615342A5CE49E340324"
+				"download" "FDE2AB4D8A1F6548E3629283147FD852"
+			}
+			"ludeo-dev"
+			{
+				"gid" "26254D6BADA1856AFBE25E881A25424F"
+				"size" "0648D684595BB8757C55A46D85223C1F"
+				"download" "81436E1ACD36D5656B4346717C6648B0"
+			}
+			"ludeo-test"
+			{
+				"gid" "061DA9BD802D2D5015CBCD797066315C"
+				"size" "75B34E504AB4416A6C8BD1F57F039DE8"
+				"download" "0B8E108B8DEAAF0F813D07A0045F04B5"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13919886"
+			"timeupdated" "1712818388"
+		}
+		"certification"
+		{
+			"buildid" "13234231"
+			"pwdrequired" "1"
+			"timeupdated" "1705891418"
+		}
+		"default_backup"
+		{
+			"buildid" "13388644"
+			"description" "Old Version Backup"
+			"timeupdated" "1707286529"
+			"sc_schinese" "旧版本备份"
+		}
+		"default_backup_1"
+		{
+			"buildid" "13389019"
+			"pwdrequired" "1"
+			"timeupdated" "1707286194"
+			"sc_schinese" "default分支内部备份"
+		}
+		"forshow"
+		{
+			"buildid" "3178574"
+			"pwdrequired" "1"
+			"timeupdated" "1538561309"
+		}
+		"game_manager"
+		{
+			"buildid" "7165376"
+			"pwdrequired" "1"
+			"timeupdated" "1628583481"
+		}
+		"lostcastle_p2p"
+		{
+			"buildid" "13388644"
+			"pwdrequired" "1"
+			"timeupdated" "1707282789"
+		}
+		"nd-development"
+		{
+			"buildid" "14139359"
+			"pwdrequired" "1"
+			"timeupdated" "1713833501"
+			"sc_schinese" "For Neon Doctrine ONLY - development. Dev’s should work in here, freely :slight_smile: If any testing is needed developers should upload to a test build to the “test” branch. This branch is NOT for testing. Only Development."
+		}
+		"recover_record"
+		{
+			"buildid" "13853709"
+			"pwdrequired" "1"
+			"timeupdated" "1711437158"
+		}
+		"steam_china_only"
+		{
+			"buildid" "6612315"
+			"pwdrequired" "1"
+			"timeupdated" "1619593212"
+			"sc_schinese" "仅中国"
+		}
+		"testing"
+		{
+			"buildid" "13919886"
+			"pwdrequired" "1"
+			"timeupdated" "1712041907"
+		}
+		"testing_china"
+		{
+			"buildid" "9055542"
+			"pwdrequired" "1"
+			"timeupdated" "1656918747"
+			"sc_schinese" "steam china test"
+		}
+		"ludeo-dev"
+		{
+			"buildid" "14610081"
+			"pwdrequired" "1"
+			"timeupdated" "1717579412"
+		}
+		"ludeo-test"
+		{
+			"buildid" "14597550"
+			"pwdrequired" "1"
+			"timeupdated" "1717501671"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Hunter Studio/Lost_Castle/steam"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#menu" "Menu"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "8b248605f4e957615ed84a14904a471c43e773db"
+"_size" "30651"
