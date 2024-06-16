@@ -1,0 +1,508 @@
+"appid" "1713810"
+"common"
+{
+	"name" "Lumencraft"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "4084976eda260e88e6e668565e9c81bf7a25973f"
+	"logo" "095ce52c185e014d268767baec0fe23d0deeaa9b"
+	"logo_small" "095ce52c185e014d268767baec0fe23d0deeaa9b_thumb"
+	"clienticon" "44bf8b190852c7e4f21623a57643334ca9953f9b"
+	"clienttga" "6a518457f0855f16b379badddd73aa6edcedb0c5"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macosapplesilicon"
+	"linuxclienticon" "33a97a3e312063b34552da1b28306ebb13a6b5ee"
+	"name_localized"
+	{
+		"schinese" "深岩破裂者"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1654732800"
+		"tested_build_id" "8815301"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "69.58834369653556"
+			"height_pct" "56.85903500473037"
+		}
+	}
+	"store_asset_mtime" "1677638519"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "2Dynamic Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Star Drifters"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Surefire.Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Star Drifters"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Surefire.Games"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Mayflower Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_9" "1"
+		"category_30" "1"
+		"category_25" "1"
+		"category_17" "1"
+		"category_43" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"slovak"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677606799"
+	"steam_deck_blog_url" "https://steamcommunity.com/app/1713810/discussions/0/5706632550003147190/"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1713810"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "19"
+		"2" "4231"
+		"3" "3810"
+		"4" "1645"
+		"5" "9"
+		"6" "4064"
+		"7" "7332"
+		"8" "42804"
+		"9" "4637"
+		"10" "1662"
+		"11" "3993"
+		"12" "4305"
+		"13" "4166"
+		"14" "4175"
+		"15" "3871"
+		"16" "493"
+		"17" "492"
+		"18" "1774"
+		"19" "122"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "2Dynamic Games"
+	"publisher" "Star Drifters"
+	"homepage" "https://lumencraft-game.com/"
+}
+"config"
+{
+	"installdir" "Lumencraft"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Lumencraft.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Lumencraft.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Lumencraft.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,schinese,russian,japanese,polish,latam"
+	"workshopdepot" "1713810"
+	"hasdepotsindlc" "0"
+	"1713811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1945762905152067660"
+				"size" "2197072984"
+				"download" "1293522624"
+			}
+			"development"
+			{
+				"gid" "7320149258144756616"
+				"size" "2193739896"
+				"download" "1292789088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"in_dev"
+			{
+				"gid" "982D2335D7BBC3A50E3A0B2608028F7D"
+				"size" "61E652761DA25A22EC20B699B88F04C3"
+				"download" "52EF800A97BCA6AEA9D7C8E98034AEEB"
+			}
+			"macos_test"
+			{
+				"gid" "5CBA60C65CB8E6B91C2C54DF7A46D554"
+				"size" "86E54395AAF4EFE5837965BDFAFA4AD8"
+				"download" "C7C994BAEF3364853F8F46F38945E75D"
+			}
+		}
+	}
+	"1713812"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2773828183847244917"
+				"size" "2190688630"
+				"download" "1292198176"
+			}
+			"development"
+			{
+				"gid" "7464014106610475475"
+				"size" "2188459302"
+				"download" "1291586064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"in_dev"
+			{
+				"gid" "7FD7F434E1A48C205657E61B837F49A7"
+				"size" "2F4DAAF382379190A429EACA84D6C05F"
+				"download" "C9B28995E593B377AC4A6501FCEEB5EF"
+			}
+			"macos_test"
+			{
+				"gid" "FDB35AD524C5287229A67A4ADA4093B5"
+				"size" "7C6C169311AA9B1757DBD8E59105C3E9"
+				"download" "BAA5F4DC1EC9EE5565AC39FF541D6DD1"
+			}
+		}
+	}
+	"1713813"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1755959568508482656"
+				"size" "2299065054"
+				"download" "1313352128"
+			}
+			"development"
+			{
+				"gid" "5082329210786013035"
+				"size" "2224407534"
+				"download" "1296789056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"in_dev"
+			{
+				"gid" "96B0E6F6AC4BF3CA91401DBE7F0B3FCC"
+				"size" "9C1B4D37E250F99B9E2578CE2835C947"
+				"download" "36837D10A07D8EF9B1D15A5B5BD042E7"
+			}
+			"macos_test"
+			{
+				"gid" "B5601A68EBC518D0D693DD6374265DDA"
+				"size" "40954BE56C3B9905A561C2EF2CFAAD12"
+				"download" "20F800625FFDF83FAE3AF70CB4F1208B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13227356"
+			"timeupdated" "1705927681"
+		}
+		"development"
+		{
+			"buildid" "13996587"
+			"description" "Latest build, newest features"
+			"timeupdated" "1712660910"
+		}
+		"in_dev"
+		{
+			"buildid" "14055119"
+			"pwdrequired" "1"
+			"timeupdated" "1713175061"
+		}
+		"macos_test"
+		{
+			"buildid" "8569616"
+			"pwdrequired" "1"
+			"timeupdated" "1650128927"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "2Dynamic/Lumencraft/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".local/share/"
+		}
+		"2"
+		{
+			"root" "LinuxXdgDataHome"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "8b85fdb663447a8c546323c8b1ec48649e047fdb"
+"_size" "9116"
