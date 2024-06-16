@@ -1,0 +1,314 @@
+"appid" "2343600"
+"common"
+{
+	"name" "Endgame of Devil"
+	"type" "Game"
+	"clienttga" "390399ca2c41f48e24816d67da50c799cbfaa489"
+	"icon" "52f01464390a3653ba2d3b45fbaa4f10c86566bb"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "b2d61ab4fa7a2e44252569529e32ebd673b3be02"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "魔王终局"
+		"tchinese" "魔王終局"
+	}
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692144000"
+		"tested_build_id" "11936696"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.003089504359266"
+			"height_pct" "48.034743660782595"
+		}
+	}
+	"store_asset_mtime" "1713863981"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MiniWhale"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Anotherindie"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681007526"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2343600"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "4182"
+		"2" "9"
+		"3" "3964"
+		"4" "6426"
+		"5" "4252"
+		"6" "122"
+		"7" "1770"
+		"8" "1716"
+		"9" "3959"
+		"10" "791774"
+		"11" "3871"
+		"12" "1084988"
+		"13" "4172"
+		"14" "1684"
+		"15" "454187"
+		"16" "1708"
+		"17" "1654"
+		"18" "4057"
+		"19" "9541"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "MiniWhale"
+	"publisher" "Anotherindie"
+}
+"config"
+{
+	"installdir" "魔王终局"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EndOfBoss.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "EndGame.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2343600"
+	"2343601"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3223944607280989071"
+				"size" "157243822"
+				"download" "32443488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "697EA5730D92CDD178C4C1F7F0B50217"
+				"size" "D1FC4CB0F10F6CD52426FEA3B673577B"
+				"download" "72E708715661145C9DE8F466F071891A"
+			}
+			"test2"
+			{
+				"gid" "8AB23A7096C08B3AB404E708DA7D09FC"
+				"size" "26A96D3D95C316155D4848BDD9E8FBD6"
+				"download" "7F99537664666528CD8FE8640B61B747"
+			}
+		}
+	}
+	"2343602"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6679349516757533607"
+				"size" "214976230"
+				"download" "46666880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "C6CEE60F2F2977B70C79DD895CF0E378"
+				"size" "0A17A04C3E42D1F0038158352DB26672"
+				"download" "A3D1405DD40184DE0198BE5C61D355E4"
+			}
+			"test2"
+			{
+				"gid" "E85DE1C85BAD9CAD9759574F1822439E"
+				"size" "CB8C044232CA672E3B6C01FEEBD04C89"
+				"download" "5564DEF3053074171B1624589E1B20DF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14286255"
+			"timeupdated" "1715138057"
+		}
+		"test"
+		{
+			"buildid" "12669466"
+			"pwdrequired" "1"
+			"timeupdated" "1699609266"
+		}
+		"test2"
+		{
+			"buildid" "14286255"
+			"pwdrequired" "1"
+			"timeupdated" "1715061973"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Processes"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23452970"
+"_sha" "fda2e82b460fa0f6033652a6e19daeaaa7f133fa"
+"_size" "5521"
