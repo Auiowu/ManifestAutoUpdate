@@ -1,0 +1,1247 @@
+"appid" "1604030"
+"common"
+{
+	"name" "V Rising"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "8de908054bedb5a62018099f80f8aab1b0de9d2a"
+	"logo_small" "8de908054bedb5a62018099f80f8aab1b0de9d2a_thumb"
+	"icon" "d18204000a839feb84393b3d860c17cd4a4b269c"
+	"clienticon" "fc695ff131562610f3f853256a2b10b8bbfde717"
+	"clienttga" "e19a49b84e23e37a47ab988a262c2e78a8bfbb95"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1604030_eula_1"
+			"name" "V Rising EULA"
+			"url" "https://store.steampowered.com//eula/1604030_eula_1"
+			"version" "16"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "夜族崛起"
+		"tchinese" "夜族崛起"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1715731200"
+		"tested_build_id" "14317860"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715248152"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stunlock Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stunlock Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_2" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715166026"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1604030"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "7332"
+		"3" "3859"
+		"4" "4018"
+		"5" "1702"
+		"6" "3843"
+		"7" "1775"
+		"8" "6730"
+		"9" "1643"
+		"10" "1646"
+		"11" "3810"
+		"12" "3834"
+		"13" "128"
+		"14" "19"
+		"15" "4182"
+		"16" "4106"
+		"17" "21"
+		"18" "4604"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"gamedir" "V Rising"
+	"serverbrowsername" "V Rising"
+	"developer" "Stunlock Studios"
+	"publisher" "Stunlock Studios"
+	"homepage" "https://playvrising.com/"
+	"listofdlc" "1983900,1983901,1997210,2169180,2358430,2833600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "VRising"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VRising.exe"
+			"type" "default"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"1604031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3105386838654048778"
+				"size" "8876143292"
+				"download" "4310763392"
+			}
+			"0.5.43954_hotfix13"
+			{
+				"gid" "6194439063265605533"
+				"size" "6727320665"
+				"download" "2926222448"
+			}
+			"0.6.5.57575_hotfix6"
+			{
+				"gid" "6891775664759788354"
+				"size" "8868388824"
+				"download" "3948758016"
+			}
+			"legacy-0.5.x"
+			{
+				"gid" "8014165627894424827"
+				"size" "6755176961"
+				"download" "2945828704"
+			}
+			"public-test-r60262"
+			{
+				"gid" "3126289553066637128"
+				"size" "8872162442"
+				"download" "3947121760"
+			}
+			"legacy-0.6.x"
+			{
+				"gid" "1645242801883488504"
+				"size" "8764065139"
+				"download" "3839407408"
+			}
+			"public-test"
+			{
+				"gid" "3105386838654048778"
+				"size" "8876143292"
+				"download" "4310763392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gamescom"
+			{
+				"gid" "EBF98C4CF09B441A7720176549AFF4B8"
+				"size" "7E5E8E924D5DAA5DBC1671DE141EB807"
+				"download" "086B47726AE3EBDD56B201F53361B9B0"
+			}
+			"internal-garlic"
+			{
+				"gid" "5038CDE9CE26F0138BAFD8E5DE795DC8"
+				"size" "F7A25889A320F5232FAA09A6D863430B"
+				"download" "ED4A211F0BA1C87E7F21EBD17141164F"
+			}
+			"internal-test"
+			{
+				"gid" "45F1FBD5E7E57536B0478F277E1009C9"
+				"size" "F43EF92A4991205C2715670BA305B5EF"
+				"download" "205C01B8E5D2F403B59D23C6DDD46DF0"
+			}
+			"partner2"
+			{
+				"gid" "36C739DD3F1BF4A697DA909B78C78776"
+				"size" "DFC2B914F04453F90999A23E855FAB02"
+				"download" "3941E40118DA63CEF2B7E70A2AA33E7B"
+			}
+			"partner4"
+			{
+				"gid" "9DBBFA4A6B767D5149C30780ADDC4EC7"
+				"size" "29DDC5C413514E8C9BBE4ADE39BAFBA4"
+				"download" "80100F2583EECA48E2604D69FEC45D61"
+			}
+			"trailer2"
+			{
+				"gid" "424941A68BA30BD075E415E40FF72366"
+				"size" "093D6CAD989F673B947F1640A199FB09"
+				"download" "3410724060F07D3679B8A9DE61058700"
+			}
+			"internal"
+			{
+				"gid" "B057C8E87CC076A54083784CFD8E0891"
+				"size" "3961EF341ED19A32E4858212C071F80F"
+				"download" "1E3C77711FFB3644ED73CFA23F20A3C3"
+			}
+			"internal2"
+			{
+				"gid" "D6AB2B309BDB2F34723117603876850D"
+				"size" "8F0E35CFF6004C6D02287891621BA71B"
+				"download" "52306A81DAE52CFC66A4F14B3FB683B3"
+			}
+			"internal3"
+			{
+				"gid" "B0A50B4893A79F23B8B123F665E64458"
+				"size" "E75D7AFF955C7C9E760063ACE24C50CD"
+				"download" "1EC97F7990793868252322099A9E4277"
+			}
+			"internal4"
+			{
+				"gid" "80FA9DF821DF96D32E3EA0753FF06095"
+				"size" "4BB1E5BDA643A4FA621ED3102E4D85F4"
+				"download" "E31DF88E150708F05BDD1E9D4F39A663"
+			}
+			"partner1"
+			{
+				"gid" "5066CB01670A2DBBB801535F96B9C288"
+				"size" "85F97B49A9E8AF68DC16E39EA25DEC8C"
+				"download" "D84912C64325D7E22F0AC3A0F715B9E1"
+			}
+			"partner3"
+			{
+				"gid" "3E33C683F29388CB603F57F8AE13930C"
+				"size" "F36789616521D45FA8AFE72EE240269E"
+				"download" "EACD285E38BBF00546CBAB0271D1AECB"
+			}
+			"qa01"
+			{
+				"gid" "04D7AAF9F15B12486D9F838B8F4A76A5"
+				"size" "51D9180953197AB476923EE16E9D8741"
+				"download" "4343AD617DA51F2D582E33356A2CE27C"
+			}
+			"qa02"
+			{
+				"gid" "2583B6F3E3DE8CB6595C2906E2F8BA37"
+				"size" "A46C30C0F70E2E7577A553D76AAB10B6"
+				"download" "7B30FE2F9FC6C64E7DFDB228EA871DFA"
+			}
+			"qa03"
+			{
+				"gid" "C79DF8A68C8AB959C98B9C928C3A6830"
+				"size" "B2960E13076890A834332DE3EE042962"
+				"download" "CB5F61149FEC0403799FF0378E99F0CC"
+			}
+			"trailer"
+			{
+				"gid" "62964FC0711FB4CCB17418E7ED22CB3B"
+				"size" "CC29B2F8C5DDB9D68E6EEA6DB0DF96A9"
+				"download" "DA17D2DC18ED99D8A9AE86993091FD9F"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14696006"
+			"timeupdated" "1718284831"
+		}
+		"0.5.43954_hotfix13"
+		{
+			"buildid" "9606444"
+			"description" "Client version: 0.5.43954"
+			"timeupdated" "1666712744"
+		}
+		"0.6.5.57575_hotfix6"
+		{
+			"buildid" "11360518"
+			"description" "Client version: 0.6.5.57575"
+			"timeupdated" "1686742694"
+		}
+		"gamescom"
+		{
+			"buildid" "9346496"
+			"pwdrequired" "1"
+			"timeupdated" "1660900503"
+		}
+		"internal-garlic"
+		{
+			"buildid" "12974237"
+			"pwdrequired" "1"
+			"timeupdated" "1702657630"
+		}
+		"internal-test"
+		{
+			"buildid" "13090629"
+			"pwdrequired" "1"
+			"timeupdated" "1704360742"
+		}
+		"legacy-0.5.x"
+		{
+			"buildid" "11162616"
+			"description" "Initial Early Access version. Originally released: 2022-05-17"
+			"timeupdated" "1684232262"
+		}
+		"partner2"
+		{
+			"buildid" "13445077"
+			"pwdrequired" "1"
+			"timeupdated" "1707840757"
+		}
+		"partner4"
+		{
+			"buildid" "11271659"
+			"pwdrequired" "1"
+			"timeupdated" "1684498702"
+		}
+		"public-test-r60262"
+		{
+			"buildid" "12053751"
+			"description" "Temporary test branch for r60262."
+			"timeupdated" "1698330349"
+		}
+		"trailer2"
+		{
+			"buildid" "14095215"
+			"pwdrequired" "1"
+			"timeupdated" "1713438244"
+		}
+		"internal"
+		{
+			"buildid" "14716090"
+			"pwdrequired" "1"
+			"timeupdated" "1718354583"
+		}
+		"internal2"
+		{
+			"buildid" "14696006"
+			"pwdrequired" "1"
+			"timeupdated" "1718218446"
+		}
+		"internal3"
+		{
+			"buildid" "14613748"
+			"pwdrequired" "1"
+			"timeupdated" "1717597714"
+		}
+		"internal4"
+		{
+			"buildid" "14439960"
+			"pwdrequired" "1"
+			"timeupdated" "1716285274"
+		}
+		"legacy-0.6.x"
+		{
+			"buildid" "14277210"
+			"description" "Gloomrot version - Originally released: 2023-05-17"
+			"timeupdated" "1714995880"
+		}
+		"partner1"
+		{
+			"buildid" "14286356"
+			"pwdrequired" "1"
+			"timeupdated" "1715080799"
+		}
+		"partner3"
+		{
+			"buildid" "14275366"
+			"pwdrequired" "1"
+			"timeupdated" "1715002409"
+		}
+		"public-test"
+		{
+			"buildid" "14696006"
+			"description" "Public test branch for V Rising client. Use at your own risk. Always backup your saves."
+			"timeupdated" "1718284768"
+		}
+		"qa01"
+		{
+			"buildid" "14696006"
+			"pwdrequired" "1"
+			"timeupdated" "1718262520"
+		}
+		"qa02"
+		{
+			"buildid" "14205907"
+			"pwdrequired" "1"
+			"timeupdated" "1714376658"
+		}
+		"qa03"
+		{
+			"buildid" "14105882"
+			"pwdrequired" "1"
+			"timeupdated" "1714383907"
+		}
+		"trailer"
+		{
+			"buildid" "14464857"
+			"pwdrequired" "1"
+			"timeupdated" "1716449266"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Stunlock Studios/VRising/CloudSaves/{64BitSteamID}/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#inmenus" "In the Menus"
+				"#region_farbanewoods" "Stalking the Farbane Woods"
+				"#region_startcave" "Newly awoken in the Crypts"
+				"#region_dunleyfarmlands" "Terrorizing Dunley Farmlands"
+				"#region_cursedforest" "Traveling the mists in the Cursed Forest"
+				"#region_hallowedmountains" "Ascending the Hallowed Mountains"
+				"#region_silverlighthills" "Invading the Silverlight Hills"
+				"#region_gloomrot_north" "Weathering lightning storms in Gloomrot"
+				"#region_gloomrot_south" "Navigating polluted valleys in Gloomrot"
+				"#unknown" "Unknown"
+				"#athome" "In their Encampment"
+				"#building" "Expanding their Castle"
+				"#incastle" "Brooding in their castle"
+				"#vbloodhunting" "Out hunting for blood"
+				"#vbloodfighting" "Fighting a powerful foe"
+				"#atenemybase" "Encroaching on rival territory"
+				"#inenemycastle" "In the heart of rival territory"
+				"#fishing" "Fishing like a Vampire"
+			}
+		}
+		"hungarian"
+		{
+			"tokens"
+			{
+				"#inmenus" "A menüben"
+				"#region_farbanewoods" "A Farbane-erdőkben kavar"
+				"#region_startcave" "Nemrég ébredt fel a Kriptákban"
+				"#region_dunleyfarmlands" "A Dunley-tanyák földjeit tartja rettegésben"
+				"#region_cursedforest" "Az Elátkozott erdő ködét hasítja"
+				"#region_hallowedmountains" "Felfelé tart a Szent hegyekbe"
+				"#region_silverlighthills" "Az Ezüstfény-dombok között jár"
+				"#region_gloomrot_north" "Homályenyész viharainak villámai cikáznak körülötte"
+				"#region_gloomrot_south" "Homályenyész szennyezett völgyei közt kalandozik"
+				"#unknown" "Ismeretlen"
+				"#athome" "A táborában"
+				"#building" "A kastélyát bővíti"
+				"#incastle" "A kastélyában mereng"
+				"#vbloodhunting" "Vérre vadászik"
+				"#vbloodfighting" "Egy erős ellenséggel harcol"
+				"#atenemybase" "Rivális területre hatol be"
+				"#inenemycastle" "Az ellenség földjének szívében"
+				"#fishing" "Horgászik, mint bármelyik vámpír"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#inmenus" "In den Menüs"
+				"#region_farbanewoods" "Streift durch den Farbane-Wald"
+				"#region_startcave" "Neu erwacht in den Grüften"
+				"#region_dunleyfarmlands" "Terrorisiert die Dunley-Farmlande"
+				"#region_cursedforest" "Reist durch den Nebel des Verfluchten Waldes"
+				"#region_hallowedmountains" "Besteigt die Heiligen Berge"
+				"#region_silverlighthills" "Dringt in die Silberlicht-Hügel ein"
+				"#region_gloomrot_north" "Trotzt den Gewittern der Düsterfäule"
+				"#region_gloomrot_south" "Durchstreift die verschmutzten Täler der Düsterfäule"
+				"#unknown" "Unbekannt"
+				"#athome" "In der eigenen Basis"
+				"#building" "Erweitert das eigene Schloss"
+				"#incastle" "Grübelt im eigenen Schloss"
+				"#vbloodhunting" "Auf der Jagd nach Blut"
+				"#vbloodfighting" "Kämpft gegen einen mächtigen Feind"
+				"#atenemybase" "Nähert sich feindlichem Territorium"
+				"#inenemycastle" "Mitten in feindlichem Territorium"
+				"#fishing" "Angelt wie ein Vampir"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#inmenus" "正在浏览菜单界面"
+				"#region_farbanewoods" "正在法尔班森林中潜行"
+				"#region_startcave" "刚刚从地穴中苏醒"
+				"#region_dunleyfarmlands" "正在邓利农场散播恐怖"
+				"#region_cursedforest" "正在诅咒树林的迷雾中穿行"
+				"#region_hallowedmountains" "正在攀登圣山"
+				"#region_silverlighthills" "正在入侵银光山丘"
+				"#region_gloomrot_north" "正在幽腐之地经受雷暴的考验"
+				"#region_gloomrot_south" "正在通过幽腐之地污染的山谷"
+				"#unknown" "未知"
+				"#athome" "身处营寨中"
+				"#building" "正在扩建城堡"
+				"#incastle" "正在城堡中沉思"
+				"#vbloodhunting" "正在外出觅血"
+				"#vbloodfighting" "正在与强敌交锋"
+				"#atenemybase" "正在侵占敌人的领地"
+				"#inenemycastle" "正在敌人领地的中心"
+				"#fishing" "正在像吸血鬼一样钓鱼"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#inmenus" "Dans les menus"
+				"#region_farbanewoods" "Rôde dans les bois de Farbane"
+				"#region_startcave" "Vient de sortir de sa crypte"
+				"#region_dunleyfarmlands" "Terrorise les terres agricoles de Dunley"
+				"#region_cursedforest" "Traverse la brume de la forêt maudite"
+				"#region_hallowedmountains" "Gravit les montagnes sacrées"
+				"#region_silverlighthills" "Envahit les collines de Lumargent"
+				"#region_gloomrot_north" "Brave les orages de Pestilombre"
+				"#region_gloomrot_south" "Parcourt les vallées contaminées de Pestilombre"
+				"#unknown" "Inconnu"
+				"#athome" "À son campement"
+				"#building" "Agrandit son château"
+				"#incastle" "Rumine dans son château"
+				"#vbloodhunting" "En quête de sang"
+				"#vbloodfighting" "Affronte un ennemi redoutable"
+				"#atenemybase" "Empiète sur un territoire ennemi"
+				"#inenemycastle" "Au cœur d’un territoire ennemi"
+				"#fishing" "Pêche comme un vampire"
+			}
+		}
+		"dutch"
+		{
+			"tokens"
+			{
+				"#inmenus" "In de menu\'s"
+				"#region_farbanewoods" "Dwalend in het Farbane Woud"
+				"#region_startcave" "Pas ontwaakt in de crypten"
+				"#region_dunleyfarmlands" "Angst aan het zaaien op de Dunley Akkers"
+				"#region_cursedforest" "Rond Sluipen in het Vervloekte Bos"
+				"#region_hallowedmountains" "De Heilige Bergen aan het beklimmen"
+				"#region_silverlighthills" "De Silverlight Heuvels aan het verkennen"
+				"#unknown" "Onbekend"
+				"#athome" "In hun kamp"
+				"#building" "Hun Kasteel aan het uitbreiden"
+				"#incastle" "Hun Kasteel aan het bewonderen"
+				"#vbloodhunting" "Op jacht naar bloed"
+				"#vbloodfighting" "Aan het vechten met een machtige tegenstander"
+				"#atenemybase" "Beroven van een vijandig kamp"
+				"#inenemycastle" "Vijandig Kasteel aan het plunderen"
+				"#fishing" "Aan het vissen"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#inmenus" "메뉴 화면"
+				"#region_farbanewoods" "파베인 숲에서 잠행 중"
+				"#region_startcave" "지하실에서 방금 깨어난 사람"
+				"#region_dunleyfarmlands" "던리 농지에 공포를 퍼트리는 중"
+				"#region_cursedforest" "저주받은 숲의 안개에서 누비는 중"
+				"#region_hallowedmountains" "신성한 산을 오르는 중"
+				"#region_silverlighthills" "실버라이트 언덕에 침입 중"
+				"#region_gloomrot_north" "글롬로트에서 뇌우의 시련을 겪는 중"
+				"#region_gloomrot_south" "글롬로트 오염된 계곡을 통과하는 중"
+				"#unknown" "알 수 없음"
+				"#athome" "자신의 진영"
+				"#building" "성을 확장하는 중"
+				"#incastle" "성채에서 깊이 생각하는 중"
+				"#vbloodhunting" "피를 찾아 사냥하는 중"
+				"#vbloodfighting" "강력한 적과 싸우는 중"
+				"#atenemybase" "적의 영토 점령 중"
+				"#inenemycastle" "적군 영토의 중심에 있는 중"
+				"#fishing" "뱀파이어처럼 낚시하는 중"
+			}
+		}
+		"portuguese"
+		{
+			"tokens"
+			{
+				"#inmenus" "Nos Menus"
+				"#region_farbanewoods" "A vaguear pelo Bosque de Farbane"
+				"#region_startcave" "Acabado de acordar nas Criptas"
+				"#region_dunleyfarmlands" "A espalhar o medo pelas Herdades de Dunley"
+				"#region_cursedforest" "A esgueirar pela Floresta Amaldiçoada"
+				"#region_hallowedmountains" "Ascendendo às Montanhas Sagradas"
+				"#region_silverlighthills" "A explorar as Colinas Silverlight"
+				"#unknown" "Desconhecido"
+				"#athome" "No seu Acampamento"
+				"#building" "A expandir o seu Castelo"
+				"#incastle" "A admirar o seu Castelo"
+				"#vbloodhunting" "À caça de sangue"
+				"#vbloodfighting" "A lutar contra um inimigo poderoso"
+				"#atenemybase" "A atacar um Acampamento inimigo"
+				"#inenemycastle" "A atacar um Castelo inimigo"
+				"#fishing" "A pescar"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#inmenus" "Nos menus"
+				"#region_farbanewoods" "Rondando a Floresta de Farbane"
+				"#region_startcave" "Recém acordado nas Criptas"
+				"#region_dunleyfarmlands" "Aterrorizando a Fazenda de Dunley"
+				"#region_cursedforest" "Viajando pela névoa da Floresta Amaldiçoada"
+				"#region_hallowedmountains" "Elevando-se nas Montanhas Sagradas"
+				"#region_silverlighthills" "Invadindo as Colinas da Luz Argenta"
+				"#region_gloomrot_north" "Enfrentando tempestades de raios em Gloomrot"
+				"#region_gloomrot_south" "Navegando pelos vales poluídos de Gloomrot"
+				"#unknown" "Desconhecido"
+				"#athome" "No seu Acampamento"
+				"#building" "Expandindo seu castelo"
+				"#incastle" "Meditando no castelo"
+				"#vbloodhunting" "Caçando por sangue"
+				"#vbloodfighting" "Lutando contra um poderoso inimigo"
+				"#atenemybase" "Invadindo território inimigo"
+				"#inenemycastle" "No coração do território inimigo"
+				"#fishing" "Pescando como um vampiro"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#inmenus" "В меню"
+				"#region_farbanewoods" "Прочесывает лес Фарбейн"
+				"#region_startcave" "Недавно пробудился в склепе"
+				"#region_dunleyfarmlands" "Терроризирует угодья Данли"
+				"#region_cursedforest" "Пробирается сквозь туман Проклятого леса"
+				"#region_hallowedmountains" "Восходит на Священные горы"
+				"#region_silverlighthills" "Вторгается на Серебристые холмы"
+				"#region_gloomrot_north" "Пробивается сквозь грозу в Глумроте"
+				"#region_gloomrot_south" "Бродит в отравленных долинах Глумрота"
+				"#unknown" "Неизвестно"
+				"#athome" "В лагере"
+				"#building" "Расширяет свой замок"
+				"#incastle" "Предается размышлениям в замке"
+				"#vbloodhunting" "Охотится за кровью"
+				"#vbloodfighting" "Борется с сильным противником"
+				"#atenemybase" "Вторгается на вражескую территорию"
+				"#inenemycastle" "В сердце вражеской территории"
+				"#fishing" "Ловит рыбу по-вампирски"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#inmenus" "En los menús"
+				"#region_farbanewoods" "Acechando en los bosques de Farbane"
+				"#region_startcave" "Recién despertado en las criptas"
+				"#region_dunleyfarmlands" "Aterrorizando las granjas de Dunley"
+				"#region_cursedforest" "Caminando entre la niebla del Bosque Maldito"
+				"#region_hallowedmountains" "Ascendiendo las Montañas Sagradas"
+				"#region_silverlighthills" "Invadiendo las colinas de Silverlight"
+				"#region_gloomrot_north" "Capeando tormentas eléctricas en Gloomrot"
+				"#region_gloomrot_south" "Navegando por los valles contaminados de Gloomrot"
+				"#unknown" "Desconocido"
+				"#athome" "En su campamento"
+				"#building" "Expandiendo su castillo"
+				"#incastle" "Cavilando en su castillo"
+				"#vbloodhunting" "A la caza de sangre"
+				"#vbloodfighting" "Luchando contra un poderoso enemigo"
+				"#atenemybase" "Invadiendo el territorio enemigo"
+				"#inenemycastle" "En el corazón del territorio enemigo"
+				"#fishing" "Pescando como un vampiro"
+			}
+		}
+		"latam"
+		{
+			"tokens"
+			{
+				"#inmenus" "En los Menús"
+				"#region_farbanewoods" "Deambulando por los bosques de Farbane"
+				"#region_startcave" "Recién despertado en las criptas"
+				"#region_dunleyfarmlands" "Sembrando el miedo en las Granjas de Dunley"
+				"#region_cursedforest" "Escabulléndose por el bosque maldito"
+				"#region_hallowedmountains" "Ascendiendo a las Montañas Sagradas"
+				"#region_silverlighthills" "Explorando las Colinas de Silverlight"
+				"#unknown" "Desconocido"
+				"#athome" "En su Campamento"
+				"#building" "Ampliando su Castillo"
+				"#incastle" "Admirando su Castillo"
+				"#vbloodhunting" "Al acecho de sangre"
+				"#vbloodfighting" "Luchando contra un enemigo poderoso"
+				"#atenemybase" "Asaltando campamento enemigo"
+				"#inenemycastle" "Asaltando un castillo enemigo"
+				"#fishing" "Pescando"
+			}
+		}
+		"turkish"
+		{
+			"tokens"
+			{
+				"#inmenus" "Menülerde"
+				"#region_farbanewoods" "Farbane Ormanlarında kol geziyor"
+				"#region_startcave" "Mezardan yeni kalktı"
+				"#region_dunleyfarmlands" "Dunley Farmlands’te terör estiriyor"
+				"#region_cursedforest" "Sisli Lanetli Ormanda geziniyor"
+				"#region_hallowedmountains" "Kutsanmış Dağlara tırmanıyor"
+				"#region_silverlighthills" "Gümüşışık Tepelerini işgal ediyor"
+				"#region_gloomrot_north" "Gloomrot’ta şimşek fırtınalarını atlatıyor"
+				"#region_gloomrot_south" "Gloomrot\'ta kirli vadilerde geziniyor"
+				"#unknown" "Bilinmeyen"
+				"#athome" "Kendi Kamplarında"
+				"#building" "Kalelerini genişletiyorlar"
+				"#incastle" "Kalesinde oturmuş derin derin düşünüyor"
+				"#vbloodhunting" "Kan avına çıktı"
+				"#vbloodfighting" "Güçlü bir rakip ile savaşıyor"
+				"#atenemybase" "Rakip bölgeye gizlice saldırıyor"
+				"#inenemycastle" "Rakip bölgenin kalbine ulaşıyor"
+				"#fishing" "Vampir gibi balık tutuyor"
+			}
+		}
+		"ukrainian"
+		{
+			"tokens"
+			{
+				"#inmenus" "У Меню"
+				"#region_farbanewoods" "Блукає у Лісах Фарбейн"
+				"#region_startcave" "Щойно прокинувся в Склепі"
+				"#region_dunleyfarmlands" "Наводить жах в Сільських угіддях Данлі"
+				"#region_cursedforest" "Бродить у Проклятому Лісі"
+				"#region_hallowedmountains" "Сходить на Священні Гори"
+				"#region_silverlighthills" "Досліджує Пагорби Сілверлайт"
+				"#unknown" "Невідомо"
+				"#athome" "В Сховку"
+				"#building" "Розширює свій замок"
+				"#incastle" "Милується своїм Замком"
+				"#vbloodhunting" "Полює за кров\'ю"
+				"#vbloodfighting" "Б\'ється з могутнім противником"
+				"#atenemybase" "Штурмує ворожий Сховок"
+				"#inenemycastle" "Штурмує ворожий Замок"
+				"#fishing" "Рибалить"
+			}
+		}
+		"arabic"
+		{
+			"tokens"
+			{
+				"#inmenus" "في القائمة"
+				"#region_farbanewoods" "يتجول في غابة فربين"
+				"#region_startcave" "استيقظ حديثاً في السرداب"
+				"#region_dunleyfarmlands" "نشر الخوف في مزارع دنلي"
+				"#region_cursedforest" "يتسلل في الغابة الملعونة"
+				"#region_hallowedmountains" "صعود الجبال المقدسة"
+				"#region_silverlighthills" "استكشاف تلال سيلفرلايت"
+				"#unknown" "مجهول"
+				"#athome" "في معسكرهم"
+				"#building" "توسيع قلعتهم"
+				"#incastle" "الإعجاب بقلعتهم"
+				"#vbloodhunting" "البحث عن الدم"
+				"#vbloodfighting" "محاربة عدو قوي"
+				"#atenemybase" "مداهمة معسكر العدو"
+				"#inenemycastle" "مداهمة قلعة العدو"
+				"#fishing" "صيد الأسماك"
+			}
+		}
+		"czech"
+		{
+			"tokens"
+			{
+				"#inmenus" "V menu"
+				"#region_farbanewoods" "Potuluje se v lese Farbane"
+				"#region_startcave" "Právě probuzen v Kryptě"
+				"#region_dunleyfarmlands" "Šíření strachu na Dunleyově farmářských pozemcích"
+				"#region_cursedforest" "Plíží se Prokletým lesem"
+				"#region_hallowedmountains" "Stoupá na Posvátné hory"
+				"#region_silverlighthills" "Pátrá na Kopcích stříbrného lesku"
+				"#unknown" "V záhadnu"
+				"#athome" "V Táboře"
+				"#building" "Rozšiřuje svůj hrad"
+				"#incastle" "Obdivují jejich Hrad"
+				"#vbloodhunting" "Na lovu za krví"
+				"#vbloodfighting" "Bojuje se silným nepřítelem"
+				"#atenemybase" "Přepadá nepřátelský tábor"
+				"#inenemycastle" "Přepadá nepřátelský hrad"
+				"#fishing" "Rybaření"
+			}
+		}
+		"danish"
+		{
+			"tokens"
+			{
+				"#inmenus" "I menuerne"
+				"#region_farbanewoods" "Vandrer rundt i Farbaneskoven"
+				"#region_startcave" "Nyopstået i Krypterne"
+				"#region_dunleyfarmlands" "Spreder frygt i Dunleys Marker"
+				"#region_cursedforest" "Lister rundt I den forbandede skov"
+				"#region_hallowedmountains" "Klatrer De Hellige Bjerge"
+				"#region_silverlighthills" "Udforsker Sølvlys Bakkerne"
+				"#unknown" "Ukendt"
+				"#athome" "I deres Lejr"
+				"#building" "Udvider deres Borg"
+				"#incastle" "Beundrer deres Borg"
+				"#vbloodhunting" "På jagt efter blod"
+				"#vbloodfighting" "Bekæmper en magtfuld fjende"
+				"#atenemybase" "Angriber fjendes Lejr"
+				"#inenemycastle" "Angriber fjendes Borg"
+				"#fishing" "Fisker"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#inmenus" "在遊戲選單"
+				"#region_farbanewoods" "正在法爾班森林中潛行"
+				"#region_startcave" "剛從地下墓室中甦醒"
+				"#region_dunleyfarmlands" "正在鄧利農場散播恐怖"
+				"#region_cursedforest" "正在詛咒樹林的迷霧中穿行"
+				"#region_hallowedmountains" "正在攀爬聖山"
+				"#region_silverlighthills" "正在入侵銀光山丘"
+				"#region_gloomrot_north" "正在幽腐之地經受雷暴的考驗"
+				"#region_gloomrot_south" "正在通過幽腐之地污染的山谷"
+				"#unknown" "未知"
+				"#athome" "在他的營地"
+				"#building" "正在擴建他的城堡"
+				"#incastle" "正在城堡中沉思"
+				"#vbloodhunting" "正在狩獵鮮血"
+				"#vbloodfighting" "正在與強大的敵人戰鬥"
+				"#atenemybase" "正在侵佔敵人的領地"
+				"#inenemycastle" "正在敵人領地的中心"
+				"#fishing" "正在像吸血鬼一樣釣魚"
+			}
+		}
+		"greek"
+		{
+			"tokens"
+			{
+				"#inmenus" "Στο Μενού"
+				"#region_farbanewoods" "Περιπλανώντας στα Δάση Φάρμπεϊν"
+				"#region_startcave" "Ξύπνησε πρόσφατα στις Κρύπτες"
+				"#region_dunleyfarmlands" "Σκορπίζοντας τον φόβο στα Αγροκτήματα Ντάνλεϊ"
+				"#region_cursedforest" "Τριγυρνώντας στο Καταραμένο Δάσος"
+				"#region_hallowedmountains" "Ανεβαίνοντας στα Άγια Βουνά"
+				"#region_silverlighthills" "Εξερευνώντας τους Λόφους Σίλβερλαϊτ"
+				"#unknown" "Άγνωστο"
+				"#athome" "Στον Καταυλισμό τους"
+				"#building" "Επεκτείνουν το Κάστρο τους"
+				"#incastle" "Θαυμάζουν το Κάστρο τους"
+				"#vbloodhunting" "Στο κυνήγι του αίματος"
+				"#vbloodfighting" "Πολεμώντας έναν ισχυρό εχθρό"
+				"#atenemybase" "Επιδρομή σε εχθρικό Καταυλισμό"
+				"#inenemycastle" "Επιδρομή σε εχθρικό Κάστρο"
+				"#fishing" "Ψάρεμα"
+			}
+		}
+		"finnish"
+		{
+			"tokens"
+			{
+				"#inmenus" "Valikoissa"
+				"#region_farbanewoods" "Samoamassa Farbane metsissä"
+				"#region_silverlighthills" "Tutustuminen Silverlight Hills"
+				"#unknown" "Tuntematon"
+				"#building" "Laajentamassa linnaansa"
+				"#incastle" "Ihailemassa linnaansa"
+				"#vbloodhunting" "Metsästämässä uutta verta"
+				"#vbloodfighting" "Taistelemassa voimasta vihollista vastaan"
+				"#fishing" "Kalastus"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#inmenus" "Nei menu"
+				"#region_farbanewoods" "A caccia nei Boschi di Farbane"
+				"#region_startcave" "Un nuovo risveglio nelle cripte"
+				"#region_dunleyfarmlands" "Spargendo terrore nei Campi di Dunley"
+				"#region_cursedforest" "Attraverso le nebbie della Foresta maledetta"
+				"#region_hallowedmountains" "Ascendendo per i Monti consacrati"
+				"#region_silverlighthills" "Invadendo i Colli di Silverlight"
+				"#region_gloomrot_north" "Superando le tempeste di fulmini a Gloomrot"
+				"#region_gloomrot_south" "Esplorando le valli inquinate di Gloomrot"
+				"#unknown" "Sconosciuto"
+				"#athome" "Nel proprio accampamento"
+				"#building" "Espandendo il castello"
+				"#incastle" "Meditando nel proprio castello"
+				"#vbloodhunting" "Fuori a caccia di sangue"
+				"#vbloodfighting" "Combattendo un potente nemico"
+				"#atenemybase" "Invadendo il territorio rivale"
+				"#inenemycastle" "Nel cuore del territorio rivale"
+				"#fishing" "Anche ai vampiri piace pescare"
+			}
+		}
+		"norwegian"
+		{
+			"tokens"
+			{
+				"#inmenus" "I Menyen"
+				"#region_farbanewoods" "Vandrer i Farbane Forest"
+				"#region_startcave" "Nylig våknet i Crypts"
+				"#region_dunleyfarmlands" "Sprer frykt i Dunley Farmland"
+				"#region_cursedforest" "Sniker seg rundt i den forheksede skogen"
+				"#region_hallowedmountains" "Klatrer Hallowed Mountains"
+				"#region_silverlighthills" "Utforsker Silverlight Hills"
+				"#unknown" "Ukjent"
+				"#athome" "I leiren"
+				"#building" "Utvider slottet"
+				"#incastle" "Beundrer sitt Slott"
+				"#vbloodhunting" "På jakt etter blod"
+				"#vbloodfighting" "Sloss mot en sterk fiende"
+				"#atenemybase" "Plyndrer fiendelig leir"
+				"#inenemycastle" "Invaderer en fiendes Slott"
+				"#fishing" "Fisker"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#inmenus" "W menu"
+				"#region_farbanewoods" "Przemierza Las Farbane"
+				"#region_startcave" "Po przebudzeniu w Kryptach"
+				"#region_dunleyfarmlands" "Terroryzuje Krainę Dunley"
+				"#region_cursedforest" "Wędruje wśród mgieł Przeklętego Lasu"
+				"#region_hallowedmountains" "Wspina się po Świętych Górach"
+				"#region_silverlighthills" "Atakuje Wzgórza Silverlight"
+				"#region_gloomrot_north" "Zsyła burze z piorunami na Gloomrot"
+				"#region_gloomrot_south" "Przemierza zanieczyszczone doliny Gloomrot"
+				"#unknown" "Nieznane"
+				"#athome" "W obozowisku"
+				"#building" "Rozbudowuje zamek"
+				"#incastle" "Produkuje potomstwo w swoim zamku"
+				"#vbloodhunting" "W poszukiwaniu krwi"
+				"#vbloodfighting" "Walczy z potężnym przeciwnikiem"
+				"#atenemybase" "Wdziera się na wrogie terytorium"
+				"#inenemycastle" "W sercu wrogiego terytorium"
+				"#fishing" "Wędkuje niczym wampir"
+			}
+		}
+		"romanian"
+		{
+			"tokens"
+			{
+				"#inmenus" "În meniu"
+				"#region_farbanewoods" "Hoinărind prin Pădurea Farbane"
+				"#region_startcave" "Proaspăt trezit în criptă"
+				"#region_dunleyfarmlands" "Răspândind frică în terenurile fermelor Dunley"
+				"#region_cursedforest" "Furișându-se prin Pădurea blestemată"
+				"#region_hallowedmountains" "Escaladează Muntele Sfânt"
+				"#region_silverlighthills" "Explorând Dealurile Silverlight"
+				"#unknown" "Necunoscut"
+				"#athome" "În tabăra lor"
+				"#building" "Extinde Castelul lor"
+				"#incastle" "Extinde Castelul lor"
+				"#vbloodhunting" "În căutare de sânge"
+				"#vbloodfighting" "Se luptă cu un inamic puternic"
+				"#atenemybase" "Razie asupra taberei inamice"
+				"#inenemycastle" "Asediind Castelul inamic"
+				"#fishing" "Pescuit"
+			}
+		}
+		"swedish"
+		{
+			"tokens"
+			{
+				"#inmenus" "I Menyn"
+				"#region_farbanewoods" "Vandrar i Farbane Woods"
+				"#region_startcave" "Nyligen Vaknat i Kryptan"
+				"#region_dunleyfarmlands" "Sprider Skräck i Dunley Farmlands"
+				"#region_cursedforest" "Smyger runt i den förhäxade skogen"
+				"#region_hallowedmountains" "Bestiger Helgade Bergen"
+				"#region_silverlighthills" "Utforskar Silverlight Hills"
+				"#unknown" "Okänd"
+				"#athome" "I deras läger"
+				"#building" "Bygger ut deras slott"
+				"#incastle" "Beundrar deras slott"
+				"#vbloodhunting" "Ute på jakt efter blod"
+				"#vbloodfighting" "Slåss mot en mäktig fiende"
+				"#atenemybase" "Plundrar fiendens läger"
+				"#inenemycastle" "Plundrar fiendens slott"
+				"#fishing" "Fiskar"
+			}
+		}
+		"thai"
+		{
+			"tokens"
+			{
+				"#inmenus" "หน้าเมนูหลัก"
+				"#region_farbanewoods" "ตระเวนรอบป่าฟาร์เบน"
+				"#region_startcave" "แวมไพร์ตนใหม่ได้ตื่นจากหลุม"
+				"#region_dunleyfarmlands" "แผ่ขยายความกลัวที่ทุ่งดันลีย์"
+				"#region_cursedforest" "แอบซ่อนในป่าต้องสาป"
+				"#region_hallowedmountains" "ขึ้นสู่ภูเขาศักดิ์สิทธิ์"
+				"#region_silverlighthills" "สำรวจเนินเขา Silverlight"
+				"#unknown" "ไม่รู้จัก"
+				"#athome" "ในค่ายของพวกเขา"
+				"#building" "ขยายปราสาทของพวกเขา"
+				"#incastle" "ชื่นชมปราสาทของพวกเขา"
+				"#vbloodhunting" "ออกตามล่าหาโลหิต"
+				"#vbloodfighting" "ต่อสู้กับศัตรูที่แข็งแกร่ง"
+				"#atenemybase" "จู่โจมค่ายศัตรู"
+				"#inenemycastle" "จู่โจมปราสาทศัตรู"
+				"#fishing" "ตกปลา"
+			}
+		}
+		"vietnamese"
+		{
+			"tokens"
+			{
+				"#inmenus" "Màn hình chính"
+				"#region_farbanewoods" "Dạo chơi trong rừng Farbane"
+				"#region_startcave" "Vừa được đánh thức trong mộ"
+				"#region_dunleyfarmlands" "Gieo rắc nỗi sợ hãi trong vùng đất nông trại Dunley"
+				"#region_hallowedmountains" "Đi lên Hallowed Mountains"
+				"#region_silverlighthills" "Khám phá thung lũng Silverlight"
+				"#unknown" "Không xác định"
+				"#athome" "Trong trại của họ"
+				"#building" "Mở rộng lâu đài của họ"
+				"#incastle" "Chiêm ngưỡng lâu đài của họ"
+				"#vbloodhunting" "Ra ngoài săn tìm máu"
+				"#vbloodfighting" "Chiến đấu với kẻ thù mạnh mẽ"
+				"#atenemybase" "Đột kích trại của kẻ thù"
+				"#inenemycastle" "Đột kích lâu đài của kẻ thù"
+				"#fishing" "Câu cá"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#inmenus" "メニュー画面"
+				"#region_farbanewoods" "ファルベインの森を散策中"
+				"#region_startcave" "納骨堂で目覚めた"
+				"#region_dunleyfarmlands" "ダンレイ農地で恐怖を拡散中"
+				"#region_cursedforest" "呪われた森の霧で散策中"
+				"#region_hallowedmountains" "聖なる山脈で散策中"
+				"#region_silverlighthills" "シルバーライトの丘に侵入中"
+				"#region_gloomrot_north" "グルームロットで雷の試練中"
+				"#region_gloomrot_south" "グルームロットの汚染された谷を通過中"
+				"#unknown" "未知"
+				"#athome" "野営地"
+				"#building" "城の建設中"
+				"#incastle" "城で考え中"
+				"#vbloodhunting" "血を求めて狩り中"
+				"#vbloodfighting" "敵と交戦中"
+				"#atenemybase" "敵の領地に侵攻中"
+				"#inenemycastle" "敵の領地の中心"
+				"#fishing" "ヴァンパイア並みに釣り中"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23969671"
+"_sha" "c361222b9f81995901c01d7066d6b8b9eceb6d0b"
+"_size" "40276"
