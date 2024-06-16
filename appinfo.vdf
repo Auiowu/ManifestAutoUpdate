@@ -1,0 +1,750 @@
+"appid" "1121640"
+"common"
+{
+	"name" "The Wandering Village"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "5b21ffc6d785c6b4c7b0823bac71c999274f108f"
+	"clienttga" "b9e458663dbbfc4a2fb4f7f94191f59647fe0615"
+	"icon" "1afcc38a5003e351efa1acfa45254c570eef7cc2"
+	"clienticns" "48bf4ce32bd365f0091d59cea3b4c182aa848f56"
+	"logo" "d3bf2acdd6a9b13e2a4c1a422cf7ed2b3bc8a98d"
+	"logo_small" "d3bf2acdd6a9b13e2a4c1a422cf7ed2b3bc8a98d_thumb"
+	"linuxclienticon" "1abea1cf1d7a29f809be959633a17e5e6da41b1b"
+	"name_localized"
+	{
+		"schinese" "漂泊牧歌 (The Wandering Village)"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1674691200"
+		"tested_build_id" "10365510"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.77829824163271"
+			"height_pct" "63.20740494085756"
+		}
+	}
+	"store_asset_mtime" "1713550981"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stray Fawn Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stray Fawn Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Stray Fawn Studio"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1663171224"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1121640"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "255534"
+		"2" "3810"
+		"3" "4695"
+		"4" "5125"
+		"5" "7332"
+		"6" "4026"
+		"7" "1716"
+		"8" "9"
+		"9" "4328"
+		"10" "599"
+		"11" "220585"
+		"12" "12472"
+		"13" "8945"
+		"14" "597"
+		"15" "493"
+		"16" "1676"
+		"17" "1695"
+		"18" "1662"
+		"19" "4172"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Stray Fawn Studio"
+	"publisher" "Stray Fawn Publishing"
+	"homepage" "https://thewanderingvillage.com/"
+	"listofdlc" "2108240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Wandering Village"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windows64/WanderingVillage.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Mac\\WanderingVillage.app\\Contents\\MacOS\\The Wandering Village"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Windows32/WanderingVillage.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Linux\\WanderingVillage.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamdecktouchscreen" "5"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1121641"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6788428127777534976"
+				"size" "1318796942"
+				"download" "513291760"
+			}
+			"testing"
+			{
+				"gid" "1150011059165341746"
+				"size" "1325957168"
+				"download" "515002496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2019"
+			{
+				"gid" "048430B84CA505864879A3F3DA7D5387"
+				"size" "81FB09E8A876DE8A999F7FE7A610AE93"
+				"download" "7FC0D26F94282994D75EFA92DBF9BDE7"
+			}
+			"2020"
+			{
+				"gid" "5F2596CD445337E335CCC1E887C72539"
+				"size" "D2222101F99D6EF4610DE576D530E592"
+				"download" "0AC2D788BA1AA437D49A20889A522529"
+			}
+			"previous"
+			{
+				"gid" "531CC2125A047FBB9B1123ED326E7323"
+				"size" "7FC45D2223092B90B4EE65077EF644DE"
+				"download" "1ECE38B7D03DC79A4C55F19EBF78C5CD"
+			}
+			"events"
+			{
+				"gid" "15C3779F270A71691B78EEEA4C5125C9"
+				"size" "03F7FF4DF2A623D0C57A1E78C3028573"
+				"download" "727546E3B6A1D11D184D2C20BD0147A1"
+			}
+			"internal"
+			{
+				"gid" "841EA2740AF53D841502B6561FA42D2F"
+				"size" "312F06A340384D6F112C596552F10D79"
+				"download" "BC33C4B0F969708AC3B30810356DD234"
+			}
+			"media"
+			{
+				"gid" "0DFF7BA00CAB320550814AD24EEC8AD3"
+				"size" "BFFF57370F8C0B5553D91489C26CE0F9"
+				"download" "56EBEE5914F135C82A058D02290A5672"
+			}
+			"prototyping"
+			{
+				"gid" "34E9582EE465A0C0EC4BD73D5AFF08AF"
+				"size" "8091D4890F521BB507CCB20A378C877C"
+				"download" "BF62B0D1843E571007A02B16B0697B86"
+			}
+		}
+	}
+	"1121642"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3457355786201904407"
+				"size" "1340823940"
+				"download" "520308992"
+			}
+			"testing"
+			{
+				"gid" "8090217161258979783"
+				"size" "1347990436"
+				"download" "521988880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2019"
+			{
+				"gid" "ECC7371CB5BDB4A514646C2C9590532A"
+				"size" "25CED39B278C7BADC54D71B95851195A"
+				"download" "CEACF1C04A67237B23CA468411C8768D"
+			}
+			"2020"
+			{
+				"gid" "C122B8E30FD137E9B9BD7F750CEAAF45"
+				"size" "A0959C751A3016EB77E2471A6CFF3BCC"
+				"download" "C8381CBD134E62C5F4BBF4258E256CD3"
+			}
+			"previous"
+			{
+				"gid" "5217FAC3EC4CD5958096E07EF883A4A1"
+				"size" "002796219BA0057CB28D3F6E1531970F"
+				"download" "1CEB4BF19EABD3835804D820BF70FED5"
+			}
+			"events"
+			{
+				"gid" "FD6F69B7335A59A0159CF5BD8FD97191"
+				"size" "930C0F1DEC041E0B3EB7FA8A743D9C1D"
+				"download" "DD2B9C9D81E3D3D55FD972A08088A59A"
+			}
+			"internal"
+			{
+				"gid" "1723AB4ABCD541D03173462A8DBBE3AD"
+				"size" "04B4749D87F7155835E212BD89BEB15A"
+				"download" "B66F11F9CE31C0BABC3215AD7D19A756"
+			}
+			"media"
+			{
+				"gid" "06C056837D6E922448126BE1C8188C25"
+				"size" "97733440E777715E8544F2C4C6AA4ADF"
+				"download" "7D9CCBA6F9A5AB3BDFE2F2532E174428"
+			}
+			"prototyping"
+			{
+				"gid" "EBD68083B0164EE909E8BBF8C10427A6"
+				"size" "B8D779EBD3CEDEFCA4CBDE89640742A5"
+				"download" "DF14DD2F360BF28285674C4B76975F18"
+			}
+		}
+	}
+	"1121643"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4341455649578678714"
+				"size" "1307879254"
+				"download" "510008160"
+			}
+			"testing"
+			{
+				"gid" "203577916769920335"
+				"size" "1315039480"
+				"download" "511689456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2019"
+			{
+				"gid" "11187D6ECEB0C763585150440909029F"
+				"size" "90779C35DB5B73B3C087CF7711F1E89A"
+				"download" "D0EF2FBA5E42DFFAB570AE9F93B94639"
+			}
+			"2020"
+			{
+				"gid" "ADF2F4B2B070F55B4364385338451A9B"
+				"size" "520507D2FA4DBA9796310A4C26B1E042"
+				"download" "242CC8E11F8C87F0C0D8D72877C2BC99"
+			}
+			"previous"
+			{
+				"gid" "D91ACA10095E7CB8F771E61C58E8F9C1"
+				"size" "FECDB13BCAF09988377D0FAD013C3AD3"
+				"download" "1D982101DC70199ECCB8A4FB61368AC7"
+			}
+			"events"
+			{
+				"gid" "9236B880B5E6F4B2AA62D3F6B9F04D61"
+				"size" "FE10A959F9C9BA9CD17C7CB93CA29E19"
+				"download" "B60B7DF5D6658A6168BA7B91C02CC541"
+			}
+			"internal"
+			{
+				"gid" "E17BFF5356F1CB42C2773F6B300FF3D2"
+				"size" "8521EB966E05616C4A5326C46D8F94F9"
+				"download" "ECA09ED3D95CF26C34FA3B9CB26C76B3"
+			}
+			"media"
+			{
+				"gid" "0BA174AFF5B33A2545CECCDD3E273E6C"
+				"size" "0C9F09AEAA2EA1E4A9D3E0B0D066C029"
+				"download" "30F344F2E4D53F3FAD892344368BA4E4"
+			}
+			"prototyping"
+			{
+				"gid" "29714A3DFF9249454D2483B751CAA2B3"
+				"size" "3AC1B82FA86B79D43FB3A543469F970A"
+				"download" "D5BB8852C74F05A36217938E180C5765"
+			}
+		}
+	}
+	"1121644"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6884322166265093994"
+				"size" "1360609042"
+				"download" "513861392"
+			}
+			"testing"
+			{
+				"gid" "5043408655757044238"
+				"size" "1367766722"
+				"download" "515551808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2019"
+			{
+				"gid" "7EADCA9B88A8D5DDD503AC69D8EDE585"
+				"size" "4E140331E723F2BB3FF44B401D033EBA"
+				"download" "A99CCF05121ACD003CB593F3F90D44EC"
+			}
+			"2020"
+			{
+				"gid" "6DBEE107357C942CBF63890B9C46466F"
+				"size" "5532536B4C59FA7E6FB15C05706F99C6"
+				"download" "2C248FFEC81DBE2A7E44FB6DE659A8BD"
+			}
+			"previous"
+			{
+				"gid" "0A1D65FFE25C93D841BDDDD4BCE5CD64"
+				"size" "20758B64DA2020F33CB62A20A7EAEE16"
+				"download" "6BB61E5D43180BF933A1D8F6DD994947"
+			}
+			"events"
+			{
+				"gid" "506CD451E4BDDED4CF2108D7DB9B2A53"
+				"size" "B644AF4B6C82A202C4D8F2274C015EF8"
+				"download" "E3FFE60E96BA9DA86199A29DE9D1B3E2"
+			}
+			"internal"
+			{
+				"gid" "611267474909D5817287164BB3E50F8A"
+				"size" "828E1EDE256D36C46F8F17BEA5CE4DE2"
+				"download" "C720A40AB3323411702DE65040DC347F"
+			}
+			"media"
+			{
+				"gid" "F67198017A3444F361ACF0BD2F45A100"
+				"size" "E334137FF51E0F5D57E8FD6546F9D281"
+				"download" "F5EC0DC5A8360B087A2C1FB0C7BAB91E"
+			}
+			"prototyping"
+			{
+				"gid" "492847DD53D503A60B49895796B27AF6"
+				"size" "C615B6D45A14CEE6159B484FEF46CD80"
+				"download" "610276616E0DB24F934F69C473007DD5"
+			}
+		}
+	}
+	"2108240"
+	{
+		"dlcappid" "2108240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1599426698477333693"
+				"size" "230355851"
+				"download" "215118672"
+			}
+			"testing"
+			{
+				"gid" "1599426698477333693"
+				"size" "230355851"
+				"download" "215118672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"previous"
+			{
+				"gid" "5022CC46D73542ED177CA2C1E796BDB8"
+				"size" "5941255A4064C5D30AE2674E7009BCEC"
+				"download" "1A979F68B80B7CA1CE29F7D27E8EA37C"
+			}
+			"events"
+			{
+				"gid" "740159D059F69E87A6334FE2958BC2EB"
+				"size" "8A4CCD419BAA509C28E5AA1C265064D2"
+				"download" "6DE5166F8080757357DE4972E9A297C2"
+			}
+			"internal"
+			{
+				"gid" "F8B85E20023BD49EB90BC676D2B8F6DB"
+				"size" "27FD6C9623B37CACD6810042A61544E4"
+				"download" "169F3F2CFEA92F35CA64DB12FCD44D5B"
+			}
+			"media"
+			{
+				"gid" "AD1D74CA2B5E7EDF3FBF5894B63E026A"
+				"size" "5EAC83D97ED42D99FE58E82B2081940F"
+				"download" "C5C79033FB9E457CA625962641ADA713"
+			}
+			"prototyping"
+			{
+				"gid" "599BEF19D6EF65A052BF181D2C4D9E10"
+				"size" "590BBAB94EAEAA4F162AEA9319D2CAD4"
+				"download" "2A0A9208771BF412C6B0027581992419"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14519876"
+			"timeupdated" "1716985916"
+		}
+		"2019"
+		{
+			"buildid" "7850185"
+			"pwdrequired" "1"
+			"timeupdated" "1638991551"
+		}
+		"2020"
+		{
+			"buildid" "7850178"
+			"pwdrequired" "1"
+			"timeupdated" "1638991532"
+		}
+		"previous"
+		{
+			"buildid" "11781303"
+			"pwdrequired" "1"
+			"timeupdated" "1706718330"
+		}
+		"events"
+		{
+			"buildid" "14519876"
+			"pwdrequired" "1"
+			"timeupdated" "1716986385"
+		}
+		"internal"
+		{
+			"buildid" "14705137"
+			"pwdrequired" "1"
+			"timeupdated" "1718280930"
+		}
+		"media"
+		{
+			"buildid" "14519876"
+			"pwdrequired" "1"
+			"timeupdated" "1716986399"
+		}
+		"prototyping"
+		{
+			"buildid" "14723214"
+			"pwdrequired" "1"
+			"timeupdated" "1718395048"
+		}
+		"testing"
+		{
+			"buildid" "14705137"
+			"description" "Early testing for upcoming patches"
+			"timeupdated" "1718284957"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Stray Fawn Studio/The Wandering Village"
+			"pattern" "*.onbu"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Stray Fawn Studio/The Wandering Village"
+			"pattern" "persistent_progress.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Stray Fawn Studio/The Wandering Village"
+					"replace" "com.strayfawnstudio.thewanderingvillage"
+				}
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Stray Fawn Studio/The Wandering Village"
+					"replace" ".config/unity3d/Stray Fawn Studio/The Wandering Village"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23978380"
+"_sha" "81a773a73c3f0ff28e730914332cd7b7ef5857db"
+"_size" "15339"
