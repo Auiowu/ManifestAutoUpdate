@@ -1,0 +1,366 @@
+"appid" "1735700"
+"common"
+{
+	"name" "Back to the Dawn"
+	"type" "Game"
+	"logo" "633edfc29ca89b031591cdd614aba84d30ef4afb"
+	"logo_small" "633edfc29ca89b031591cdd614aba84d30ef4afb_thumb"
+	"icon" "0eccba8ce557c675f0a9097c786d0b9f4680ff3e"
+	"clienticon" "0f89487727ee844f34bad968060587191ff8a623"
+	"clienttga" "3b4dcc93ca524a16f06c51b0a5dc87f4b5e68c45"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "动物迷城"
+		"japanese" "Back to the Dawn ~ブレイク･ザ･アニマル･プリズン~ "
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699574400"
+		"tested_build_id" "12623972"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.075662290353776"
+			"height_pct" "43.92068392305866"
+		}
+	}
+	"store_asset_mtime" "1715223522"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Metal Head Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spiral Up Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Spiral Up Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698979556"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1735700"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1742"
+		"2" "3964"
+		"3" "5613"
+		"4" "6426"
+		"5" "21"
+		"6" "6971"
+		"7" "17305"
+		"8" "6378"
+		"9" "4182"
+		"10" "5716"
+		"11" "8369"
+		"12" "5984"
+		"13" "492"
+		"14" "599"
+		"15" "9"
+		"16" "4474"
+		"17" "493"
+		"18" "4136"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Metal Head Games"
+	"publisher" "Spiral Up Games"
+}
+"config"
+{
+	"installdir" "MetalHeadGames"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Back To The Dawn.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1735701"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5870285546523321621"
+				"size" "2382086035"
+				"download" "593928688"
+			}
+			"opentest"
+			{
+				"gid" "5685954417176877960"
+				"size" "2382054483"
+				"download" "593933072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "549F29F0710C84B2CAC4E6672C5806FD"
+				"size" "BB5C32B6B8B92056423F7EA8ABC07939"
+				"download" "B9752D058D48010C51233ADAE9B12675"
+			}
+			"metalhead-rc"
+			{
+				"gid" "46A87951C73BC10CE4F2C2FB7D2C18AA"
+				"size" "19A77595F623913DF479C7E5758B6987"
+				"download" "493E462C5FF80F5CAC801566A42FC68D"
+			}
+			"alpha"
+			{
+				"gid" "0DFC6C0F629359484EE48C78D63268B0"
+				"size" "E704C51D7DB6A3DC192F728489D3465E"
+				"download" "966FAC00C8432219932B265F15AEA654"
+			}
+			"bug-alpha"
+			{
+				"gid" "04391F40322B4A48C3F0633D11B2A927"
+				"size" "87D46559F1BDE5CFD643569827E2605C"
+				"download" "FEF0263EE89B9E7B61253486D29FB59B"
+			}
+			"bug-qa"
+			{
+				"gid" "7F8982C7621174264BE0B28B6E8D1C3A"
+				"size" "3078886D9006B1F99DD228B060A35A35"
+				"download" "A0E6B7643427B23348B487288874E159"
+			}
+			"lqa-language"
+			{
+				"gid" "9E6430914CDD9ABDDF81FF5528D46FAB"
+				"size" "8E0DA7800E62689627F9FDB15B60CA3E"
+				"download" "E8590CBAD0972741F368E64C24665ED8"
+			}
+			"metalhead-dev"
+			{
+				"gid" "8CF373C74B4EA8820EFC85333CCA058D"
+				"size" "5A9D183FC8ED47B3F4B47154BA309316"
+				"download" "FF505C2B322E97D76F0BAB3A13A667AC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13665081"
+			"timeupdated" "1709880554"
+		}
+		"develop"
+		{
+			"buildid" "13381400"
+			"pwdrequired" "1"
+			"timeupdated" "1709091965"
+		}
+		"metalhead-rc"
+		{
+			"buildid" "13665081"
+			"pwdrequired" "1"
+			"timeupdated" "1709785763"
+		}
+		"opentest"
+		{
+			"buildid" "13611141"
+			"description" "玩家测试分支"
+			"timeupdated" "1709290894"
+		}
+		"alpha"
+		{
+			"buildid" "13610968"
+			"pwdrequired" "1"
+			"timeupdated" "1717121354"
+		}
+		"bug-alpha"
+		{
+			"buildid" "14610793"
+			"pwdrequired" "1"
+			"timeupdated" "1718269725"
+		}
+		"bug-qa"
+		{
+			"buildid" "14702546"
+			"pwdrequired" "1"
+			"timeupdated" "1718269738"
+		}
+		"lqa-language"
+		{
+			"buildid" "14702546"
+			"pwdrequired" "1"
+			"timeupdated" "1718267317"
+		}
+		"metalhead-dev"
+		{
+			"buildid" "14468604"
+			"pwdrequired" "1"
+			"timeupdated" "1716521450"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "247800360"
+	"maxnumfiles" "8000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MetalHeadGames/Back To The Dawn/Save"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MetalHeadGames/Back To The Dawn/OpenTestSave"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23953055"
+"_sha" "ca79d5bad8b7414dccf36be98cb93445c2eebe5b"
+"_size" "7028"
