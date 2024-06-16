@@ -1,0 +1,572 @@
+"appid" "581330"
+"common"
+{
+	"name" "Insurgency: Sandstorm Dedicated Server"
+	"type" "Tool"
+	"parent" "581320"
+	"releasestate" "released"
+	"oslist" "linux"
+	"osarch" ""
+	"clienticon" "df54c9719cb2383dbbb29ec6b89b108c9dbe9f22"
+	"clienttga" "8eba259c22e90df29fd2f5f157b4394cd7074a9e"
+	"icon" "018d8f1d991e46846a25dd01cfd5b13b4ddfb26e"
+	"logo" "2d12877271f99129c04ac0cab8625b5abe7768a8"
+	"logo_small" "2d12877271f99129c04ac0cab8625b5abe7768a8_thumb"
+	"associations"
+	{
+	}
+	"gameid" "581330"
+}
+"config"
+{
+	"installdir" "sandstorm_server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "InsurgencyServer.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"581332"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5512136268775622827"
+				"size" "4565302954"
+				"download" "3840231808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community_test"
+			{
+				"gid" "F257B220215CED97F5A15D2ECCBA26C1"
+				"size" "B59DEE6C481A6CB0DA837D5193CA3E7D"
+				"download" "40E70B246241499CA8600082FDB9513C"
+			}
+			"nwi_nightly"
+			{
+				"gid" "813884A1944F5DC5D0060323C206CBFA"
+				"size" "0F827D919E53655D35D55F0D1CFE7E21"
+				"download" "C85092DF955CE8F3889D54FA39C4206C"
+			}
+			"playthrough"
+			{
+				"gid" "F22A2461AD7B3C631FB4CF51360D1EEB"
+				"size" "EA6B35981BEBA80CD5F2D388C3CD19EA"
+				"download" "7C44C25038C8ACB44A47C6E871A4B2F2"
+			}
+			"ss_cte_1"
+			{
+				"gid" "21CAA59234825C1ABA3888D1CE60C431"
+				"size" "60A956B651F383FD7A21AB1763578F51"
+				"download" "D673FFC564718ED2B29A7F91B64F52C4"
+			}
+			"ss_cte_2"
+			{
+				"gid" "AB0ABD2BED5E3130C95D4F69809EAB91"
+				"size" "C965A69ABA0573333970554DEA74D6EB"
+				"download" "CB45A02180666AF6A3381B252BEF5C8B"
+			}
+			"ss_cte_4"
+			{
+				"gid" "481227954CC4F43C180E0D70162E91BC"
+				"size" "559AA52A416092F60216576CB07220C2"
+				"download" "BD737439D0D6AE76FB04385EA86ED0C6"
+			}
+			"ss_egs_1"
+			{
+				"gid" "C75C485D4725884C55AB927B2DD12755"
+				"size" "5D2C80C97BF9803F3773602C433C5198"
+				"download" "1991D25FAA85F8DA778945891934A57A"
+			}
+			"ss_external_2"
+			{
+				"gid" "81F45EC97475F77C109BCAE121C0C306"
+				"size" "9BD93E9C79A22913EA9A6AFF88F83C7E"
+				"download" "CCF3F9732AD73BBCCFEC0BF976ECFDF5"
+			}
+			"ss_marketing"
+			{
+				"gid" "D3C23E8F3C71D7EA0261E010A52C2FCD"
+				"size" "BC20C6F937DF513A2F4D858EE1DFDF84"
+				"download" "8ABE113959639226FD5E3BC0C71C3B18"
+			}
+			"ss_matchserver_1"
+			{
+				"gid" "86C4A43BDCFB25B87FE13DCCDCB39864"
+				"size" "3DD099DDDA9622225B4C6373F6C76EFD"
+				"download" "668AD17FB58737ED094EC901DA48DCB5"
+			}
+			"streams"
+			{
+				"gid" "75EA7B5B5253402417DCB65779F57A87"
+				"size" "D87B52FBFBFDBD0AA8F2C62D6F7C63C6"
+				"download" "DF2A714AAE3CE0E25BDD6901ABFA8180"
+			}
+			"tournament"
+			{
+				"gid" "E5AE28659F4B45BF39257E63A573B92B"
+				"size" "437A88FBF9E9DDE53FDACF3FFA0F110F"
+				"download" "2A0DE693AEB66B4B536332DDD1AD412D"
+			}
+			"unstable"
+			{
+				"gid" "D0A3A1B09C55F8A74173A9C60B8EE740"
+				"size" "9AD17160FDAD838F5299E5CA67BD4DC7"
+				"download" "E169448CC21CB1365B4B8486DACCC5A7"
+			}
+			"unstable_shipping"
+			{
+				"gid" "4B24FEF33D27D9099CEF0117F2E341F9"
+				"size" "C1E7EC326987FCAB1990DF266A12725A"
+				"download" "C1E7EC326987FCAB1990DF266A12725A"
+			}
+			"unstable_test"
+			{
+				"gid" "65C99B0922AEB7076FFFBEB36B611B11"
+				"size" "A606A038680DDD981C3D665C535EF038"
+				"download" "C2522732057D66E6A46A643225E12A47"
+			}
+			"ss_cte_3"
+			{
+				"gid" "53AD0408A93AB920100AD53A2F901396"
+				"size" "BF997CEC8566B8A08FF01C95A4BAD396"
+				"download" "A873D4C120E98564F22919F7D6260520"
+			}
+			"ss_cte_5"
+			{
+				"gid" "166A25225997FEC9B15B791143FFBEB9"
+				"size" "E257B9B4E5FA886E2C670C5167970045"
+				"download" "C6630806D921CBAD1FB4D9C2D6A3275A"
+			}
+			"ss_cte_6"
+			{
+				"gid" "D704014E42EB01DD98EA314F02954170"
+				"size" "30275559DAC79BE4DFAEC9E169A386FF"
+				"download" "9E7E437B822D3AAC53524F0002F0753F"
+			}
+			"ss_evaluation_1"
+			{
+				"gid" "7D952834F846A7B94874162FFF66404F"
+				"size" "2F3F11D627EFB2F9C4C0793F120790C9"
+				"download" "7B672B63A79694B92B6A6B5B69B2014E"
+			}
+			"ss_external_1"
+			{
+				"gid" "01A55FE799FDDFE58E90A14A8458DC55"
+				"size" "2088B4BB367BE4D45494C8FB991D67CC"
+				"download" "54576DB7ACC578529C4C212D13595039"
+			}
+			"ss_external_3"
+			{
+				"gid" "A4F03EE886529AA7CC497C6AA5E4C471"
+				"size" "89250E0B2157BFCAFFBC3174F87F83B4"
+				"download" "37DCDFD32E6773D699F2D0649BC65457"
+			}
+			"ss_main_1"
+			{
+				"gid" "438230657F8344E265F9718803422233"
+				"size" "3C02BDE64B1CF0B21A929AB2DB9B63F0"
+				"download" "288E4AC1DA67C965A131B9FAB519D1C2"
+			}
+			"ss_main_2"
+			{
+				"gid" "73F88551050D05F6ACC7716384B00BCF"
+				"size" "D30A63764AF6F53292947ED6CF70CA74"
+				"download" "2D6685FAB9DF34D07C8340D8AEA92959"
+			}
+		}
+	}
+	"581333"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2386800293307186726"
+				"size" "4521507744"
+				"download" "3762420832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community_test"
+			{
+				"gid" "B8946F2080F4D70E6DFE93DDAC4F1D56"
+				"size" "B7D13DCBCAAF4A0421F84444D687DE41"
+				"download" "76978DAC80EA6E03D44D375C1F1234FF"
+			}
+			"nwi_nightly"
+			{
+				"gid" "04CCC15715388220368D71E3D5DD982D"
+				"size" "079B396631E26E3B9D19ABD764AD5499"
+				"download" "84774A9DD6484C6D028D19AFFF181935"
+			}
+			"playthrough"
+			{
+				"gid" "8F6AAD47E736F9BDB315C4D67F97BF40"
+				"size" "F46A2D12C5F338ABC8E88BC82DC366EE"
+				"download" "46B1DC4FA347FB178F5F425EE34A5730"
+			}
+			"ss_cte_1"
+			{
+				"gid" "D3FFA12DC3C990DE7D4168291B59B072"
+				"size" "12774299027EE0E41BA941D6E27FACDF"
+				"download" "D45A8F9320DB96AB0BEE1D5A1D17F2C6"
+			}
+			"ss_cte_2"
+			{
+				"gid" "9AAAA89019E7562FE61288044EF8865D"
+				"size" "0D33138D9B0D41ACA530C7416F008271"
+				"download" "5D91A96243AB653CA425CDAFA0B99952"
+			}
+			"ss_cte_4"
+			{
+				"gid" "6A9CACFB1BDB638794AA84BA02DA564D"
+				"size" "D10659D194C84472FECD31C0F0749BD1"
+				"download" "80D914F998FA12B3A95CF97CBE039562"
+			}
+			"ss_egs_1"
+			{
+				"gid" "04F743F65EC8F2C6F3B771931EFA5333"
+				"size" "B87D1A8879794C9FDA7F14402C1E112B"
+				"download" "CD4F4238E5C6F2C0AB2DB36C9666CC8D"
+			}
+			"ss_external_2"
+			{
+				"gid" "C58E932FF646A964DFF189569C99F124"
+				"size" "16158D4B41C30C7553802CDDDD82324C"
+				"download" "4768DB4F28861DEA477255A2A1988A6B"
+			}
+			"ss_marketing"
+			{
+				"gid" "063221EBF9FF9F794E2D0853C6A8C14D"
+				"size" "31D36B7A8D5E8FF40B77ED7F7F25D614"
+				"download" "796989F56939ED2BBF5CF237D3F114B6"
+			}
+			"ss_matchserver_1"
+			{
+				"gid" "D4DCBEFD2132F983C25F87F08F3AF5F4"
+				"size" "C4FB5BDDC778F550779E9BD67D2E7C81"
+				"download" "D1C85F77C93CB6E4A5EA90CEDE8D3191"
+			}
+			"streams"
+			{
+				"gid" "B60DDAC568467CF25F6E42CDE92596AC"
+				"size" "D913E7FEECF82B90EF7BADB30A00CD45"
+				"download" "6A141CB41FE27138C31E821FC234F614"
+			}
+			"tournament"
+			{
+				"gid" "73C329880756799BE5CCC3D7B4C6C990"
+				"size" "C04B1848633DD20D808D430F23A4A8FE"
+				"download" "CD80A81AAF80A3BCBA95E8A2AD141081"
+			}
+			"unstable"
+			{
+				"gid" "5EB7577D46B6A761638B69C44C6B50CA"
+				"size" "8BA73F0147F023C2ABFEE84CC40CED96"
+				"download" "E5CE55B080F980D52A0C528250AA1307"
+			}
+			"unstable_shipping"
+			{
+				"gid" "B8BCB3CE6E5CCC10D0BD6FB79071166F"
+				"size" "D2572448E30771BBC292B149B198E660"
+				"download" "6CEF965EBF1418404934CE834B17F7FD"
+			}
+			"unstable_test"
+			{
+				"gid" "159BF7654F93EAE3815F365CE06F9137"
+				"size" "AC33CE611B9F1CAE166C54A5F79540C4"
+				"download" "88B5DB47D3DE95744E638BE009F01372"
+			}
+			"ss_cte_3"
+			{
+				"gid" "A9B94F26F87326B45931130747229520"
+				"size" "CDA6D3CE5F4D62249046B1CDC1AA414A"
+				"download" "5D074E1429535F77DEE60DFB6FBC267B"
+			}
+			"ss_cte_5"
+			{
+				"gid" "A534A001BF555E66E6CC6F3F75192928"
+				"size" "C1EC237FDCA14072CE1367302AD80F1C"
+				"download" "63D18398224CFF8E6CCA2238504E9888"
+			}
+			"ss_cte_6"
+			{
+				"gid" "161298AB513483E8D544B26E1B7D78D3"
+				"size" "E1116A6E8F0227F72F040F4A7D491E05"
+				"download" "B3A0F340E106FACB39083E2C39830087"
+			}
+			"ss_evaluation_1"
+			{
+				"gid" "53E81E64BEA8AA1B712E3394B255FC17"
+				"size" "E7235CCAD8AFB49C647BFA0226357691"
+				"download" "1C086F09AC44F86D343B68362A287821"
+			}
+			"ss_external_1"
+			{
+				"gid" "B1AB798605EB428779074F996959C406"
+				"size" "5A84B08074F69C3C4437351DAACB603C"
+				"download" "8B7078B50E5C546B9C3E926A0776EDD5"
+			}
+			"ss_external_3"
+			{
+				"gid" "7502DCF657AB6164E9A340062F8ECA2C"
+				"size" "18DCCC55B959D529CD3D51761A9BC35D"
+				"download" "D94D9AB694828489CB952F2675D3781B"
+			}
+			"ss_main_1"
+			{
+				"gid" "7ECD4EC16F6CABDA45164CD45BEF132F"
+				"size" "48B2E8582AE933BB0800FACAF4B7F57C"
+				"download" "B98DB9265E7C64C674B1DC00CF6B85CB"
+			}
+			"ss_main_2"
+			{
+				"gid" "2E8F3D143B7143D88ECB918007342947"
+				"size" "D314007F5794D703EBED05D0AAA8272F"
+				"download" "673B797C0A6EB88046C61486663385CC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14331861"
+			"timeupdated" "1716393559"
+		}
+		"community_test"
+		{
+			"buildid" "13698948"
+			"pwdrequired" "1"
+			"timeupdated" "1710134779"
+		}
+		"nwi_nightly"
+		{
+			"buildid" "6063201"
+			"pwdrequired" "1"
+			"timeupdated" "1610338420"
+		}
+		"playthrough"
+		{
+			"buildid" "10389057"
+			"pwdrequired" "1"
+			"timeupdated" "1675254231"
+		}
+		"ss_cte_1"
+		{
+			"buildid" "13560313"
+			"pwdrequired" "1"
+			"timeupdated" "1709644601"
+		}
+		"ss_cte_2"
+		{
+			"buildid" "12923462"
+			"pwdrequired" "1"
+			"timeupdated" "1702224009"
+		}
+		"ss_cte_4"
+		{
+			"buildid" "13814041"
+			"pwdrequired" "1"
+			"timeupdated" "1711047318"
+		}
+		"ss_egs_1"
+		{
+			"buildid" "7583759"
+			"pwdrequired" "1"
+			"timeupdated" "1634928574"
+		}
+		"ss_external_2"
+		{
+			"buildid" "12831149"
+			"pwdrequired" "1"
+			"timeupdated" "1701282338"
+		}
+		"ss_marketing"
+		{
+			"buildid" "10364435"
+			"pwdrequired" "1"
+			"timeupdated" "1674227636"
+		}
+		"ss_matchserver_1"
+		{
+			"buildid" "13922097"
+			"pwdrequired" "1"
+			"timeupdated" "1712056704"
+		}
+		"streams"
+		{
+			"buildid" "9857102"
+			"pwdrequired" "1"
+			"timeupdated" "1668117621"
+		}
+		"tournament"
+		{
+			"buildid" "13310492"
+			"pwdrequired" "1"
+			"timeupdated" "1706873701"
+		}
+		"unstable"
+		{
+			"buildid" "12699974"
+			"pwdrequired" "1"
+			"timeupdated" "1699975090"
+		}
+		"unstable_shipping"
+		{
+			"buildid" "12700186"
+			"pwdrequired" "1"
+			"timeupdated" "1699974196"
+		}
+		"unstable_test"
+		{
+			"buildid" "10432706"
+			"pwdrequired" "1"
+			"timeupdated" "1675254464"
+		}
+		"ss_cte_3"
+		{
+			"buildid" "14533775"
+			"pwdrequired" "1"
+			"timeupdated" "1716989398"
+		}
+		"ss_cte_5"
+		{
+			"buildid" "14160565"
+			"pwdrequired" "1"
+			"timeupdated" "1713968388"
+		}
+		"ss_cte_6"
+		{
+			"buildid" "14167275"
+			"pwdrequired" "1"
+			"timeupdated" "1714013163"
+		}
+		"ss_evaluation_1"
+		{
+			"buildid" "14730435"
+			"pwdrequired" "1"
+			"timeupdated" "1718479539"
+		}
+		"ss_external_1"
+		{
+			"buildid" "14471482"
+			"pwdrequired" "1"
+			"timeupdated" "1716990043"
+		}
+		"ss_external_3"
+		{
+			"buildid" "14536676"
+			"pwdrequired" "1"
+			"timeupdated" "1717003594"
+		}
+		"ss_main_1"
+		{
+			"buildid" "14331831"
+			"pwdrequired" "1"
+			"timeupdated" "1715377491"
+		}
+		"ss_main_2"
+		{
+			"buildid" "14717344"
+			"pwdrequired" "1"
+			"timeupdated" "1718360714"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23986919"
+"_sha" "0e42e01c9fb7477db7a64ec0571a62c242356230"
+"_size" "12852"
