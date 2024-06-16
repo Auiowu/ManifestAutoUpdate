@@ -1,0 +1,267 @@
+"appid" "1104280"
+"common"
+{
+	"name" "The Slormancer"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "be362be6fb68a92cf8a23db3608b46bab6ac735b"
+	"logo_small" "be362be6fb68a92cf8a23db3608b46bab6ac735b_thumb"
+	"clienticon" "ee26d676fd1815c981f0079ffa768d0657a93fe9"
+	"clienttga" "2f8b91ce9d554b60991669303f27da98cb7ed70d"
+	"icon" "20b6ce3cd30cbdcd6d7c3480369e9c0845d125d0"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681430400"
+		"tested_build_id" "10974873"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "The Slormancer"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.37209302325585"
+			"height_pct" "69.60341961529326"
+		}
+	}
+	"store_asset_mtime" "1710837489"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slormite Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slormite Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Abiding Bridge"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Abiding Bridge"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1617731887"
+	"community_hub_visible" "1"
+	"gameid" "1104280"
+	"store_tags"
+	{
+		"0" "1646"
+		"1" "1720"
+		"2" "4231"
+		"3" "4236"
+		"4" "3964"
+		"5" "122"
+		"6" "3871"
+		"7" "4106"
+		"8" "4791"
+		"9" "492"
+		"10" "5851"
+		"11" "19"
+		"12" "493"
+		"13" "1684"
+		"14" "4155"
+		"15" "21"
+		"16" "3993"
+		"17" "4182"
+		"18" "7481"
+		"19" "7948"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Slormite Studios"
+	"publisher" "Slormite Studios"
+	"homepage" "http://www.slormitestudios.com/"
+}
+"config"
+{
+	"installdir" "The Slormancer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Slormancer.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1104281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5465293929687584357"
+				"size" "460439100"
+				"download" "280979712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal_legit"
+			{
+				"gid" "BA7C59EA52D720C802D849832B80311F"
+				"size" "94BD9228E2B83270F2502DB9DB59E8B4"
+				"download" "3A3BC2A36385D9D4A7129FDC6A38033F"
+			}
+			"internal"
+			{
+				"gid" "67E6FD1CB4E8D4F82758C8CF68B30467"
+				"size" "30D32C13AB45625B46BF47AE6EDF2831"
+				"download" "1748A559A7A1D568776AC05B3F162EED"
+			}
+		}
+	}
+	"baselanguages" "english,french,schinese,tchinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13880458"
+			"timeupdated" "1711618158"
+		}
+		"internal_legit"
+		{
+			"buildid" "13880458"
+			"pwdrequired" "1"
+			"timeupdated" "1711635683"
+		}
+		"internal"
+		{
+			"buildid" "14675655"
+			"pwdrequired" "1"
+			"timeupdated" "1718098899"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "12"
+}
+"_missing_token" "False"
+"_change_number" "23920530"
+"_sha" "556a07ee1757510a3a2390689e29debb32f3c50c"
+"_size" "4880"
