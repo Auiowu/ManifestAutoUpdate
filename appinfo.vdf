@@ -1,0 +1,503 @@
+"appid" "1245560"
+"common"
+{
+	"name" "Roots of Pacha"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"logo" "783bb65e56e5adf11fc79f0c45b58b3856d41a76"
+	"logo_small" "783bb65e56e5adf11fc79f0c45b58b3856d41a76_thumb"
+	"icon" "6f16e8788dae20e26056e43945fdd5c4a80d0c7a"
+	"clienticon" "a600e294aca2fcb480c959ffcabdf919eb4cbaa5"
+	"clienttga" "d316a3d701af9ab9296638ac35e4f355b7548967"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1685404800"
+		"tested_build_id" "11222172"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "38.42389862850504"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1714414097"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Soda Den"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Soda Den"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1682441578"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1245560"
+	"store_tags"
+	{
+		"0" "3964"
+		"1" "87918"
+		"2" "10235"
+		"3" "4947"
+		"4" "122"
+		"5" "1643"
+		"6" "3834"
+		"7" "22602"
+		"8" "1654"
+		"9" "1702"
+		"10" "3810"
+		"11" "599"
+		"12" "97376"
+		"13" "4726"
+		"14" "3843"
+		"15" "7481"
+		"16" "1685"
+		"17" "4182"
+		"18" "4747"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Soda Den"
+	"publisher" "Soda Den"
+	"homepage" "https://rootsofpacha.com"
+}
+"config"
+{
+	"installdir" "Roots of Pacha"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Roots of Pacha.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Roots of Pacha.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Roots of Pacha.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "0"
+	"1245561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4665275836679128879"
+				"size" "880727274"
+				"download" "630391280"
+			}
+			"beta"
+			{
+				"gid" "4665275836679128879"
+				"size" "880727274"
+				"download" "630391280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-testing"
+			{
+				"gid" "AF061783AEB977AA557115A3B2726660"
+				"size" "3ED850BFA42BA70767BC18E106E1D9BA"
+				"download" "345260BF51C354DC565435B5D1CA8873"
+			}
+			"preview"
+			{
+				"gid" "28CCB0A932CA985E190D0E8B14399F1F"
+				"size" "4B677F051674EAF9FB7C39DC037BA264"
+				"download" "78A13568CF6802B629DCE618253727F8"
+			}
+			"tt-branch"
+			{
+				"gid" "09B2193E0E25EF7E3A945B6DF39B9BED"
+				"size" "356CA59A0652BABB70EA52F30488FAF1"
+				"download" "C96FDF1567003A1E72EC3A18ED0C4A1A"
+			}
+			"lb-testing-dev"
+			{
+				"gid" "EEE1037C5EAC16DD35203D611FA9FFF4"
+				"size" "F70F4353B319F2BB4E02BAB3C07B18EA"
+				"download" "44D2554FC60FC13DAA52AF264141FB1C"
+			}
+			"lb-testing-release"
+			{
+				"gid" "C94570DD56885C3B5AE479D7AF6F0330"
+				"size" "36C3F20E8759B63DF70AC3BBF7B842A1"
+				"download" "BAE282297D7269F30D322C55E5CB20D1"
+			}
+		}
+	}
+	"1245562"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9160730272260383975"
+				"size" "911835697"
+				"download" "639220784"
+			}
+			"beta"
+			{
+				"gid" "9160730272260383975"
+				"size" "911835697"
+				"download" "639220784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-testing"
+			{
+				"gid" "115006BD4563151E0592AD51BCED25DF"
+				"size" "0E1312B62C0C06DC63C23FF64132B21E"
+				"download" "E25332E46B6541364CC770FB9CA104FB"
+			}
+			"preview"
+			{
+				"gid" "9727D2A535170C26E0163A241084E16E"
+				"size" "50F308360A58EF139B54E2AA5A373DEB"
+				"download" "5E1FEE68420420BF39EDAF9FB79BCD65"
+			}
+			"tt-branch"
+			{
+				"gid" "4612D17E0A3A78D38709A5A8C6E734F9"
+				"size" "5D4075FB500B2D3EE587542F9E55A2C8"
+				"download" "2B7AD5A4D8B1D49EE2B0C98D42C5553C"
+			}
+			"lb-testing-dev"
+			{
+				"gid" "C4AE16C9981BB4054BAB0A4DCAEFCEBD"
+				"size" "7C056878E1A654B7B50CDC08B9552967"
+				"download" "6D284827FC5308FA1D4A47030852181C"
+			}
+			"lb-testing-release"
+			{
+				"gid" "7D8EF6089A0CE50E302A231ED989E1A5"
+				"size" "EAA7A7946867D2D74F821B3145618CA0"
+				"download" "1D4D6720BB27E83D27F5A2A52A731EFA"
+			}
+		}
+	}
+	"1245563"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3079943589437880864"
+				"size" "885386895"
+				"download" "631118768"
+			}
+			"beta"
+			{
+				"gid" "3079943589437880864"
+				"size" "885386895"
+				"download" "631118768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-testing"
+			{
+				"gid" "4683D66D1516C0EFFD9AFAE1EBC73A05"
+				"size" "B8C01B64D57A0E96E6AC414A744DE8E4"
+				"download" "65F865613E55F127617DE3296560D9AF"
+			}
+			"preview"
+			{
+				"gid" "4B3F597E4173ED144344CF8FC45916DC"
+				"size" "1B69B85E8D18C659A4CA8E8453D1D10D"
+				"download" "7D21A1FF5572BF2AB480630729C48BCA"
+			}
+			"lb-testing-dev"
+			{
+				"gid" "3FE7BACA7E437F478AD3CAD7580DC24F"
+				"size" "DD10C53803E7A03182A35C257E00D7FE"
+				"download" "B640C347E29954F58E0DAD88C6778052"
+			}
+			"lb-testing-release"
+			{
+				"gid" "A8AA7A963B4F0EF0B151243029AA1633"
+				"size" "FD20BC924A88F3B569313EDD4EA84422"
+				"download" "18114F54F611A3C2741656D4F8C976E7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13120156"
+			"timeupdated" "1704837827"
+		}
+		"beta"
+		{
+			"buildid" "13120156"
+			"description" "public beta"
+			"timeupdated" "1704905671"
+		}
+		"internal-testing"
+		{
+			"buildid" "12558528"
+			"pwdrequired" "1"
+			"timeupdated" "1698450093"
+		}
+		"preview"
+		{
+			"buildid" "12726064"
+			"pwdrequired" "1"
+			"timeupdated" "1700250550"
+		}
+		"tt-branch"
+		{
+			"buildid" "11212631"
+			"pwdrequired" "1"
+			"timeupdated" "1683841472"
+		}
+		"lb-testing-dev"
+		{
+			"buildid" "14698886"
+			"pwdrequired" "1"
+			"timeupdated" "1718237765"
+		}
+		"lb-testing-release"
+		{
+			"buildid" "14725462"
+			"pwdrequired" "1"
+			"timeupdated" "1718413880"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Soda Den/Roots of Pacha/saves/{64BitSteamID}"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Soda Den/Roots of Pacha/saves/{64BitSteamID}"
+					"replace" "Soda Den/Roots of Pacha/saves/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Soda Den/Roots of Pacha/saves/{64BitSteamID}"
+					"replace" "unity3d/Soda Den/Roots of Pacha/saves/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23981089"
+"_sha" "517e727817744d1b407402a017e2012d71ef3f8c"
+"_size" "9763"
