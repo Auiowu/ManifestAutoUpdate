@@ -1,0 +1,432 @@
+"appid" "1740720"
+"common"
+{
+	"name" "Have a Nice Death"
+	"type" "Game"
+	"logo" "09232f591a075d0e19c21d997c74a8923ce232ff"
+	"logo_small" "09232f591a075d0e19c21d997c74a8923ce232ff_thumb"
+	"icon" "57f69a232db93d89f1a9cc6f6d6bcfc9f30e7360"
+	"clienticon" "8a72e543ed804e6fc20ed1b7eb8af43839ac332a"
+	"clienttga" "c6d453e5e5a14cc0c5b384a990e27eefc219c287"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "祝你好死"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1708646400"
+		"tested_build_id" "12840895"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Have a Nice Death"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1683243744"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Magic Design Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Arc Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1679500800"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/have-a-nice-death\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1740720"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "1646"
+		"2" "4182"
+		"3" "19"
+		"4" "4136"
+		"5" "3871"
+		"6" "5379"
+		"7" "5923"
+		"8" "4195"
+		"9" "4562"
+		"10" "1716"
+		"11" "3952"
+		"12" "3959"
+		"13" "7481"
+		"14" "1719"
+		"15" "493"
+		"16" "3993"
+		"17" "492"
+		"18" "1628"
+		"19" "1625"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Magic Design Studios"
+	"publisher" "Arc Games"
+	"homepage" "https://www.haveanicedeath.com/"
+	"listofdlc" "2368520"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Have A Nice Death"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HaveaNiceDeath.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"1740721"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7340839172292082223"
+				"size" "1986469012"
+				"download" "1436387920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "9CFF63A2880BD1E307CFC79A039E2A94"
+				"size" "D1886B8FD5566AF807C2BD79197660C7"
+				"download" "AB8BC11C94E3F8938345066581B9A9C6"
+			}
+			"gbx_build"
+			{
+				"gid" "D8C8259EDE5A0D394B2DAD779210CF0E"
+				"size" "EDB17D9599CEA3626A2A160D4F3842FC"
+				"download" "B53F7ADF927A63FADFBD75FC5BAC2724"
+			}
+			"gbx_debug"
+			{
+				"gid" "7F3BC4F0FE4ACC2770C073476A31D8EC"
+				"size" "BDAAF29C6996B3C1D27836D2D1C264F4"
+				"download" "343BA8C7B72AF5A8AC40FFD5503E5BEF"
+			}
+			"gbx_localization"
+			{
+				"gid" "F63E6AF50821DEF550CCF28E9FA904F2"
+				"size" "3C9B590C7CB9A85F276E915BE580D0B4"
+				"download" "7CAFB7F8D9EB12F1F3542803E04C5138"
+			}
+			"internal_test"
+			{
+				"gid" "63D9648D8B0574F23FE94919D4B98B64"
+				"size" "A1BBEF67F2353DEF6EFB1B4A4705F870"
+				"download" "7C3EAE66EDE62CAD932475CF05D2D109"
+			}
+			"next_release"
+			{
+				"gid" "2A85366E5E02431FF74A851EB2B03798"
+				"size" "C23C1D23623B557EA65CDC42FDB28A58"
+				"download" "A5F587E2D9B78CF5C3CEE7F956253B43"
+			}
+			"qatest"
+			{
+				"gid" "D8C1DF779358FD62FE072AEE942B9033"
+				"size" "63E7B4723B244B4BC2C6F9EE487CAD4C"
+				"download" "F1E24F77BF6F45C2F4215C51D7786691"
+			}
+			"qatest_release"
+			{
+				"gid" "A7A826FF0C62189F691583BA962095CD"
+				"size" "7FC76421AE1D33C1EA04D00E6906C5FC"
+				"download" "7D678C37847D832BB688003CBE15C538"
+			}
+			"vulkantest"
+			{
+				"gid" "4F6BE82DB4A55F917C06D67CBBE2A2CF"
+				"size" "72BEE6A62F11F82161752FB0632C990C"
+				"download" "B8A93BDB63ED1E778D608FD9C54BC100"
+			}
+		}
+	}
+	"2368520"
+	{
+		"dlcappid" "2368520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8069869852519326930"
+				"size" "26907904"
+				"download" "25144144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "502DD284AF86246B72D728D3D41804EC"
+				"size" "EB8C32EA2F7CC65B82B0EEACC0799F56"
+				"download" "022AACD520874DDB9458E4B6598D59A0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13776105"
+			"timeupdated" "1710779666"
+		}
+		"devtest"
+		{
+			"buildid" "13390337"
+			"pwdrequired" "1"
+			"timeupdated" "1707297467"
+		}
+		"gbx_build"
+		{
+			"buildid" "11235153"
+			"pwdrequired" "1"
+			"timeupdated" "1684159831"
+		}
+		"gbx_debug"
+		{
+			"buildid" "11963761"
+			"pwdrequired" "1"
+			"timeupdated" "1692267012"
+		}
+		"gbx_localization"
+		{
+			"buildid" "9156817"
+			"pwdrequired" "1"
+			"timeupdated" "1658324836"
+		}
+		"internal_test"
+		{
+			"buildid" "9811281"
+			"pwdrequired" "1"
+			"timeupdated" "1666889517"
+		}
+		"next_release"
+		{
+			"buildid" "13740259"
+			"pwdrequired" "1"
+			"timeupdated" "1710426709"
+		}
+		"qatest"
+		{
+			"buildid" "10891197"
+			"pwdrequired" "1"
+			"timeupdated" "1680168903"
+		}
+		"qatest_release"
+		{
+			"buildid" "10809530"
+			"pwdrequired" "1"
+			"timeupdated" "1679303716"
+		}
+		"vulkantest"
+		{
+			"buildid" "8516534"
+			"pwdrequired" "1"
+			"timeupdated" "1649347801"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "5"
+}
+"_missing_token" "False"
+"_change_number" "23806763"
+"_sha" "42249589229292426c412eed112b4a21f6c9dab2"
+"_size" "8142"
