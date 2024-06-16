@@ -1,0 +1,85 @@
+"appid" "1354950"
+"common"
+{
+	"name" "Gold Mining Simulator  - Workshop"
+	"type" "Tool"
+	"parent" "451340"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "ee20d549a8b1f4d0fc0592cc26e38e1f409f24cc"
+	"logo_small" "ee20d549a8b1f4d0fc0592cc26e38e1f409f24cc_thumb"
+	"icon" "1f01411fe9965619e50cfb349436a590987e682b"
+	"clienttga" "e5e4a79902079a0609ec72997cd98009b63c0259"
+	"clienticon" "30ce4357db6891571710364294ee020603424f1f"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1354950"
+}
+"config"
+{
+	"installdir" "Gold Rush The Game - Workshop"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GoldRushWorkshop.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1354951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7162111090284146440"
+				"size" "73581254"
+				"download" "20091168"
+			}
+		}
+	}
+	"workshopdepot" "1354950"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "5202492"
+			"timeupdated" "1592899457"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "52428800"
+	"maxnumfiles" "1000"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "CodeHorizon/Gold Rush The Game - Workshop/Saves"
+			"pattern" "*.sav,*.txt,*.jpg"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23527222"
+"_sha" "44bfe509f414c5d2fc9575383f4ef076a059c38b"
+"_size" "1416"
