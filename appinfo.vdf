@@ -1,0 +1,418 @@
+"appid" "1948280"
+"common"
+{
+	"name" "Stacklands"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "23fe385571e311477310e092901af4273e546ad8"
+	"clienticon" "75789929d73fdd83dcc9e57898de951ff4003378"
+	"clienttga" "91fa732fa69044eb2799b4aa2ad64ebd9460c437"
+	"clienticns" "0f3bcc50f5e79f6f65be0b7ff564cf11764902df"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "8543820"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1657549998"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Sokpop Collective"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Sokpop Collective"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "sokpop"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1649433815"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1948280"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "1666"
+		"2" "1662"
+		"3" "791774"
+		"4" "3959"
+		"5" "4328"
+		"6" "9"
+		"7" "13070"
+		"8" "1643"
+		"9" "3871"
+		"10" "4182"
+		"11" "17389"
+		"12" "4726"
+		"13" "32322"
+		"14" "599"
+		"15" "6815"
+		"16" "4305"
+		"17" "492"
+		"18" "597"
+		"19" "1684"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Sokpop Collective"
+	"publisher" "Sokpop Collective"
+	"homepage" "https://sokpop.co"
+	"listofdlc" "2446110,2867570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Stacklands"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Stacklands.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Stacklands.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1948280"
+	"baselanguages" "english"
+	"1948281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8932196024049846548"
+				"size" "587782222"
+				"download" "172195152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "3E6997CD6A204091702A4D7277EBA3C2"
+				"size" "65E519D0BB61E1DE96742DCEE4DF859E"
+				"download" "EEC7870D3A808B0D10BC9E834BBB5DAD"
+			}
+			"alpha"
+			{
+				"gid" "B32468D96351D521640F439A6487FBE6"
+				"size" "0A8AF3AC0CE959F267CEB7BFDCC8FB6C"
+				"download" "5CD8E1924C1B1043D5D9CE212E6809C7"
+			}
+		}
+	}
+	"1948282"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5376979854683105164"
+				"size" "615091318"
+				"download" "180432976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "8248BACF3A0EB84759B12756B7DE952A"
+				"size" "5F5D649DBD07A4D6FE031B123F0673BA"
+				"download" "1E3D2CCA63E6D3A30E3E4AB18A61E9C3"
+			}
+			"alpha"
+			{
+				"gid" "15055020CAADD3B223A8D455D4EEDC46"
+				"size" "B600842E7ED61AA84F9BB7E458A76995"
+				"download" "243E09C1E814022834FD76D3D30FE28F"
+			}
+		}
+	}
+	"2446110"
+	{
+		"dlcappid" "2446110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4958030088942452113"
+				"size" "31670905"
+				"download" "20244832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "0802C45BF3442419937549623264F51F"
+				"size" "A3DBA1904B484B934F6546A18F4A3685"
+				"download" "E42F7CB040757E1DF4DFC50A75C8E3AC"
+			}
+			"alpha"
+			{
+				"gid" "C3F102A65D939E607AD3B1484D859E7B"
+				"size" "E77CB8D237FED86A51080476005C834C"
+				"download" "D6A2EED8FB103FDE084956BAC0A0B37B"
+			}
+		}
+	}
+	"2867570"
+	{
+		"dlcappid" "2867570"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "43CA927884EE06B7080A4797398FB1D2"
+				"size" "91ACE255C0A6772562FBB3CFC08A8BCA"
+				"download" "A23DA0C758B07434CE394E5B3CC89A34"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13585926"
+			"timeupdated" "1709111106"
+		}
+		"beta"
+		{
+			"buildid" "13585926"
+			"pwdrequired" "1"
+			"timeupdated" "1709111086"
+		}
+		"alpha"
+		{
+			"buildid" "14693759"
+			"pwdrequired" "1"
+			"timeupdated" "1718205800"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "sokpop/Stacklands"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "sokpop/Stacklands"
+					"replace" "sokpop/Stacklands"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "sokpop/Stacklands"
+					"replace" ".config/unity3d/sokpop/Stacklands"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23941811"
+"_sha" "0732a078396c859766cf90fb0fcdc38e16c9fab2"
+"_size" "7181"
