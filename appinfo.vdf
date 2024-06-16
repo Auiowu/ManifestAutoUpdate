@@ -1,0 +1,316 @@
+"appid" "1295920"
+"common"
+{
+	"name" "The Mortuary Assistant"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "44c6d512ea099d56f0ed3beccad2d581baf6ee56"
+	"logo_small" "44c6d512ea099d56f0ed3beccad2d581baf6ee56_thumb"
+	"icon" "607e15f9a557b28109ba6ffca6734a45e2d2421a"
+	"clienttga" "80f099e90073b5ed452d8fe9e4cf7a515ae36863"
+	"clienticon" "e479126650d473462e173f11ad0e3ea944ae2743"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1673049600"
+		"tested_build_id" "10229443"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1670859955"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "DarkStone Digital"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "DreadXP"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1659448800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1295920"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "10808"
+		"2" "9541"
+		"3" "5716"
+		"4" "4166"
+		"5" "1710"
+		"6" "599"
+		"7" "21"
+		"8" "3839"
+		"9" "4182"
+		"10" "492"
+		"11" "4342"
+		"12" "3834"
+		"13" "4191"
+		"14" "4175"
+		"15" "3859"
+		"16" "4064"
+		"17" "1738"
+		"18" "7208"
+		"19" "1100688"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "DarkStone Digital"
+	"publisher" "DreadXP"
+}
+"config"
+{
+	"installdir" "The Mortuary Assistant"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Mortuary Assistant.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"1295921"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "868380123965691964"
+				"size" "4575334247"
+				"download" "1975453760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"stable"
+			{
+				"gid" "44014FEDEF2AAF94304BBA5FA4931D99"
+				"size" "6ABB34A00138E25429B4DC6018B2D6C1"
+				"download" "4602FF5920F881D97724642F9D79E643"
+			}
+			"testing"
+			{
+				"gid" "266FE04F3A43C8ECFFA4B206846C6FE7"
+				"size" "2448F4FDB4824BF5E55437CBE455AC3B"
+				"download" "901CA9808AC24D3FCC7679CD8CACECB1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12462799"
+			"timeupdated" "1697563946"
+		}
+		"stable"
+		{
+			"buildid" "13228175"
+			"pwdrequired" "1"
+			"timeupdated" "1705777383"
+		}
+		"testing"
+		{
+			"buildid" "13228159"
+			"pwdrequired" "1"
+			"timeupdated" "1705777117"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "250000"
+	"maxnumfiles" "4"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DarkStone Digital/The Mortuary Assistant"
+			"pattern" "SaveData.dsd"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DarkStone Digital/The Mortuary Assistant"
+			"pattern" "SaveDataLong.dsd"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DarkStone Digital/The Mortuary Assistant"
+			"pattern" "SupportWorkarounds.dsd"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "DarkStone Digital/The Mortuary Assistant"
+					"replace" ".config/unity3d/DarkStone Digital/TheMortuaryAssistant"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23730131"
+"_sha" "0e6493c75f40f5fbd3503d9e671d96f428ee3185"
+"_size" "5687"
