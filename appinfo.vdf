@@ -1,0 +1,372 @@
+"appid" "2313550"
+"common"
+{
+	"name" "Vampire Survivors: Tides of the Foscari"
+	"type" "DLC"
+	"parent" "1794680"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"icon" "3677cf1be3be1f4ea42261c62ce10519715ade58"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1681395769"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "poncle"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "poncle"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Vampire Survivors"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1681397911"
+	"gameid" "2313550"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "19"
+		"2" "122"
+		"3" "492"
+		"4" "4885"
+		"5" "4182"
+		"6" "3959"
+		"7" "1773"
+		"8" "3964"
+		"9" "1716"
+		"10" "4136"
+		"11" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"dlcforappid" "1794680"
+	"mustownapptopurchase" "1794680"
+	"developer" "poncle"
+	"publisher" "poncle"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2313551"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6973016757783956696"
+				"size" "20085531"
+				"download" "15678016"
+			}
+			"public-beta"
+			{
+				"gid" "2013554158605124627"
+				"size" "20085542"
+				"download" "15677824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external-demo"
+			{
+				"gid" "880DF394C4943D86D5BB3E2A80265685"
+				"size" "0ABB61D3A2138F39803642249326C211"
+				"download" "12866949B8AC500F962057FF11F3EF82"
+			}
+			"internal-beta"
+			{
+				"gid" "ED42440A25C7DBC7FDD9DCA6FC1DA289"
+				"size" "8D0E0AA725ADE59BF086974BA7C4F579"
+				"download" "921DACA783C25608DA2A1FC9DDE9F1F7"
+			}
+			"old-engine"
+			{
+				"gid" "35663B8B8C4DD209749703663D4B06DF"
+				"size" "E6AA74CEE241C83C0C299259D8478482"
+				"download" "9F7F5E96FAC859F4E850093ECC75FDA3"
+			}
+			"internal-capture"
+			{
+				"gid" "D82DE0B2F2F771BA1B4BBF5CB8B47326"
+				"size" "7D97DF355894EDF01E85E20B44B4A103"
+				"download" "A611D59AB423F09F33CAC66418E5D89D"
+			}
+			"internal-nightly"
+			{
+				"gid" "0C259FB548D70C11DD99F14D9C591139"
+				"size" "948D63B02E069724DC9A56FDCC6045FA"
+				"download" "ABE9C2522426144B86DB128198BC5B25"
+			}
+			"internal-qa"
+			{
+				"gid" "61F962C991F78E10160076D7276A3E41"
+				"size" "19922516BA89381FEA0D331452C532FA"
+				"download" "4B766A6A3AD89C9B30DA45C3AEAE93D8"
+			}
+		}
+		"dlcappid" "2313550"
+	}
+	"2313552"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3812333329920994209"
+				"size" "20106009"
+				"download" "15693072"
+			}
+			"public-beta"
+			{
+				"gid" "134769094867107128"
+				"size" "20106017"
+				"download" "15692960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external-demo"
+			{
+				"gid" "1964A847140E6453CA8E8D6BACF8EA6C"
+				"size" "ED5FA40618B748348BCA2EDA4D797744"
+				"download" "0996A34B7A43774225853DC7F1C66B71"
+			}
+			"internal-beta"
+			{
+				"gid" "B258F428E733ABB28D71F2B1BF05ACA3"
+				"size" "5EEA65597A009D10BE0D0B614C2ED535"
+				"download" "94F2A6FE5F9E2B0F71416153A75CC5CB"
+			}
+			"old-engine"
+			{
+				"gid" "836187625C65283D2F88F26C1DD424E0"
+				"size" "C7427912FD6626384E2A1CC131D09A9D"
+				"download" "C72226CB4E3213269D58E2D6CF2114F6"
+			}
+			"internal-capture"
+			{
+				"gid" "C20A5715B5FB68DB161A01C894C9173D"
+				"size" "11614FF028117AFEBE238AE5EEC50E43"
+				"download" "82DD97E338A268D758E5ECF48754B2D3"
+			}
+			"internal-nightly"
+			{
+				"gid" "2DB3567E2A5122C8E464BE0F437E1D18"
+				"size" "EC103FCAABB3AEE037168D9660CCCBBB"
+				"download" "268EFF781F3ED7AA68A2213B6690BAF3"
+			}
+			"internal-qa"
+			{
+				"gid" "E37B13782DF71F9764345ADE45F07BFA"
+				"size" "CAD2CBA6FD3B6C1CD032B7FCDA5CD5B3"
+				"download" "216BF034BD79BBAF72675B8B08594C18"
+			}
+		}
+		"dlcappid" "2313550"
+	}
+	"2313553"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4596288000623248971"
+				"size" "20187160"
+				"download" "15753104"
+			}
+			"public-beta"
+			{
+				"gid" "7325138086388280378"
+				"size" "20187177"
+				"download" "15753072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external-demo"
+			{
+				"gid" "4395B14207EE587DFD16CC63AFDC9049"
+				"size" "D9B7862995B0DBF41FF798D152AD55FE"
+				"download" "5DA6B88E3CB1EE975CE8F59DEB573DB3"
+			}
+			"internal-beta"
+			{
+				"gid" "ED09777FEDB6CB1FCBF3D4AA900E0739"
+				"size" "A9E290DA0001ED7083BF03127D6B0AEC"
+				"download" "46DF500B8D1DC64FCA87D1DBFA031A35"
+			}
+			"internal-capture"
+			{
+				"gid" "A531C074AA601F1AAA527C726CB6618E"
+				"size" "D23B1F12BC15D3572789C579E1449ED1"
+				"download" "369C70D5AFED1B597FD4B7278333AD09"
+			}
+			"internal-nightly"
+			{
+				"gid" "8750855232B82E7A8BCD99334BFAAEE9"
+				"size" "8FD728CB5CE9BD4F322B62ED8AE9EDA9"
+				"download" "A522830D2740D91757FC4EC520A658C4"
+			}
+			"internal-qa"
+			{
+				"gid" "6A250723404603DC616D86256EA494CF"
+				"size" "E514FB1CEF686A356FAC1BA0F79BA854"
+				"download" "3221CC0921569452B2FD502CD2351D2F"
+			}
+		}
+		"dlcappid" "2313550"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14360577"
+			"timeupdated" "1715782947"
+		}
+		"external-demo"
+		{
+			"buildid" "13949163"
+			"pwdrequired" "1"
+			"timeupdated" "1712236648"
+		}
+		"internal-beta"
+		{
+			"buildid" "13999831"
+			"pwdrequired" "1"
+			"timeupdated" "1712757559"
+		}
+		"old-engine"
+		{
+			"buildid" "11450008"
+			"pwdrequired" "1"
+			"timeupdated" "1691771697"
+		}
+		"internal-capture"
+		{
+			"buildid" "14609464"
+			"pwdrequired" "1"
+			"timeupdated" "1717576718"
+		}
+		"internal-nightly"
+		{
+			"buildid" "14732602"
+			"pwdrequired" "1"
+			"timeupdated" "1718515014"
+		}
+		"internal-qa"
+		{
+			"buildid" "14483979"
+			"pwdrequired" "1"
+			"timeupdated" "1716561197"
+		}
+		"public-beta"
+		{
+			"buildid" "14354338"
+			"description" "Public Beta"
+			"timeupdated" "1715675951"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23989273"
+"_sha" "ca5714f978b16b3147fee51cf1dac21ac35adb73"
+"_size" "7086"
