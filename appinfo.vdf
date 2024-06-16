@@ -1,0 +1,348 @@
+"appid" "1993150"
+"common"
+{
+	"name" "轮回修仙路"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "217f9f08c0407be874098db1dd4ac15c9eb3c211"
+	"clienttga" "7b3039710817c15d407c9b3801872c149dc04d12"
+	"clienticon" "dd9c5e6e4687fe7a9ed7cc4b55bb3110940c8b29"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1673308800"
+		"tested_build_id" "10151828"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.81330221703618"
+			"height_pct" "55.71597574270067"
+		}
+	}
+	"store_asset_mtime" "1687688830"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "烟水寒工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "烟水寒工作室"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Paras Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Paras Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1687223964"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1993150"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1695"
+		"2" "4191"
+		"3" "3959"
+		"4" "1759"
+		"5" "3834"
+		"6" "4486"
+		"7" "492"
+		"8" "5395"
+		"9" "15045"
+		"10" "21"
+		"11" "3810"
+		"12" "10695"
+		"13" "1774"
+		"14" "1716"
+		"15" "4747"
+		"16" "12095"
+		"17" "4598"
+		"18" "1755"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "烟水寒工作室"
+	"publisher" "烟水寒工作室"
+	"listofdlc" "2329850,2397130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "轮回修仙路"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "轮回修仙路.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"1993151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1189978044737376249"
+				"size" "13195558973"
+				"download" "6545749152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sdk122"
+			{
+				"gid" "631E020AB5532EB24B74CB33A8B8DE22"
+				"size" "B296BBD843AE16F393B1ABAC53692930"
+				"download" "A6D463A68B29712FEB400AFAE1175165"
+			}
+			"special_nosdk"
+			{
+				"gid" "E22469B111F40DA34047A728AB806E56"
+				"size" "A565622FA65C4117E9B15A45F820C2BF"
+				"download" "5A50261AF6EF56B4D2FB900C489A9DFF"
+			}
+			"teshutest"
+			{
+				"gid" "E4069052C74B3B505FB001E33FE5390B"
+				"size" "9D5DA804BAB27459580D6B6ACCFDE1D6"
+				"download" "D3F0831851F59D831F30A12DD1F7C55E"
+			}
+			"closedbeta"
+			{
+				"gid" "A5441D26D372A6BCC5F790DA01DFD7D8"
+				"size" "59949A59C4816D9AAA5E474F3925F7E4"
+				"download" "B0FBC5438A09CBCCD4281D2BFB0628C8"
+			}
+			"secrettest"
+			{
+				"gid" "40751CF22DE2EE7CC0CF0D94A03FF215"
+				"size" "095467DCA807919BC707A1BC1A74DD1C"
+				"download" "77477D46354EE293DD501276351D4346"
+			}
+		}
+	}
+	"2329850"
+	{
+		"dlcappid" "2329850"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4322821245510881645"
+				"size" "7"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sdk122"
+			{
+				"gid" "1C670E68FE1CA3A3D3D926BEC51CBF4E"
+				"size" "FCAE13959C5257067F422F3CCF0CB5E6"
+				"download" "A538CC606C213F3C6D6FD4709EDF0416"
+			}
+			"special_nosdk"
+			{
+				"gid" "4CB415D65F90B66D7FB385B8055D532D"
+				"size" "1A9A174961A5C5F552D6F12C79EEF0D4"
+				"download" "B6AFCBD20BFB4246D287C891F8FF9330"
+			}
+			"teshutest"
+			{
+				"gid" "AB8D51889A4F2C7BBCE3362DD67F4FFF"
+				"size" "9EB324AA9131976CC73C710E40DF0984"
+				"download" "ADBA4050481EC590F16CF4691531A6B9"
+			}
+			"closedbeta"
+			{
+				"gid" "3D7394B343E59A35468177B67D64DBBF"
+				"size" "7D992511713D3EFE57644BE916F988D4"
+				"download" "E479743AE8DE43F0B95C86228F6D41A6"
+			}
+			"secrettest"
+			{
+				"gid" "E2F8C8103F538611A7C2AABE51A70EE9"
+				"size" "26567D7A7EC6D6023A30B6597BA9940F"
+				"download" "530DE8FC7276C5BB17AFADEF51BE102A"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14207846"
+			"timeupdated" "1715049902"
+		}
+		"sdk122"
+		{
+			"buildid" "12185841"
+			"pwdrequired" "1"
+			"timeupdated" "1705913636"
+		}
+		"special_nosdk"
+		{
+			"buildid" "11917475"
+			"pwdrequired" "1"
+			"timeupdated" "1691722702"
+		}
+		"teshutest"
+		{
+			"buildid" "13225859"
+			"pwdrequired" "1"
+			"timeupdated" "1705733732"
+		}
+		"closedbeta"
+		{
+			"buildid" "14207846"
+			"pwdrequired" "1"
+			"timeupdated" "1714390348"
+		}
+		"secrettest"
+		{
+			"buildid" "14207846"
+			"pwdrequired" "1"
+			"timeupdated" "1714390126"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "烟水寒/轮回修仙路/GameDataSave_Steam"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23933838"
+"_sha" "23137bc84d21b9c4c94f6d4166689b896cf09aa8"
+"_size" "6832"
