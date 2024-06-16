@@ -1,0 +1,344 @@
+"appid" "962730"
+"common"
+{
+	"name" "Skater XL"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"icon" "cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1"
+	"logo" "980d4a4a044237de2b3b21dbad0a54b78d417bcd"
+	"logo_small" "980d4a4a044237de2b3b21dbad0a54b78d417bcd_thumb"
+	"clienticon" "e7a2bf445414770cadaa7f889bb2639a3362c589"
+	"clienttga" "b54179bdc2cc258b33e823fc4f255a03bbe635f2"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "962730_eula_0"
+			"name" "Skater XL EULA"
+			"url" "https://store.steampowered.com//eula/962730_eula_0"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644451200"
+		"tested_build_id" "7152029"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Skater XL"
+	"nokeyboardmouse" "1"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.020954598370196"
+			"height_pct" "37.84136784611731"
+		}
+	}
+	"store_asset_mtime" "1677776064"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Easy Day Studios Pty Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Easy Day Studios Pty Ltd"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "1595919600"
+	"steam_release_date" "1595948551"
+	"metacritic_score" "56"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/skater-xl\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "962730"
+	"store_tags"
+	{
+		"0" "1753"
+		"1" "96359"
+		"2" "701"
+		"3" "1669"
+		"4" "3810"
+		"5" "5348"
+		"6" "599"
+		"7" "7481"
+		"8" "3968"
+		"9" "19"
+		"10" "4182"
+		"11" "4175"
+		"12" "21"
+		"13" "1695"
+		"14" "4747"
+		"15" "3859"
+		"16" "28444"
+		"17" "492"
+		"18" "7948"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Easy Day Studios Pty Ltd"
+	"publisher" "Easy Day Studios Pty Ltd"
+	"homepage" "http://www.skaterxl.com"
+	"listofdlc" "1952000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Skater XL"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SkaterXL.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "alpha"
+			}
+		}
+	}
+}
+"depots"
+{
+	"962731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "961873864225958869"
+				"size" "5441002558"
+				"download" "4360575680"
+			}
+			"alpha"
+			{
+				"gid" "3764407388590183995"
+				"size" "5537243136"
+				"download" "4438179536"
+			}
+			"beta"
+			{
+				"gid" "3961013457162400186"
+				"size" "5461048573"
+				"download" "4366004464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"oct2023"
+			{
+				"gid" "3F6CCED0EECA5A29EEAE354E575AB15E"
+				"size" "7CDC21E8170AD629C78309430F0D849F"
+				"download" "0EB04D8811C34A0350A5727529BEE88D"
+			}
+			"temptest"
+			{
+				"gid" "18A8F19105FBE5C90D70BA796A1D23CB"
+				"size" "2D47D8BAD5F537EDFADAA3E68BF0BD0D"
+				"download" "E0068B868680544822B6E43E7F82010F"
+			}
+			"edsinternal"
+			{
+				"gid" "BE0BC746A3FDBF22BC218D89B6C30C78"
+				"size" "397A32E09E8A702F3E7CC28F86FCCEBA"
+				"download" "30E63BFC8FB5E60335FA7D7ED6E6AB3E"
+			}
+			"edsinternal1"
+			{
+				"gid" "7B77F211F85121C712D443E12AB2C020"
+				"size" "5F944B91593536C92A0E95479694F946"
+				"download" "51E656CB0047DE2B2522E4CC1BBD5F89"
+			}
+			"may2024"
+			{
+				"gid" "D145D08371F9C771C336D1FB026B5FF2"
+				"size" "6F38980C90BD7D566F568CE1071B2C30"
+				"download" "57D1B99C7DEA3E4364846FCA9887F7D3"
+			}
+		}
+	}
+	"962732"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14469161"
+			"timeupdated" "1716568934"
+		}
+		"alpha"
+		{
+			"buildid" "8987706"
+			"description" "alpha builds"
+			"timeupdated" "1656341849"
+		}
+		"beta"
+		{
+			"buildid" "13860539"
+			"description" "Open Beta"
+			"timeupdated" "1712344473"
+		}
+		"oct2023"
+		{
+			"buildid" "12486539"
+			"pwdrequired" "1"
+			"timeupdated" "1697895497"
+		}
+		"temptest"
+		{
+			"buildid" "8160412"
+			"pwdrequired" "1"
+			"timeupdated" "1644277338"
+		}
+		"edsinternal"
+		{
+			"buildid" "14548276"
+			"pwdrequired" "1"
+			"timeupdated" "1717112208"
+		}
+		"edsinternal1"
+		{
+			"buildid" "14534988"
+			"pwdrequired" "1"
+			"timeupdated" "1716997740"
+		}
+		"may2024"
+		{
+			"buildid" "14583741"
+			"pwdrequired" "1"
+			"timeupdated" "1717436191"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23808463"
+"_sha" "cb49aea7e7821b82e437e08ef50d4c18bcb0056e"
+"_size" "6573"
