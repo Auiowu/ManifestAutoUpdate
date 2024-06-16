@@ -1,0 +1,352 @@
+"appid" "1321070"
+"common"
+{
+	"name" "Death Come True"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "95154d8a6baacf55800e2973817693404f79f818"
+	"clienttga" "579f6f67585409e47bed06bb949241ef43f36357"
+	"icon" "ec055f252fe13fc47028a660171fed3f2cbdbf46"
+	"logo" "f099a148239b422d6c38a6833a8f4d1c8300c654"
+	"logo_small" "f099a148239b422d6c38a6833a8f4d1c8300c654_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "デスカムトゥルー"
+		"schinese" "终结降临 - Death Come True - "
+		"tchinese" "終結降臨 - Death Come True - "
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1714089600"
+		"tested_build_id" "5268550"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1660029534"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "IzanagiGames"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Too Kyo Games"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "ESQUADRA,inc."
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "IzanagiGames"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1594972474"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1321070"
+	"store_tags"
+	{
+		"0" "18594"
+		"1" "21"
+		"2" "4486"
+		"3" "3799"
+		"4" "5716"
+		"5" "4145"
+		"6" "6426"
+		"7" "1714"
+		"8" "11014"
+		"9" "3978"
+		"10" "1742"
+		"11" "1667"
+		"12" "4175"
+		"13" "6971"
+		"14" "5411"
+		"15" "4252"
+		"16" "4182"
+		"17" "3942"
+		"18" "4667"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "IzanagiGames"
+	"publisher" "IzanagiGames"
+	"homepage" "https://deathcometrue.com/"
+}
+"config"
+{
+	"installdir" "Death Come True"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamconfigurator3rdpartynative" "65535"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeathComeTrue.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,thai,japanese,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1321071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3428570171391220742"
+				"size" "5697473633"
+				"download" "5695884832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "2AE0960519513BF19285AA6E1170FCD8"
+				"size" "795FD23EE3DA3F4C37FDA9B50E57810D"
+				"download" "A02DB1D3321C5A0AC40B996B8DD963B5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14142538"
+			"timeupdated" "1714095525"
+		}
+		"develop"
+		{
+			"buildid" "14142538"
+			"pwdrequired" "1"
+			"timeupdated" "1714094403"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "IzanagiGames/DeathComeTrue"
+			"pattern" "progress"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "IzanagiGames/DeathComeTrue"
+			"pattern" "scenario"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23307605"
+"_sha" "f0881034bb4e47d30cc5a9de6fdd4d95f8236cbf"
+"_size" "6171"
