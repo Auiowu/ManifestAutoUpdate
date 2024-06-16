@@ -1,0 +1,421 @@
+"appid" "1035760"
+"common"
+{
+	"name" "Glimmer in Mirror"
+	"type" "Game"
+	"icon" "7e6eb68967f8d7c39b81ff9525925d6d1f212598"
+	"logo" "3d406db7f6f771d9e7ca19d284aac9e65a08265e"
+	"logo_small" "3d406db7f6f771d9e7ca19d284aac9e65a08265e_thumb"
+	"clienticon" "f5c84f9fe2de76193a2bdffb152b1916b8d73ab8"
+	"clienttga" "8eae1a56bb7561e7307feb1530b667ccdc2cf233"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "微光之镜"
+		"tchinese" "微光之鏡"
+		"sc_schinese" "微光之镜"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"sc_schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1675468800"
+		"tested_build_id" "10427600"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.54177218616434"
+			"height_pct" "83.62816230322609"
+		}
+	}
+	"store_asset_mtime" "1710407553"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MapleDorm Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Pleasant Rain Ltd"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "MapleDorm Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_33" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1673319343"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1035760"
+	"store_tags"
+	{
+		"0" "493"
+		"1" "4085"
+		"2" "7208"
+		"3" "3798"
+		"4" "3834"
+		"5" "5379"
+		"6" "4885"
+		"7" "19"
+		"8" "1625"
+		"9" "4434"
+		"10" "4231"
+		"11" "21"
+		"12" "4106"
+		"13" "4726"
+		"14" "1628"
+		"15" "122"
+		"16" "1684"
+		"17" "3871"
+		"18" "492"
+		"19" "597"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "MapleDorm Games"
+	"publisher" "方块游戏(CubeGame)"
+	"homepage" "https://wgzj.cubejoy.com/"
+}
+"config"
+{
+	"installdir" "Glimmer In Mirror"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GlimmerInMirror.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"1035761"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6573742149713198237"
+				"size" "5364485743"
+				"download" "737402784"
+			}
+			"v0.6"
+			{
+				"gid" "1778622951304086709"
+				"size" "5567828280"
+				"download" "682569696"
+			}
+			"beta"
+			{
+				"gid" "6867584571521029551"
+				"size" "5173471259"
+				"download" "736528000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "9D737D98705F6D2F80753489EF0C34BB"
+				"size" "2D740052F59933463FB34BF90AE90BB4"
+				"download" "4E9CB9CA79A21A8B5060B1B827A7F2EE"
+			}
+			"steam_china_only"
+			{
+				"gid" "4BCDFDCB9380C10D6A860769DEF125E7"
+				"size" "9503A590DC01A1D757C70C848493E676"
+				"download" "FEB3C19D4F29893B7CE3D45B9A04035E"
+			}
+			"alpha"
+			{
+				"gid" "1AAD5523D80064E2FD4FBC7A9F3E336A"
+				"size" "2661673EEA484557D63F6D7DE8398B9A"
+				"download" "9369B04FAF0BC149D280235FAC6CA141"
+			}
+			"develop"
+			{
+				"gid" "4205A82087BC5850B46ACD22DDDCDB3A"
+				"size" "EE8B01FD966482BC38405393EC57C66C"
+				"download" "E6029E065E06DB470652966AD6856709"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13831194"
+			"timeupdated" "1711184334"
+		}
+		"demo"
+		{
+			"buildid" "6682446"
+			"pwdrequired" "1"
+			"timeupdated" "1620876179"
+		}
+		"steam_china_only"
+		{
+			"buildid" "10235604"
+			"pwdrequired" "1"
+			"timeupdated" "1672459021"
+			"sc_schinese" "仅中国"
+		}
+		"v0.6"
+		{
+			"buildid" "10786159"
+			"description" "Game old version archive (v0.6)"
+			"timeupdated" "1709886512"
+			"sc_schinese" "游戏旧版本归档（v0.6）"
+		}
+		"alpha"
+		{
+			"buildid" "14571855"
+			"pwdrequired" "1"
+			"timeupdated" "1717255751"
+		}
+		"beta"
+		{
+			"buildid" "14599412"
+			"description" "Public beta test branch"
+			"timeupdated" "1717511307"
+		}
+		"develop"
+		{
+			"buildid" "14599412"
+			"pwdrequired" "1"
+			"timeupdated" "1717511297"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MapleDorm/GlimmerInMirror"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "MapleDorm/GlimmerInMirror"
+					"replace" "unity.MapleDorm.GlimmerInMirror"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "MapleDorm/GlimmerInMirror"
+					"replace" ".config/unity3d/MapleDorm/GlimmerInMirror"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "6b44f29c0f2e374759e6f18a993a625ab07832e4"
+"_size" "7751"
