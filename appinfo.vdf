@@ -1,0 +1,430 @@
+"appid" "1718570"
+"common"
+{
+	"name" "ASTLIBRA ～生きた証～ Revision"
+	"type" "Game"
+	"logo" "a6b377cf191dddfd5a1486805c91772bab8e0ae8"
+	"logo_small" "a6b377cf191dddfd5a1486805c91772bab8e0ae8_thumb"
+	"icon" "e7c445fc57e408d34f6d831588026cace13d3150"
+	"clienttga" "d25fafb8169856bad76e8f836d124a71d8b5f930"
+	"clienticon" "abe361e509745b30b09c57d941cbba6e8bc3c7f4"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "神之天平（ASTLIBRA Revision）"
+		"koreana" "아스트리브라: 리비전"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1671494400"
+		"tested_build_id" "10074933"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,ko"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "27.016792605393547"
+			"height_pct" "41.329916356632076"
+		}
+	}
+	"store_asset_mtime" "1716209689"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KEIZO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WhisperGames"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1665665981"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1718570"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "3871"
+		"2" "3798"
+		"3" "4434"
+		"4" "5984"
+		"5" "1628"
+		"6" "10679"
+		"7" "122"
+		"8" "1684"
+		"9" "4777"
+		"10" "19"
+		"11" "4046"
+		"12" "4608"
+		"13" "9541"
+		"14" "3952"
+		"15" "4295"
+		"16" "5673"
+		"17" "16094"
+		"18" "21"
+		"19" "10808"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "KEIZO"
+	"publisher" "WhisperGames"
+	"homepage" "http://www.astlibrarevision.com/"
+	"listofdlc" "2669360"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "ASTLIBRA"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ASTLIBRA.exe"
+			"arguments" "-st"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "GAIDEN\\AST_GAIDEN.exe"
+			"arguments" "-st"
+			"workingdir" "GAIDEN"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "2669360"
+			}
+			"description_loc"
+			{
+				"english" "ASTLIBRA GAIDEN -The Cave of Phantom Mist-"
+				"schinese" "《神之天平》外传：幻雾之洞窟"
+				"japanese" "ASTLIBRA 外伝 ～幻霧の洞窟～"
+			}
+			"description" "ASTLIBRA GAIDEN -The Cave of Phantom Mist-"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2601813354"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,gaiden"
+			"use_action_block" "false"
+		}
+		"2601821060"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,gaiden"
+			"use_action_block" "false"
+		}
+		"2601822236"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,gaiden"
+			"use_action_block" "false"
+		}
+		"2601824866"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,gaiden"
+			"use_action_block" "false"
+		}
+		"2601827873"
+		{
+			"controller_type" "controller_generic"
+			"enabled_branches" "default,gaiden"
+			"use_action_block" "false"
+		}
+		"2601828930"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,gaiden"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" ""
+	"hasdepotsindlc" "1"
+	"1718571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1591296324009923575"
+				"size" "2682589622"
+				"download" "2675958592"
+			}
+			"old_english"
+			{
+				"gid" "1503666454766224461"
+				"size" "2598111927"
+				"download" "2591390672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gaiden"
+			{
+				"gid" "B9A000E2E082530C9E89B034094C6E02"
+				"size" "52979A020072215D87B70599FFC0F165"
+				"download" "291BA8D6AD75F1599965868E93AEAE3F"
+			}
+			"test"
+			{
+				"gid" "96593662D3CA342D559FA60F34E32F63"
+				"size" "0A2857547A5DBBEC0EB7731007857B5B"
+				"download" "7CECC1163C97F77AFE0380A793233298"
+			}
+			"test2"
+			{
+				"gid" "BCC689FC22CD2B4F84FC3A1186CC2637"
+				"size" "BC8437C90B2B603017B9907DA3875933"
+				"download" "A7BE5AA5F13AA92808F2A55DCCDAF7D2"
+			}
+		}
+	}
+	"2669361"
+	{
+		"dlcappid" "2669360"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1449066759110666220"
+				"size" "2030956517"
+				"download" "2023725568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gaiden"
+			{
+				"gid" "70AD9E853527AC2A20561D10226612B4"
+				"size" "5BB611737CCE5935ADE65ED17BDFB0A6"
+				"download" "E931EFCC5FB935BFBFC5DF7C4F68410C"
+			}
+			"test2"
+			{
+				"gid" "D090AE251F27F9DCF756B6D6CCC9DF85"
+				"size" "A057E27526D393B206D8AAF608ACE866"
+				"download" "222E1C0C4171C34C654F44DEB9144F13"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14493799"
+			"timeupdated" "1716649910"
+		}
+		"old_english"
+		{
+			"buildid" "11333411"
+			"description" "English Configuration Previous Version"
+			"timeupdated" "1685193442"
+		}
+		"gaiden"
+		{
+			"buildid" "14436421"
+			"pwdrequired" "1"
+			"timeupdated" "1716260255"
+		}
+		"test"
+		{
+			"buildid" "14436412"
+			"pwdrequired" "1"
+			"timeupdated" "1716260246"
+		}
+		"test2"
+		{
+			"buildid" "14430390"
+			"pwdrequired" "1"
+			"timeupdated" "1716221801"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "16000000"
+	"maxnumfiles" "1362"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ASTLIBRA/SAVE"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocal"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "ASTLIBRA/SAVE"
+					"replace" "ASTLIBRA/SAVE"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23691499"
+"_sha" "6c52a25ed29b12c1072e901e1de214f9850106d3"
+"_size" "8319"
