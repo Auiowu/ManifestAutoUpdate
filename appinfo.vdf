@@ -1,0 +1,407 @@
+"appid" "1561040"
+"common"
+{
+	"name" "Diluvian Winds"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a57aa36fc8a41aec1f675e991ebf2c3726b3504c"
+	"logo" "2c08e26ba811d4bf87412e8f83a14e559ab0d925"
+	"logo_small" "2c08e26ba811d4bf87412e8f83a14e559ab0d925_thumb"
+	"clienticon" "d083115b31a86fccf02e1851c5ec36e86f75edd3"
+	"clienttga" "7fd72e29f7f73142b1eafc1b22c5a2832b4473ea"
+	"name_localized"
+	{
+		"schinese" "洪流之风 Diluvian Winds"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690502400"
+		"tested_build_id" "11314487"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "61.475906480347355"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1714057345"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Alambik Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Goblinz Publishing"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Goblinz Publishing"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714056993"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1561040"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "9"
+		"2" "7332"
+		"3" "8945"
+		"4" "220585"
+		"5" "4726"
+		"6" "4305"
+		"7" "3871"
+		"8" "3810"
+		"9" "1643"
+		"10" "6815"
+		"11" "1654"
+		"12" "4166"
+		"13" "12472"
+		"14" "30358"
+		"15" "4182"
+		"16" "599"
+		"17" "1684"
+		"18" "493"
+		"19" "4695"
+	}
+	"review_score" "6"
+	"review_percentage" "76"
+}
+"extended"
+{
+	"developer" "Alambik Studio"
+	"publisher" "Goblinz Publishing"
+	"homepage" "https://goblinzstudio.com/game/diluvian-winds/"
+	"listofdlc" "2421930"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Diluvian"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DiluvianWinds.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"1561041"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8884754169313851753"
+				"size" "1911417672"
+				"download" "518635728"
+			}
+			"open-beta"
+			{
+				"gid" "8884754169313851753"
+				"size" "1911417672"
+				"download" "518635728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"pre-live"
+			{
+				"gid" "F2F155925E89F843D109BDAFA10B72F1"
+				"size" "31FD8DD3130F12035A51A31B5E2FDDCA"
+				"download" "89E2A6FE70FFD4C0A4BF66CBFAE9DB58"
+			}
+			"beta"
+			{
+				"gid" "0537D80AF4D5DC243755A933E3DD1730"
+				"size" "C448C188C03C57C976727410BAE88CED"
+				"download" "EDBE3E7BB66EAC249C0A4848967B7944"
+			}
+			"bugfix_1"
+			{
+				"gid" "12B73041B727B1B18864EBC69F7C67EB"
+				"size" "B97E6FE5E758A75ABABA49CB234633C6"
+				"download" "9581D59F90643AA3CD6546D7E85CC546"
+			}
+			"content-creators"
+			{
+				"gid" "008C84FA46BB6EC08721A9D6AB2C420D"
+				"size" "A9B8B3272F6FF4F1623E27F9B8B8A050"
+				"download" "559BA4579DFD5B0E6CD32185D8AF67BB"
+			}
+			"testsave"
+			{
+				"gid" "5A594B48B9470E9D4D1BE96AEEF43D04"
+				"size" "75666C4F08120DC0D627997E20D08A27"
+				"download" "CAD9212ABAE0FB26383DBCF966A0C024"
+			}
+		}
+	}
+	"2421930"
+	{
+		"dlcappid" "2421930"
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3640651296811219790"
+				"size" "1309556409"
+				"download" "1258173856"
+			}
+			"open-beta"
+			{
+				"gid" "3640651296811219790"
+				"size" "1309556409"
+				"download" "1258173856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"pre-live"
+			{
+				"gid" "0DD5966AC96ABF73857F6F88921A3B9D"
+				"size" "9A6B82D05FF7CF57B4B7C3710724A7A7"
+				"download" "2EAF7D66D1E733DEE646078FBE6C561B"
+			}
+			"bugfix_1"
+			{
+				"gid" "A43295AABB7D18F0FB731CD402BB1807"
+				"size" "0DE49E3EA7FE68E44C8A6EC6A0FD5463"
+				"download" "EABB59543C34A0F5369A08556B08F11E"
+			}
+			"content-creators"
+			{
+				"gid" "BB65432139578E1BD6A84D908449306C"
+				"size" "493212CF25CCA6C8C69479E5F9B8F509"
+				"download" "CC575C2A6928572DAA0447DFD49AE026"
+			}
+			"testsave"
+			{
+				"gid" "0E56F4A1712B232FB5E13B3415696034"
+				"size" "B6F55AD6272A4DADF57ECFF70CFA23F1"
+				"download" "95158C562921A2C5A95DBB300C5091FA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14257468"
+			"timeupdated" "1714751816"
+		}
+		"pre-live"
+		{
+			"buildid" "12840844"
+			"pwdrequired" "1"
+			"timeupdated" "1701360651"
+		}
+		"beta"
+		{
+			"buildid" "14256267"
+			"pwdrequired" "1"
+			"timeupdated" "1714744671"
+		}
+		"bugfix_1"
+		{
+			"buildid" "14210929"
+			"pwdrequired" "1"
+			"timeupdated" "1714407303"
+		}
+		"content-creators"
+		{
+			"buildid" "14173776"
+			"pwdrequired" "1"
+			"timeupdated" "1714053772"
+		}
+		"open-beta"
+		{
+			"buildid" "14256284"
+			"description" "Open beta branch"
+			"timeupdated" "1714744774"
+		}
+		"testsave"
+		{
+			"buildid" "14160511"
+			"pwdrequired" "1"
+			"timeupdated" "1713968174"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "AlambikStudio/DiluvianWinds/SaveData"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23549286"
+"_sha" "9927366d24923383aad2d77903f496f8021fbed2"
+"_size" "7758"
