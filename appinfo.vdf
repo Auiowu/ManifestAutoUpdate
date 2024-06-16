@@ -1,0 +1,962 @@
+"appid" "469600"
+"common"
+{
+	"name" "Legion TD 2"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "97f68a901fd6fc865f1c574641869cb38f27e1ed"
+	"logo_small" "97f68a901fd6fc865f1c574641869cb38f27e1ed_thumb"
+	"icon" "9d6acea5877310db9a3b52c9fe8f3ccc6052ce63"
+	"clienttga" "8970caf61ad2731abd8ce2bc2acab5433ad95032"
+	"clienticon" "cd263dba789450014e4bb1c164746d6d93a00c12"
+	"releasestate" "released"
+	"osarch" "64"
+	"exfgls" "1"
+	"clienticns" "1271ea763f81dcfc88566fc0cba1ff25f28bcfb8"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "军团战争2 / Legion TD 2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700697600"
+		"tested_build_id" "12629604"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Legion TD 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "32.09437621202329"
+			"height_pct" "65.27777777777777"
+		}
+	}
+	"store_asset_mtime" "1715672195"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AutoAttack Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AutoAttack Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_2" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1633099440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "469600"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "3859"
+		"2" "1084988"
+		"3" "9"
+		"4" "1775"
+		"5" "4711"
+		"6" "3878"
+		"7" "6730"
+		"8" "3843"
+		"9" "1685"
+		"10" "7332"
+		"11" "8945"
+		"12" "1684"
+		"13" "3942"
+		"14" "4057"
+		"15" "4191"
+		"16" "4821"
+		"17" "1662"
+		"18" "3871"
+		"19" "4172"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "AutoAttack Games"
+	"publisher" "AutoAttack Games"
+	"homepage" "https://legiontd2.com"
+	"listofdlc" "562150,2162190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Legion TD 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Legion TD 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Legion TD 2.app/Contents/MacOS/Legion TD 2"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"469606"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4479777207263814399"
+				"size" "2386352736"
+				"download" "1510344272"
+			}
+			"mactest"
+			{
+				"gid" "1504953317752320179"
+				"size" "1579277551"
+				"download" "891024544"
+			}
+			"mactest2"
+			{
+				"gid" "7543942081242758348"
+				"size" "2205517535"
+				"download" "1386651920"
+			}
+			"public_test_realm"
+			{
+				"gid" "4603126303770032788"
+				"size" "2386367868"
+				"download" "1510363648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental_public"
+			{
+				"gid" "9EF6C7BA362619B87BE333C63DCE9586"
+				"size" "478D44A36978AF69D47BF028D2BB7120"
+				"download" "097239E620C579D0F5F36DF1AA98F75A"
+			}
+			"experimental"
+			{
+				"gid" "C4F1C1645C6C200D3338C2877C855933"
+				"size" "71B9B0820AF46A859A380DDE4B04F826"
+				"download" "AF971157CDBC8ECEC6E2F5013A8A1B77"
+			}
+			"latest"
+			{
+				"gid" "7C41B7506BA5EF6C5D08AB331F7B9631"
+				"size" "F8BFF344EB2D7262BF7F738AB051D70E"
+				"download" "182327F237CE3B33A481B0D11C6D764E"
+			}
+			"latest_2"
+			{
+				"gid" "D3C94BC3BC2C81377EC1B73CBC966540"
+				"size" "A2EF5AC97FA9E4E20A5AC969AE44B66B"
+				"download" "E82A9D1BD5B79D9A623E105B53E70DFD"
+			}
+		}
+	}
+	"469607"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9188699719218773297"
+				"size" "0"
+				"download" "0"
+			}
+			"mactest"
+			{
+				"gid" "1848833954796996125"
+				"size" "1095206157"
+				"download" "584104640"
+			}
+			"mactest2"
+			{
+				"gid" "9188699719218773297"
+				"size" "0"
+				"download" "0"
+			}
+			"public_test_realm"
+			{
+				"gid" "9188699719218773297"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental_public"
+			{
+				"gid" "072E3EF9C21D9A19DBAC88ACC73DF7BB"
+				"size" "2EAD8DDF876EB829E5BA2879C0067991"
+				"download" "69C9EDED5D0289A5D03B5885C3EAD9AD"
+			}
+			"experimental"
+			{
+				"gid" "38B02223E8E4F1E050ACE67686E7A674"
+				"size" "978A545ACBD862F3DE37B72C8AAD3C73"
+				"download" "978A545ACBD862F3DE37B72C8AAD3C73"
+			}
+			"latest"
+			{
+				"gid" "D8A15DC8E8F088B14FB78936596FC039"
+				"size" "E443897DF952979B51A2F2011B1CEACC"
+				"download" "E443897DF952979B51A2F2011B1CEACC"
+			}
+			"latest_2"
+			{
+				"gid" "893A2C3CDF38033B1FB85917A9905544"
+				"size" "62BE0F1A77875E5633DFEFB517D23F38"
+				"download" "62BE0F1A77875E5633DFEFB517D23F38"
+			}
+		}
+	}
+	"469608"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3963589771925792352"
+				"size" "2506404424"
+				"download" "1528321376"
+			}
+			"mactest"
+			{
+				"gid" "1338804715025716182"
+				"size" "1590017501"
+				"download" "897946512"
+			}
+			"mactest2"
+			{
+				"gid" "4011254023723756454"
+				"size" "2281583471"
+				"download" "1392591456"
+			}
+			"public_test_realm"
+			{
+				"gid" "7076978175440288431"
+				"size" "2506419556"
+				"download" "1528336240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental_public"
+			{
+				"gid" "05D75D30EBED05670AA25889063C8F27"
+				"size" "2AD33CB13549240D2F33D185127E594D"
+				"download" "A01BFAFE23893E9F6C46FD526E4BEC61"
+			}
+			"experimental"
+			{
+				"gid" "64284F5C387C6EE5F77A51203D4E5A70"
+				"size" "3C853B5B2220C0C8EB09C47C02067E94"
+				"download" "E2A6F8A238F67B31A08065EA5865C484"
+			}
+			"latest"
+			{
+				"gid" "B27D12E4B89B7F6D345ACEDA5700015B"
+				"size" "611BB9F8EEF5B79096446D76B5E2646E"
+				"download" "B80A27E1A0F450198C5B05FCD9873BFB"
+			}
+			"latest_2"
+			{
+				"gid" "1D527FA8448EF1C9967BA8378DAE7DF9"
+				"size" "DC264E8ED051A776BFBC069047860E7D"
+				"download" "9CABC9C350C6515ECBEC7A19BFDAA5A0"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14666976"
+			"timeupdated" "1718037935"
+		}
+		"experimental_public"
+		{
+			"buildid" "7484612"
+			"pwdrequired" "1"
+			"timeupdated" "1633480139"
+		}
+		"mactest"
+		{
+			"buildid" "6947310"
+			"description" "Mac benchmark"
+			"timeupdated" "1624921895"
+		}
+		"mactest2"
+		{
+			"buildid" "11052860"
+			"description" " Mac benchmark 2"
+			"timeupdated" "1682018606"
+		}
+		"experimental"
+		{
+			"buildid" "14618303"
+			"pwdrequired" "1"
+			"timeupdated" "1717624457"
+		}
+		"latest"
+		{
+			"buildid" "14293897"
+			"pwdrequired" "1"
+			"timeupdated" "1717600142"
+		}
+		"latest_2"
+		{
+			"buildid" "14640876"
+			"pwdrequired" "1"
+			"timeupdated" "1718037912"
+		}
+		"public_test_realm"
+		{
+			"buildid" "14533658"
+			"description" "Public beta testing"
+			"timeupdated" "1716988781"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "Playing as {%steam_legion%} on Wave %wave%"
+				"#playingaslegionv2" "Playing as {%steam_legion%} in {%queue_type%} on Wave %wave%"
+				"#playingassimple" "Playing {%queue_type%}"
+				"#inqueue" "In Queue"
+				"#custom" "Creating Custom Game"
+				"#postgame" "Viewing Scores"
+				"#ingame" "In Loading Screen"
+				"#lobby" "In Main Menu"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "Element"
+				"#forsaken_legion_id" "Forsaken"
+				"#grove_legion_id" "Grove"
+				"#mech_legion_id" "Mech"
+				"#mastermind_legion_id" "Mastermind"
+				"#atlantean_legion_id" "Atlantean"
+				"#nomad_legion_id" "Nomad"
+				"#shrine_legion_id" "Shrine"
+				"#divine_legion_id" "Divine"
+				"#chaos_legion_id" "Chaos"
+				"#hybrid_legion_id" "Hybrid"
+				"#ranked" "Ranked"
+				"#classic" "Classic"
+				"#arcade" "Featured"
+				"#bots" "Play vs. AI"
+				"#challenge" "Weekly Challenge"
+				"#campaign" "Campaign"
+				"#customgame" "Custom"
+				"#mastermindvariant1" "Lock-In"
+				"#mastermindvariant2" "Greed"
+				"#mastermindvariant3" "Redraw"
+				"#mastermindvariant4" "Yolo"
+				"#mastermindvariant5" "Chaos"
+				"#mastermindvariant6" "Hybrid"
+				"#mastermindvariant7" "Fiesta"
+				"#mastermindvariant8" "Cash Out"
+				"#mastermindvariant9" "Castle"
+				"#mastermindvariant10" "Cartel"
+				"#mastermindvariant11" "Champion"
+				"#mastermindvariant12" "Kingsguard"
+				"#mastermindvariant13" "Double Lock-In"
+				"#mastermindvariant14" "Megamind"
+				"#spectator" "Spectator"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "Joue en tant que {%steam_legion%} (Vague %wave%)"
+				"#playingaslegionv2" "Playing as {%steam_legion%} ({%queue_type%}) (Vague %wave%)"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "En file d\'attente"
+				"#custom" "En partie personnalisée"
+				"#postgame" "Vue des scores"
+				"#ingame" "Dans l\'écran de chargement"
+				"#lobby" "En ligne"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "Élémentaire"
+				"#forsaken_legion_id" "Revenant"
+				"#grove_legion_id" "Sylvain"
+				"#mech_legion_id" "Mecha"
+				"#mastermind_legion_id" "Stratège"
+				"#atlantean_legion_id" "Atlantéen"
+				"#nomad_legion_id" "Nomade"
+				"#shrine_legion_id" "Sanctuaire"
+				"#divine_legion_id" "Divin"
+				"#chaos_legion_id" "Chaos"
+				"#hybrid_legion_id" "Hybride"
+				"#ranked" "Classé"
+				"#classic" "Classique"
+				"#arcade" "Spécial"
+				"#bots" "Jouer contre l\'IA"
+				"#challenge" "Challenge hebdomadaire"
+				"#campaign" "Campagne"
+				"#customgame" "Modes personnalisés"
+				"#mastermindvariant1" "Verrouillé"
+				"#mastermindvariant2" "Cupidité"
+				"#mastermindvariant3" "Nouveau tirage"
+				"#mastermindvariant4" "Yolo"
+				"#mastermindvariant5" "Chaos"
+				"#mastermindvariant6" "Hybride"
+				"#mastermindvariant7" "Fiesta"
+				"#mastermindvariant8" "Encaisser"
+				"#mastermindvariant9" "Château"
+				"#mastermindvariant10" "Cartel"
+				"#mastermindvariant11" "Champion"
+				"#mastermindvariant12" "Kingsguard"
+				"#mastermindvariant13" "Double Lock-In"
+				"#mastermindvariant14" "Megamind"
+				"#spectator" "Spectateurs"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "Gioca come {%steam_legion%} (Ondata %wave%)"
+				"#playingaslegionv2" "Gioca come {%steam_legion%} ({%queue_type%}) (Ondata %wave%)"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "In coda"
+				"#custom" "In una partita personalizzata"
+				"#postgame" "Visualizzazione punteggi"
+				"#ingame" "In caricamento"
+				"#lobby" "Online"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "Elemento - Adepto"
+				"#forsaken_legion_id" "Rinnegato"
+				"#grove_legion_id" "Selva"
+				"#mech_legion_id" "Meca"
+				"#mastermind_legion_id" "Stratega"
+				"#atlantean_legion_id" "Atlantide"
+				"#nomad_legion_id" "Nomade"
+				"#shrine_legion_id" "Santuario"
+				"#divine_legion_id" "Divino"
+				"#chaos_legion_id" "Caos"
+				"#hybrid_legion_id" "Ibrido"
+				"#ranked" "Graduata"
+				"#classic" "Classica"
+				"#arcade" "In primo piano"
+				"#bots" "Gioca contro IA"
+				"#challenge" "Sfida settimanale"
+				"#campaign" "Campagna"
+				"#customgame" "Modalità personalizzate"
+				"#mastermindvariant1" "Blocca combattente"
+				"#mastermindvariant2" "Avidità"
+				"#mastermindvariant3" "Riscegli"
+				"#mastermindvariant4" "Yolo"
+				"#mastermindvariant5" "Caos"
+				"#mastermindvariant6" "Ibrido"
+				"#mastermindvariant7" "Fiesta"
+				"#mastermindvariant8" "Cash Out"
+				"#mastermindvariant9" "Castle"
+				"#mastermindvariant10" "Cartel"
+				"#mastermindvariant11" "Champion"
+				"#mastermindvariant12" "Kingsguard"
+				"#mastermindvariant13" "Double Lock-In"
+				"#mastermindvariant14" "Megamind"
+				"#spectator" "Spettatori"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "{%steam_legion%} としてプレイ中 (ウェーブ %wave%)"
+				"#playingaslegionv2" "{%steam_legion%} としてプレイ中 ({%queue_type%}) (ウェーブ %wave%)"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "キュー待機中"
+				"#custom" "カスタムゲーム中"
+				"#postgame" "スコア閲覧中"
+				"#ingame" "ロード中"
+				"#lobby" "オンライン"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "エレメント"
+				"#forsaken_legion_id" "フォーセイクン"
+				"#grove_legion_id" "グローブ"
+				"#mech_legion_id" "メカ"
+				"#mastermind_legion_id" "マスターマインド"
+				"#atlantean_legion_id" "アトランティアン"
+				"#nomad_legion_id" "ノーマッド"
+				"#shrine_legion_id" "シュライン"
+				"#divine_legion_id" "ディバイン"
+				"#chaos_legion_id" "カオス"
+				"#hybrid_legion_id" "ハイブリッド"
+				"#ranked" "ランク"
+				"#classic" "クラシック"
+				"#arcade" "特設"
+				"#bots" "対AI戦"
+				"#challenge" "ウィークリーチャレンジ"
+				"#campaign" "ミッション"
+				"#customgame" "カスタム"
+				"#mastermindvariant1" "ロックイン"
+				"#mastermindvariant2" "グリード"
+				"#mastermindvariant3" "リドロー"
+				"#mastermindvariant4" "YOLO"
+				"#mastermindvariant5" "カオス"
+				"#mastermindvariant6" "ハイブリッド"
+				"#mastermindvariant7" "フェスタ"
+				"#mastermindvariant8" "キャッシュアウト"
+				"#mastermindvariant9" "キャッスル"
+				"#mastermindvariant10" "カルテル"
+				"#mastermindvariant11" "チャンピオン"
+				"#mastermindvariant12" "キングスガード"
+				"#mastermindvariant13" "ダブルロックイン"
+				"#mastermindvariant14" "メガマインド"
+				"#spectator" "観戦者"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "В игре {%steam_legion%} (Волна %wave%)"
+				"#playingaslegionv2" "В игре {%steam_legion%} ({%queue_type%}) (Волна %wave%)"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "В очереди"
+				"#custom" "В пользовательской игре"
+				"#postgame" "Просматривает результаты"
+				"#ingame" "На экране загрузки"
+				"#lobby" "В сети"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "Стихии"
+				"#forsaken_legion_id" "Отверженные"
+				"#grove_legion_id" "Роща"
+				"#mech_legion_id" "Механизмы"
+				"#mastermind_legion_id" "Сверхразум"
+				"#atlantean_legion_id" "Пучина"
+				"#nomad_legion_id" "Кочевники"
+				"#shrine_legion_id" "Храм"
+				"#divine_legion_id" "Небеса"
+				"#chaos_legion_id" "Хаос"
+				"#hybrid_legion_id" "Гибриды"
+				"#ranked" "Рейтинговая"
+				"#classic" "Классика"
+				"#arcade" "Избранное"
+				"#bots" "Игра против ИИ"
+				"#challenge" "Еженедельное испытание"
+				"#campaign" "Кампания"
+				"#customgame" "Пользовательская"
+				"#mastermindvariant1" "Закрепить бойца"
+				"#mastermindvariant2" "Жадность"
+				"#mastermindvariant3" "Переброска"
+				"#mastermindvariant4" "Ва-банк!"
+				"#mastermindvariant5" "Хаос"
+				"#mastermindvariant6" "Гибриды"
+				"#mastermindvariant7" "Ярмарка"
+				"#mastermindvariant8" "Полный вывод"
+				"#mastermindvariant9" "Замок"
+				"#mastermindvariant10" "Картель"
+				"#mastermindvariant11" "Чемпион"
+				"#mastermindvariant12" "Гвардия"
+				"#mastermindvariant13" "Двойное закрепление"
+				"#mastermindvariant14" "Мегамозг"
+				"#spectator" "Зрители"
+			}
+		}
+		"turkish"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "{%steam_legion%} (Dalga %wave%) olarak oynuyor"
+				"#playingaslegionv2" "{%steam_legion%} ({%queue_type%}) (Dalga %wave%) olarak oynuyor"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "Sırada"
+				"#custom" "Özel Oyunda"
+				"#postgame" "Skorları Görüntüleme"
+				"#ingame" "Yükleme Ekranında"
+				"#lobby" "Çevrimiçi"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "Element"
+				"#forsaken_legion_id" "Terkedilmiş"
+				"#grove_legion_id" "Koruluk"
+				"#mech_legion_id" "Mekanik"
+				"#mastermind_legion_id" "Usta Zihin"
+				"#atlantean_legion_id" "Atlantisli"
+				"#nomad_legion_id" "Göçebe"
+				"#shrine_legion_id" "Tapınak"
+				"#divine_legion_id" "İlahi"
+				"#chaos_legion_id" "Kaos"
+				"#hybrid_legion_id" "Karma"
+				"#ranked" "Sıralama"
+				"#classic" "Klasik"
+				"#arcade" "Öne çıkan"
+				"#bots" "Yapay Zekaya Karşı Oyna"
+				"#challenge" "Haftalık Meydan Okuma"
+				"#campaign" "Hikaye modu"
+				"#customgame" "Özel"
+				"#mastermindvariant1" "Kilitleme"
+				"#mastermindvariant2" "Açgözlü"
+				"#mastermindvariant3" "Yeniden Çekme"
+				"#mastermindvariant4" "Sadece Bir Kere Yaşarsın"
+				"#mastermindvariant5" "Kaos"
+				"#mastermindvariant6" "Karma"
+				"#mastermindvariant7" "Festival"
+				"#mastermindvariant8" "Kasa Ödemesi"
+				"#mastermindvariant9" "Kale"
+				"#mastermindvariant10" "Kartel"
+				"#mastermindvariant11" "Champion"
+				"#mastermindvariant12" "Kingsguard"
+				"#mastermindvariant13" "Double Lock-In"
+				"#mastermindvariant14" "Megamind"
+				"#spectator" "Seyirciler"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "{%steam_legion%} 로 플레이 중 (웨이브 %wave%)"
+				"#playingaslegionv2" "{%steam_legion%} 로 플레이 중 ({%queue_type%}) (웨이브 %wave%)"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "대기열"
+				"#custom" "커스텀 게임"
+				"#postgame" "경기 결과 관람 중"
+				"#ingame" "로딩 화면"
+				"#lobby" "온라인"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "엘레멘트"
+				"#forsaken_legion_id" "포세이큰"
+				"#grove_legion_id" "그로브"
+				"#mech_legion_id" "메크"
+				"#mastermind_legion_id" "마스터마인드"
+				"#atlantean_legion_id" "아틀란티안"
+				"#nomad_legion_id" "노매드"
+				"#shrine_legion_id" "슈라인"
+				"#divine_legion_id" "디바인"
+				"#chaos_legion_id" "카오스"
+				"#hybrid_legion_id" "하이브리드"
+				"#ranked" "랭크전"
+				"#classic" "클래식"
+				"#arcade" "스페셜 모드"
+				"#bots" "AI 전"
+				"#challenge" "이번주 도전과제"
+				"#campaign" "캠페인"
+				"#customgame" "커스텀"
+				"#mastermindvariant1" "확정 투사"
+				"#mastermindvariant2" "탐욕"
+				"#mastermindvariant3" "다시뽑기"
+				"#mastermindvariant4" "YOLO"
+				"#mastermindvariant5" "카오스"
+				"#mastermindvariant6" "하이브리드"
+				"#mastermindvariant7" "축제"
+				"#mastermindvariant8" "현금 인출"
+				"#mastermindvariant9" "요새"
+				"#mastermindvariant10" "횡령"
+				"#mastermindvariant11" "Champion"
+				"#mastermindvariant12" "Kingsguard"
+				"#mastermindvariant13" "Double Lock-In"
+				"#mastermindvariant14" "Megamind"
+				"#spectator" "관중"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#playingaslegion" "Spielt als {%steam_legion%} (Welle %wave%)"
+				"#playingaslegionv2" "Spielt als {%steam_legion%} ({%queue_type%}) (Welle %wave%)"
+				"#playingassimple" "{%queue_type%}"
+				"#inqueue" "In Warteschlange"
+				"#custom" "In einem benutzerdefinierten Spiel"
+				"#postgame" "Betrachtet Spielergebnis"
+				"#ingame" "Im Ladebildschirm"
+				"#lobby" "Im Hauptmenü"
+				"#connecting" "Connecting to Lobby"
+				"#element_legion_id" "Elemente"
+				"#forsaken_legion_id" "Untote"
+				"#grove_legion_id" "Waldwesen"
+				"#mech_legion_id" "Roboter"
+				"#mastermind_legion_id" "Mastermind"
+				"#atlantean_legion_id" "Atlanter"
+				"#nomad_legion_id" "Nomaden"
+				"#shrine_legion_id" "Schreinwesen"
+				"#divine_legion_id" "Göttliche"
+				"#chaos_legion_id" "Chaos"
+				"#hybrid_legion_id" "Hybrid"
+				"#ranked" "Rangliste"
+				"#classic" "Klassisch"
+				"#arcade" "Vorgestellter Spielmodus"
+				"#bots" "Computer-Liga"
+				"#challenge" "Wöchentliche Herausforderung "
+				"#campaign" "Kampagne"
+				"#customgame" "Benutzerdefinierte Modi"
+				"#mastermindvariant1" "Kämpferauswahl"
+				"#mastermindvariant2" "Gier"
+				"#mastermindvariant3" "Erneuerung"
+				"#mastermindvariant4" "Yolo"
+				"#mastermindvariant5" "Chaos"
+				"#mastermindvariant6" "Hybrid"
+				"#mastermindvariant7" "Fiesta"
+				"#mastermindvariant8" "Auszahlung"
+				"#mastermindvariant9" "Burg"
+				"#mastermindvariant10" "Kartell"
+				"#mastermindvariant11" "Champion"
+				"#mastermindvariant12" "Kingsguard"
+				"#mastermindvariant13" "Double Lock-In"
+				"#mastermindvariant14" "Megamind"
+				"#spectator" "Zuschauer"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23909748"
+"_sha" "b20249a800a23ede0aa4783d787cd9c4ce832d6e"
+"_size" "24702"
