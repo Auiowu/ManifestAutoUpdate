@@ -1,0 +1,634 @@
+"appid" "1174180"
+"common"
+{
+	"name" "Red Dead Redemption 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "5bf6edd7efb1110b457da905e7ac696c6c619ed1"
+	"clienttga" "e69621de934671dd4bec2760c73deafb5ecd382a"
+	"icon" "5106abd9c1187a97f23295a0ba9470c94804ec6c"
+	"logo" "d66accca2fc5061fa51804a88ce1cc7bfbd25c66"
+	"logo_small" "d66accca2fc5061fa51804a88ce1cc7bfbd25c66_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1174180_eula_0"
+			"name" "Red Dead Redemption 2 EULA"
+			"url" "https://store.steampowered.com//eula/1174180_eula_0"
+			"version" "1"
+		}
+	}
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1709596800"
+		"tested_build_id" "13334406"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+			"proton_compat_config" "nativevulkanloader,"
+		}
+	}
+	"metacritic_name" "Red Dead Redemption 2"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.025670945157536"
+			"height_pct" "93.92068392305866"
+		}
+	}
+	"store_asset_mtime" "1671484934"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rockstar Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rockstar Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Red Dead Redemption"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_41" "1"
+		"category_42" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1575565200"
+	"metacritic_score" "93"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/red-dead-redemption-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1174180"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1742"
+		"2" "1647"
+		"3" "21"
+		"4" "3859"
+		"5" "19"
+		"6" "4175"
+		"7" "4182"
+		"8" "1774"
+		"9" "4166"
+		"10" "6041"
+		"11" "5411"
+		"12" "5611"
+		"13" "3814"
+		"14" "1756"
+		"15" "1697"
+		"16" "4345"
+		"17" "3810"
+		"18" "3839"
+		"19" "1663"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Rockstar Games"
+	"publisher" "Rockstar Games"
+	"homepage" "https://www.rockstargames.com/reddeadredemption2/"
+	"listofdlc" "1190050,1190051"
+}
+"config"
+{
+	"installdir" "Red Dead Redemption 2"
+	"uselaunchcommandline" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PlayRDR2.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2160443358"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "experimental needed"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1174181"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4757128409362785099"
+				"size" "746"
+				"download" "528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "08B5F23D18BC4144537A9AE1E7200486"
+				"size" "31316AFA31A3B399EA6EF57339AD6896"
+				"download" "CD5485D0D440F5BB08FDEE521E994ABA"
+			}
+			"qabeta"
+			{
+				"gid" "458692686D2154DCEEED46F5F257B4B0"
+				"size" "4E58BC8004F1DF1BD6897EFDD8E60490"
+				"download" "6239611AD3CC85E36E292A848E8D9D34"
+			}
+			"qalive"
+			{
+				"gid" "AA0DBF7C7C6AFF0C7BEB10E40887ED74"
+				"size" "FB87AF5FE68409D89284EF118C499028"
+				"download" "B12503BACD9AEDB61AA521EA99F606D1"
+			}
+			"qatest"
+			{
+				"gid" "64DF8BB209C7B6516F76A1903435E48E"
+				"size" "7A03871686167AFF27778C2073FDB2ED"
+				"download" "EB5449E7443D2456EDC1ED43F3E45514"
+			}
+		}
+	}
+	"1174182"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2258488483491377476"
+				"size" "78804578319"
+				"download" "78293674288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "208C40667D1DAA1EE525346B0968F101"
+				"size" "E3B9411F4D765627F7F95544E6ACA0C3"
+				"download" "3D8AF9757176C4B80B3B780080CBC57E"
+			}
+			"qabeta"
+			{
+				"gid" "257B3EF0B178DD7B145023603178A553"
+				"size" "2C8BE68EA79D378151A0AD77FF58BEF9"
+				"download" "0AA635AA4FA15F6139CA4306A01AAF4D"
+			}
+			"qalive"
+			{
+				"gid" "4410B6EC99FEF6990E5333A2BD52BDBF"
+				"size" "D1309F736D4F105F23FC5FF4EB42C552"
+				"download" "5957FCB55AC663D286387394C464B63A"
+			}
+			"qatest"
+			{
+				"gid" "550DD432B420324FA9A87FAE3FB87189"
+				"size" "A09383563B9819BDBCAF96787798E369"
+				"download" "7F97FF233C604E645BD34D39A6A907A8"
+			}
+		}
+	}
+	"1174183"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4785346550216140531"
+				"size" "390640"
+				"download" "174240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "E48C799A21FEDF696C3BC9F114F1277D"
+				"size" "28D1C60567C4145A2069D5727B1A2F85"
+				"download" "0D9528E7C2EEB0DE3209E7011E4C0B65"
+			}
+			"qabeta"
+			{
+				"gid" "3E240362D491AB314833A126C253DE67"
+				"size" "932236199F184B4D59B496C898B69E90"
+				"download" "1B785267C4CADED192E7C25BE1F0FCBC"
+			}
+			"qalive"
+			{
+				"gid" "4E0AA93AF93FE818940C5D270F73A04F"
+				"size" "17923E48C9842D3EE03E6F71A367CA10"
+				"download" "28589889F8DFD930AC1465662A667738"
+			}
+			"qatest"
+			{
+				"gid" "003E322594EA3C45E766A090DBE58074"
+				"size" "001C4CEBBADEFEDE998CB29099E6DED5"
+				"download" "3AAC83F6143B953EA32681D86739A631"
+			}
+		}
+	}
+	"1174184"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2698939236196220127"
+				"size" "5460348964"
+				"download" "5241887744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "0303092EADC06D51AB311B1D073FA88A"
+				"size" "E22DCC8C6366825EB2A6BB5654F5F35D"
+				"download" "722F5392BF633A031A5AE31CE5C3FCD2"
+			}
+			"qabeta"
+			{
+				"gid" "2F203C8013338694151A747C94BAED51"
+				"size" "C0CF3E2BE50BF50DED68E657FEB5681D"
+				"download" "15801D27AF9EA0B7CB4CF83B02A064E8"
+			}
+			"qalive"
+			{
+				"gid" "6F5B988863CD375021DA36DB46C279B0"
+				"size" "2E89BD3C48A8C3AD50075C7C61BF566B"
+				"download" "86AAD0EC551BC5D05D0D7E1BFDDEDBA6"
+			}
+			"qatest"
+			{
+				"gid" "C07065B63BBFCB06BC2C60903BD2C5AD"
+				"size" "4BB2B5C07C8BE23E30207ABEA7FE9203"
+				"download" "BC175FCF43B0C825A6904C0AFAE34485"
+			}
+		}
+	}
+	"1174185"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8173342615013177810"
+				"size" "17767404187"
+				"download" "16261263088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "5DFD15DFE5D77A44AA33F8F3702A6298"
+				"size" "3E99CD48022E88F4BDF28E91D0F04735"
+				"download" "85CF82686642CC1CCE0DF5D71E56E1AB"
+			}
+			"qabeta"
+			{
+				"gid" "2A207714301EEF95A7DF51638EB5B251"
+				"size" "1124950E4D67400B2284619EDBBEB621"
+				"download" "060367C6292401AFA8C805C36008A695"
+			}
+			"qalive"
+			{
+				"gid" "D4F1923AD320B0AF63EF2FDF464C4A9A"
+				"size" "E05F470A1207892EDFC6BDFA5564FC09"
+				"download" "2B3963E6846E27BDD78B5FAD69E04E7D"
+			}
+			"qatest"
+			{
+				"gid" "28707FB444C160B60801C480451AB7C1"
+				"size" "62F3B53302BEC18D8C4B4645A154E787"
+				"download" "A344E9C8166C1BCBBB0F79185C343EAE"
+			}
+		}
+	}
+	"1174186"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "357926288062992323"
+				"size" "26009156930"
+				"download" "20901920112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "DC34BC00FC59ECFDE9CB4989E0BFAFE0"
+				"size" "B9C25BB095FF5393906A2C80A85A0137"
+				"download" "D4777225BEB72EFAFB637449301E09EE"
+			}
+			"qabeta"
+			{
+				"gid" "0B4EDFC7D9366F47FFE491789DD0D0AD"
+				"size" "AAAFCDE2B89EDC5D092479FAE41DFB49"
+				"download" "9A742F999156997D553E62574513900A"
+			}
+			"qalive"
+			{
+				"gid" "7F2561B60CDAF7EC3052D8198DD2D67C"
+				"size" "E8B06B4D1CAFC35862659AE703D5F561"
+				"download" "FF86B48A5EFD0012E8F6A0DD23F49BCA"
+			}
+			"qatest"
+			{
+				"gid" "5376845BB3302332E5950927A77688AA"
+				"size" "D55C65637343FF17C06218FA09E2DD8A"
+				"download" "CCF2B425A950649FBA2A09C46014DA02"
+			}
+		}
+	}
+	"1899671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2485572587613409384"
+				"size" "292044061"
+				"download" "250080416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "D847FFEAF89A2D65934B3C69747B1BEE"
+				"size" "469DC6311A184DE779EC00052E9B6B13"
+				"download" "5A3994C128AB08132ECE5488FE950FA4"
+			}
+			"qalive"
+			{
+				"gid" "554FF6F8335C26DD37242756A7B0F535"
+				"size" "8F33868B4E202F65C16B7F6777297950"
+				"download" "893268905715FBEF6AE545AB213736C7"
+			}
+			"qatest"
+			{
+				"gid" "ABAA3ECC0B9E95E99AEAADAC50BF840B"
+				"size" "C927B7212DBEBA8F122114A3FD9A9792"
+				"download" "278E3791ECDE2CF3851FFC936F103F74"
+			}
+		}
+		"depotfromapp" "1899670"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13773296"
+			"timeupdated" "1710843129"
+		}
+		"external"
+		{
+			"buildid" "4427137"
+			"pwdrequired" "1"
+			"timeupdated" "1574770241"
+		}
+		"qabeta"
+		{
+			"buildid" "13239009"
+			"pwdrequired" "1"
+			"timeupdated" "1705935812"
+		}
+		"qalive"
+		{
+			"buildid" "13773296"
+			"pwdrequired" "1"
+			"timeupdated" "1710762408"
+		}
+		"qatest"
+		{
+			"buildid" "13185360"
+			"pwdrequired" "1"
+			"timeupdated" "1705413633"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23821298"
+"_sha" "66c557f45413f864b251abc364a74249e287c4c8"
+"_size" "12820"
