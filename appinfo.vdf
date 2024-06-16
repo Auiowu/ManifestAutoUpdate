@@ -1,0 +1,3228 @@
+"appid" "2195250"
+"common"
+{
+	"name" "EA SPORTS FC™ 24"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "20c85c4b06587dc66438ee81bde1f9dc3edac88a"
+	"clienticon" "161f64306da0c9ce5ba56cf4f8a1476f719cc2d3"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "d01e05e0fb8e77c790c699b4fa0a9559cf80d16d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2195250_eula_1"
+			"name" "EA SPORTS FC™ 24 EULA"
+			"url" "https://store.steampowered.com//eula/2195250_eula_1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1694476800"
+		"tested_build_id" "11928293"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "40.94707559369544"
+			"height_pct" "28.117193271623762"
+		}
+	}
+	"store_asset_mtime" "1718271990"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EA Canada &amp; EA Romania"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "EA Sports"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_61" "1"
+		"category_57" "1"
+		"category_58" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1695960000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2195250"
+	"store_tags"
+	{
+		"0" "1254546"
+		"1" "701"
+		"2" "7481"
+		"3" "3859"
+		"4" "1775"
+		"5" "5055"
+		"6" "3878"
+		"7" "6730"
+		"8" "4191"
+		"9" "7368"
+		"10" "599"
+		"11" "3843"
+		"12" "1685"
+		"13" "4175"
+		"14" "4182"
+		"15" "3839"
+		"16" "3841"
+		"17" "5350"
+		"18" "19"
+		"19" "493"
+	}
+	"review_score" "5"
+	"review_percentage" "55"
+}
+"extended"
+{
+	"minclientversion" "1694466342"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "EA Canada &amp; EA Romania"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/FC"
+	"aliases" "fifa"
+	"listofdlc" "2195260,2308280,2380510,2380511,2380512,2380513,2563700,2565620"
+}
+"config"
+{
+	"installdir" "EA Sports FC 24"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/2195250\?platform=steam&theme=fc24"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,latam"
+	"2195251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5348451281013954290"
+				"size" "48412400630"
+				"download" "46995335840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "DB9F7A0B370FDDFA29F1129874A74FE5"
+				"size" "0E7A8DB66FE247303F6F7D7118AD9B59"
+				"download" "600B451D5792F571E36C86F80713F3A8"
+			}
+			"ml_final"
+			{
+				"gid" "A86ADA17370B4D38DE308DFA8C0C3C33"
+				"size" "C8FC1D74B8568F09DFF612612A7E64DE"
+				"download" "C240FDD8D1B672B35C39B0DF1E8739BE"
+			}
+			"ml_otp"
+			{
+				"gid" "57D1653BB4ED097C8C5A9E6F4C847709"
+				"size" "A2721D1B2AC22F6E0A46B494F6CEC4DA"
+				"download" "9C677E7B1BBC1B498EA57CFF17E99697"
+			}
+			"ml_retail"
+			{
+				"gid" "46CABB75A7012E2017284C6E60473A82"
+				"size" "8A4ABB92392A5BFCF2E341AFB3AB6833"
+				"download" "3E74F9299B861927903BDFC4BBAFB1BD"
+			}
+			"rl_otp"
+			{
+				"gid" "7B2F4446095D4A321BCBBB24767DB2FF"
+				"size" "2FC11A33855C924D02C6EA0625EBBB09"
+				"download" "8FF2A192C240AAFFCACA1CCB6C599C35"
+			}
+			"valve_review"
+			{
+				"gid" "4F2149ED4195A8B17FD1B9486634D724"
+				"size" "9EAFDF8096A803E98757B0C4D47311A7"
+				"download" "CF82D1FFAAFEB123D22F0A7D45F08544"
+			}
+			"eacc"
+			{
+				"gid" "1385DE8E88EE2443FC1ED1E71A306B15"
+				"size" "0AA6596F4C3AD1324642A2E988319B51"
+				"download" "D0478BB11518FC520422CAF4DA848424"
+			}
+			"eacc_patch"
+			{
+				"gid" "6BB1C850B9CFBD05722F71BCBFF53AC0"
+				"size" "40699E518E85D46B42CCBA7FBE5F2202"
+				"download" "FC59FBC124F206521D81661A756C57AA"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "3DD70BCCDC71CC8B08106B5315B84120"
+				"size" "B4F374B1105AE09D24ABAD2CB541A9E3"
+				"download" "E281E38DEBC5C85A6F842670962A9F0D"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "EEA02D187DB12027BBDE417E830FD1E5"
+				"size" "C1D1B0BF7AE01D5AABFEEB4AF030E34D"
+				"download" "5B4E4E5AB2C31C90A5C9376EA87EF58B"
+			}
+			"ml_release_debug"
+			{
+				"gid" "D00447D6C6EFC66A3101BD11DCEF1B29"
+				"size" "278AD5E810EF6C8241F5D668EC533BB9"
+				"download" "E83817F4578D22018D1B64E2F367A9D2"
+			}
+			"rl_final"
+			{
+				"gid" "A5E5CF0A7544C478A9CAB2AE6EB3B2E1"
+				"size" "A707CE66BB73C5ADDC62BEF89A9BBAD1"
+				"download" "F15A9C7BA72991396897E8E8BA213AD8"
+			}
+			"rl_patch_b"
+			{
+				"gid" "569CB81D1CDBF27F485743D1DE4B8A81"
+				"size" "C4C193E238B7E1179F3908A8BDC34311"
+				"download" "2FF880E987016EB6BEE699D273A66756"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "8CB5B7C75874EF28879FE5DDCD6F0EA5"
+				"size" "366A515666B7F39A626CC4C52752D9A6"
+				"download" "23836D0D99A97FADB463660E7E74B24D"
+			}
+			"rl_patch_release"
+			{
+				"gid" "6752E0BA91BA372C003264D3344501B4"
+				"size" "3D24885F325FC8140F3EA8F4A390E336"
+				"download" "456B58B498A70000100B229141C9398E"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "7828C93ECEA6B4B5AC2B4E9159D6DE6D"
+				"size" "21557C4B8E018C6D0313AD7620687832"
+				"download" "2C0F112726CBECA692D84C6EBBC30772"
+			}
+			"rl_release_debug"
+			{
+				"gid" "D52B9D4DEDC757E6DF5CC7F972A6477C"
+				"size" "A7BF9CE72723BDC099D3481B0AD756EF"
+				"download" "627EB1462834292C2CF1DD6D952AE3C0"
+			}
+			"rl_retail"
+			{
+				"gid" "615529D0131AD3C2EA45667E5CF85BCA"
+				"size" "AFA16119E7024D877FFE387A9213CEE3"
+				"download" "DACB52758B27D596EAD1E714431091FC"
+			}
+		}
+	}
+	"2195252"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7988050302111697236"
+				"size" "4011839119"
+				"download" "3503490176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "0A07F7AAFCB95FEC6EFF40D7DC3AEAE9"
+				"size" "D8CEBA92369E7B30AE6812CFC3A54452"
+				"download" "8126A5EB8C4A77E8661E0C7E1CD44B31"
+			}
+			"ml_final"
+			{
+				"gid" "1BAEFC64206D68501392E641C1355BAC"
+				"size" "B7083BC87F3418F240F514B1F6F51AEE"
+				"download" "3ACB9A1E2D6103D64ABE0DEE362610F0"
+			}
+			"ml_otp"
+			{
+				"gid" "6496BEB37FB7B26C28639D6C44AB1A2B"
+				"size" "F1667F6A60F1A91B3DBFC54286ACE8D0"
+				"download" "929935981A400D205C2C04417DE3B85A"
+			}
+			"ml_retail"
+			{
+				"gid" "31881ECBA68E895805D167DC4B546938"
+				"size" "E0F3EEB6C1762F8AAC9302462A230968"
+				"download" "60AA835582A7607FAB3B1FB127C6BAE6"
+			}
+			"rl_otp"
+			{
+				"gid" "1D79E383DB041DBE8DC970B020D92CC4"
+				"size" "C33797208D163260F979F688618C8982"
+				"download" "C4833343A71558D6CBAD903342A7A3CD"
+			}
+			"valve_review"
+			{
+				"gid" "C0B7EDE90489166DC9C29BCD996B7A70"
+				"size" "2E9E930AFE22D6C584D0F9E9C441F527"
+				"download" "A3871ECBAF6C1A4DC2063C0B1089A956"
+			}
+			"eacc"
+			{
+				"gid" "7E6314C44D88F0813D62A069F12979ED"
+				"size" "50FFABBD95860EA2325CD34475B91D46"
+				"download" "9BED5A9D8B39B622B5CF7716198927EB"
+			}
+			"eacc_patch"
+			{
+				"gid" "74DD412AA7FD5E516F41DA1BA5E5EAFB"
+				"size" "B26408978A120724AB535E251C757B81"
+				"download" "16F168E3C9CE6563BADB2E2140AF18A7"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "C63FAE1E6CB0F87CF0F7010D8B01D167"
+				"size" "13DBCEC9BAC0B3E20385B85387B0C3C0"
+				"download" "B7FD0B47924F53CDFAD18BA815936B07"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "88975B02D5C21EA609AC2B5D723DDF1B"
+				"size" "4E45BD0A086327CA91040E7F5223289D"
+				"download" "F69FB0871A595A0FDB6FA80A91441553"
+			}
+			"ml_release_debug"
+			{
+				"gid" "1B923AF84C860C711E237CBCB299241B"
+				"size" "7A37774C36ADF8D840A03898400CD97F"
+				"download" "4468460B71308268C53A97C3E0044C4E"
+			}
+			"rl_final"
+			{
+				"gid" "A89294CBEA79766F6826D37BD373B712"
+				"size" "25901094E7D8EAEF869D690114C353A0"
+				"download" "C7E7B15F9FDE4907B5FE81AD677FC810"
+			}
+			"rl_patch_b"
+			{
+				"gid" "651133EE3D015FE9665E8FC35E1F951F"
+				"size" "7D04A43CCA44F031A5270CBE739D8734"
+				"download" "061727EA0BFFDA6D992D32CCB157C9B0"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "3D934AE696C40074D4C7DD54609663A8"
+				"size" "31166E10FFC966C3788E41A56D787603"
+				"download" "1716565AA438DA9259B9E95690D6DD5E"
+			}
+			"rl_patch_release"
+			{
+				"gid" "C39A8FB355C425A812DD658EE545D58D"
+				"size" "2570AD4A360C6B9663AA35882E8ED3DA"
+				"download" "0A934A43FC4D82B1BFA3349BB5836D12"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "A7C881722A49A343DC29C206D3D7422F"
+				"size" "B4CEDC19B66E231D22891E0BDB2754B0"
+				"download" "3D30A0C533AD0A71E13017F1F54D25C4"
+			}
+			"rl_release_debug"
+			{
+				"gid" "63951D52EFAE210FE9C2B195651053FD"
+				"size" "39991CF24191DED0A11FB5E8022F0138"
+				"download" "7027FCB50A3F9036CA43AEE31A944C17"
+			}
+			"rl_retail"
+			{
+				"gid" "33BF95C067459A7938400C4D8EF64891"
+				"size" "64ADDA1B172F1438D2C644F51603E0DF"
+				"download" "17607A2B326327281F0D78E9F6D4B1AC"
+			}
+		}
+	}
+	"2195253"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8248160434287288778"
+				"size" "1517422659"
+				"download" "1396927856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "BA83483B22EC8E449558E6E8B868FFA3"
+				"size" "8392E2880DA9729BAA7413323426C03D"
+				"download" "B428A34B7F41F6B30CA81589F3855451"
+			}
+			"ml_final"
+			{
+				"gid" "583D785E55E989F6DC70BDE09FB2CCF2"
+				"size" "F5E9B671BA330E5D6D7707EA31620F55"
+				"download" "08F748E13CB83DA95ECF01EF9F623A68"
+			}
+			"ml_otp"
+			{
+				"gid" "5B0ABA5518359EF529DFBD856EAC6C58"
+				"size" "6D47B8048FC76FAD3BFED99C8E7F0D7A"
+				"download" "E6AB9A55A6602668D3A0CA4DBDD63105"
+			}
+			"ml_retail"
+			{
+				"gid" "0FAC26A845CF086B5CE38D81D3D881C7"
+				"size" "7B66529DF9B3ECDE88562956FB4FB5BC"
+				"download" "97944120CA800772C7C36CB0892141FA"
+			}
+			"rl_otp"
+			{
+				"gid" "BFE30EECDC4F75DEBAAE6E84E3CCFB4E"
+				"size" "E7FCF562C4AF2D54F6FCBF7A179B1974"
+				"download" "D62ED0187EFD3B3B3492E9D5DDF2FCD0"
+			}
+			"valve_review"
+			{
+				"gid" "D504263F0287E4A910FC4BC5529FE332"
+				"size" "782D50ACB0E33D2E94D94C5EBB142D06"
+				"download" "5CD78BDD89FD54D15BC6FD6685494C17"
+			}
+			"eacc"
+			{
+				"gid" "C29273A09C163E1A1C0E50FFD730736E"
+				"size" "B35872F0E3B0E0369E1A3251035BE2C8"
+				"download" "6661BB2844C6643102D91984B033ADD2"
+			}
+			"eacc_patch"
+			{
+				"gid" "E4133DC70AB95D9AA13AF5C708F95579"
+				"size" "9D79A9F0AF1397A074932F34F8392956"
+				"download" "63E8549509D432218C8470F5CF6C2B5C"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "B99309D30CEB309D326C58347083039B"
+				"size" "293146141DB504E2DF694CBCC801445A"
+				"download" "E7BDBBC51403809B7824D596EE51250B"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "43D866FBB2B43D88333BC21443157506"
+				"size" "E22C7E115A237B3356C8AC9DAE9C7ABC"
+				"download" "3A889C69C15EBA374F9EDC8930CABE95"
+			}
+			"ml_release_debug"
+			{
+				"gid" "BEBB7E9A1E3B2F784AB14D8A4B426CE3"
+				"size" "E6A9103E83DCEBF93BE102D314A6D66F"
+				"download" "C23A3E8F7882633C308FE6BA77461BA3"
+			}
+			"rl_final"
+			{
+				"gid" "CE61F88F5CE5F3A31069C6BDC7C1FA7A"
+				"size" "28D7260A4DD4D9775B115B861A5C7D29"
+				"download" "CE9E34FB6E878E2165BE4C09E2C9904B"
+			}
+			"rl_patch_b"
+			{
+				"gid" "D8513E7206CEEB77C7A8C7127D38C887"
+				"size" "74E87BB74FAD6E99A48F3F73B727F8A3"
+				"download" "B831AE6F9C14C1DE509AC9CED4165478"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "65D361D4ED0C91E77B7D0A03CC0C2D6E"
+				"size" "6C7F22C815B074FF2BDB431678D49024"
+				"download" "539F5EA3B2CCC4525B63383ED621FA80"
+			}
+			"rl_patch_release"
+			{
+				"gid" "A4C15A139CE22856963642B3F619862D"
+				"size" "497C65BBE79B6551489B1B4CB7774473"
+				"download" "87BE1F32D6E0294EBC173C77EED5327C"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "7B745E7948C2E0E514074A4068C52604"
+				"size" "81447D6741F7807A318DA08B6F3774E2"
+				"download" "AD714CAF5F5D089EFA4A10F62F20F804"
+			}
+			"rl_release_debug"
+			{
+				"gid" "DEB0260384BBFE65D424ABCD3572605D"
+				"size" "A1656C12C7AE4DAB1842B5D3590CC3A4"
+				"download" "12A628B217642B57E2B03330D13F1220"
+			}
+			"rl_retail"
+			{
+				"gid" "27FDF8AD05D4F55C295F26830F2AC91D"
+				"size" "0DD4DA7CB79B49ABDF7FDBC334C54775"
+				"download" "96E368A1E898393FFA5B06E65B5F6BA1"
+			}
+		}
+	}
+	"2195254"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4515448706296863840"
+				"size" "931834431"
+				"download" "856269776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "241C83A95A38B0386DDAD8292BEFAA0F"
+				"size" "A3BC03AEF775AC6380453FEF4E7FBE18"
+				"download" "398C3990F7885E75B75A4251BD8AF4F7"
+			}
+			"ml_final"
+			{
+				"gid" "3FFC23AC6EA79045DC1769F337439B26"
+				"size" "3EEAE8038B6547A00D7667A0C06166E9"
+				"download" "18A6561A4D72BDB5A95731582B5792C2"
+			}
+			"ml_otp"
+			{
+				"gid" "BC0368B041C45DA6B7147B9ADE8E665F"
+				"size" "D99F087BD24455C9358E58697C67F323"
+				"download" "D4B065705FE927512811F017FFA340E2"
+			}
+			"ml_retail"
+			{
+				"gid" "8ABE350CA17EA845A44E5B3E336F67A1"
+				"size" "E82C094014A4CA440DF7F3A584850D6C"
+				"download" "25865646F930595D563C4B960F8CD32E"
+			}
+			"rl_otp"
+			{
+				"gid" "F304BB744690CABC787F9B660AAC6C4E"
+				"size" "AF007BB5921C1B4EB920D250EDBA4187"
+				"download" "C2EAA516A4DDB8C4FFFC85CD78E0C2EF"
+			}
+			"valve_review"
+			{
+				"gid" "2B5F3EEA1A18A564956A54B3B43C91AF"
+				"size" "FDD5E3AF200BE80F399BB21A1EE7A1BB"
+				"download" "741BC8DF9B015D8801B80CAE3B9B16CE"
+			}
+			"eacc"
+			{
+				"gid" "A80CD141B3B20083DF3ECA3837C97A09"
+				"size" "7F3EE2564509B7323668C8972B199238"
+				"download" "0E0E94EB6BE870910DE478F4DC9BFF8F"
+			}
+			"eacc_patch"
+			{
+				"gid" "17ACB07340C261B271AD4A2BD6944C94"
+				"size" "715C89F8B0F2B4EA43A981F0DD7FC040"
+				"download" "A5D57932BCD0BD162BE41510FF313262"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "723BB09430B18CBC724A4DBE78DA0FC3"
+				"size" "C693262B31EB9CC6597B29630FB0D47A"
+				"download" "55729C6383E28BC764E290C87E0E8C1F"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "85CCD6C806B0FCF6AB2D65608D914710"
+				"size" "853927EC77BB005B33420DA9C2B4E9B1"
+				"download" "164FCA1B162BC069659E11C813D56194"
+			}
+			"ml_release_debug"
+			{
+				"gid" "3509E73F1C6A6963E670544201BF41F3"
+				"size" "30F1188E5B8D699DDB93E74689CF3EB2"
+				"download" "6B8CB1D8DBBA8E8B28B7FEED9B51FD78"
+			}
+			"rl_final"
+			{
+				"gid" "E03CF47B97A88AEA3E3A1B51214000AD"
+				"size" "376120FB534B417B42B27CF63BB4A0DB"
+				"download" "85AA439EF1A46BCA134C90A54182AA8B"
+			}
+			"rl_patch_b"
+			{
+				"gid" "6C83DF547B1F22588F10E968ACCC44ED"
+				"size" "F7B64E9F80AC8709C367AEFBBDC10325"
+				"download" "0478B78D1E6E5C49326702A2284C9E83"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "04BEBE3C3E2EF35B16881D4310025F06"
+				"size" "114BBFD74FD85D9E135215265DDF7F5C"
+				"download" "6C65B8E9426A50955D90CC7D730CF4E0"
+			}
+			"rl_patch_release"
+			{
+				"gid" "08B5613AA6984E05D81B83E49FBE44A5"
+				"size" "B6A073B5BFB923773C7058F682176276"
+				"download" "0891EC7E15C5733E43334DF969052423"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "EFF27DF53CF685855FC6A62398A26C53"
+				"size" "7E9BF37A6C894F8D161F7E088E1F1FB2"
+				"download" "52701170E72916C22E7977752D9503E5"
+			}
+			"rl_release_debug"
+			{
+				"gid" "B9BEDC24E30C745A998C233309C12C7E"
+				"size" "7EC15F8E88C64E9988775AD9F04F029C"
+				"download" "EF1ADB3CAD91F62FE25267037091D12A"
+			}
+			"rl_retail"
+			{
+				"gid" "EFD30DD93109204D976C00DDB796FF20"
+				"size" "64EB9429AC230C3AD0F968769321A28B"
+				"download" "644EB9E6ABE5CCC12FD2B9C60ED05411"
+			}
+		}
+	}
+	"2195255"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2894907807690335856"
+				"size" "1292392811"
+				"download" "1190573664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "BDDF2FC274C8CE073C605414E6871C3B"
+				"size" "2500EE15DE48C9F40A66E99406F633BE"
+				"download" "158F1309F9337D154644DD99CA7EDECB"
+			}
+			"ml_final"
+			{
+				"gid" "7B938388C01210C550B7A27D9A89E999"
+				"size" "CD96560D64728FF1F3C963E401CECB68"
+				"download" "13CD4014F9BD9DD8AC0A12B2340860A5"
+			}
+			"ml_otp"
+			{
+				"gid" "725597E2220F2332BD17F696CAEA2EF1"
+				"size" "4D651B55662CE000C3CA91B444594330"
+				"download" "7988F860D18A6DBD4F365A386A56525B"
+			}
+			"ml_retail"
+			{
+				"gid" "A94579F95E1DDF4E79C7EA6481115C55"
+				"size" "B6BF47F4544DDFFA08063027EEF866F4"
+				"download" "7773E0DDEAC38636FE00107066747856"
+			}
+			"rl_otp"
+			{
+				"gid" "C9483897153EAF4ED0677D1281A25D70"
+				"size" "242B42258F7B940AB7A8CA5651250500"
+				"download" "E2450E641E7907FB660CA3E4BCB8A97E"
+			}
+			"valve_review"
+			{
+				"gid" "8BD6DA2CF9910127B8300196C8742FE1"
+				"size" "5A2BAA8E1762947E52E5CFA7D0588420"
+				"download" "DAD16727A7C25E596A3EF3B7A9057C83"
+			}
+			"eacc"
+			{
+				"gid" "B338D27983B9EDBB99DEFDCDE699C3C7"
+				"size" "95C26806432AA290C84084066E46229A"
+				"download" "C2DCC60F49AA218AB9390697BE5D7463"
+			}
+			"eacc_patch"
+			{
+				"gid" "CFB1FF222E2A2C4DFDCB11A06B18A6DA"
+				"size" "4B9A439B0DA6017896244150165F2C13"
+				"download" "C83F4D75727E87C74291CC671D3825F9"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "7CB1CA4365ACD922D2A336610485C486"
+				"size" "FC79524E6285547CE093AD54003BD313"
+				"download" "CC12F7676D98E4EE3EE2B7D6333D49A3"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "52A729BAAD669C07573581847AF09E6A"
+				"size" "F7271ABEFF17975FCDDD938ABBF9E96B"
+				"download" "642918B24AD8DB37E3597428B6BC6EB3"
+			}
+			"ml_release_debug"
+			{
+				"gid" "2935E8F9D7827C96C103D74BBB9027CA"
+				"size" "510DB622A9F9FE871F27AA8C169C8C8E"
+				"download" "8066B33A7610A0252519C0FA5D44B33C"
+			}
+			"rl_final"
+			{
+				"gid" "65AD0F0D49ACC37C8006D923579F08C3"
+				"size" "B679943521088F5DF45609EA494BD07E"
+				"download" "D2D60F2814BB7EFBF513D5940197BF1A"
+			}
+			"rl_patch_b"
+			{
+				"gid" "384C5249BBE22BAB25FD883F637B236F"
+				"size" "507616DB296468D61475A73339645B72"
+				"download" "9553B0FC63603C73E4FF2B5C20AD40B7"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "FF1603671DB91B2535E5FB4DAAA0D56E"
+				"size" "ABFB34F95EC6E05A05CEC292C0CC045B"
+				"download" "F1900AB596A322D4C96171D2227932F0"
+			}
+			"rl_patch_release"
+			{
+				"gid" "19D3021E3EE4BD5FF708A75672BDC0A5"
+				"size" "DAA4928504C8AA28B71848DAC8C2C482"
+				"download" "95D53C2A8975119EC5734B56A36534E7"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "8EF0971F10FEE182BF8B855DE42AC36A"
+				"size" "3FA982C8880C539F5A2A23CEC695E287"
+				"download" "3DDAD76B6CA7B27EB7601299C4E4C248"
+			}
+			"rl_release_debug"
+			{
+				"gid" "CEFBCE8FBFFC7506D4ED92A0872D7D94"
+				"size" "495003F279CA06869D7A7B8F2CB8573C"
+				"download" "7DD40C7500C4C1575CCF9CC50E12230C"
+			}
+			"rl_retail"
+			{
+				"gid" "E7411D4BFCA46C115943C3085CE4F235"
+				"size" "6F08603A8B085AAECB6531A8B8289568"
+				"download" "BE162981F8B46FB6F60B7162E61313D7"
+			}
+		}
+	}
+	"2195256"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "413781426862106020"
+				"size" "4012103751"
+				"download" "3505482272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "162D17077A5EA7EF6D1D9073F598B594"
+				"size" "1357187ED411166D0CA6224F6762F6A0"
+				"download" "C9B4E75657F6E0028ED454478A04D216"
+			}
+			"ml_final"
+			{
+				"gid" "0443F401DA3AF111C8EE3B0FE8B22BB9"
+				"size" "6C6AEB51180CD8D95CD7B813B5887294"
+				"download" "CC89E8E82A41CE5FD73436AB1BA757D9"
+			}
+			"ml_otp"
+			{
+				"gid" "4791EA209D2725D19A43B4708D1D30C6"
+				"size" "9D69B0079554D64D39C882672F9B81FE"
+				"download" "0E09202FC3800119BEC12E2E83A6D55F"
+			}
+			"ml_retail"
+			{
+				"gid" "191A78E009C97A5FDAB8052F40247BEC"
+				"size" "BA04290C24DFFF2FB4673231D2E034CA"
+				"download" "4C729FFE6369F213AF9E92F1688D2A68"
+			}
+			"rl_otp"
+			{
+				"gid" "DBC8E45252FD194FDEF9A43B49012B43"
+				"size" "AA4957EF68D690C585E19C571557AA4D"
+				"download" "3C5674972C6171F91D92A45A43F76BF9"
+			}
+			"valve_review"
+			{
+				"gid" "E3BC83BC26F450654621465A5C899E55"
+				"size" "343D3A96798AB45C4825E0CF4BA990AE"
+				"download" "6CBCA364AF0C8A3FB037E7AAD467BECE"
+			}
+			"eacc"
+			{
+				"gid" "50FABEA1D5DB8CA11605B43AFA5434DD"
+				"size" "6E955FBC0F84A5D7033E88022A7F117C"
+				"download" "172A9F4D4B79E1B4AFDEFB324341C230"
+			}
+			"eacc_patch"
+			{
+				"gid" "267A952FE566D85CB37C9E011946DE65"
+				"size" "FA95E71CC1E5CEEF976F393403AFB9B0"
+				"download" "9280681A38F32B12BA9A846BCDCAEE55"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "BB9EA5603A8E624EF5FC59A17DDB847B"
+				"size" "BC0B77530E512FA6FABC3C09011FEB9C"
+				"download" "776F722F7616BF4BDFCEC1708992CAA5"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "D3E116C15503EEE97D695522A0BD1A34"
+				"size" "09581DCB817AFCF716D3C43BF230782E"
+				"download" "136CE4F9C4816D328566374D8C138134"
+			}
+			"ml_release_debug"
+			{
+				"gid" "6D1F1966C43C26EC132D6B84DCF75236"
+				"size" "53BE796730392FCD03BA991E7FB392EE"
+				"download" "220BF37C50E85BDBDD7D09164B8EE47A"
+			}
+			"rl_final"
+			{
+				"gid" "C29BD73173971CDD8053439BD46C8F71"
+				"size" "619D103D81E29AECC92CCB2AF9134376"
+				"download" "181A80D17912108ADEDC4BABA0B9DE68"
+			}
+			"rl_patch_b"
+			{
+				"gid" "AF865071143DA4EACDF27D8D811C1F4A"
+				"size" "204EFFB480BAE444B0E14CC5936256B6"
+				"download" "E7CCA6C38F4FEC5DCFF5B37BC0FB42C5"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "340F06D2B1B1F602D376BE437F85B566"
+				"size" "2238EAF30E32F1355653A4062D9D191B"
+				"download" "BF1B91897FA3CB9903F2BDC8FE311849"
+			}
+			"rl_patch_release"
+			{
+				"gid" "0BD40BF8973FC3A8F49AD016B865BDA9"
+				"size" "4D40B980D07E444F0223C7471425062D"
+				"download" "95AB52F7586AF19438013C647D114B0E"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "006EF4C83539F9DC94A8EAD510D4BDED"
+				"size" "AAF0B9EF27B716C8E375BD63AC932467"
+				"download" "212B11CD86C7FBDA6425730D19A869D9"
+			}
+			"rl_release_debug"
+			{
+				"gid" "619E8E96689F5C96399B564562BC3BE1"
+				"size" "F3B027D27EA9A8E0D90D5F9DCE309486"
+				"download" "6497E8F30A78BE033821A48555C1E3D1"
+			}
+			"rl_retail"
+			{
+				"gid" "FD6E686DB75127E239537015AC1EA970"
+				"size" "05B28F426685C46F3020118882EE6156"
+				"download" "7FF205FD52F3C3DA6026C2F9E525DAEB"
+			}
+		}
+	}
+	"2195257"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3451108889372615769"
+				"size" "1182394744"
+				"download" "1085984880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "3E563E83A23D734D8F633D03E1D7062F"
+				"size" "BFDF50D8398DCB39532CC6E58F93AD84"
+				"download" "C28C9EFD54A49F64DA958A418F315173"
+			}
+			"ml_final"
+			{
+				"gid" "7C4A9EDDBB4E491C01BA5BF11390BF44"
+				"size" "E67905E6FF839BB9EA5FDB7CEE4F8024"
+				"download" "A0DB79E8631FC93F7EAF14CED43094DD"
+			}
+			"ml_otp"
+			{
+				"gid" "CCE00E48E4050A08010E25E8BA983616"
+				"size" "2E9E43D37D3B7A9BD2F311B93A4EDCCA"
+				"download" "94030749C9F3742C0FFDBA29D3E93578"
+			}
+			"ml_retail"
+			{
+				"gid" "2A89BEB18A18FCEE32858C7948406363"
+				"size" "E674A634A2EEDB3CFA7A2D4877769DCB"
+				"download" "95F530038C0DEF6154B2A45160D7D98C"
+			}
+			"rl_otp"
+			{
+				"gid" "81088C34557A638A37A0CB5FA4FC56CA"
+				"size" "FC15CAE644A5D4210B2D0F37A6838479"
+				"download" "27DA0F1AE25F9DF604D54702F3384FF4"
+			}
+			"valve_review"
+			{
+				"gid" "2DC8BF2D3292859862FAA0E25A67E6C4"
+				"size" "ACFB4DD39F2888DD3BD83B418722C55A"
+				"download" "F7FBE81D7081A462968B8B2D67748F76"
+			}
+			"eacc"
+			{
+				"gid" "6D4DAB77D43566CC1E74C8FEF629D520"
+				"size" "5F0DAA13105A642C815ABF2065A69295"
+				"download" "6DD85ABAAFC8611DB42CE0ED47E38CAF"
+			}
+			"eacc_patch"
+			{
+				"gid" "12564519B74A3FCF3A74B642501252F0"
+				"size" "92A9EB7EF1AC77EDA328DE31AEFB251D"
+				"download" "608BB4D8937E35B40D3DD2B2780A77CF"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "3DDDC01B5D80EE1BEFCF852EC2FD3FB7"
+				"size" "1F15C086C728819E653F47CC5AB72523"
+				"download" "06BE3042859F71D4A919DBFE8B4196DD"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "632A5EFD050B1790A046A83F0D8735CB"
+				"size" "BAB8D5ED5294A50F52E7830D6FCD8CEB"
+				"download" "F632C369D81B24684AFFFCAD8141C734"
+			}
+			"ml_release_debug"
+			{
+				"gid" "D8D1C94E9B0670C1AB196EAA4341C583"
+				"size" "FF24AAB10559BDD72842FC070A9FABDA"
+				"download" "1E7E8563001C36446FFD98975DD7AB62"
+			}
+			"rl_final"
+			{
+				"gid" "79EF416D11B17BEB8DAB4E5DB2E83156"
+				"size" "AF49013A589DE6C11358D7865769ABB3"
+				"download" "EEE4F84E07A289C7809F9D701D5E23C4"
+			}
+			"rl_patch_b"
+			{
+				"gid" "A21F0B9EE493CD17AFF94523BAF95BE5"
+				"size" "3FE8A8BD8568863C9A4D9F89B2F29983"
+				"download" "31537BCA932D1CA3EE6EA0ADB1C28A02"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "459D60BAE8FB1DC9294907523A919087"
+				"size" "BB901F5BD2FB0CDA72E4D13376037002"
+				"download" "408C3CCA6EA12BE676AAC1921A2E1E6F"
+			}
+			"rl_patch_release"
+			{
+				"gid" "0637183E8A4B9EAF39E71D499164C718"
+				"size" "BE45D6688FB022F9BD277D8C3FF7E1F8"
+				"download" "E385A80D65F6E2937226C1DDF3D44BD6"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "5946530CBB33449B2BF8121F1BAC3B3A"
+				"size" "65B92962A505B5A107EE7C80EDADCE54"
+				"download" "9654EF293D58C6592E4F341D4EB24467"
+			}
+			"rl_release_debug"
+			{
+				"gid" "63DFB477205C2E91ED37E68AD8EB1266"
+				"size" "39FB898EA5B7E0831253B545011ABF86"
+				"download" "3C4FD4193BFBEBC3A0D63240815C5011"
+			}
+			"rl_retail"
+			{
+				"gid" "B444DB673F73AB5B8090143F32FFB46D"
+				"size" "C40B720F03B801CD238D6CCFE6FEA486"
+				"download" "31E4F0FBB064367E39B567CAD864066F"
+			}
+		}
+	}
+	"2195258"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7173640919071825184"
+				"size" "1183741228"
+				"download" "1088585136"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "5422751DA356F13ABD31910B372E9FA8"
+				"size" "7954074C2296FB25ED8AD212DB5A3CA2"
+				"download" "E71645A6772F8EB89F1FB30A249C2190"
+			}
+			"ml_final"
+			{
+				"gid" "4FDCB599838DBFDB8A68FB927D6562FA"
+				"size" "80483B32EE57EBF080256D137A79A30D"
+				"download" "39FE6D485AE3597CAEE674538F6B8D8E"
+			}
+			"ml_otp"
+			{
+				"gid" "7F2C1EF1E36B450A02FBA76DCF61C047"
+				"size" "957CE02213D270BEDAEB69F09FEA1FF6"
+				"download" "A39C81D386C1B242723628DDC1F504C1"
+			}
+			"ml_retail"
+			{
+				"gid" "323FF4E4B910671CFC1EF56093762F54"
+				"size" "FE0D5FD1782151BB342481BD3E210088"
+				"download" "D6CEB88345AFD348F911EA0B2C08B4A3"
+			}
+			"rl_otp"
+			{
+				"gid" "E221F693B3262C916452DD3411E1BDF5"
+				"size" "0436D27ADED562EFAA2178E51DC8CFA2"
+				"download" "637B685D94B890AE9CD9F97C951D2218"
+			}
+			"valve_review"
+			{
+				"gid" "717E7DA7D704B1DF5116E1B987760558"
+				"size" "21E2F33678B00DE5E767D564BA6946F0"
+				"download" "1BBB7A905E2CCC56652072A81C98931F"
+			}
+			"eacc"
+			{
+				"gid" "F4C109E3A85F7841BC6E70030F8D1071"
+				"size" "F586681B866916FCAA51E9FFAD004D76"
+				"download" "F919D0A005E26882613D6B66290A8B3D"
+			}
+			"eacc_patch"
+			{
+				"gid" "5EB7E98F4C7D8C01E0CEFAF1B2DF2A5D"
+				"size" "027EEF16FCE7A20F6AA598DE86D404DD"
+				"download" "F628E00DE7E6848B8643C15E981CC534"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "77E69DF5807B51B67D7E13E2CC353C8B"
+				"size" "30D70F94FC08DA6015D7790E7EC1CF88"
+				"download" "59DDDF2A4A441A1935191149C5E7873C"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "020D4C207DF5112E34CDDEA99D3C8F2B"
+				"size" "3FBFC1DA9AF61964EE761ECC9163AB09"
+				"download" "49C064EBD602E7716B4A9FF5AB586DF2"
+			}
+			"ml_release_debug"
+			{
+				"gid" "41A09A80241123C5205B6A98C3381BCE"
+				"size" "594B24AD2CF1328217382D53E6579922"
+				"download" "7C3244B4C9C5942BDE7CB641009F128B"
+			}
+			"rl_final"
+			{
+				"gid" "E7E9478015648EDD0DFC65DF4EAC283A"
+				"size" "7464569DD9EF1D2D73A7A06E298C1222"
+				"download" "D36DED333681974D9077C5FC094B7F61"
+			}
+			"rl_patch_b"
+			{
+				"gid" "44515BFE0188A001303BA6B52825769B"
+				"size" "1C38A0DD7D2EA48F2D04D90DFD9ECB4E"
+				"download" "7DB616357A7EFE9D8DBE25081792F2E9"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "5D270269CB5BE49BD7C045A207281E82"
+				"size" "F69348FE4CA5198001157223F12E20E1"
+				"download" "24DEA3EA330C7C56159BCB0C2BC9B924"
+			}
+			"rl_patch_release"
+			{
+				"gid" "47AB9317658A6F1B38F155763015C36C"
+				"size" "F0ABD56B635FB2424D555D9631393269"
+				"download" "77CCCD8FFBC3814110F45F3A8C8940C7"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "BDB3CC4B60BE6657E1DC2B84E5227CF9"
+				"size" "F2067684558124703F9DAAF1B794C114"
+				"download" "E2AD9CC49FF0C7A92CD79043DC02BDD6"
+			}
+			"rl_release_debug"
+			{
+				"gid" "EFB828A2DD76BBC082795B5CA71D2A8A"
+				"size" "FCB2D9AB7347B9CDB29FEBB0EF168144"
+				"download" "A404FA3989868A9CE16217956903CE38"
+			}
+			"rl_retail"
+			{
+				"gid" "1CB4A0C1FE93DAA53787D7F7A2CC8914"
+				"size" "E4E91074BB4D5D4315775BC0ECC4ED12"
+				"download" "BBF7E2124EFB678F6DD824A8C1441EF4"
+			}
+		}
+	}
+	"2195259"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5092406898811643890"
+				"size" "4011857295"
+				"download" "3503502928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "DA67386D4B8A2B50B80ACB00B71F29C3"
+				"size" "FA0F49160C8CB10698F92C30FA2E32A9"
+				"download" "1EC0A1AE255BF619CE106291CF9BF6B1"
+			}
+			"ml_final"
+			{
+				"gid" "C63AEB64AEBBA85D180F9EF25B96EA42"
+				"size" "A565B7A2041A3518884DB30A9AD2D634"
+				"download" "6F8FC19084AA751F85F57350C33509B6"
+			}
+			"ml_otp"
+			{
+				"gid" "238AB683934EE834C0173E04B9AD0216"
+				"size" "F36F236B2595F82249BC772AEA8E7D7C"
+				"download" "FCF13A0EB0DF2F09DA0DAFAF79C52E81"
+			}
+			"ml_retail"
+			{
+				"gid" "0E18DFB2D2C46FBAEC26A28B66C5F9C4"
+				"size" "07EAFD874B0A69876178A027682F2FE6"
+				"download" "2B82E4154641FDFF2A1DC18E9141B230"
+			}
+			"rl_otp"
+			{
+				"gid" "673BB57AFC8A4E60FE9ADB90641E8309"
+				"size" "725775736782A676E2850D00D499CC76"
+				"download" "89D05AEEA8426467548B679CC119AA6A"
+			}
+			"valve_review"
+			{
+				"gid" "FBC91F3E62F037A747226278CB027229"
+				"size" "C645CE6680CAD6EA4FCA632E32EC1350"
+				"download" "F9ACCB5952BB6C55DF10CE942CF6E4FA"
+			}
+			"eacc"
+			{
+				"gid" "76348B98B48C0F8FC9FE3784C3E31E91"
+				"size" "24B44BAE5B77537E828A76611263D9D9"
+				"download" "0065B1C8BA19CB40585E103187AC80D7"
+			}
+			"eacc_patch"
+			{
+				"gid" "18D7FE47F1C67D9152C4FDCC4F619EFA"
+				"size" "8DA6AC1709C4E097569E6A5D875BDEB8"
+				"download" "98146865E2F80CCCF1D553B563B3438A"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "7A3115373EE7CC7D5130A7B5D73A9F31"
+				"size" "BE713A3C236A06996F816A340A6E63F7"
+				"download" "E7795DA9D374DE74A260D097245FF70C"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "87CF91D7CF31418028895D2E59EEC6B9"
+				"size" "FB6D9C10CE594B85DB44906E36AAA2DB"
+				"download" "9B6E73218AF558CD1A169A0104B48EA9"
+			}
+			"ml_release_debug"
+			{
+				"gid" "0F4D4BCFEB17839A831A9FD5156BC68F"
+				"size" "63537E7EC25ACB7678087AEC42C4B4E7"
+				"download" "AD4DAD3B9B2B6E288192733C1EB4CE9A"
+			}
+			"rl_final"
+			{
+				"gid" "851E52056A0BB81881B4E83A5A8498A8"
+				"size" "D15182DDECDF0BB4AAD0A9E4BAB0C936"
+				"download" "CC78E0FE0D556CBAEB32B67F27C2DC78"
+			}
+			"rl_patch_b"
+			{
+				"gid" "1F9803F76B003F696C88083B69BBC518"
+				"size" "351AEA399B5997033CDE0CE7951F4F47"
+				"download" "87740980F0653C7B48F402FCCC3AFAE3"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "081BB9453C1F209753425FE28995BD1B"
+				"size" "D1EF5E2B572CF0201109B1763F70FA4D"
+				"download" "7AC779DCCB58BBA0CA4D8712EEA4F562"
+			}
+			"rl_patch_release"
+			{
+				"gid" "F189D62B505F8B94FEFA1E07E9E860CD"
+				"size" "4969656839FD15AAEDD6D5D7883A2800"
+				"download" "79B5069945221468F25AD30A307670B7"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "20B2292CA7830F5633BA1DD8CD5C295B"
+				"size" "16148AA67DA2343BFC57D2F62860C2FC"
+				"download" "9D798457D6061CC477601C25E8063CC5"
+			}
+			"rl_release_debug"
+			{
+				"gid" "DBEDA7BCE05C5F8E61B0665E2CD73BEF"
+				"size" "21B6AE222D59C436B9DADEBAE3235B12"
+				"download" "D01175FBD70891CE01A675CB8496E0A4"
+			}
+			"rl_retail"
+			{
+				"gid" "579F5D5FB5654E0C9DAD040D9FF126FF"
+				"size" "73CC047823239E382ABACD0133E9A201"
+				"download" "9F5E71D0C2B752C719AF58A9AC9E10A6"
+			}
+		}
+	}
+	"2195261"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2235050877187550581"
+				"size" "1349613039"
+				"download" "1239765344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "CAE22646767D95AC0A2F6865178F842D"
+				"size" "9870A08E1C06841284FFDBB6566E41C0"
+				"download" "8A14CD3F0065BF95958840DEE33E3281"
+			}
+			"ml_final"
+			{
+				"gid" "A3D2ADE5BAED1C8EC830BAEC13C22717"
+				"size" "69E53DD1AD20BD053B6575930DD206B0"
+				"download" "3BC226AE24DE1357C491E311A040D66E"
+			}
+			"ml_otp"
+			{
+				"gid" "E0FE5126B43E7068220B88CE970511CB"
+				"size" "BB5042FCBBE327E84ADBDF15EA33222F"
+				"download" "E005CD70B8DF811389023A60BC6E278A"
+			}
+			"ml_retail"
+			{
+				"gid" "804910743585F9DF9DBB5C2BAE4B0011"
+				"size" "E325C6B3D86E27002189F482708C0996"
+				"download" "1D566300759E6A74209DB8A9B2587F32"
+			}
+			"rl_otp"
+			{
+				"gid" "335FAEB31A4F7A01F495C2C126E03D44"
+				"size" "BBAAD61BDB4014AC7F4C4F3C1B87D6D8"
+				"download" "7B73C8B7D0D2801FBB664468B3A2C2C3"
+			}
+			"valve_review"
+			{
+				"gid" "515AAA3383172CB683C6BF1FD81B0624"
+				"size" "788274BDA8EDBFC436AB316100221B29"
+				"download" "CBF0EBC23E18AEF275EF67F873254C82"
+			}
+			"eacc"
+			{
+				"gid" "CEB88D0CF57CADB594EC1B9A0D66BABC"
+				"size" "3CDA25F612B1862E43D761DC68ECAC76"
+				"download" "78ADB034E39DFDB0EEBD8970E79AD2A6"
+			}
+			"eacc_patch"
+			{
+				"gid" "E4A111DE6A8A307CC64CF1171AB9A9A6"
+				"size" "78CFA7088A028CDEDB8853E4E6184237"
+				"download" "7315EF4E8D5104DCF7E75FA60DEC60DD"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "BB5522C2B19BD61AF4FACE43A9280D87"
+				"size" "C205928559059E58F842875995A0C2BA"
+				"download" "DC0316F123800A5DB5B0BC9239537966"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "1FEB8A00AF82C4DF119EC16BB0002E15"
+				"size" "30E865F4AD56201CB1D1D35025408D19"
+				"download" "56ED636468624E3EB54099FB0FA52673"
+			}
+			"ml_release_debug"
+			{
+				"gid" "343E1B59660602C25165C4C7F3540812"
+				"size" "D6586B290169B2053873139484A52C47"
+				"download" "0F4CE1B2F732014152FB9243B3D9606E"
+			}
+			"rl_final"
+			{
+				"gid" "DFAEA17C3FC68DF6D1CAAEC6679B2127"
+				"size" "BD801B60BEB676B8F908FEB8CD89F9EE"
+				"download" "1F96947D0979C7478437FF4985B657AE"
+			}
+			"rl_patch_b"
+			{
+				"gid" "F1EB62A8668949E8F4DDD45239BF879F"
+				"size" "CC355AE5261B8889FD40E264F2B5A788"
+				"download" "FA9EB0ED67F9DF3ABDC70F17EA9E6C85"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "37F204A2176565401EBA01C0829C07D0"
+				"size" "50C0D77E251D892BD4B5B9B005D0993A"
+				"download" "62F48D04773CFE62736356D0D2FFF3DA"
+			}
+			"rl_patch_release"
+			{
+				"gid" "2951F33A4CA234AE927A9925A59C72CB"
+				"size" "9394A2EC248E2BEB0F47F10DB0AB1C9A"
+				"download" "CA0A47709D49C125A636E9AA38E97E3D"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "FF7348DDBCC86245026B7306C0246548"
+				"size" "FF05C075480D5DF2E106BCD01108C2C1"
+				"download" "1F2CA40350D5B686D119AD6B56123B60"
+			}
+			"rl_release_debug"
+			{
+				"gid" "F72E803017286F76BF13DC727E99883E"
+				"size" "96443E2FEDF0D91AB93D1907F80961C8"
+				"download" "D352EBBF8406BD8822D051AA896DBCF7"
+			}
+			"rl_retail"
+			{
+				"gid" "496E51E05893C5C48F45E6FD44CEACBC"
+				"size" "CE0619B992E1B2C4CFECC082C543A7D1"
+				"download" "4BDCA9AEC2A258A94AEF1351291B1273"
+			}
+		}
+	}
+	"2195262"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8057973901357610942"
+				"size" "1491673488"
+				"download" "1340910144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "A21B064CDE3E462B566633A7627CBCD7"
+				"size" "0603D76A272D018FBDC934408A05083A"
+				"download" "C4231BD2E3128B74733F1AC9A8E6EFD7"
+			}
+			"ml_final"
+			{
+				"gid" "342859D7AF9B06C87F780614FEE6AB6C"
+				"size" "4DA9FCE8375D51792989832FC9A5ED50"
+				"download" "034E2DBC89FFC479313092975A69D80B"
+			}
+			"ml_otp"
+			{
+				"gid" "39E60874F443603CCBD1953F986B5BB4"
+				"size" "377853890083C6EF99E32286B0FB40CF"
+				"download" "5166F7FE6D4C94FF5FC6372A59C20C70"
+			}
+			"ml_retail"
+			{
+				"gid" "4D3A13C9FE9B48B6F1F913D06EDC50AC"
+				"size" "153AF537BF3638754B035AEBDA4378D1"
+				"download" "1614D342F26872F3D7EA175FB49A287B"
+			}
+			"rl_otp"
+			{
+				"gid" "A8F9D57A1B2F6DAE46564D97A0EFB78E"
+				"size" "DE464920AFCBDC7C66629DE9E58457AC"
+				"download" "0FB8BAFB7432D6FC12FC61B7C3C888C3"
+			}
+			"valve_review"
+			{
+				"gid" "8B592C54B8ECBBCF52E9F17182D188CF"
+				"size" "FAD9EB2C6136EC8A92C73202265324C8"
+				"download" "967E376783A29FC2FABDFABE10BC7814"
+			}
+			"eacc"
+			{
+				"gid" "3B943711B7A75C07935436553E5BF5C5"
+				"size" "E6C4A2194B44868FD3E68BBD831AE449"
+				"download" "1045E05FC93528DCC626FD3BE99ACB76"
+			}
+			"eacc_patch"
+			{
+				"gid" "8B5DFA759D6178BF2E9E965D0AB52AC6"
+				"size" "9D6D4BFE63175814477BC2132491BCF2"
+				"download" "669784E3459C208B0C0BFE36A3B85A27"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "DCECAD8EE3788F24D225FEE8096D72B0"
+				"size" "5AAFDF7F16A4166AECF8492E2BC64C90"
+				"download" "B657247B2C41787B02080CFC930AF63D"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "E77E43DA503CC3162509B5AD714E1334"
+				"size" "DFCE059CB19A50AD680FE07009A7D613"
+				"download" "72C3CFFF29D3713ACBE2F95D0E580056"
+			}
+			"ml_release_debug"
+			{
+				"gid" "E2C6FCB5B30D4A5174809F1A97DF7A96"
+				"size" "149FC2BF2B2CD7CB0666C10E2EDB03D4"
+				"download" "7F0BA9AABE25F254850BB289AEEF0D17"
+			}
+			"rl_final"
+			{
+				"gid" "E4812F00B36DDC2B2901AC028BCFEDC9"
+				"size" "84F9F2726D8B27DDB16A513A51859AD4"
+				"download" "D827422563C90DDA8C263CCF6AD5E6B7"
+			}
+			"rl_patch_b"
+			{
+				"gid" "1A3A503DEF94B919FB777614487E3EBB"
+				"size" "209ACD58F0589F05C4E0074EDD70B3D4"
+				"download" "D35678A11205884DBEE03DBCD0C2794A"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "F13869EF444F1CBFD7F16A1674DCB63E"
+				"size" "9CF4056A68BBBAA3F9C9E1AAD8A27D59"
+				"download" "4BA12AA8C02869622E355573B63F39E7"
+			}
+			"rl_patch_release"
+			{
+				"gid" "731F000E5B700A5425FDFAEFAF890F37"
+				"size" "B86AD46FCFDEDAB76F39E281AB75A3D4"
+				"download" "691719BCE1AA65FA9C9CF3B454D41ACA"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "639124D03CE507443DF20354E6B58AAA"
+				"size" "8F1BE3CD7BCABB289001859050597A3F"
+				"download" "DDAC9725D483F3ADB485DAC210328823"
+			}
+			"rl_release_debug"
+			{
+				"gid" "ED7158F0AC5D4B0BAA92A489C2715361"
+				"size" "464DD71D1B65B6300569B1F80FAAC273"
+				"download" "6045073253EC8F73901C2973D37E48F4"
+			}
+			"rl_retail"
+			{
+				"gid" "3CBEE281C183E7C2CC945A16B7DAC1FC"
+				"size" "8B2464943AE34DCDC1DBD0FC29EAB1AD"
+				"download" "0CD365234D66D0DA773883DB71F88E74"
+			}
+		}
+	}
+	"2195263"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "311051972882163902"
+				"size" "4011867683"
+				"download" "3505476720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "601870FDF328D2A3EFA56A46BE3368FD"
+				"size" "0C0C85FE6FAEA792D9A086B35675A018"
+				"download" "00BD2C47A115B76492D0F2F78AE5358E"
+			}
+			"ml_final"
+			{
+				"gid" "377867D9E02EA1813251B49032714975"
+				"size" "01DCCF1ACB23A163BFAF7DF4AC6296D8"
+				"download" "B018776BC245BEB92D7F0A1A313A1465"
+			}
+			"ml_otp"
+			{
+				"gid" "4AA16A91B9105FC3F9DC3214AC57EE0D"
+				"size" "31FF5403EE9596B2C7995B14C246A92A"
+				"download" "D027D318C0136AD8BAF7E78C9644BEAA"
+			}
+			"ml_retail"
+			{
+				"gid" "DF33B5F82BD6DAE2D62EC410FAFC45EA"
+				"size" "CF8E3174D61E26115F6858FD0ED59523"
+				"download" "3478965369CF0CC8327DF6959E5E1721"
+			}
+			"rl_otp"
+			{
+				"gid" "04D2EC29148A40080A5115F793E7CC3A"
+				"size" "7D959ED7C655CC7949FA7FE410D3D337"
+				"download" "0CA564C8CBD72BB2AEA017BBA2723254"
+			}
+			"valve_review"
+			{
+				"gid" "D06F1A8788F28249D6D5E8FB698C09A1"
+				"size" "17B021B8800B63109BD970930E780071"
+				"download" "C63A031B5E32D6D411AE2295A61FC1AB"
+			}
+			"eacc"
+			{
+				"gid" "0F29D8B1FB5751AACA545D8C658572B2"
+				"size" "BDC2B1ED926B39B002E3E67DC298FA4E"
+				"download" "EC97C1F51248349696E6C9A5573982F8"
+			}
+			"eacc_patch"
+			{
+				"gid" "CA0BBD8939D4F0C8869EEAD9FA187DC0"
+				"size" "187E294C0D9FF0F9FAB859E4331EED14"
+				"download" "7240DCE4730BAA629246AFBDCA204F9D"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "D7FD9BAF23BC8EB94F923953D62F34DB"
+				"size" "1C3C3E61A4202FD5E0B8D484FCA140B2"
+				"download" "0741FCC2187972491E82A9BF38B7075C"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "CF326480ACD6D3CADCC29E33CDEB900F"
+				"size" "4CA7838EB4648070524F49E000E85A03"
+				"download" "BBBD21605D5890A0BAC8A146816BA8B1"
+			}
+			"ml_release_debug"
+			{
+				"gid" "8430CDEECF1DF10587773C8A67B5A297"
+				"size" "EB499799F703D135960FD8857CFC4B15"
+				"download" "25339138F88CA5EA874775FBC4B1B042"
+			}
+			"rl_final"
+			{
+				"gid" "9B5A041743A332270988B73BC7B02A7C"
+				"size" "69C81D368BF46AA70709E9C74AD99F01"
+				"download" "F19A1E269B6E2B361B1C8E85B1A834AE"
+			}
+			"rl_patch_b"
+			{
+				"gid" "90B5DF9D095C69F5C48CD6858B7CA08A"
+				"size" "401F3AD7B2298A9EEB2DE73FA690F4BC"
+				"download" "FA1E0726CE98385DBE64C0141B60A338"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "61865CA4A17D4D90C49D6CB8DDC7704E"
+				"size" "AD4736E2357EDB7DAF29387B9797A01F"
+				"download" "9198F5B783BB755CD7EC19BBF6AA02C5"
+			}
+			"rl_patch_release"
+			{
+				"gid" "5D461DFAF7355D4EEBACC7CB8D221E64"
+				"size" "E12A568A8482954A97AFA335BA2B0E54"
+				"download" "A7EFAA9D6D98944AB0C5614869641220"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "DF7EEC1B3EC77CE9AAD4216BD2A92795"
+				"size" "5160714AE07E29EF0D9A3C46E4AC7A64"
+				"download" "6FBC5083A26796C7634448ED7073756F"
+			}
+			"rl_release_debug"
+			{
+				"gid" "2886B7F586C427C3BA12D55C56646919"
+				"size" "27EF22C1721360D59ACE0D6974C960AF"
+				"download" "C80307F33664A0F7611787FA79576B5F"
+			}
+			"rl_retail"
+			{
+				"gid" "431F592F723078CACA9775B8AED01B03"
+				"size" "9483EC0AB47E0289688A3E4AC0D6BE37"
+				"download" "95B3275AD8957D3237EC2B778B0712C0"
+			}
+		}
+	}
+	"2195264"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6825068397093746831"
+				"size" "1366675225"
+				"download" "1259097184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "CF2E97683F96015C8AFF40178B7D0484"
+				"size" "C8546D4BC8D07D5FF05769CF1B242E03"
+				"download" "E39B3830668CF5BBAA920E02A8B4897E"
+			}
+			"ml_final"
+			{
+				"gid" "8677204D010BBC681ACAE1D90DE01179"
+				"size" "6C4B9EA4E4F00788A3B0BEF2C4CE0FA3"
+				"download" "A91081F2FF8FD7AF3111620F63DA02D9"
+			}
+			"ml_otp"
+			{
+				"gid" "CCD2F04A540F55E4393C2F5BA8BB758C"
+				"size" "8A084F73FF907C1ADC18AF87CC5DAEB8"
+				"download" "A8CE38005F7103F82F7511BE0EB1BEC4"
+			}
+			"ml_retail"
+			{
+				"gid" "E789BAD0E40AE363FE6A2C39FC99C2D1"
+				"size" "B305F66B60C2E8B8C49A33E5FBA06C74"
+				"download" "6D8C348312A1F0D6D4C123777CA438EC"
+			}
+			"rl_otp"
+			{
+				"gid" "15E7CB57B06E394FEB61A4F6FB3F8EA3"
+				"size" "3DF13329C06E6EC7D81A91A80E6113A5"
+				"download" "92DA2B92B1790A46EB3A894F6F26F008"
+			}
+			"valve_review"
+			{
+				"gid" "33E8FE9227D40566A111116E844962BD"
+				"size" "A5FBDB06F743EFFA8349B8A3C8EAA79A"
+				"download" "15A3A45AC678302239CF8748E1131198"
+			}
+			"eacc"
+			{
+				"gid" "462404F89ACB650EFC1105BF9E10A522"
+				"size" "3B29C5272F908C2D3DF40B356AD96500"
+				"download" "B2C709FBBD58AAAEA39348D34F7BC3EA"
+			}
+			"eacc_patch"
+			{
+				"gid" "07CDB8619CF78C2ADE3F3EA650E78376"
+				"size" "F0058078B20709176E98A04D01512820"
+				"download" "5C1BE7297A00C20818A976645574CFA9"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "042B1BE3D13D93E3EA6E10465E5A3E8C"
+				"size" "F0E7AD5AD0D47EEB76B09DF75CAD2470"
+				"download" "3B5FC2C9BBDBCC34B12BAFD869ADE728"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "C9DFDB1845BFC0FF19A694729389A0CE"
+				"size" "FB53C8547A87AF768401DDF9617F5F18"
+				"download" "96B17BE03FED7112E9D32A58B346D615"
+			}
+			"ml_release_debug"
+			{
+				"gid" "923AC1E1C9E9FDCD04E5B92A43DE80E7"
+				"size" "5972234238139F68045F0FAFE3930D47"
+				"download" "1FCCC466F44254A956C415EF42FEC598"
+			}
+			"rl_final"
+			{
+				"gid" "DB166A7F449BC2F89130A64ED3FBD34B"
+				"size" "E3E7619AF872BCF7871C81478D02BA70"
+				"download" "4345CB6877B048E2396F262B3396E96D"
+			}
+			"rl_patch_b"
+			{
+				"gid" "FEDB1E5ED16C7300959A3E7978F6DFB2"
+				"size" "74F6AA24FEB339F3AD9FD57998FA9D95"
+				"download" "97072A1815258AEF64C3D77BCB97F853"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "53E4F8C751BAB886A8FD2C25C0C4C9DA"
+				"size" "615EAF2AF3A7C60759038CA7CD574907"
+				"download" "6285BF37DDCA4EEA9C53A374E40AEEF1"
+			}
+			"rl_patch_release"
+			{
+				"gid" "E223F900BCAF3BB5BC5F6F1257E91537"
+				"size" "25185EC4DA2D857ED214330FCD6C8FA2"
+				"download" "7D0511A2252EDC94D2E892E256BE1F38"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "F9C36E9B4F2E00DED4C58EDEC7C25360"
+				"size" "484074EC3F67AE9C3F81BD370D9E053C"
+				"download" "98669F49C90C83A7D84F8A43BD46944B"
+			}
+			"rl_release_debug"
+			{
+				"gid" "0311DAEAACF60C5391A363A2081AF712"
+				"size" "4C2F1A7D07DB1729614DF81DC5C69E00"
+				"download" "6D9AEBB5154016E42E3557B354FCB475"
+			}
+			"rl_retail"
+			{
+				"gid" "0A329051042F020C613DF3AC035CFCF1"
+				"size" "612145C738A8F0BDF81093B71ED3EA1E"
+				"download" "995563A0B9D593CD99360AFF2C41E1B6"
+			}
+		}
+	}
+	"2195265"
+	{
+		"config"
+		{
+			"language" "danish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6557601876047144830"
+				"size" "4011872762"
+				"download" "3503505536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "50E9096A2CC997F7E4B25C35BE4C78E3"
+				"size" "B683BEF59607385DCEBD318F60EC6D68"
+				"download" "2E01BB411B97FB594DA1E3BAFC99A025"
+			}
+			"ml_final"
+			{
+				"gid" "EE5CA932C19EB7AB36BE4B6F19416590"
+				"size" "116411F60993A71202D5A41988750C17"
+				"download" "DC867284A4592DF4CAAA1FB1E3582A76"
+			}
+			"ml_otp"
+			{
+				"gid" "DDEFE9373F126CA3CB629A12045E1DC5"
+				"size" "DF35D69B4B6EA97B6450606D35916C25"
+				"download" "056C87DCED22EC234AFAC13046D469A2"
+			}
+			"ml_retail"
+			{
+				"gid" "9FAC81594498A0BA974F2D62E5D557EB"
+				"size" "5BD2000C0622A4F72BD5E884CBC72688"
+				"download" "793F2482117DE61C47427D5D653D1E1D"
+			}
+			"rl_otp"
+			{
+				"gid" "42397480441C09161C8C63881C14A896"
+				"size" "A3800EBD31BD191B555641F780B6E6F5"
+				"download" "440852521EC4D7DD5186A91BFF250185"
+			}
+			"valve_review"
+			{
+				"gid" "2FCAF13DFA667A48E752C56FB6AD6117"
+				"size" "A9370299956DBC020E1D34F84879842B"
+				"download" "7859740C28F70AA7257BF3801EF2226E"
+			}
+			"eacc"
+			{
+				"gid" "833C9ACE547E7100732D8500E3776F67"
+				"size" "C4F950598886E43F15655C4BC01526AE"
+				"download" "F4E851B0D166E20CC1ED61358A7817CA"
+			}
+			"eacc_patch"
+			{
+				"gid" "4A2051252E2FE4401A1FE5526C64C6FA"
+				"size" "444EF51ED974330A2CFFB0692CBC64E8"
+				"download" "D135FBC34C7121C0F58B315708BC0895"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "2E0D97EF76F708522B279DBB487525B1"
+				"size" "3B31AC860284A43F1E9EA8B75A77A2E1"
+				"download" "DBC26B95FF2CC2B2F60D9DC7B5848C60"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "7DF2FAF768A7A3BE0B3EFFB3E05DC24A"
+				"size" "1E46FDE079F166390CFFF0EFFAF2F9F0"
+				"download" "7D760A1622924F1FAC27E3991BDD3507"
+			}
+			"ml_release_debug"
+			{
+				"gid" "5AEC671D8CCF908067D49BC6190D7628"
+				"size" "108AA1F6B09ACBB8ECA195C59968BEB1"
+				"download" "DF3220825293EBA17788F7F2BF9B6AE0"
+			}
+			"rl_final"
+			{
+				"gid" "ED4910CAB856BA4119EDEC1B20E8F8F1"
+				"size" "F358991127DFDECF32EF8DDD7FC7EB7D"
+				"download" "BB089B53013D92736F033917DEF796E0"
+			}
+			"rl_patch_b"
+			{
+				"gid" "4989520B495FD1EA9A47D17048051896"
+				"size" "2195294C86376F777A76CD3B8D5DDA46"
+				"download" "35D10BE3565CD4D9A82F958001D9CE9B"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "D5456B3FE37FFFCEB8EAC7E55C02BA5E"
+				"size" "EBDBC8AB2B431B20839C42565BF7F283"
+				"download" "58B91E7BF2FED7687B10E6B11145F15C"
+			}
+			"rl_patch_release"
+			{
+				"gid" "734BF180AF001CD8A6A04394A5F3A499"
+				"size" "1F2AF15E30C3130D797D140438043CA0"
+				"download" "EB5774F534638416BABB6B29E1842B43"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "E5C5CE2F409407464A2097DF308824B5"
+				"size" "120DBAD2ABC3D5BA3944EF811BB36720"
+				"download" "F8617777E3305A94BB12ACA91489E4CF"
+			}
+			"rl_release_debug"
+			{
+				"gid" "DA0DF11D107150AB57A1CF49D548A046"
+				"size" "0FDCD9C6EDD2B0CE494AF3154676FC0B"
+				"download" "A756A9447176C8047779177F8FBAA4CB"
+			}
+			"rl_retail"
+			{
+				"gid" "E575F453F62740231DE1B57ED3FDAB65"
+				"size" "3666BF5BD6A7B0179A1BB650E024C582"
+				"download" "8788FA50FF588073FC646BB8F1E5F238"
+			}
+		}
+	}
+	"2195266"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "609488092703295536"
+				"size" "1572247418"
+				"download" "1444341136"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "66A2FCF4964A8C064C91B57EAF9ADD45"
+				"size" "185BB2760ECDB7ED5E74A58F6EAC6E3A"
+				"download" "1D8D25A968B620FC671EB4AE9F40741C"
+			}
+			"ml_final"
+			{
+				"gid" "4A4A2987FCE477B87962249F737D8F67"
+				"size" "D7DE6B396490A6D4B0702416FC2BA4BC"
+				"download" "6F0E755EBAB6E6F65EE79C94C2A52019"
+			}
+			"ml_otp"
+			{
+				"gid" "1AE53715FA81EDD51822307C63585DBF"
+				"size" "3A048348AB4CFA8897A8B8C027A041C0"
+				"download" "56AA2BA2C169696C830CFE7184B0EEC7"
+			}
+			"ml_retail"
+			{
+				"gid" "8AACA7124920056DD5285E622624E1E9"
+				"size" "1A932958F3362CE3CB0FD385A4C8D1A7"
+				"download" "9ABC56864E6D94B46A922723C87DA4F4"
+			}
+			"rl_otp"
+			{
+				"gid" "E678DD4028B8BC9E31CA1B0A65F90E1C"
+				"size" "3535FB9A1B2E56DF01F331B6FD4981CC"
+				"download" "7AA4FC4BA720A34A0429073047C15C64"
+			}
+			"valve_review"
+			{
+				"gid" "F139030AA36E36E844738046141613EE"
+				"size" "C6CC4CAD5441613C51FC5E439E251731"
+				"download" "371DA71E893806E553EF98796023B5E9"
+			}
+			"eacc"
+			{
+				"gid" "09AD8FA50C31A148B617A074B656E44A"
+				"size" "4E717015241F46500353EDF956E77304"
+				"download" "F056C4ABE8E167B3A8EEEAF4F37152B1"
+			}
+			"eacc_patch"
+			{
+				"gid" "558C40D2487F7A698585796BF04A6146"
+				"size" "C44A685114DEB3935D4F1E3886CB5912"
+				"download" "92C80EFA398AA0F98E8AA7F425F4DCAD"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "D9324E81E9D05F23280CCB53CB6E27B0"
+				"size" "F7A277181DBC46ADF297FC4B08B9DF58"
+				"download" "944A27063635FFE8B86B0F3896CCD521"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "BFB25B6094BD45307E9EA893D0ABBDC7"
+				"size" "E3432733EF878EB1D9F2C8E179ABC9EF"
+				"download" "B84266337CDA51FA3851D12BD6EBCFAA"
+			}
+			"ml_release_debug"
+			{
+				"gid" "DBB6FEAAEC5C311F31B63562317FA897"
+				"size" "ABE948F373B6EC7F1BDD9A6BA8C69B21"
+				"download" "DB70166819C25687D9ACB3EAF9725941"
+			}
+			"rl_final"
+			{
+				"gid" "9A2549A323AC60495E19E99D8183350C"
+				"size" "4C2171F6780D4DC77D798993D5A8023D"
+				"download" "67160142FA036C315DD4B45518C69BCD"
+			}
+			"rl_patch_b"
+			{
+				"gid" "9EBA6059C4F65A15B16DBFA25EC758F4"
+				"size" "FE5DBBE8071753A017F637EAFFE729C1"
+				"download" "88980D3D677DED0DA98A818076E716E4"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "52D191980980F190D0B60428F6C09F05"
+				"size" "1D73D05D14DF624D6F03B433F16A9E98"
+				"download" "E7AFB185058098F7697D1A3DD01EF39B"
+			}
+			"rl_patch_release"
+			{
+				"gid" "6780BE9149BEB1036397F609D608F3F8"
+				"size" "09AFEF4E4C64AB47DF64E22EE331D913"
+				"download" "65DA7ABECD567E59D002FA696CE4383B"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "3AF02261A4CD8CF9F4E690F4A99E15CB"
+				"size" "B6364E489B9DC54079DA48C37AE3D3FC"
+				"download" "444AF3428D9F4BB4C1BFFE65757F4B94"
+			}
+			"rl_release_debug"
+			{
+				"gid" "455C986A6C938E5B0D74E22FEE3531D9"
+				"size" "24B75F76F5D68AA04AA9004BCD5A5761"
+				"download" "3F1B2BBDB42C6C1FC62CD382AEBDD47D"
+			}
+			"rl_retail"
+			{
+				"gid" "2BE262CAD72AE746CCD0EBBE891FC98D"
+				"size" "2045621A4B8E0EFC285EE16EC5DC01CF"
+				"download" "1FA3DF34E2993812ABD9E2BFEC78D631"
+			}
+		}
+	}
+	"2195267"
+	{
+		"config"
+		{
+			"language" "norwegian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6183401806526030050"
+				"size" "4011872611"
+				"download" "3503504544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "779AAE51B8E343EF01D160BBC35A35F4"
+				"size" "C9E21204054F5A8063396801B3F2E8B5"
+				"download" "69F1FDE0DECA01E2EFB9B82F6FB2CA89"
+			}
+			"ml_final"
+			{
+				"gid" "C4D375A0FD0CEE224966C52466DAF32F"
+				"size" "B0737025F8B2A0CD9D05CD6F6E35F6E7"
+				"download" "5C4C6F9FB19B5976805EAFEE5FC21872"
+			}
+			"ml_otp"
+			{
+				"gid" "AD656247026A7DAB42D056A4DE31DC53"
+				"size" "1201C839E068851E2059B45997DFD2A7"
+				"download" "5CB07494DBE3A3012E981712E35BF4F0"
+			}
+			"ml_retail"
+			{
+				"gid" "3EF969535B02EDA601FDF605834121FC"
+				"size" "185C86F9A6419CF784B11E23EE154476"
+				"download" "520F755ED4FC76B6287FEBC4D8699F96"
+			}
+			"rl_otp"
+			{
+				"gid" "449B7996B2DA15F318832E845AFE994A"
+				"size" "3084AB1A3572136BA7A6340BBC3ABFDF"
+				"download" "9634F22374172C85407764DE7D1FFAFB"
+			}
+			"valve_review"
+			{
+				"gid" "02872635BDCC794B4E860B9C3BA0E1F2"
+				"size" "847435F02EEF4C8659DAA783ECAC17DD"
+				"download" "8DE35BA0D7BDCBFB5C9D8A3D5BA43099"
+			}
+			"eacc"
+			{
+				"gid" "227F6E89E9CE3999A0F6759EFDE8CF5A"
+				"size" "4BF11503CAC7C2C25E47A581A7DEE9E3"
+				"download" "3CDF3996FDC87A91431BF4D1EF8DDEBC"
+			}
+			"eacc_patch"
+			{
+				"gid" "64C3DFECD9F047F998C026CCC5B1D88C"
+				"size" "4CBF0C387CD78D41EAF31B81BA591459"
+				"download" "EB975837E1DFA7D27DFE771D5C1E4AA9"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "EAE51531B4FACBA6848F0DACF1E292A1"
+				"size" "EAF6C63B6E84CF791118E034B52D1B5A"
+				"download" "BF8937AFDC812AD9F98A07CCB2A0FCE7"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "F7E8ED910D2A4C425D714828B419FF80"
+				"size" "D114FCF0C59B2D33EE4D080E6FDADDBE"
+				"download" "5819F1FEB69A88D6E0417E26CBADF752"
+			}
+			"ml_release_debug"
+			{
+				"gid" "BD3E5623CFE404304D6684CBA8B71095"
+				"size" "497EE272A9152839062B782526596FF8"
+				"download" "5E139240ECBAE88AA3BDD31FF7BB6907"
+			}
+			"rl_final"
+			{
+				"gid" "3AF6A4A5F5AC9B3E0C9EBA763FB7B2A1"
+				"size" "D9A16A63159CD0AD51D8569C27276393"
+				"download" "5DDCE717D0509EFCDB237ACF8CE5AD78"
+			}
+			"rl_patch_b"
+			{
+				"gid" "C39712BE1A400ED31B20E2801D833648"
+				"size" "5DD9E098702A535732885217643FC7DB"
+				"download" "156A32E10085497FD92D1616CD2DE008"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "1CF54FA91B5FEFD1826878F71910C1A9"
+				"size" "901D8A1CEC800750B605356E1745820D"
+				"download" "061197F7288F72E5D44C2F4630F3A4BC"
+			}
+			"rl_patch_release"
+			{
+				"gid" "D4DCD46FADAB7552A115B2FBECB2C4DD"
+				"size" "57AE96A567F3486625D5CCA2357BAE17"
+				"download" "472B919B2C11FBFC50E48B655A627F66"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "E8A8FCFD7AD8BBAC9D5D8E5705AEE93E"
+				"size" "84191C38A69BB880F7CAF2C452F53466"
+				"download" "725E2CAFF2C852E4F298A5FE41DD1ED8"
+			}
+			"rl_release_debug"
+			{
+				"gid" "327F651704F0E65FD263977ACBEBAF13"
+				"size" "20B02F723530316EA535269417D0364C"
+				"download" "4F37BA13307E25CC9ED5E916D3CFD12D"
+			}
+			"rl_retail"
+			{
+				"gid" "BF6EAEB985432B67DB61ADE94711F8E7"
+				"size" "368B47C43D1E34D9B465C60261E3C6DE"
+				"download" "B18513599C31F7428211EA416E9DA5A6"
+			}
+		}
+	}
+	"2195268"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2072500949158077113"
+				"size" "4011877929"
+				"download" "3505476560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "305FDEEDB10D8FD2647AABEAE201B4BF"
+				"size" "E4CB7F32391CD2ECBB461FF96D7D4AAF"
+				"download" "3E004A1D87D2AF4852B3491F6FCB4FBD"
+			}
+			"ml_final"
+			{
+				"gid" "E472851AA90587E0FC684A6357878672"
+				"size" "C60EDF9171CB5BB36BAF7594FF6B2C2F"
+				"download" "DC867284A4592DF4CAAA1FB1E3582A76"
+			}
+			"ml_otp"
+			{
+				"gid" "6BF7E1C87C594E38C2860E844217E042"
+				"size" "6DC384F42A8D6250DBC1466E87AE8AB1"
+				"download" "951A9A27E70C281BC83D56F7F7EBE77E"
+			}
+			"ml_retail"
+			{
+				"gid" "C6304312E7E7FFA672D24BFCC852F277"
+				"size" "EF50AA57A32F3CC37A3088189DE170F4"
+				"download" "FCC9DA427E03F2EA1CCA27C7FA3C0C7A"
+			}
+			"rl_otp"
+			{
+				"gid" "6B3AFD7DE2811C4F913C84FA76CA6987"
+				"size" "4014E951137944BB723841F47CE5171B"
+				"download" "B6EAB0A3BDF02870736126F2C413C894"
+			}
+			"valve_review"
+			{
+				"gid" "674568B6B5D659450C4148764204CA3D"
+				"size" "613E6E66A4B7DC51239E67DB6F354C81"
+				"download" "D6BBD17A6AA928DAFDAF4EC129CF4165"
+			}
+			"eacc"
+			{
+				"gid" "CA7541F649ECC0F2FE1B11798A409A34"
+				"size" "D5978A5CA7A4C64938A830829E138FE8"
+				"download" "7BE7CF2A0A957E6762276A264C74E6A4"
+			}
+			"eacc_patch"
+			{
+				"gid" "057A87D52638BD3C59305D6F7C6B5DB8"
+				"size" "639D23058BFC5DB125B50BDD5CA5FAD1"
+				"download" "537F40143DB2BBDB88BEC4166E8C41DB"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "E85C12723A5A7E4F4A1667897EABB4D7"
+				"size" "6F6202577442E11A14D714DEF7819CB9"
+				"download" "E6060C069C7301E3321C0E5B3185A70C"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "0D7650FD867C0FDB21B4AC027A7B1B72"
+				"size" "862E5C066F4DF6408B1F782ED10BEC3F"
+				"download" "6F17B9C519E7B332947977744568FD74"
+			}
+			"ml_release_debug"
+			{
+				"gid" "639CF80BD9CF509D4D1DE3B2760E59B7"
+				"size" "889C39540D4BA687FBE6A2CE33BC1AFE"
+				"download" "BFA1AB49E83FF0E683D7784CC08106F7"
+			}
+			"rl_final"
+			{
+				"gid" "C9ADF725759CD30EBD901EA6AAAFFC83"
+				"size" "C8287192F748DB14C516D53C9857F1C6"
+				"download" "EAB52097516E7023AACCC120310FC696"
+			}
+			"rl_patch_b"
+			{
+				"gid" "B9B1745D08B1319F5758B6C80765797C"
+				"size" "89689BC54EEB29B38A807E25A37B392E"
+				"download" "1A5475F545568B8C819B621D9293031B"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "AE649A03C39A6B4EE64EBE479603C00F"
+				"size" "468EBA7E26B0C79E1E9D68840F5E8275"
+				"download" "BDDDFA114E7678BC8B9EBB1E0D6E15EA"
+			}
+			"rl_patch_release"
+			{
+				"gid" "F7DAA6C938C840A2A7109FC21828F449"
+				"size" "DC81D9CFC6AE605DFDB75C05C3B72EDC"
+				"download" "16AD4A348E689CF997FDB722E42CFD10"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "2ACB559742F3566F7633434E34725924"
+				"size" "A741A349D99BE368C2F20DC73DF25935"
+				"download" "3C204141B23A326ED44D9B5A6B6EF715"
+			}
+			"rl_release_debug"
+			{
+				"gid" "E8CF8EA76186B3D54252B925337F1D02"
+				"size" "085A1CF42B77434326AF6BA075F8337A"
+				"download" "AA7F3B0D34B546B4794901B5D0677CF4"
+			}
+			"rl_retail"
+			{
+				"gid" "F539C2C7914AD5671ADF61E4CBF1DA9A"
+				"size" "D1F1BF6A32BA90B7AF7FA31A3DB49408"
+				"download" "2F5B6E28F61EB65C37B6AC2C626C15CB"
+			}
+		}
+	}
+	"2195269"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3815101574470297062"
+				"size" "4011904796"
+				"download" "3504495456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "09344069733A81E57144CFDE81251888"
+				"size" "E53ECA7DD0FBCC0E046ACC40AB9FA543"
+				"download" "C1BE58AFC6997E40B4A8F4BC2083077C"
+			}
+			"ml_final"
+			{
+				"gid" "CC83E61675794DADCEBF9B56628C35B7"
+				"size" "C300426C1C390F0FBD3A3CF5ADB76A7A"
+				"download" "61EBAF41C70FC26BADDC9AA873A375BF"
+			}
+			"ml_otp"
+			{
+				"gid" "1E230C74899AAFB1EA354EF627FA53C6"
+				"size" "0B009BBF03F7C790C6F434034BA613CD"
+				"download" "2DEC001EE39172A91BD9C1F343BBEC52"
+			}
+			"ml_retail"
+			{
+				"gid" "6911A41C1F3EB03457967E9AE9BD9855"
+				"size" "B57628F2F448121A7555EBA18076E795"
+				"download" "9EF6256A6733EB745375BDC6E4378DB3"
+			}
+			"rl_otp"
+			{
+				"gid" "D1AFEA33BE2F386AE8FA8DB51657CE1E"
+				"size" "F59FD2D7CDD589CDBBF60ADC993ECF64"
+				"download" "445A1E84FFE618BDB2B46F642C09DC98"
+			}
+			"valve_review"
+			{
+				"gid" "C21550BE6805C76B56DD25E86307D26F"
+				"size" "B3870AB97041E6DE886981CD29D70ED8"
+				"download" "3383A8C5D942C419B680C5AD061E2155"
+			}
+			"eacc"
+			{
+				"gid" "A1508AEE6A4CE790E5CD59C6CA5749B7"
+				"size" "07588DC20556F8EE87E363C5D7EFE127"
+				"download" "560961A304035B8A295C391B010E5468"
+			}
+			"eacc_patch"
+			{
+				"gid" "72B6373EABA9B4285C02AD367BEFC697"
+				"size" "1F4CD0C3CABE193AEF2F457D70A7F57D"
+				"download" "37FAB8658190E51EA1E7EC18233F6E06"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "838855F76FE87C20CC0C6DCBFE515042"
+				"size" "B48EA4285F99055979D0D94BC11BF7FC"
+				"download" "D30423CACFAEBF00D1D145465073789F"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "5D8C6EE7CE171FBB8CE4343E2F1D9A4B"
+				"size" "C0DAC8E68FF159A0A8C55D63FD3E40E2"
+				"download" "FD080E96983A72991C70B45286ABA048"
+			}
+			"ml_release_debug"
+			{
+				"gid" "36A47D697641C6B782D9703B5E8B2A37"
+				"size" "7B96AA0ADDCE7328EAB3CC24752D028E"
+				"download" "5166FF6B77471339D366AEA4FBA80ECC"
+			}
+			"rl_final"
+			{
+				"gid" "73DFA169759F3C7156E500C51A4AA369"
+				"size" "3B91AA9AC3D1AFAD7374DC8D9C77F29F"
+				"download" "08E76587E96B1CCAFE28AD175931DAAB"
+			}
+			"rl_patch_b"
+			{
+				"gid" "8379AC084FC4E35572922799830A5C15"
+				"size" "B92DC208A162C4A2DAF265D34FE80D56"
+				"download" "8958D7BA653E4B09F2C358C71CBDDCFE"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "8AFD2B0C0C583D6DACD1413340B99E2E"
+				"size" "5065A39651A41DD4EDE059565A5AEA83"
+				"download" "B6B6DAEDAE8C9AD7C88E16F13FB48A27"
+			}
+			"rl_patch_release"
+			{
+				"gid" "1BFBCAC8291DAE1C09448647FF4322A8"
+				"size" "7C292AC6D53A3A51F8B0B61EBEE90ECE"
+				"download" "9B34B604AF0A6F4BB64C163EA299F290"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "E1141DFF13872A57EC381A5E8147DC51"
+				"size" "775899C99683F65CFD5DEBA3B01A3404"
+				"download" "43794E4ADE9C930EEE156BF3838B3E49"
+			}
+			"rl_release_debug"
+			{
+				"gid" "29226131F16A1AB6AF4CFBA92993C605"
+				"size" "F8C09A186351454BC4D344BB09F0DE20"
+				"download" "7617EF3164A21245204350EE12A2348E"
+			}
+			"rl_retail"
+			{
+				"gid" "D81359FC21E06528296A7A63280242D9"
+				"size" "9FBED1DE969D0F024412982A21E1B1B7"
+				"download" "EF6D547C944E69CFCF13407843250EF5"
+			}
+		}
+	}
+	"2290730"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5501015282744651913"
+				"size" "4011871760"
+				"download" "3504491072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "6EC20CD5EA5D1574E5D4161DE71158EC"
+				"size" "51BA3A729487317DCD12ECD2FE5B66B9"
+				"download" "59D7D81FF86BC6CA9FE428F6693225BD"
+			}
+			"ml_final"
+			{
+				"gid" "56E89A12F3B4E7DBCB30021D404FD3CF"
+				"size" "2FE8F7E3D1C8B2913087DE53318ABCE9"
+				"download" "8CD520A38CEE5776C9599D50C6664D4E"
+			}
+			"ml_otp"
+			{
+				"gid" "C7B93CD6D7ED0AEDE1A78754B117CCF4"
+				"size" "BAA1F13A063AE136FBD41683F9B15D03"
+				"download" "E226C2CF8DAD88B38D2BE7E033E5A491"
+			}
+			"ml_retail"
+			{
+				"gid" "141E0EED360DF78BA967A63BCF2029A8"
+				"size" "D6BE31C504649BCC89A8CADD3AD69F0E"
+				"download" "AF79CF012F53B1033D389AD996F755BB"
+			}
+			"rl_otp"
+			{
+				"gid" "264A74B9A73F91DE77F0F8ADEC44AB88"
+				"size" "07654394277C353F2E3CD283615A8D2F"
+				"download" "CD9796A13BE6B47380B446B55DC9EAF3"
+			}
+			"valve_review"
+			{
+				"gid" "A11F171103555C4FF6F2712C6B5BFC1C"
+				"size" "FDF6B106E760437EBDF77530A6FBF9D7"
+				"download" "15AB0DBEF541DBD3EB704C63F12B5000"
+			}
+			"eacc"
+			{
+				"gid" "7D0DED3B4AB8D1C86AE68E855E4F2B00"
+				"size" "A6867877C7EA08C820959D63A40A1A38"
+				"download" "A81F8CB8FCF8895AE12C4CA9D9145CB8"
+			}
+			"eacc_patch"
+			{
+				"gid" "D20A2AA2CAD6982DCA9B35BB34A52886"
+				"size" "88A53AA9B1947198BA074031BEA12F58"
+				"download" "3268E0F09AF3694D7CCED106849B1243"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "B687C3D8D9179D5A7194ACBD7E27A800"
+				"size" "647AE41C9365444DB8C1A6F18D97ED6C"
+				"download" "D31A3B1ED08DD6120468214824E8466F"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "A96A14E634440E59D2F86EE9CCCC90C8"
+				"size" "B6CDD50796823F18415A17695A3AF781"
+				"download" "3384ACFF0BAB627B9F0D14A2FB1A7FB0"
+			}
+			"ml_release_debug"
+			{
+				"gid" "F1BEC7A99C0B2D25493CCDA83B2BAD9B"
+				"size" "CD4B7EE61B89F723BFC879350E4CA15D"
+				"download" "8F6CBF1868E57774E059D95D2BAD1077"
+			}
+			"rl_final"
+			{
+				"gid" "0B5128A5DC3C8FB5ABE0E57789096BA2"
+				"size" "56726B09A35519542A63736F3E3FEA5A"
+				"download" "2C9329039DD1FA5A6ABCB135C44A2D3C"
+			}
+			"rl_patch_b"
+			{
+				"gid" "3455EC929DB9FA6662313DB3E5E91AAA"
+				"size" "C723D015BF0CE399C29F0DD9E60651FF"
+				"download" "45A5FE5D9884AE651023E2BCA5E8EE2B"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "D5CE7F1253286E61C04156635AFE5272"
+				"size" "6943F0AF6AAFEE572D30816D88BEEAEF"
+				"download" "83B01B10178FA31C12B78F8BF967FD73"
+			}
+			"rl_patch_release"
+			{
+				"gid" "1C591228FE8B96EA0810AE7FC435E266"
+				"size" "C042C95C5ED99C28926318E07F2EE274"
+				"download" "3F234B56F79F73F7B733D99B0FBEAFC4"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "9B5ADDA67667C9810B3D7312BC127C82"
+				"size" "517054AA34405093A4A7EFD93BC965AD"
+				"download" "8AA7E6E41967C5FDF19BA88CA53FE90F"
+			}
+			"rl_release_debug"
+			{
+				"gid" "DCE6D92D9401BAC3847EEB66FF84A052"
+				"size" "93DAA66200BF385AF91F544986BA6058"
+				"download" "08D0FD5BA2A162B1CFBC9D6BF29CC9B7"
+			}
+			"rl_retail"
+			{
+				"gid" "B3F03277FF31B06FFA5F51950D3B225B"
+				"size" "11FA1731E205A67EAA3077DF052ACB57"
+				"download" "A3BA2A0C96D8507FC5EF6C1CF4F775A0"
+			}
+		}
+	}
+	"2290731"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2371111987048760387"
+				"size" "1708241166"
+				"download" "1572714144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "B0BBA524290EB8C69E577DAF174B71B3"
+				"size" "1091B16D83CBEFD5F260A08EBDAA4467"
+				"download" "900CF66E84A6457D9E522617D5642818"
+			}
+			"ml_final"
+			{
+				"gid" "9E6E6F4E0DC9DCAA90304D345B02F0DA"
+				"size" "6390654D35CE982502BCFE4123A2C9A0"
+				"download" "04DCF4B0A04BDA6FF1BC54C78521FFD3"
+			}
+			"ml_otp"
+			{
+				"gid" "1471B841F319D40CF653230A52F18F3B"
+				"size" "C419B5E6A75C80FF43DD5AC418A7E3D6"
+				"download" "BF4EAFB49180FCD2C755530A0929C08B"
+			}
+			"ml_retail"
+			{
+				"gid" "D602A1C126CD051C73BFEB93A7596FBF"
+				"size" "F97BCF8849A49B75706B50E48E662644"
+				"download" "3F2B08A544BB75A067263536A90A2995"
+			}
+			"rl_otp"
+			{
+				"gid" "4A1902C4C8F503FB2D03A315292F8F59"
+				"size" "C672EA85218C78C82BA89BB7EE2103B2"
+				"download" "99238C63811DAC0A3682E04CD2897753"
+			}
+			"valve_review"
+			{
+				"gid" "60580224BDF043348025055B7FC3C783"
+				"size" "9ADA85D3FAF5BC6D13639EDF29C03D51"
+				"download" "204CDE80A99676378F121B2A5BE458EE"
+			}
+			"eacc"
+			{
+				"gid" "4CDF8FF3DD7209A4142A1DB72DFB2A4D"
+				"size" "7D3D114504757DA43A6580CE74F1B880"
+				"download" "59E2342FD0BAE09D97ED65F46D61A6D2"
+			}
+			"eacc_patch"
+			{
+				"gid" "1A66AA175C4A76AE0B55097F3510AE82"
+				"size" "C0241C43CE9CB1377EE8C1086CCAA96E"
+				"download" "C0B0C5CAB5B0F815136C4C6DC4BD7EB2"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "3C4424255C67845E64FEC8EC6A965380"
+				"size" "8AF881490A3CEAC34B7AB66BD6E87D5B"
+				"download" "ABF80A0C33136E500B3E1DB82303AEEE"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "0102C1866C5CA0B7848E330AA27269C0"
+				"size" "4F287D04AFE34157FD22EC210A4A287E"
+				"download" "6F75C50DDC55E5C8CF32E2BB9E28B6F8"
+			}
+			"ml_release_debug"
+			{
+				"gid" "E26F1380689C1485838C9EAE40BA6B00"
+				"size" "D49067015B1950716DB6676938F636D3"
+				"download" "A580BB5164D3099BC0BD1FC3C0611218"
+			}
+			"rl_final"
+			{
+				"gid" "360163F9ECE957E75B3CC00F54D7500C"
+				"size" "56FD736E6399E288D99CB344D7816AD2"
+				"download" "637005F63FAD24C638E79C8AC67CDBCA"
+			}
+			"rl_patch_b"
+			{
+				"gid" "2FCA0872ADEC2BF6A2FA200F63DAA433"
+				"size" "5ABBA4C905DB3110958C5415C274DD96"
+				"download" "A2871AD532CB914CEB15BD3EEC3793CA"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "EF3C68649537A6D1A9E5A0DE2E8BC703"
+				"size" "D501E9C676D38AB10868B322525A04A8"
+				"download" "9F02AFF9F50AAA125372C85744E807D5"
+			}
+			"rl_patch_release"
+			{
+				"gid" "2309D17A3F88D112312D14CE0B88C8EA"
+				"size" "D9591B677CF517F15967FCE11B16A755"
+				"download" "0A80FC48FE9D41D5343DF5E74821E9A6"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "61D466E264DB39F7FDBE32E45E27554C"
+				"size" "93E9DA48BE777C53363387EDE0A2DC9B"
+				"download" "9468AA47A35127B948C010E763483A5F"
+			}
+			"rl_release_debug"
+			{
+				"gid" "F810DCCDAA864CEBB03B5C3B17BF5933"
+				"size" "E1A8E8452184086614887E2A127AC5FC"
+				"download" "700AD8A3A113CDA383E79A525BB55EC6"
+			}
+			"rl_retail"
+			{
+				"gid" "9DACD7BD69AEC50FCC40FEE2CCB7BBEB"
+				"size" "1E72D31B9B16123E3C94E8904CBD843B"
+				"download" "4AA7B69A2FC2A4D10ACD2DCAE9B592F6"
+			}
+		}
+	}
+	"2290732"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "522766148850316658"
+				"size" "1539487960"
+				"download" "1414589824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "4F439E6F423377BDEC8B148A7259292D"
+				"size" "EBCA0940DE262DB734FA21C98853B1EC"
+				"download" "6D66335E2045215DBE73D11C9E72468C"
+			}
+			"ml_final"
+			{
+				"gid" "FA2EB7DBCC7E3D0E75D6007A599AF9B1"
+				"size" "89C8F9E09BF205B2BEB3AF52A4E9CF88"
+				"download" "05BC56AFCBF3CA4C8240989994DE43CC"
+			}
+			"ml_otp"
+			{
+				"gid" "68748B7D728E5E380D648D78D365C1FF"
+				"size" "EEE93DC022BF73426E40FB83F2118C9F"
+				"download" "7B201D1CB518DDA9C809894308473A97"
+			}
+			"ml_retail"
+			{
+				"gid" "4EF914D791DAC092AA27A0DD334BF23C"
+				"size" "93E31165A23E11A3283D9516F18A74B5"
+				"download" "B1204FFB9284C9FF224FD71C81B6D046"
+			}
+			"rl_otp"
+			{
+				"gid" "D64BF7F04F591B49FAD49265A9932EFA"
+				"size" "71543A380AD261A51A69B4C55F731DD5"
+				"download" "32D075F06E6CA1CC5F20E66797B5043F"
+			}
+			"valve_review"
+			{
+				"gid" "0A40D4AD8BB0F7A32E951AAE45FC7A0A"
+				"size" "6C662C1288777C8AC72FA850AB426375"
+				"download" "A597BC654BC2FE101E61C0AB03F2B381"
+			}
+			"eacc"
+			{
+				"gid" "1C0CE37A51284CD7A708C6FF4E143A2B"
+				"size" "D016F633AB8184954FB706DA959865D0"
+				"download" "D2987F5FE2359A9E31962BFF8E6F8617"
+			}
+			"eacc_patch"
+			{
+				"gid" "0251A6793796D139C4F548F90A351429"
+				"size" "EF64F659397681845C92A95807C06615"
+				"download" "3D56A69164F271FF2AEB21CD9B81B75D"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "B6451B2C6CCBCDF813B4ED944C513788"
+				"size" "3BCC77010A18CAB2315EB31BABE59465"
+				"download" "5CB9703BE97F073DA87A8373ACAF3A4B"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "BFF5BB085A0304E33B458E3FBA786692"
+				"size" "A7F99F36642F999DEE119DA72BFEF4BA"
+				"download" "2EC99CCB1FA4AB5C28D6807CECD2B326"
+			}
+			"ml_release_debug"
+			{
+				"gid" "48401B09061822411D2B85323ECCE44D"
+				"size" "0A1DA1C9BF4CD315122DA698FFF72AD7"
+				"download" "E807A4617A707D06645551EA5514AF19"
+			}
+			"rl_final"
+			{
+				"gid" "889DBEE1AF07BD93DBB5EE5669D54DCB"
+				"size" "6A4090C5E4E39F7D0109B85089E8F0B2"
+				"download" "AE712F97069F5755C198928DC38C4EC7"
+			}
+			"rl_patch_b"
+			{
+				"gid" "E356964CDC5812554887279715CB4646"
+				"size" "F27A4CF5B2EA59D109AA0742A93DB06D"
+				"download" "581561420EAE9C546B936B0EF21331CA"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "103FB32AA8D6438F71A90E7BECAC3BC1"
+				"size" "0AB11BCD7B53AA8504E083AD9153AF3F"
+				"download" "0DC7072EBFB613985DE9ED01723BEAFF"
+			}
+			"rl_patch_release"
+			{
+				"gid" "179515A9167EA7FEC4DDAA863D20D54C"
+				"size" "5C7BBB62A27FACF174F49381B077BA0F"
+				"download" "6EBE02DE4E76684F1B65D07BDDF93296"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "91400795CC26A3EEAA792F726C892AF4"
+				"size" "26EE28600E112379C5FF41656A252CDE"
+				"download" "8045EC93E15BAA331181AA006E32DAAE"
+			}
+			"rl_release_debug"
+			{
+				"gid" "B399D46ABED9A514915853B33DDB7EA5"
+				"size" "1087A716FACC7BA7E4A38C617099DBF3"
+				"download" "22AEB72EFD5F709A0422267A5E767F13"
+			}
+			"rl_retail"
+			{
+				"gid" "D68531572F2A1F4DF05EA3CB21F9EA7C"
+				"size" "0813D5BF4A8FDF6F3A0F38E0768C6D18"
+				"download" "9B5A870E4C704A481608AC3CA3C0C714"
+			}
+		}
+	}
+	"2290733"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6857480186074117017"
+				"size" "1557811037"
+				"download" "1426437376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build_debug"
+			{
+				"gid" "CD17E87346C4F2566ED94061CAFEF37B"
+				"size" "40032C4CCEAA57A45560B6D12BC4D3B9"
+				"download" "2D103CA0D3A923B5BB14536826D8F1CF"
+			}
+			"ml_final"
+			{
+				"gid" "84527BB7420FDF80993E620DE0376A8B"
+				"size" "DD6319B372F1C7C8A0D52B40F5AE515E"
+				"download" "BA224589336D5CE74467BAEB6C5CDAF3"
+			}
+			"ml_otp"
+			{
+				"gid" "BB34E0353AEECA10753FEE3F31E647AA"
+				"size" "785F4D8C3419FCC375D064A053F57AFE"
+				"download" "CD7E51A7DD65476C065C64CAFEC46F9E"
+			}
+			"ml_retail"
+			{
+				"gid" "BDAE39AEACA29BD0C033FD0185874528"
+				"size" "054117165A13140ED8B9878985637F62"
+				"download" "B9D93C0A46A61B28177B21C5FB802289"
+			}
+			"rl_otp"
+			{
+				"gid" "17B576388B690D8409F3ACF2FD7B09AF"
+				"size" "73BC05C20DB44C8C8E585FB1794E1AD6"
+				"download" "FBD03A0BB933504EE950EE31F762A4A5"
+			}
+			"valve_review"
+			{
+				"gid" "C56412869E91FF535FCA631A6676FE62"
+				"size" "B5A8FB82934AD6EEC6C393449E5772F3"
+				"download" "84BD5940C95A405728551150CC8767F0"
+			}
+			"eacc"
+			{
+				"gid" "310756CC14F7719A167D1D3F69BF9CEE"
+				"size" "267F218AAF37B90885A961537613CFD7"
+				"download" "1BFFFE83DE17EF2AF7A50A8BA51E38E6"
+			}
+			"eacc_patch"
+			{
+				"gid" "FB4F89342B5F753CC114248B91D88586"
+				"size" "2C4EE47335DE98926760177E03A17E07"
+				"download" "CC01851A3874ADA5E70D9D93585515CC"
+			}
+			"euro24_ml_release"
+			{
+				"gid" "4DC51117ED53928DCB36F61DB43B205C"
+				"size" "811E51EB26AFD9D078DCD8D2B3DD23B4"
+				"download" "13BE34ADFA935B6855617111CDD744B2"
+			}
+			"ffl_release_debug"
+			{
+				"gid" "7AF68243338194D66150993BB5ECA97E"
+				"size" "0C04D7804534B8524CDFA22CF06122F6"
+				"download" "185DB9D1DA679E640BA2CA0D8C46780A"
+			}
+			"ml_release_debug"
+			{
+				"gid" "558CFAC9A37EE8490823EAA91447E4CF"
+				"size" "5D3FA8513D0C4F2F8981174BEACFAA4C"
+				"download" "C3F47D98ACAD3517FDA54CD59794718A"
+			}
+			"rl_final"
+			{
+				"gid" "8082A9DBD9007B0CCA9C4C1534D850AD"
+				"size" "52E397F57BE2B65F5DEFEFD09D26AE76"
+				"download" "74A7EDC19077AA5565D948F370E827B5"
+			}
+			"rl_patch_b"
+			{
+				"gid" "152EE12B56C81C220CCA48E58FBA882D"
+				"size" "251A7B70070CA4D2D0AB9871A4BC5F75"
+				"download" "0B4203C2ECD8039C2DAFF29F02F4FF24"
+			}
+			"rl_patch_b_release"
+			{
+				"gid" "AB74CAFB7E87FA01DB96D6E5779F1811"
+				"size" "AFA342C7A94BB1C415206121FAA027B2"
+				"download" "9FFC684D14F39CF2BEA82BDB97871B62"
+			}
+			"rl_patch_release"
+			{
+				"gid" "772A684DF02F4BCD64A1F61D9706190B"
+				"size" "685377D91CC440AD15FDE709DF069681"
+				"download" "87C9B475FEAD9B4A559978DC07888C30"
+			}
+			"rl_patch_retail"
+			{
+				"gid" "93B75C98C0A508DDB41748B418C419D9"
+				"size" "4D18C0537C3938712066CBDB3B06B6FB"
+				"download" "2078CB68B4F309B618C661B085900F85"
+			}
+			"rl_release_debug"
+			{
+				"gid" "6EE815F5543DF306D2FAC980C97D89BD"
+				"size" "482AA50B5BAD7FC3581293A35F880604"
+				"download" "B828931709A8552ADF3455009592328B"
+			}
+			"rl_retail"
+			{
+				"gid" "FA86A76DD16E17975559BFE15994590D"
+				"size" "6DD80DD579F69980F4D48F7E585BB925"
+				"download" "DA92B2A7F93D640A4912DF79B815E098"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14644710"
+			"timeupdated" "1718010009"
+		}
+		"build_debug"
+		{
+			"buildid" "12773527"
+			"pwdrequired" "1"
+			"timeupdated" "1702429798"
+		}
+		"ml_final"
+		{
+			"buildid" "11297120"
+			"pwdrequired" "1"
+			"timeupdated" "1684847219"
+		}
+		"ml_otp"
+		{
+			"buildid" "11407101"
+			"pwdrequired" "1"
+			"timeupdated" "1686076269"
+		}
+		"ml_retail"
+		{
+			"buildid" "12639485"
+			"pwdrequired" "1"
+			"timeupdated" "1699359842"
+		}
+		"rl_otp"
+		{
+			"buildid" "11928130"
+			"pwdrequired" "1"
+			"timeupdated" "1691844845"
+		}
+		"valve_review"
+		{
+			"buildid" "12140954"
+			"pwdrequired" "1"
+			"timeupdated" "1694597109"
+		}
+		"eacc"
+		{
+			"buildid" "14708123"
+			"pwdrequired" "1"
+			"timeupdated" "1718297275"
+		}
+		"eacc_patch"
+		{
+			"buildid" "14657894"
+			"pwdrequired" "1"
+			"timeupdated" "1717967804"
+		}
+		"euro24_ml_release"
+		{
+			"buildid" "14657894"
+			"pwdrequired" "1"
+			"timeupdated" "1718126330"
+		}
+		"ffl_release_debug"
+		{
+			"buildid" "14696480"
+			"pwdrequired" "1"
+			"timeupdated" "1718224887"
+		}
+		"ml_release_debug"
+		{
+			"buildid" "14188888"
+			"pwdrequired" "1"
+			"timeupdated" "1714159559"
+		}
+		"rl_final"
+		{
+			"buildid" "14297477"
+			"pwdrequired" "1"
+			"timeupdated" "1715133788"
+		}
+		"rl_patch_b"
+		{
+			"buildid" "14644710"
+			"pwdrequired" "1"
+			"timeupdated" "1717794519"
+		}
+		"rl_patch_b_release"
+		{
+			"buildid" "14644943"
+			"pwdrequired" "1"
+			"timeupdated" "1717797088"
+		}
+		"rl_patch_release"
+		{
+			"buildid" "14708201"
+			"pwdrequired" "1"
+			"timeupdated" "1718297307"
+		}
+		"rl_patch_retail"
+		{
+			"buildid" "14708123"
+			"pwdrequired" "1"
+			"timeupdated" "1718297292"
+		}
+		"rl_release_debug"
+		{
+			"buildid" "14460328"
+			"pwdrequired" "1"
+			"timeupdated" "1718045225"
+		}
+		"rl_retail"
+		{
+			"buildid" "14563892"
+			"pwdrequired" "1"
+			"timeupdated" "1717193674"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23959574"
+"_sha" "d66c4fbc14449dac59175cb909aa7edf6254cf8a"
+"_size" "83527"
