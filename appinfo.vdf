@@ -1,0 +1,593 @@
+"appid" "1562430"
+"common"
+{
+	"name" "DREDGE"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "20795f0039dc7442f660dfc9569550a5286bb911"
+	"logo_small" "20795f0039dc7442f660dfc9569550a5286bb911_thumb"
+	"icon" "c8b352e87c28aa9ffe3a4641b230beb5064a49e6"
+	"clienticon" "581c0734616454644f2d1a7f7f47ec56cbecade8"
+	"clienttga" "0e1e6dae8b6a20d00efcaf6a7edda2119e409d65"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "《渔帆暗涌》"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1679529600"
+		"tested_build_id" "10810530"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "49.68220105040817"
+			"height_pct" "90.44633896040773"
+		}
+	}
+	"store_asset_mtime" "1713452748"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Black Salt Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17 Digital"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680192089"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1562430"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "15564"
+		"2" "7432"
+		"3" "21"
+		"4" "1695"
+		"5" "5716"
+		"6" "6276"
+		"7" "122"
+		"8" "4166"
+		"9" "599"
+		"10" "1721"
+		"11" "4182"
+		"12" "1667"
+		"13" "4252"
+		"14" "3978"
+		"15" "5186"
+		"16" "1742"
+		"17" "4191"
+		"18" "13577"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Black Salt Games"
+	"publisher" "Team17"
+	"homepage" "https://www.dredge.game/"
+	"listofdlc" "2104240,2198600,2198610,2561440,2561450"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DREDGE"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DREDGE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"1562431"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "806127729099928319"
+				"size" "700752779"
+				"download" "496538608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"1.2.0"
+			{
+				"gid" "9B976A6E5E7A6F126B1968E63AA3E1E6"
+				"size" "BECF0F21DD6A1F78C59421AAD3970B9D"
+				"download" "823471A83730DF386B777609CAF9B8AB"
+			}
+			"1.3.0"
+			{
+				"gid" "C0D431386C1472E4721922DE7067304E"
+				"size" "D3E6D938881AA371F9DD4F2DFE9F5849"
+				"download" "790934E30685A12F3DB0050C21A13C10"
+			}
+			"1.4.0"
+			{
+				"gid" "ADAC77C8B4F87449AAB2B2CBEEC736E6"
+				"size" "04108F31437C2830FA61C702D0619C47"
+				"download" "2E468DAE769B6D61D5FB0C40A147E572"
+			}
+			"compatibility"
+			{
+				"gid" "0BB6051A38131805443B4EE2122957AA"
+				"size" "C67F993777BFCF67EB33ACAA0D1BE0FB"
+				"download" "B5F1A040F7891B7D92005C0EB7F8FF1F"
+			}
+			"demo"
+			{
+				"gid" "42EA33E5575C62D7024DED2370401FE1"
+				"size" "9667A33F47C63FD34B5D14122AE8928F"
+				"download" "89041DD550EA72B3D841579A88DC0583"
+			}
+			"milestone"
+			{
+				"gid" "945030A59F445341C05E5B51CC8FA1F3"
+				"size" "1A43616527735FDF0F5CDB63C61051B2"
+				"download" "5E3A371CBF0B9CF634AA859707EF6B1E"
+			}
+			"press"
+			{
+				"gid" "2CD5FB27B923812BEFCB03F24ECBA138"
+				"size" "77EC2AFB446C765FC0BA4F48106EA7BC"
+				"download" "53CF1D3B06D911FCEBEE48FD79839B1F"
+			}
+			"razer"
+			{
+				"gid" "28E7D72F186ED43C85B7A9CCBE8DA150"
+				"size" "0EBCEE3C1E769F736AE1B7DC7D943336"
+				"download" "8AF4357BDE34405BBE94966437545BC5"
+			}
+			"showcase"
+			{
+				"gid" "1D2EBED70AFAEE7007E8C88127090239"
+				"size" "649768FE135CB99A61B835028FA074BA"
+				"download" "B894DB8BA3AE44C48A7437BD1DD62831"
+			}
+			"splitter-test"
+			{
+				"gid" "3C8152FE101536B5C14DB718BE336011"
+				"size" "FE844A7C1834984A799DEC09DEF6FB62"
+				"download" "5D50D9F45F021F16C571332147BCB9A0"
+			}
+			"stage"
+			{
+				"gid" "8AEBC11FFBC0B839BC60DD9F127A12D5"
+				"size" "0AAD7C230DC1EA108089DF5B5BB50C32"
+				"download" "3C0D1EF6EA405988E642BC08F505A164"
+			}
+			"steam_deck_review"
+			{
+				"gid" "F11567B56ABBDC0D7A01DC7EA6287463"
+				"size" "6A41448EC906820751D719936F755974"
+				"download" "0482E6045076D59B9E34C82E6490520E"
+			}
+			"steam_review"
+			{
+				"gid" "78FE50C2078575F7DA90EB4A9727CB30"
+				"size" "C539C6DC5FA156B3DA1B4487529F230D"
+				"download" "F196D196F6F8B3944D11B544F744C673"
+			}
+			"usability"
+			{
+				"gid" "DB9F38FA27E83C4CE21A6E1B8107AF20"
+				"size" "9EBDFAB8365C5FB0EE0830883B11EF01"
+				"download" "57EC480856BF1B9A89D4154D67161EC2"
+			}
+			"1.5.0"
+			{
+				"gid" "9C19B49D3077C255DDF64B6EA7F1CAFF"
+				"size" "450D8788A521E6F7CDF43E3A35E55E9A"
+				"download" "3934D31E4B46C5D47501728C7524D0D5"
+			}
+			"localization-qa"
+			{
+				"gid" "0E6A02B1CA344C446B8878F5623EE6B7"
+				"size" "BAB2F99043070A810B01D3A100A21EBA"
+				"download" "3918448C35651B9B3BBB7F3057F72AB6"
+			}
+			"milestone-debug"
+			{
+				"gid" "FE499BF5309F32530C1F6ACF96BD0EF6"
+				"size" "01E34A6EFEC607F18B77D2CE855423DB"
+				"download" "94CF7497A172DF62DFDEA5E9CA90F8F5"
+			}
+			"test"
+			{
+				"gid" "4430291D9866F44F663C4DD78A7E961A"
+				"size" "5BBB431D3E667A01B9996B5A82D4A46A"
+				"download" "F13A9F488EA714DC948ACC3585B8B183"
+			}
+		}
+	}
+	"2198610"
+	{
+		"dlcappid" "2198610"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8837623262127469519"
+				"size" "118687443"
+				"download" "115655152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"1.2.0"
+			{
+				"gid" "9730956C3DFFE2ADE22927167EAA39DC"
+				"size" "347131EF9CA0D8DC96B9D4605E646B91"
+				"download" "524D1CC87E8D8DF1AD2B0BE238A2724D"
+			}
+			"1.3.0"
+			{
+				"gid" "711201A88397E6375E3630785EC82B2B"
+				"size" "ADEE36C1096B905BF8A08015D54EB54F"
+				"download" "FC68011AAEA6B8429BCEF32E62C84043"
+			}
+			"1.4.0"
+			{
+				"gid" "429341930B99B5BB2BC37CF8CAD04AE5"
+				"size" "4A21D0671970383B6F9EC7F4A9B5EA63"
+				"download" "F1E2AEC1EFC3D833DE8666D5CAB62855"
+			}
+			"press"
+			{
+				"gid" "2D0B15AD0ED91ED9B608F73252133A23"
+				"size" "19F81717B25920DEABB14488AAC6C0E8"
+				"download" "7D6EA147B21E10063C44F322393EECAF"
+			}
+			"razer"
+			{
+				"gid" "7492B83348FC332B60E5ED66A0582653"
+				"size" "A6B8E6377A736ECBBDBFA4DA52041364"
+				"download" "4A909F5DE841173938C7580B4F925633"
+			}
+			"splitter-test"
+			{
+				"gid" "BB6D91797B2F545DCE7FBBC29842356E"
+				"size" "ADD87A643A3B636386743EA3DF12EAC5"
+				"download" "EE962DF4410F43EA62802FD842C7D6A1"
+			}
+			"steam_deck_review"
+			{
+				"gid" "77913C447284E7F612D9856A292B510F"
+				"size" "A21B682B63FF7E9B6CDE9A00FE811F66"
+				"download" "75A73B8AC2463633CA9114228D576E01"
+			}
+			"1.5.0"
+			{
+				"gid" "4F9B9C59E14F994534A6E810CA456422"
+				"size" "E8F0FE8730EA11AD7941617ED2F42E19"
+				"download" "053A41115EEB15CC5E9009DDE57C8B34"
+			}
+			"localization-qa"
+			{
+				"gid" "E6972A812F13487B4E0A8EF88AD075B4"
+				"size" "5CEF9D5A5A95B5F1812659B9E06D4087"
+				"download" "35D4C7F45C0C3B97237E6264081B9730"
+			}
+			"milestone-debug"
+			{
+				"gid" "5F6DE323099FB433D961CA5B790FD878"
+				"size" "C091054D00FE4644E628F60F152814E2"
+				"download" "56278DC0C5901FF63F6E691D8AF0969E"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12988299"
+			"timeupdated" "1702893637"
+		}
+		"1.2.0"
+		{
+			"buildid" "11445641"
+			"pwdrequired" "1"
+			"timeupdated" "1686534736"
+		}
+		"1.3.0"
+		{
+			"buildid" "11594046"
+			"pwdrequired" "1"
+			"timeupdated" "1688089762"
+		}
+		"1.4.0"
+		{
+			"buildid" "12367897"
+			"pwdrequired" "1"
+			"timeupdated" "1696535513"
+		}
+		"compatibility"
+		{
+			"buildid" "10779169"
+			"pwdrequired" "1"
+			"timeupdated" "1680597020"
+		}
+		"demo"
+		{
+			"buildid" "8932606"
+			"pwdrequired" "1"
+			"timeupdated" "1655778158"
+		}
+		"milestone"
+		{
+			"buildid" "12786803"
+			"pwdrequired" "1"
+			"timeupdated" "1700799225"
+		}
+		"press"
+		{
+			"buildid" "12551572"
+			"pwdrequired" "1"
+			"timeupdated" "1698398049"
+		}
+		"razer"
+		{
+			"buildid" "12167966"
+			"pwdrequired" "1"
+			"timeupdated" "1694516198"
+		}
+		"showcase"
+		{
+			"buildid" "10405020"
+			"pwdrequired" "1"
+			"timeupdated" "1675129822"
+		}
+		"splitter-test"
+		{
+			"buildid" "11347221"
+			"pwdrequired" "1"
+			"timeupdated" "1685426251"
+		}
+		"stage"
+		{
+			"buildid" "11283386"
+			"pwdrequired" "1"
+			"timeupdated" "1686260568"
+		}
+		"steam_deck_review"
+		{
+			"buildid" "10810530"
+			"pwdrequired" "1"
+			"timeupdated" "1679312779"
+		}
+		"steam_review"
+		{
+			"buildid" "10102144"
+			"pwdrequired" "1"
+			"timeupdated" "1674642065"
+		}
+		"usability"
+		{
+			"buildid" "9190528"
+			"pwdrequired" "1"
+			"timeupdated" "1660032440"
+		}
+		"1.5.0"
+		{
+			"buildid" "14700680"
+			"pwdrequired" "1"
+			"timeupdated" "1718252930"
+		}
+		"localization-qa"
+		{
+			"buildid" "14514615"
+			"pwdrequired" "1"
+			"timeupdated" "1716868931"
+		}
+		"milestone-debug"
+		{
+			"buildid" "14514615"
+			"pwdrequired" "1"
+			"timeupdated" "1717736140"
+		}
+		"test"
+		{
+			"buildid" "14692458"
+			"pwdrequired" "1"
+			"timeupdated" "1718199915"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Black Salt Games/DREDGE/saves"
+			"pattern" "*.bin"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23950168"
+"_sha" "bec938da539ad190d7fe764ebc2fab4828a92a00"
+"_size" "12211"
