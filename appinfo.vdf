@@ -1,0 +1,769 @@
+"appid" "780310"
+"common"
+{
+	"name" "The Riftbreaker"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "c64f5e4cf0340aaf82bebefda2ab3cd60894a352"
+	"logo_small" "c64f5e4cf0340aaf82bebefda2ab3cd60894a352_thumb"
+	"icon" "628a2676cfb9adb61407c7c4ff63c350b3b8e6e5"
+	"clienticon" "464c2ef7bed634b0671da9d95ce5b3f9d365c267"
+	"clienttga" "4ef25677902b9148a8bb36b670cd23be12e41e4f"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "The Riftbreaker 银河破裂者"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695168000"
+		"tested_build_id" "12069350"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Riftbreaker"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "90.09880113259834"
+		}
+	}
+	"store_asset_mtime" "1717589851"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EXOR Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "EXOR Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Surefire.Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "EXOR Studios"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "surefiregames"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_33" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_55" "1"
+		"category_59" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634198446"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-riftbreaker\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "780310"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "1645"
+		"2" "1662"
+		"3" "9"
+		"4" "1646"
+		"5" "1702"
+		"6" "8945"
+		"7" "3942"
+		"8" "1643"
+		"9" "4231"
+		"10" "21"
+		"11" "3834"
+		"12" "122"
+		"13" "5851"
+		"14" "599"
+		"15" "4236"
+		"16" "3810"
+		"17" "19"
+		"18" "4821"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "EXOR Studios"
+	"publisher" "EXOR Studios"
+	"homepage" "http://www.riftbreaker.com/"
+	"listofdlc" "1945600,2108630,2506610"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Riftbreaker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/riftbreaker_win_release.exe"
+			"workingdir" "bin"
+			"type" "default"
+		}
+		"2"
+		{
+			"executable" "bin/Launcher.exe"
+			"workingdir" "bin"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Game Configuration"
+			}
+			"description" "Game Configuration"
+		}
+		"3"
+		{
+			"executable" "bin/riftbreaker_win_release.exe"
+			"arguments" "config=conf/benchmark/benchmark_intense_steam.cfg"
+			"workingdir" "bin"
+			"description" "CPU Benchmark"
+			"type" "option2"
+		}
+		"6"
+		{
+			"executable" "bin/riftbreaker_win_release.exe"
+			"arguments" "config=conf/benchmark/benchmark_gpu_steam.cfg"
+			"workingdir" "bin"
+			"description" "GPU Benchmark"
+			"type" "option3"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"workshopdepot" "780310"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"780311"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1035348844688390005"
+				"size" "9229025133"
+				"download" "8759769840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha2"
+			{
+				"gid" "AD926CB963AE9C62E5AAADEBBEF3710C"
+				"size" "30D259E0E90ABE5FC9DD40F4EE207D3E"
+				"download" "62EAF7625F90405E38821FBEC7BDBC91"
+			}
+			"alpha3_5"
+			{
+				"gid" "9BA8868908CC29E337A83C1C5590CACB"
+				"size" "0D6284322DA344D55FD5D950DC3B7338"
+				"download" "A0E3B18A39AD4049F6957257F2628837"
+			}
+			"amd_tech"
+			{
+				"gid" "9C55BE51AE600B9BFB34AB6B0171FE6D"
+				"size" "F7C55B4B969893292AA1EF2F8C3D2BAA"
+				"download" "52B3C99125EFB8BDA6F144097DB14E58"
+			}
+			"beta_dev_multiplayer"
+			{
+				"gid" "A61D9E25C56A47CA26D3F610780EB736"
+				"size" "4F8E0D71B9E9FCFD45829501D430F20A"
+				"download" "F71756B011CD7FFC67B6991116470536"
+			}
+			"closed_beta"
+			{
+				"gid" "8A1EE9C1283FEE3F15D744E84A62D6C4"
+				"size" "6670552A59AEF13550C87E1FB1FFE15D"
+				"download" "4429B5B7CE7E2037BDF4503B72F6F2BD"
+			}
+			"e3_2019_demo"
+			{
+				"gid" "1813A3A5169B21F71DD1E8E968C787EE"
+				"size" "8E9DCE1EC13A32EAA95605CF46F0379A"
+				"download" "B30C5CBEA0EB03498C2BCEF1B4063F20"
+			}
+			"gamescom_2019_demo"
+			{
+				"gid" "B81FF9B21C919534CECE749901CA8615"
+				"size" "9821B243BA65B5CFCC51358F56042962"
+				"download" "0E0CAAF5A94E18D917277566F678CF8E"
+			}
+			"gdc_2019_demo"
+			{
+				"gid" "89F0E63EBEEC5251C80181B653FD7079"
+				"size" "2625908316A4A616B52C94ECB0B87662"
+				"download" "8C1CCF92BFC682A7177782CF8F4E2113"
+			}
+			"intel_tech"
+			{
+				"gid" "C9ACA481020B25AC2DF5E6779389B680"
+				"size" "700FC475B642AC25CF8DA896A2E67472"
+				"download" "9945D06EBFAAE265B82F2BC375F2781D"
+			}
+			"nvidia_tech"
+			{
+				"gid" "18268C812E112348F0ABCFA2C8BEF5EE"
+				"size" "CFBF56827DABEB72CE8728D9EC897580"
+				"download" "24D167AB939C400FBBB612CF8D759E19"
+			}
+			"pax_2019_demo"
+			{
+				"gid" "BCD05CA1AAF4B881C28F4D9FE495FD90"
+				"size" "3B0BCC155D39A2600F4564E2FCB0E064"
+				"download" "A6C0C93327751813F96F4E44F2B51A92"
+			}
+			"pax_west_2019_demo"
+			{
+				"gid" "2B31E965BBEB892466915C9E379A64A3"
+				"size" "C322859DA7A000B02C015635DC72FBFA"
+				"download" "3783AABE3DF3A63A528E2F835C3AEC6A"
+			}
+			"pga_2019"
+			{
+				"gid" "D2B0502815DFACA7C6E0589D7BD43BCD"
+				"size" "B9A536EBFE6242C08DE785630767587F"
+				"download" "B68923438C9BA5A41F8F90D2EA5D725B"
+			}
+			"steam_deck"
+			{
+				"gid" "ADCFF4157FEE88CD8F60ABF3BE97C94A"
+				"size" "7DEA44DCC31F6E09884380F299868A2C"
+				"download" "46A9AA7047ED09ACE5992419752ED3E0"
+			}
+			"beta_dev"
+			{
+				"gid" "51B3F15F16D491B510CE439CCE11037E"
+				"size" "DED3D583664968214E75FE4446A22784"
+				"download" "F61BEA53874D2F31E6B08B2B7136944B"
+			}
+			"experimental"
+			{
+				"gid" "CF02C3A7FBB1892FE65230471929F1D9"
+				"size" "7A4D64A1F4E519F454011B24D27225BF"
+				"download" "26744EAD658CBC4ECFE63CDCB7F9BE69"
+			}
+			"thirdparty_testing"
+			{
+				"gid" "AA39086C648FC4D77746000D6273F3E2"
+				"size" "80A70F5D067404526B7B8907E8DC7F50"
+				"download" "692351FC6F47D7DDE20EB051AD3DC07F"
+			}
+		}
+	}
+	"1945600"
+	{
+		"dlcappid" "1945600"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2191262948229146616"
+				"size" "877221903"
+				"download" "859034672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd_tech"
+			{
+				"gid" "5A98992BDFE3B377514899B21BFC43FD"
+				"size" "F1A8CB005DD265186A388C4FD1FB7D7C"
+				"download" "01755EEAD10371E5413160EC5BB1DF47"
+			}
+			"beta_dev_multiplayer"
+			{
+				"gid" "2B1988588B84CEBDABD869B794F599E4"
+				"size" "82D2D37604BFBEF47506239DB70197F9"
+				"download" "82D2D37604BFBEF47506239DB70197F9"
+			}
+			"closed_beta"
+			{
+				"gid" "46DB5640AF72BE45AADDDFB37DF8B7DD"
+				"size" "D1D7F5946487020BD9446CF7BC0BFD8A"
+				"download" "21542A1BEA68E6BE4AF6A98917F79B9F"
+			}
+			"intel_tech"
+			{
+				"gid" "EB26D03693C455D076BCB5A6EEDDAC83"
+				"size" "47CAA50ECDC3A15A88D584BAB33F10AF"
+				"download" "C432359768FA78D6B7B6B75F4F46FCDD"
+			}
+			"nvidia_tech"
+			{
+				"gid" "7E15FB9A0DC6BCD630A3491C66BE0F5F"
+				"size" "2D8F5BFC54772D178741FB8D169DB8BA"
+				"download" "8A039EEF428C8AE41D395958E4FAB81C"
+			}
+			"steam_deck"
+			{
+				"gid" "5DEA4076BDC0EE6667AF155E9392A20E"
+				"size" "FCD9E45BDD63DB63177B521D69A019B5"
+				"download" "B1624DBA96A34614DBCF52EE9CBC568B"
+			}
+			"beta_dev"
+			{
+				"gid" "C28819C01DC0E4F28DECF13B786C0537"
+				"size" "3CE3136FD7730F26D9B9E62CCC347333"
+				"download" "4580536B997EC33EE37923AACA54ADED"
+			}
+			"experimental"
+			{
+				"gid" "DC1C2245F75D7D47EEE0D2E42A7621F4"
+				"size" "DA4F78F0AB81DEF74058ABF528797B26"
+				"download" "9D2FE880C61DB7DA60E66A61BD60624A"
+			}
+			"thirdparty_testing"
+			{
+				"gid" "CD2D0C63B03CFB9EDC879FFC22E1D2B8"
+				"size" "294C7F3FA69FD1AF4F532927F4C38CEE"
+				"download" "AA3C9686A094AE4E67DA7A5B414A7DA5"
+			}
+		}
+	}
+	"2108630"
+	{
+		"dlcappid" "2108630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8242288861472879208"
+				"size" "1307791641"
+				"download" "1287010416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd_tech"
+			{
+				"gid" "2782FF07F604FA2963D574FD8A081C9C"
+				"size" "B089DFE5504539344E7184D5FC567252"
+				"download" "F02AF7413FBF02BE3605B6297019AA2C"
+			}
+			"beta_dev_multiplayer"
+			{
+				"gid" "1BB538F95F213FE999E9196718249548"
+				"size" "82D2D37604BFBEF47506239DB70197F9"
+				"download" "82D2D37604BFBEF47506239DB70197F9"
+			}
+			"closed_beta"
+			{
+				"gid" "217ADBDC0C73F676E90CEA2C1F1D13AD"
+				"size" "1964852775F7BD5A2427B769F403E925"
+				"download" "0A1AB62E1DE50ABCF85DEFDFE188D5D8"
+			}
+			"intel_tech"
+			{
+				"gid" "A2E9D82EFCB1E4D855F3128385DDFDFE"
+				"size" "048A61DBBF35DC97D59F953928862D7E"
+				"download" "73DAFEB93EC09EE95F36010338361671"
+			}
+			"nvidia_tech"
+			{
+				"gid" "651B3322A9A20D9019EDAC4B051FED63"
+				"size" "0D8A125E22C2D3F3B0C9B52D613628C5"
+				"download" "3D53A1F497565BDDB90B608E417FAED7"
+			}
+			"steam_deck"
+			{
+				"gid" "D6842CF6A594D56CAA51780C35A12337"
+				"size" "7FEE4D68D31D50A4D70C5930598CEAB9"
+				"download" "51830B550E34B88B54111F62F00C4530"
+			}
+			"beta_dev"
+			{
+				"gid" "C4C6371A5179EE34B96F0E308C66ECCD"
+				"size" "65D7B41DA650C4D5CB3004BFEC086093"
+				"download" "0168F868D43F18ABDF61A9AB03E054CB"
+			}
+			"experimental"
+			{
+				"gid" "17DA6D01AC4C46B5BFEAFA9E45B24743"
+				"size" "C04F8A3B6222F1193B09B0E2CED03C72"
+				"download" "C979B257938F8064FC41713F5BD7097A"
+			}
+			"thirdparty_testing"
+			{
+				"gid" "FED092DB7C4171D37E9DD11AC43CF5C3"
+				"size" "74ABE799ABC9C1C216257A645DA436D8"
+				"download" "25DF88060D3E62D719A941DAEEFAA789"
+			}
+		}
+	}
+	"2506610"
+	{
+		"dlcappid" "2506610"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"beta_dev"
+			{
+				"gid" "54F192F87C89B526EC44B4163162AF01"
+				"size" "FEDF2904D09DC3780555DA5D53BF8888"
+				"download" "9776A04E6931314C3A4678011821C1EB"
+			}
+			"experimental"
+			{
+				"gid" "5EBE6F0C4E02BC4AED99DD996C80F6FC"
+				"size" "33519D2DF890600670F354F98FC1F4D6"
+				"download" "75AD875378EBC89ECDDB634C0A58BB01"
+			}
+			"thirdparty_testing"
+			{
+				"gid" "A947A27A79F14E93D5856D41853F8C3F"
+				"size" "05CD6D20F3EBC3EE9E2181F41C4CE988"
+				"download" "5312455F8CFE64AAF8D282A0DAEB8736"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13156533"
+			"timeupdated" "1706183936"
+		}
+		"alpha2"
+		{
+			"buildid" "4840806"
+			"pwdrequired" "1"
+			"timeupdated" "1592259983"
+		}
+		"alpha3_5"
+		{
+			"buildid" "5461466"
+			"pwdrequired" "1"
+			"timeupdated" "1604068037"
+		}
+		"amd_tech"
+		{
+			"buildid" "13156533"
+			"pwdrequired" "1"
+			"timeupdated" "1706183976"
+		}
+		"beta_dev_multiplayer"
+		{
+			"buildid" "11978183"
+			"pwdrequired" "1"
+			"timeupdated" "1692385073"
+		}
+		"closed_beta"
+		{
+			"buildid" "13156533"
+			"pwdrequired" "1"
+			"timeupdated" "1706183996"
+		}
+		"e3_2019_demo"
+		{
+			"buildid" "3897992"
+			"pwdrequired" "1"
+			"timeupdated" "1560935096"
+		}
+		"gamescom_2019_demo"
+		{
+			"buildid" "4132022"
+			"pwdrequired" "1"
+			"timeupdated" "1566552108"
+		}
+		"gdc_2019_demo"
+		{
+			"buildid" "3745636"
+			"pwdrequired" "1"
+			"timeupdated" "1555504425"
+		}
+		"intel_tech"
+		{
+			"buildid" "13156533"
+			"pwdrequired" "1"
+			"timeupdated" "1706184016"
+		}
+		"nvidia_tech"
+		{
+			"buildid" "13156533"
+			"pwdrequired" "1"
+			"timeupdated" "1706184025"
+		}
+		"pax_2019_demo"
+		{
+			"buildid" "3764807"
+			"pwdrequired" "1"
+			"timeupdated" "1559212566"
+		}
+		"pax_west_2019_demo"
+		{
+			"buildid" "4139762"
+			"pwdrequired" "1"
+			"timeupdated" "1566835451"
+		}
+		"pga_2019"
+		{
+			"buildid" "4292693"
+			"pwdrequired" "1"
+			"timeupdated" "1571236088"
+		}
+		"steam_deck"
+		{
+			"buildid" "11738015"
+			"pwdrequired" "1"
+			"timeupdated" "1690192994"
+		}
+		"beta_dev"
+		{
+			"buildid" "14716100"
+			"pwdrequired" "1"
+			"timeupdated" "1718355532"
+		}
+		"experimental"
+		{
+			"buildid" "14716100"
+			"pwdrequired" "1"
+			"timeupdated" "1718374356"
+		}
+		"thirdparty_testing"
+		{
+			"buildid" "14716100"
+			"pwdrequired" "1"
+			"timeupdated" "1718355546"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "The Riftbreaker/campaignV2"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "The Riftbreaker/user_config"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "The Riftbreaker/user_profile"
+			"pattern" "*"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#rich_presence_1" "Browsing the Riftbreaker menu."
+				"#rich_presence_2" "Playing the Riftbreaker Campaign mode."
+				"#rich_presence_3" "Playing the Riftbreaker Survival mode."
+				"#rich_presence_4" "Playing the Riftbreaker."
+				"#rich_presence_prologue_1" "Browsing the Riftbreaker Prologue menu."
+				"#rich_presence_prologue_2" "Playing the Riftbreaker Prologue."
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23974166"
+"_sha" "dfd3af19b30c5ff13726edbf72796fd367897bdd"
+"_size" "16533"
