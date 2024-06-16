@@ -1,0 +1,433 @@
+"appid" "1999270"
+"common"
+{
+	"name" "V Rising Soundtrack"
+	"type" "Music"
+	"parent" "1604030"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "8ffa500ab617c0c49df64bc67dd71176daa084f2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1652729157"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Stunlock Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Stunlock Studios"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"steam_release_date" "1652903425"
+	"gameid" "1999270"
+	"exfgls" "6"
+	"store_tags"
+	{
+		"0" "7948"
+	}
+	"review_score" "7"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"musicalbumforappid" "1604030"
+	"developer" "Stunlock Studios"
+	"publisher" "Stunlock Studios"
+	"homepage" "https://blog.stunlock.com/v-rising-dlc-reveal"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "VRisingSoundtrack"
+}
+"depots"
+{
+	"1999271"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "153183140891030061"
+				"size" "341002099"
+				"download" "260569440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "DACD201D98EB5A90798FBBB2834C897C"
+				"size" "7FB5AA823B088ADC7998F61AD415D213"
+				"download" "6A5D99B4982A9D1A53F810503E84FB1C"
+			}
+		}
+	}
+	"1999272"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3178206715124167564"
+				"size" "1923531226"
+				"download" "1820165024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "161E2E854465D5F22A81A23F0E762EFC"
+				"size" "75944D3DF5CA06A5F6D3098F062BAA4B"
+				"download" "CAFFF8E0CDC523573F9D42BA31F2713E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14300208"
+			"timeupdated" "1715154488"
+		}
+		"internal"
+		{
+			"buildid" "14300208"
+			"pwdrequired" "1"
+			"timeupdated" "1715153971"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "95ac2cd2b2273d2bb5b1e15f2543297e8c072cf2"
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Aleksandria Migova"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "Aleksandria Migova"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"brazilian" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Vampires Rising"
+			"m" "3"
+			"s" "5"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Dawn Comes"
+			"m" "5"
+			"s" "22"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Farbane Nights"
+			"m" "5"
+			"s" "36"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Song of Dunley"
+			"m" "4"
+			"s" "59"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Moonlight in the Countryside"
+			"m" "5"
+			"s" "44"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Hallowed Mountains"
+			"m" "5"
+			"s" "28"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Kiss of Frost"
+			"m" "5"
+			"s" "46"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Tales from the Cursed Forest Part I"
+			"m" "5"
+			"s" "36"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Tales from the Cursed Forest Part II"
+			"m" "5"
+			"s" "37"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Clash of Faiths"
+			"m" "5"
+			"s" "32"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Darkness and Light"
+			"m" "5"
+			"s" "42"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "The Castle"
+			"m" "6"
+			"s" "16"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "We Hunt"
+			"m" "4"
+			"s" "58"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Dungeon Born"
+			"m" "5"
+			"s" "26"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Rust and Regret"
+			"m" "5"
+			"s" "17"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Madness Unleashed"
+			"m" "5"
+			"s" "4"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Dystopian Sonata"
+			"m" "4"
+			"s" "57"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "Whispers of the Wasteland"
+			"m" "5"
+			"s" "16"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Beneath Shrouded Skies"
+			"m" "5"
+			"s" "13"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "Echoes of Despair"
+			"m" "5"
+			"s" "7"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "Dracula’s Theme"
+			"m" "5"
+			"s" "3"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23541181"
+"_sha" "de67469ac42e350fa01f848a14c1b48a1b76d64e"
+"_size" "7166"
