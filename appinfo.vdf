@@ -1,0 +1,886 @@
+"appid" "1084600"
+"common"
+{
+	"name" "My Time at Sandrock"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "eb9042f448e5e3572df7e4447b0e644f5aef88ed"
+	"logo" "eb5e20a4aa037a1c3ade9835ebd44995518a0526"
+	"logo_small" "eb5e20a4aa037a1c3ade9835ebd44995518a0526_thumb"
+	"clienttga" "22849ad590406b05e5eb4ec0678a838b3ce65507"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "60a1c9a15024abca801d16b87867394a9f5497a3"
+	"clienticns" "67d283a82fc9892e52ee197972b7c0f8aaa4dd23"
+	"linuxclienticon" "b16ec92378a49b46cd02e0a4a65ba14f0aa68f38"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "沙石镇时光"
+		"sc_schinese" "沙石镇时光"
+	}
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704499200"
+		"tested_build_id" "13047015"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "My Time at Sandrock"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.61022347314176"
+			"height_pct" "63.52410353835191"
+		}
+	}
+	"store_asset_mtime" "1716909168"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pathea Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pathea Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "PM Studios, Inc."
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "DMM Games"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Pathea Games"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "My Time"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698933600"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/my-time-at-sandrock\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1084600"
+	"store_tags"
+	{
+		"0" "10235"
+		"1" "1643"
+		"2" "87918"
+		"3" "3810"
+		"4" "3859"
+		"5" "1702"
+		"6" "122"
+		"7" "9551"
+		"8" "1695"
+		"9" "4747"
+		"10" "5981"
+		"11" "21"
+		"12" "3835"
+		"13" "597"
+		"14" "599"
+		"15" "4182"
+		"16" "7208"
+		"17" "4195"
+		"18" "493"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Pathea Games"
+	"publisher" "Pathea Games"
+	"homepage" "https://sandrock.pathea.net/"
+	"listofdlc" "2181522,2181528,2182080,2595600,2595610,2595620,2595710,2595720,2595730,2595740,2595750,2595760,2622210,2808740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "My Time at Sandrock"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sandrock.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Singleplayer RPG"
+				"schinese" "单人剧情"
+			}
+			"description" "Singleplayer RPG"
+		}
+		"1"
+		{
+			"executable" "Sandrock.app/Contents/MacOS/Sandrock"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "test_for_developer"
+			}
+		}
+		"4"
+		{
+			"executable" "SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "multiplayer_dlc"
+				"ownsdlc" "2090470"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer"
+				"schinese" "多人联机"
+			}
+			"description" "Multiplayer"
+		}
+		"5"
+		{
+			"executable" "SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "debug_multi_dlc"
+				"ownsdlc" "2090470"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer_test"
+				"schinese" "多人联机_测试"
+			}
+			"description" "Multiplayer_test"
+		}
+		"8"
+		{
+			"executable" "Sandrock_Multi_Project/SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Sandrock_Publish_Test"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer"
+				"schinese" "多人联机"
+			}
+			"description" "Multiplayer"
+		}
+		"12"
+		{
+			"executable" "Sandrock_Multi_Project/SandrockMultiPlayer.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Multiplayer"
+				"schinese" "多人联机"
+			}
+			"description" "Multiplayer"
+		}
+		"13"
+		{
+			"executable" "Sandrock_Artbook/My Time at Sandrock Artbook_English.pdf"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "2182080"
+			}
+			"description_loc"
+			{
+				"english" "Artbook（English）"
+				"schinese" "原画设定集（英文）"
+			}
+			"description" "Artbook（English）"
+		}
+		"14"
+		{
+			"executable" "Sandrock_Artbook/My Time at Sandrock Artbook_Chinese.pdf"
+			"type" "option1"
+			"config"
+			{
+				"ownsdlc" "2182080"
+			}
+			"description_loc"
+			{
+				"english" "Artbook（Chinese）"
+				"schinese" "原画设定集（中文）"
+			}
+			"description" "Artbook（Chinese）"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054479888"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails" ""
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1084602"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1844640086640648317"
+				"size" "10474249357"
+				"download" "8817250960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "3A93B306DF309E6AB06665AC79423934"
+				"size" "A59C411446EF3364DECAE6DE0CA23D4C"
+				"download" "61B6221ACDC36173FC0ED2D5BBE7F6FE"
+			}
+			"focus"
+			{
+				"gid" "2D3929FCAB92E7DBC47EC5EBC0A239D3"
+				"size" "B90CBDC2A78B5D286F81E9BC89AD78DE"
+				"download" "77AE4140796769CDA0F3FA8D726613D4"
+			}
+			"internal_test"
+			{
+				"gid" "EFA7402FDA22830AF620697E70650F81"
+				"size" "0A07F68CECD439384232984D302F9282"
+				"download" "12920852E832BA1D509DC6011817D757"
+			}
+			"multi_beta_zy"
+			{
+				"gid" "54FAFDCF81DCF593100B8BB68B914F04"
+				"size" "5118A9CD5D7828552945918D63D1EBC4"
+				"download" "58A38D3A118BD60EFC2222CDEFDBC8DB"
+			}
+			"newdemotest"
+			{
+				"gid" "E82C28F027BCF2990F786235E2B58049"
+				"size" "629B3C8D9E890F1355792B599B748F8F"
+				"download" "96BD1FE2309A72DFC61E9A7930C06BA2"
+			}
+			"super_secret_testing"
+			{
+				"gid" "D02DE39DDACD0BBB9CD4177DC1400DA6"
+				"size" "D937A3C8975BFF18F1E943606116F15E"
+				"download" "A632C8077AF4A565D7D77E985A59746B"
+			}
+			"media"
+			{
+				"gid" "FF8E15EB2A87CF76225539283CA01AD8"
+				"size" "3B34A9DFAD2FC7EA087ACBF0E4E519F3"
+				"download" "B57EE60F6CACE0E25D34CEFBFB2ECAB2"
+			}
+			"multi_test_zy_new"
+			{
+				"gid" "DF03FE8B6EDF1E41D36C4EEFCF243ADE"
+				"size" "7E5327A58CC4E556D48D9F366D6E0AA0"
+				"download" "4A4DE87BBD1C41D6BCB8390886C9534C"
+			}
+			"private_test"
+			{
+				"gid" "9B915C2723C535D91EB7EB010545EFE7"
+				"size" "25050949ECACA254FC43955B94522F88"
+				"download" "E21C96C54272D5E0D65F62AED135B717"
+			}
+			"private_test_release"
+			{
+				"gid" "8367D840076B1D7D8784EC7823B0DD2E"
+				"size" "4B97554D75EB64A91DDB1AA7ABA4BD6E"
+				"download" "BBEE833C707AAEB7C3305BBEFC6C4A53"
+			}
+		}
+	}
+	"2090470"
+	{
+		"dlcappid" "2090470"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"debug_multi_dlc"
+			{
+				"gid" "DD081AC6874B26167CF7A6AD5B5324DD"
+				"size" "FE5D322590848E30BE1BD3880D1901BD"
+				"download" "0D158AC2A66DAAEFA69521C766B780FA"
+			}
+			"private_test"
+			{
+				"gid" "80DB67433E809F9F29EA56E6F5B55BD1"
+				"size" "98243A8754460FF493768BD165BA544C"
+				"download" "98243A8754460FF493768BD165BA544C"
+			}
+		}
+	}
+	"1084601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3808250832268979959"
+				"size" "29288264409"
+				"download" "12429609008"
+			}
+			"ks_demo"
+			{
+				"gid" "4378044535867016329"
+				"size" "10059425522"
+				"download" "4105840496"
+			}
+			"local"
+			{
+				"gid" "7927951539177385290"
+				"size" "29692613217"
+				"download" "11292391152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "112D5F9A7E4FAD9E4FCEF13282685689"
+				"size" "8C2368E8C0F2706CDEE2D2A390088D10"
+				"download" "4B9F5D2C7CE6936FC9D1ABCF299204BF"
+			}
+			"debug"
+			{
+				"gid" "4D54A7814E423300A48B9AFD57DD9A12"
+				"size" "8357C26592289B355459F9A28A7A0729"
+				"download" "AC8653DEB6E79C7E81BEF378A7423962"
+			}
+			"debug_multi_dlc"
+			{
+				"gid" "D5715212B9DC240624B33FF8084ADB8B"
+				"size" "70970F8D87044E2907F2FF7D0EB08AE3"
+				"download" "450A3FFD28DE604294401AC6ACB1900E"
+			}
+			"debug_nomulti"
+			{
+				"gid" "77D592AEC1284621B807B35A2FCD80AE"
+				"size" "C0D9B8EB2E322FDA791796BFC4048BA6"
+				"download" "DE0376BCEC0CFFF36DE111E89FAF93B3"
+			}
+			"debug_wwise"
+			{
+				"gid" "8831A12C37DB0E2F84D6305EC70FB7FA"
+				"size" "E11BF7B42AD0B5FA7AEC42195FFC1C91"
+				"download" "844CC6C94D7D17B8C4CD043BBE646E82"
+			}
+			"demo"
+			{
+				"gid" "5DB7B6559AE76E7F4E4F94CC53B42FE0"
+				"size" "7545C28C7D7986C9AD5A0541BC899CEA"
+				"download" "827A600292B184318B10676731D2EE9A"
+			}
+			"dmm6"
+			{
+				"gid" "604BC6024A62E0D491F1084273ED01E5"
+				"size" "2DA3168DBB3A743509FB1F4C44BF41C9"
+				"download" "1696162327C17F8D8CC2F64BCB1F60A9"
+			}
+			"focus"
+			{
+				"gid" "B15EB836BB5F5DD68D26B2F4B3178B0C"
+				"size" "71D549AD9CFE1012A94ABF98DCEC221C"
+				"download" "FD8B96A4D04737436EBA2DFBB98AA327"
+			}
+			"internal_test"
+			{
+				"gid" "E89980A2CA1284227FD325E40E8E5ED0"
+				"size" "97A9283471EB543DF9C66913B20C2E6E"
+				"download" "59DC73BD59C74979AC5B1729693C6420"
+			}
+			"localized_version"
+			{
+				"gid" "D7A9CB6788C8D0D5B4C6A8036A08B3AC"
+				"size" "484129055E715F579DBCE0E28AD1E5DD"
+				"download" "B14404699565213E983A821ACEEB88FC"
+			}
+			"multi_beta_zy"
+			{
+				"gid" "D17EF2A70271EDC489B30F9C3D6719E5"
+				"size" "C6CCF7DB1D5138E2FCEB7455AFBA477E"
+				"download" "292AFD47DA3FC949E923F29CC099968A"
+			}
+			"newdemotest"
+			{
+				"gid" "00A54B1838BF16C872D81DEAEBD0FB89"
+				"size" "356325A7DE9CD8514A4E9801865D422E"
+				"download" "2DCF6DC9DB0181BD2D1C82939F886ED3"
+			}
+			"optimization_test"
+			{
+				"gid" "1C1F59D41E870937BEA8F0AB1CD2898C"
+				"size" "CBCC7BC279A6F6BE6B4FD83E3BFAB726"
+				"download" "E55166CDB911F0A4C81E0058E09E6E03"
+			}
+			"super_secret_testing"
+			{
+				"gid" "812B5C1A22FACB6E6F32724D849587C3"
+				"size" "F8A5380AC6544ABD8020700A76FE7490"
+				"download" "534ABFC2583AE8E58C3E7A2A18F8FF4E"
+			}
+			"media"
+			{
+				"gid" "0392BB5A61BC99E22FEBF168009E8650"
+				"size" "26B6232771A7FE7DFE00B17A7BE83593"
+				"download" "15460A73B6EE074F04B9B94D5246A456"
+			}
+			"multi_test_zy_new"
+			{
+				"gid" "AD16564D1D3F0E80C76747BCE4AEAC73"
+				"size" "1EBD049BC54A9BA48E08344760BFDD9A"
+				"download" "5D8707A5220FBFDD159ED2348626E7CC"
+			}
+			"private_test"
+			{
+				"gid" "D8E91B1D53B71FEFBA07B91636A5A292"
+				"size" "A1580D147875350D11B775AE49F97C33"
+				"download" "9D0631A58405C0A7F4D47F601922302C"
+			}
+			"private_test_release"
+			{
+				"gid" "363FC6B616790D444994FD471D0562EE"
+				"size" "7DAC431A4313427F4CB7112DACE0E82B"
+				"download" "3C0BD39AF4C35E1ED7DA2DC099639367"
+			}
+		}
+	}
+	"2182080"
+	{
+		"dlcappid" "2182080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6000569290448241032"
+				"size" "324143382"
+				"download" "272255552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_test"
+			{
+				"gid" "D9AB39594BC3834DC2A5902DA2E2629C"
+				"size" "CCFFBB2543017705A0D710E16A692999"
+				"download" "0AE89D58E3FBE9EB1557305DB36F75C2"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14702485"
+			"timeupdated" "1718266305"
+		}
+		"beta"
+		{
+			"buildid" "6150257"
+			"pwdrequired" "1"
+			"timeupdated" "1611888955"
+		}
+		"debug"
+		{
+			"buildid" "12959833"
+			"pwdrequired" "1"
+			"timeupdated" "1702545972"
+		}
+		"debug_multi_dlc"
+		{
+			"buildid" "9295029"
+			"pwdrequired" "1"
+			"timeupdated" "1660210020"
+		}
+		"debug_nomulti"
+		{
+			"buildid" "10817986"
+			"pwdrequired" "1"
+			"timeupdated" "1679387178"
+		}
+		"debug_wwise"
+		{
+			"buildid" "8922969"
+			"pwdrequired" "1"
+			"timeupdated" "1655109107"
+		}
+		"demo"
+		{
+			"buildid" "6932693"
+			"pwdrequired" "1"
+			"timeupdated" "1624620646"
+		}
+		"dmm6"
+		{
+			"buildid" "9460245"
+			"pwdrequired" "1"
+			"timeupdated" "1662544256"
+		}
+		"focus"
+		{
+			"buildid" "14004664"
+			"pwdrequired" "1"
+			"timeupdated" "1712716227"
+		}
+		"internal_test"
+		{
+			"buildid" "12479981"
+			"pwdrequired" "1"
+			"timeupdated" "1697702070"
+		}
+		"ks_demo"
+		{
+			"buildid" "6932693"
+			"description" "demo"
+			"timeupdated" "1624620637"
+		}
+		"local"
+		{
+			"buildid" "12449461"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1697442995"
+		}
+		"localized_version"
+		{
+			"buildid" "9054780"
+			"pwdrequired" "1"
+			"timeupdated" "1656911737"
+		}
+		"multi_beta_zy"
+		{
+			"buildid" "13539524"
+			"pwdrequired" "1"
+			"timeupdated" "1708665561"
+			"sc_schinese" "多人体验服测试分支"
+		}
+		"newdemotest"
+		{
+			"buildid" "10977384"
+			"pwdrequired" "1"
+			"timeupdated" "1681224240"
+		}
+		"optimization_test"
+		{
+			"buildid" "9105357"
+			"pwdrequired" "1"
+			"timeupdated" "1657622949"
+		}
+		"super_secret_testing"
+		{
+			"buildid" "12769673"
+			"pwdrequired" "1"
+			"timeupdated" "1700648091"
+		}
+		"media"
+		{
+			"buildid" "14180555"
+			"pwdrequired" "1"
+			"timeupdated" "1714099228"
+		}
+		"multi_test_zy_new"
+		{
+			"buildid" "14700941"
+			"pwdrequired" "1"
+			"timeupdated" "1718255538"
+			"sc_schinese" "多人项目专用测试分支"
+		}
+		"private_test"
+		{
+			"buildid" "14594686"
+			"pwdrequired" "1"
+			"timeupdated" "1717485601"
+		}
+		"private_test_release"
+		{
+			"buildid" "14595178"
+			"pwdrequired" "1"
+			"timeupdated" "1717488410"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pathea Games/My Time at Sandrock"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Pathea Games/My Time at Sandrock"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" ".config/unity3d/Pathea Games/My Time at Sandrock"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23952296"
+"_sha" "54fb96c46336457deaf38a4dbb28aa6a07370d5c"
+"_size" "18315"
