@@ -1,0 +1,472 @@
+"appid" "1097150"
+"common"
+{
+	"name" "Fall Guys"
+	"type" "Game"
+	"logo" "7c57bd2ea67fdf3267677abecab79d6f62c67f7d"
+	"logo_small" "7c57bd2ea67fdf3267677abecab79d6f62c67f7d_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "14b00cca56782d93f4f60d6f10124fbbd7f5dc28"
+	"clienttga" "44a4fbb8867bfdcf58aefe4eff5bcc74e8aac516"
+	"icon" "6c027709b9eb1417c993bc7d513b97b232002368"
+	"releasestate" "released"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+	}
+	"exfgls" "1"
+	"name_localized"
+	{
+		"schinese" "糖豆人"
+		"tchinese" "糖豆人"
+	}
+	"app_retired_publisher_request" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1680652800"
+		"tested_build_id" "75555088"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Fall Guys: Ultimate Knockout"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1698763089"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mediatonic"
+		}
+	}
+	"primary_genre" "29"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "29"
+		"4" "18"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_20" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1596524340"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/fall-guys-ultimate-knockout\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1097150"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "7178"
+		"2" "5350"
+		"3" "176981"
+		"4" "128"
+		"5" "1625"
+		"6" "4726"
+		"7" "4136"
+		"8" "1775"
+		"9" "5395"
+		"10" "7481"
+		"11" "597"
+		"12" "4305"
+		"13" "19"
+		"14" "3843"
+		"15" "1685"
+		"16" "1719"
+		"17" "3968"
+		"18" "492"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1826330"
+			"comment" "EAC runtime"
+		}
+	}
+	"developer" "Mediatonic"
+	"homepage" "http://fallguys.com"
+	"listofdlc" "1261620,1343612,1362660,1426910,1481570,1532290,1569400,1570380,1570390,1622930,1677990,1677991"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fall Guys"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "FallGuys_client.exe"
+			"description" "Fall Guys Release Build"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"matchmaking_uptodate" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2193647932"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1097151"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8367987026827237202"
+				"size" "6714042684"
+				"download" "5416928128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"fqa_submission_1"
+			{
+				"gid" "AB73F418A9AD221D84E6D532FF0F272D"
+				"size" "70AD110F3C5A488FFA15FC0D5199F52F"
+				"download" "F8B8DA5601ECF7F6A03A4A57EC523F2D"
+			}
+			"fqa_submission_2"
+			{
+				"gid" "34259C1EB88ABDBB8490355B0873BDBE"
+				"size" "24A8414621D51ABA417670042D3483AE"
+				"download" "3B108A670BA71A2369D153468FF33FEC"
+			}
+			"internal_qa_3"
+			{
+				"gid" "D995C98D40617D59B27ED981D47960E4"
+				"size" "31E52424ED0CF6F00D924785C2DAFEE6"
+				"download" "8723FBC0012917742450BAF37D408FA7"
+			}
+			"internal_qa_4"
+			{
+				"gid" "C700FDF8F824431DAA63DE0087A9D737"
+				"size" "081768A45DFFFF700D9F90D7D538553D"
+				"download" "62F9D34F96FEFC46A3E9A1AD04FB6E56"
+			}
+			"internal_qa_5"
+			{
+				"gid" "C46A498881618DB766A1E3AEF6CA04EF"
+				"size" "CF1C77E5688B7D81269C73AE801E7CBF"
+				"download" "900F724D5E1EF0963E07B60F4C720635"
+			}
+			"content"
+			{
+				"gid" "45C8D6E54BBA6D90E7310DFCB9F92C9A"
+				"size" "587C7E398EA4CB49FACBB8720E8D6799"
+				"download" "F34E51700F6794AA191557E296A17FA6"
+			}
+			"engine"
+			{
+				"gid" "A37E681396AF017D7E61A2D5C6D3885D"
+				"size" "F55413DD5F9EF6E479BED0A363A82F2B"
+				"download" "3E2F6C66A7B5264BAE683EC5F6765E4B"
+			}
+			"gameplay"
+			{
+				"gid" "384D63A356C7C93791698FD6252F4FA8"
+				"size" "CCB75D7E5A1CD1ECB8D5E1455A3718FC"
+				"download" "51680931DE5E8E725C0AF1A02D5CB8F3"
+			}
+			"internal_qa_1"
+			{
+				"gid" "2665338B29639CF67A5744522FB83326"
+				"size" "C021798D5E54A14836E231618DDD6A49"
+				"download" "BD8DCADA3B4F4B9CD3DC77512440C5A0"
+			}
+			"internal_qa_2"
+			{
+				"gid" "3955393D8DBBEFDBA2AFCD6DBD137080"
+				"size" "EE221817A0EAB12B21EDB4C20E0C25B9"
+				"download" "563BB10D8401DABCEBDC2A91C0F16450"
+			}
+			"internal_qa_current"
+			{
+				"gid" "42C9A77784A80BAD41E3E1FB1CE0A8C7"
+				"size" "1A0DE1D3781AF167025CCC26705D30A9"
+				"download" "BC1AE356164498B25B667BC39F549429"
+			}
+			"internal_qa_next"
+			{
+				"gid" "53E3D4B022BEAA1BFC6F6EF3926ADE95"
+				"size" "D88B69499E27735857364E53820F6B2D"
+				"download" "6B93BE2B517EC386A0E42164D4600722"
+			}
+			"mainline_a"
+			{
+				"gid" "305367171AFA6405920ADB58ADA117ED"
+				"size" "65AC0209034BF326DD3672BF2689597A"
+				"download" "ACCD5AAF45282F5DAAAA179CA0310188"
+			}
+			"mainline_b"
+			{
+				"gid" "AC154F102C119BF99A8882FDAE0B67A9"
+				"size" "A0D635A5CC2272861122EC8059D71A36"
+				"download" "E17982F1B92AF4034B1A5198A1D31B6E"
+			}
+			"staging"
+			{
+				"gid" "DACBF5791FE6B6D8C51F2461091A0067"
+				"size" "C24C8750E359D88CFF8D90D6D544574E"
+				"download" "838A78624F62F6775CD0379BC1867D8B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14537947"
+			"timeupdated" "1718095906"
+		}
+		"fqa_submission_1"
+		{
+			"buildid" "11591802"
+			"pwdrequired" "1"
+			"timeupdated" "1688121401"
+		}
+		"fqa_submission_2"
+		{
+			"buildid" "12764162"
+			"pwdrequired" "1"
+			"timeupdated" "1700645389"
+		}
+		"internal_qa_3"
+		{
+			"buildid" "12538809"
+			"pwdrequired" "1"
+			"timeupdated" "1698305987"
+		}
+		"internal_qa_4"
+		{
+			"buildid" "12538146"
+			"pwdrequired" "1"
+			"timeupdated" "1698306004"
+		}
+		"internal_qa_5"
+		{
+			"buildid" "13706995"
+			"pwdrequired" "1"
+			"timeupdated" "1710232464"
+		}
+		"content"
+		{
+			"buildid" "14314394"
+			"pwdrequired" "1"
+			"timeupdated" "1715335738"
+		}
+		"engine"
+		{
+			"buildid" "14693363"
+			"pwdrequired" "1"
+			"timeupdated" "1718268190"
+		}
+		"gameplay"
+		{
+			"buildid" "14441193"
+			"pwdrequired" "1"
+			"timeupdated" "1716298762"
+		}
+		"internal_qa_1"
+		{
+			"buildid" "14284044"
+			"pwdrequired" "1"
+			"timeupdated" "1715070243"
+		}
+		"internal_qa_2"
+		{
+			"buildid" "14282712"
+			"pwdrequired" "1"
+			"timeupdated" "1715066349"
+		}
+		"internal_qa_current"
+		{
+			"buildid" "14541501"
+			"pwdrequired" "1"
+			"timeupdated" "1718112853"
+		}
+		"internal_qa_next"
+		{
+			"buildid" "14710677"
+			"pwdrequired" "1"
+			"timeupdated" "1718350406"
+		}
+		"mainline_a"
+		{
+			"buildid" "14712467"
+			"pwdrequired" "1"
+			"timeupdated" "1718350392"
+		}
+		"mainline_b"
+		{
+			"buildid" "14700499"
+			"pwdrequired" "1"
+			"timeupdated" "1718271211"
+		}
+		"staging"
+		{
+			"buildid" "14537947"
+			"pwdrequired" "1"
+			"timeupdated" "1717058260"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23968776"
+"_sha" "584a4446b18c52df6cd2a940a41557336a69f99a"
+"_size" "9548"
