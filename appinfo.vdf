@@ -1,0 +1,452 @@
+"appid" "269770"
+"common"
+{
+	"name" "Secrets of Grindea"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "3722ad1ecfa71ecf9e29f421f59a4a9eb7f62107"
+	"clienttga" "36c5aa68615f1eb8da5e158f354add39e388296d"
+	"icon" "2680202bf4f831ca9f0a1e1edfc9915bd1669f0a"
+	"logo" "3f0a4c7f4ecee7b13563a65008e35e3501408e43"
+	"logo_small" "3f0a4c7f4ecee7b13563a65008e35e3501408e43_thumb"
+	"oslist" "windows"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "6814816"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Secrets of Grindea"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709217858"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pixel Ferrets"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pixel Ferrets"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_25" "1"
+		"category_9" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1709229611"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "269770"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "21"
+		"2" "3859"
+		"3" "492"
+		"4" "4231"
+		"5" "4434"
+		"6" "4508"
+		"7" "4747"
+		"8" "122"
+		"9" "4106"
+		"10" "4136"
+		"11" "3871"
+		"12" "4726"
+		"13" "4791"
+		"14" "1742"
+		"15" "3964"
+		"16" "19"
+		"17" "4085"
+		"18" "1646"
+		"19" "1684"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Pixel Ferrets"
+	"publisher" "Pixel Ferrets"
+	"homepage" "http://www.secretsofgrindea.com/"
+	"listofdlc" "292050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SecretsOfGrindea"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Secrets Of Grindea.exe"
+			"description" "Launch"
+			"config"
+			{
+				"osarch" "32"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "269770"
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"269771"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2763005507321403876"
+				"size" "770389421"
+				"download" "598346336"
+			}
+			"v0.610"
+			{
+				"gid" "1328453593764709558"
+				"size" "304720891"
+				"download" "250310096"
+			}
+			"v0.650"
+			{
+				"gid" "7825177444931455180"
+				"size" "328503821"
+				"download" "269662288"
+			}
+			"v0.700"
+			{
+				"gid" "2753378632463407225"
+				"size" "409286505"
+				"download" "330415280"
+			}
+			"v0.710"
+			{
+				"gid" "4095845210909968002"
+				"size" "405704496"
+				"download" "326384656"
+			}
+			"v0.730"
+			{
+				"gid" "5884131199838202549"
+				"size" "412812331"
+				"download" "331020592"
+			}
+			"v0.800"
+			{
+				"gid" "7128493584690760626"
+				"size" "459168464"
+				"download" "368583984"
+			}
+			"v0.890"
+			{
+				"gid" "3765235012217024297"
+				"size" "545010407"
+				"download" "431595120"
+			}
+			"v0.920"
+			{
+				"gid" "5691809168108777451"
+				"size" "567157753"
+				"download" "449193168"
+			}
+			"frontline"
+			{
+				"gid" "2763005507321403876"
+				"size" "770389421"
+				"download" "598346336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"endgame"
+			{
+				"gid" "E762861EE779159D6104AD395863229F"
+				"size" "723C7F8FE6166ECEFEE11E5F68614DBC"
+				"download" "3F501B75924FFAC50E3FCF8855B4DD41"
+			}
+			"inhouse"
+			{
+				"gid" "91C48782D4889440EE61088AA0BFF2F1"
+				"size" "3F27EC621D91BDB9E76DDEC6E65255C8"
+				"download" "C41E4FBA67A4E76A0AE91C4BCE780D50"
+			}
+			"specops1"
+			{
+				"gid" "54F8982B9DE54A7A38AFED4D54FD228B"
+				"size" "4C717D6852A418E7988B2ECF395C8788"
+				"download" "2E760B8D01859760173056D423084897"
+			}
+			"meatshield"
+			{
+				"gid" "174D67DAE5B7C46C7AB13EAB26C289E7"
+				"size" "B3309017DD43A2CB40AFEBB771F0D219"
+				"download" "1FA5CFE2150310979B76CDD676197E82"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14390079"
+			"timeupdated" "1715867223"
+		}
+		"endgame"
+		{
+			"buildid" "13601958"
+			"pwdrequired" "1"
+			"timeupdated" "1709228404"
+		}
+		"inhouse"
+		{
+			"buildid" "13601958"
+			"pwdrequired" "1"
+			"timeupdated" "1709225966"
+		}
+		"specops1"
+		{
+			"buildid" "9155546"
+			"pwdrequired" "1"
+			"timeupdated" "1658311602"
+		}
+		"v0.610"
+		{
+			"buildid" "875001"
+			"description" "Legacy Version"
+			"timeupdated" "1459449409"
+		}
+		"v0.650"
+		{
+			"buildid" "1130063"
+			"description" "Legacy Version"
+			"timeupdated" "1493478761"
+		}
+		"v0.700"
+		{
+			"buildid" "1809781"
+			"description" "Legacy Version"
+			"timeupdated" "1498563347"
+		}
+		"v0.710"
+		{
+			"buildid" "1924767"
+			"description" "Legacy Version"
+			"timeupdated" "1508927776"
+		}
+		"v0.730"
+		{
+			"buildid" "2255123"
+			"description" "Legacy Version"
+			"timeupdated" "1527852954"
+		}
+		"v0.800"
+		{
+			"buildid" "3424845"
+			"description" "Legacy Version"
+			"timeupdated" "1545587125"
+		}
+		"v0.890"
+		{
+			"buildid" "5306862"
+			"description" "The previous Stable"
+			"timeupdated" "1622629179"
+		}
+		"v0.920"
+		{
+			"buildid" "6814816"
+			"description" "The previous Stable"
+			"timeupdated" "1708613909"
+		}
+		"frontline"
+		{
+			"buildid" "14390079"
+			"description" "Newest features, may be unstable"
+			"timeupdated" "1715866912"
+		}
+		"meatshield"
+		{
+			"buildid" "14390079"
+			"pwdrequired" "1"
+			"timeupdated" "1715866923"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Secrets of Grindea"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Secrets of Grindea/Characters"
+			"pattern" "*.cha"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Secrets of Grindea"
+			"pattern" "*.bak"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Secrets of Grindea/Worlds"
+			"pattern" "*.wld"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Secrets of Grindea"
+			"pattern" "*.dtt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23572799"
+"_sha" "79d9537574bd3c28753de6880b88366aa49b4858"
+"_size" "8420"
