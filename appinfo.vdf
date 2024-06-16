@@ -1,0 +1,646 @@
+"appid" "1593030"
+"common"
+{
+	"name" "Terra Nil"
+	"type" "Game"
+	"logo" "e85f8f3763a333ba0f8809b7f421c31961bb5de7"
+	"logo_small" "e85f8f3763a333ba0f8809b7f421c31961bb5de7_thumb"
+	"clienttga" "4b659967dc27d4b2f9106cb8005552e024a72c71"
+	"icon" "6b8a5c3c7592a157236e34edd26edd7b3bf761a1"
+	"clienticon" "14b85a0989fbdbb74d626ec39f633eb318413430"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"name_localized"
+	{
+		"schinese" "伊始之地"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681257600"
+		"tested_build_id" "10863307"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Terra Nil"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "56.74418604651163"
+			"height_pct" "68.61790548563286"
+		}
+	}
+	"store_asset_mtime" "1708028065"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Free Lives"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Devolver Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Free Lives"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680018701"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/terra-nil\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1593030"
+	"store_tags"
+	{
+		"0" "30358"
+		"1" "9"
+		"2" "1654"
+		"3" "1664"
+		"4" "4328"
+		"5" "5125"
+		"6" "4166"
+		"7" "597"
+		"8" "1741"
+		"9" "5851"
+		"10" "4182"
+		"11" "4975"
+		"12" "4305"
+		"13" "5608"
+		"14" "8945"
+		"15" "4726"
+		"16" "5350"
+		"17" "4252"
+		"18" "189941"
+		"19" "3835"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Free Lives"
+	"publisher" "Devolver Digital"
+	"homepage" "https://freelives.net/"
+	"listofdlc" "2321930"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Terra Nil"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Terra Nil.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Terra Nil.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Terra Nil.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1593031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "152567046791665561"
+				"size" "1537063057"
+				"download" "799731968"
+			}
+			"beta"
+			{
+				"gid" "8684576620310279145"
+				"size" "1488193158"
+				"download" "800895664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "A472DF223AD5A7BB5AB51F5542383817"
+				"size" "728D225DD073A5EF7E73E6FB061E378E"
+				"download" "1FD239C7632C7CD160A62BFD997B7D6F"
+			}
+			"macbugtest2"
+			{
+				"gid" "6EDD07E73703EBD120995AD45F642FAD"
+				"size" "0F22B6C6A03EE76EFDAD39731CACFA51"
+				"download" "04DBE5D211DE3291DEF5DF551B9B8BA0"
+			}
+			"closed-beta"
+			{
+				"gid" "F960630FADE57674E7A855FA9C9077D5"
+				"size" "F3B3B7D1BCC1E6A60EFD5A80F67329D5"
+				"download" "CEA41605F7D375F834A55F7A0B642F57"
+			}
+			"qa-testing"
+			{
+				"gid" "CF9D4C2C850E384D8F000D0F31B3C8E9"
+				"size" "9A16A8A9AEC68DACE246634D06ED7A1F"
+				"download" "129475CCD92505205E3D1C9712CF727E"
+			}
+			"macbugtest"
+			{
+				"gid" "B412738283D01EF8F404AD666DED5804"
+				"size" "AEB40C5EBF10B34C73E9264082057619"
+				"download" "BAC90A37E1E7A6806D56A288F021E341"
+			}
+			"press"
+			{
+				"gid" "82E9D19FD84A7F60E8713EF5CED4159E"
+				"size" "316F02EAEC0C4AE6D0367B7067A0FF2E"
+				"download" "E269C86BAB5CC795E13416DEB5F10D11"
+			}
+		}
+	}
+	"1593032"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6492921897765418167"
+				"size" "1569105483"
+				"download" "811766752"
+			}
+			"beta"
+			{
+				"gid" "3963116045180253223"
+				"size" "1520229472"
+				"download" "812795168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "0D216246F0E3D2A3D8A4A22E57D803AC"
+				"size" "5652074F9FC94FB518805FEC4F8BE18C"
+				"download" "340D7921B36BF6E8E2E0F90E60F37D27"
+			}
+			"macbugtest2"
+			{
+				"gid" "CF06529625343C76ACDF6074FF896C3B"
+				"size" "6C5B5C037F32E4C824CFD0557D1BDF77"
+				"download" "86C42B9738EF74D804E5C9A9568BAA63"
+			}
+			"closed-beta"
+			{
+				"gid" "63BAD3D21287D3A665F6AF3B8F284B05"
+				"size" "51E9AB512244E6E424D502AA520E8688"
+				"download" "B3CCF9BBEFACD3FE0AC90F4EBCEB4EB4"
+			}
+			"qa-testing"
+			{
+				"gid" "6D3E202706131F62FB255EFB9DF852F5"
+				"size" "DD98DC17C7A81A63855BA9D015F06C03"
+				"download" "787B29591AB6D6B30B5CE608D17C7120"
+			}
+			"macbugtest"
+			{
+				"gid" "84B13E2CEC44BB5504BF035B7CB541C0"
+				"size" "5A1CA99A9EB4E997637EF120E908B283"
+				"download" "D427E5F17CEEEFDC1FB210DE64CB249C"
+			}
+			"press"
+			{
+				"gid" "38BB61132D06EC8D0BC179D0EE2CFDF2"
+				"size" "50D86D4726AE43801065FE55B58B1D79"
+				"download" "05CC61317A484D8BD0F4FA3FCAFD35E4"
+			}
+		}
+	}
+	"1593033"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3906808369060508505"
+				"size" "2147722199"
+				"download" "1344135440"
+			}
+			"beta"
+			{
+				"gid" "256175497379244757"
+				"size" "2082198541"
+				"download" "1327717808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "FAB06CF969095E5A2FBB26A5A0CCA204"
+				"size" "32FB8E4275B82663FA2504E77DF7D539"
+				"download" "4335392817B8F878DFB375E6EDB7B3CE"
+			}
+			"macbugtest2"
+			{
+				"gid" "932E6D264E45E818438A7155AE7F1A95"
+				"size" "C378B5D27F5DF0AEA0442D314A0D9D86"
+				"download" "5642466195E7C6443685601109E5F665"
+			}
+			"closed-beta"
+			{
+				"gid" "6638DFE4600E7E2145A4B76C24B52283"
+				"size" "764BEC309EEDF4BB6C9D6E9896F131BF"
+				"download" "509C972EE8CCB0CF84495B5092649173"
+			}
+			"qa-testing"
+			{
+				"gid" "C303F427E9FDD44A9AD8C8A7A2DFD097"
+				"size" "03669159E304C8475B39853A37E2663D"
+				"download" "EA583D8CE5CA7E0DC6D3258960C6FADA"
+			}
+			"macbugtest"
+			{
+				"gid" "FB3AB1D9B1D60567BD7525BD31A11498"
+				"size" "82DF90D3C05669B13DE5A39043FF6C85"
+				"download" "B5E31270D03125A621CBBCCA73720A18"
+			}
+			"press"
+			{
+				"gid" "D082D442AEC86E868124D4FF90926725"
+				"size" "25405D128635B50ACEF48B8FE51517DF"
+				"download" "923B55C9A8879D5E227F1C220C4B8F84"
+			}
+		}
+	}
+	"2321930"
+	{
+		"dlcappid" "2321930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4727654784847656989"
+				"size" "14912676"
+				"download" "13396192"
+			}
+			"beta"
+			{
+				"gid" "4727654784847656989"
+				"size" "14912676"
+				"download" "13396192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "0A9FDF59438CCEE7365FA330D3F8330F"
+				"size" "B7A13E75518A22EF84090E44062ABCAF"
+				"download" "A158B4455E44AD83025EB32D9EAB4DE6"
+			}
+			"macbugtest2"
+			{
+				"gid" "8E16DCA2CE886D5D70D6CB4067FA51C1"
+				"size" "2125F66AC7157BA7DA1B44A6F1CDA2E5"
+				"download" "DCFD87085461E143231D0D82FF1BBC88"
+			}
+			"closed-beta"
+			{
+				"gid" "D0F97B4D109130668029ABFD52878ACE"
+				"size" "21345AC3643F29396EE54001D5A42297"
+				"download" "B076D757D4DF7D01BFF53FEF071BFC73"
+			}
+			"qa-testing"
+			{
+				"gid" "FE3FE47CDA9B840896BD96101BFAB725"
+				"size" "E70A314189A6892934ABDDF2639EA6DD"
+				"download" "4F92599C156F42E0C09736D2AC30B07C"
+			}
+			"macbugtest"
+			{
+				"gid" "52187531F8E911F1291C1BE63BA06BF0"
+				"size" "5DE5A173D4684BA7B5CCF6468456A9FF"
+				"download" "2BCA7AA0223A481D5DE3D33A55F1793B"
+			}
+			"press"
+			{
+				"gid" "6F9158ACF64B0E61188EEA166147373A"
+				"size" "09463F61C659B4039F5E1E352B61FEBE"
+				"download" "7F78C10FEFE55E301B447B7A5B0920BD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12510616"
+			"timeupdated" "1698063366"
+		}
+		"develop"
+		{
+			"buildid" "14704804"
+			"pwdrequired" "1"
+			"timeupdated" "1718278569"
+		}
+		"macbugtest2"
+		{
+			"buildid" "14719770"
+			"pwdrequired" "1"
+			"timeupdated" "1718373936"
+		}
+		"beta"
+		{
+			"buildid" "13315388"
+			"description" "Beta"
+			"timeupdated" "1706645138"
+		}
+		"closed-beta"
+		{
+			"buildid" "14704804"
+			"pwdrequired" "1"
+			"timeupdated" "1718278665"
+		}
+		"qa-testing"
+		{
+			"buildid" "14704804"
+			"pwdrequired" "1"
+			"timeupdated" "1718278739"
+		}
+		"macbugtest"
+		{
+			"buildid" "14033533"
+			"pwdrequired" "1"
+			"timeupdated" "1712918553"
+		}
+		"press"
+		{
+			"buildid" "14704804"
+			"pwdrequired" "1"
+			"timeupdated" "1718278774"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "30000000"
+	"maxnumfiles" "40"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Free Lives/Terra Nil"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Free Lives/Terra Nil"
+					"replace" "unity.Free Lives.Terra Nil"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Free Lives/Terra Nil"
+					"replace" ".config/unity3d/Free Lives/Terra Nil"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23974059"
+"_sha" "7f7f2726af27bf51a7a04654ac25b4a60a9ba4aa"
+"_size" "12578"
