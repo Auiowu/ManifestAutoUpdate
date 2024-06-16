@@ -1,0 +1,951 @@
+"appid" "518790"
+"common"
+{
+	"name" "theHunter: Call of the Wild™"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "4d2f8eac2a8329da9f4373fdd0e05a5670a38dfb"
+	"logo_small" "4d2f8eac2a8329da9f4373fdd0e05a5670a38dfb_thumb"
+	"clienticon" "51a04acfc1c5f4e01e149e186f4a998f631259ea"
+	"clienttga" "d3332d4fa37b9c6338f6baae89a90fa441cd6fe9"
+	"icon" "8cd121cb62c8f98019ed333716657449c8da2b81"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "518790_eula_0"
+			"name" "theHunter: Call of the Wild™ EULA"
+			"url" "https://store.steampowered.com//eula/518790_eula_0"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "《猎人：荒野的召唤™》"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645660800"
+		"tested_build_id" "7530986"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "thp"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59"
+			"height_pct" "38"
+		}
+	}
+	"store_asset_mtime" "1695394742"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Expansive Worlds"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Expansive Worlds"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_35" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1487232000"
+	"steam_release_date" "1487238000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "518790"
+	"store_tags"
+	{
+		"0" "9564"
+		"1" "1695"
+		"2" "3859"
+		"3" "1654"
+		"4" "30358"
+		"5" "1687"
+		"6" "3810"
+		"7" "1663"
+		"8" "599"
+		"9" "1662"
+		"10" "4175"
+		"11" "3843"
+		"12" "3839"
+		"13" "13190"
+		"14" "1685"
+		"15" "9204"
+		"16" "5900"
+		"17" "701"
+		"18" "1774"
+		"19" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Expansive Worlds"
+	"publisher" "Expansive Worlds"
+	"homepage" "http://callofthewild.thehunter.com/en"
+	"listofdlc" "579670,579671,579672,602310,619790,622450,630940,640230,695680,706150,766870,767380,854070,894600,939840,986850,1011280,1028270,1052690,1070170,1076850,1093700,1108410,1146830,1164110,1179710,1252750,1316840,1433620,1450350,1463090,1546670,1608440,1776430,1843410,1931910,2064720,2167630,2197810,2197812,2197822,2198012,2198015,2198025,2198092,2198095,2198870,2198872,2198874,2199012,2199015,2199072,2199075,2299780,2383430,2532370,2631430,2701860,2869680"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "theHunterCotW"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "theHunterCotW_F.exe"
+			"arguments" "--enable-crash-reporter"
+			"description" "the Hunter: Call of the Wild"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "theHunterCotW_R.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "thp_main_latest, thp_main_stable, thp_marketing_1, thp_marketing_2, thp_playtest, thp_qa_live, thp_RC, thp_staging_latest, thp_staging_stable, thp_qa_testbranch_1, thp_qa_testbranch_2, thp_qa_testbranch_3, thp_qa_testbranch_4, thp_main, thp_staging, thp_dev_branch, thp_ur_test"
+			}
+			"description_loc"
+			{
+				"english" "Release.exe"
+			}
+			"description" "Release.exe"
+		}
+		"10"
+		{
+			"executable" "theHunterCotW_P.exe"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "thp_main_latest, thp_main_stable, thp_playtest, thp_qa_live, thp_RC, thp_staging_latest, thp_staging_stable, thp_qa_testbranch_1, thp_qa_testbranch_2, thp_qa_testbranch_3, thp_qa_testbranch_4, thp_main, thp_staging, thp_dev_branch"
+			}
+			"description_loc"
+			{
+				"english" "Profile exe"
+			}
+			"description" "Profile exe"
+		}
+		"19"
+		{
+			"executable" "theHunterCotW_R.exe"
+			"description" "Release.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "huntinglodge_streams"
+			}
+		}
+		"23"
+		{
+			"executable" "theHunterCotW_R.exe"
+			"arguments" "--social-host localhost --social-port 8080 --social-disable-ssl"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "thp_main_latest, thp_main_stable, thp_playtest, thp_qa_live, thp_RC, thp_staging_latest, thp_staging_stable, thp_qa_testbranch_1, thp_qa_testbranch_2, thp_qa_testbranch_3, thp_qa_testbranch_4, thp_main, thp_staging, thp_dev_branch"
+			}
+			"description_loc"
+			{
+				"english" "Release.exe (locally-running social server)"
+			}
+			"description" "Release.exe (locally-running social server)"
+		}
+		"24"
+		{
+			"executable" "theHunterCotW_R.exe"
+			"arguments" "--social-host social-server-integration.kube.avalanchestudios.se"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "thp_main_latest, thp_main_stable, thp_playtest, thp_qa_live, thp_RC, thp_staging_latest, thp_staging_stable, thp_qa_testbranch_1, thp_qa_testbranch_2, thp_qa_testbranch_3, thp_qa_testbranch_4, thp_main, thp_staging, thp_dev_branch"
+			}
+			"description_loc"
+			{
+				"english" "Release.exe (connecting to int social server)"
+			}
+			"description" "Release.exe (connecting to int social server)"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,spanish,schinese,russian,japanese,polish,czech,brazilian"
+	"518791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4306045525967084315"
+				"size" "85265343463"
+				"download" "42402319712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "FCB3A158F25CD3F6B84E46989A2022F8"
+				"size" "C0CB24F4CC1A25CAF0D502C9B7E91708"
+				"download" "C109A1761A2E7467888BF15E04A70621"
+			}
+			"huntinglodge_streams"
+			{
+				"gid" "F82B1FA2C5957708FCCEA164D3FBB96B"
+				"size" "E6F2CE9B7CA6BB052AA72809BF7BA2BA"
+				"download" "1397A23ADADF3288F95A8282C7434F5A"
+			}
+			"thp_code_team_regression_testing"
+			{
+				"gid" "85890BE7EEECD480D732DF127A1E6DC5"
+				"size" "64B9F60DA5FBA6A0063FE7525C91017A"
+				"download" "F4BA7078466343C65EA30E8AAE7509F0"
+			}
+			"thp_legacy_save"
+			{
+				"gid" "360A3D704480889A3ED80EB80766BA05"
+				"size" "4516175F5013D3C9984DF51A513D6E9F"
+				"download" "C276034589461BA82A8BBC560F84C1C0"
+			}
+			"thp_marketing_2"
+			{
+				"gid" "277EF695ED186970C0A4378E32F809DA"
+				"size" "5F92877D2FDA7278E021D778B8AFD009"
+				"download" "2F1EE52653C6A1CA43CD510337CFE61D"
+			}
+			"thp_ur_test"
+			{
+				"gid" "880A0462321DA96A3203618D8E76D3D2"
+				"size" "E38A2353CA6F8E936614A49033963D24"
+				"download" "F7F27E5877D5CD35EC74CBD977FB9CF4"
+			}
+			"callofthewild_press"
+			{
+				"gid" "975359A2775D02D855C00175F5A425D9"
+				"size" "80C73F09EFDF7F7A74905229938BA49E"
+				"download" "67F89D2492AA5726287F5D415739BB32"
+			}
+			"thehunter_heroes"
+			{
+				"gid" "371DC9013CD74E6EC1ABF602D650D250"
+				"size" "4D789B27A9D61FB51930321E9C60A2B3"
+				"download" "145449D131F1A381883583969D98DEAB"
+			}
+			"thp_dev_branch"
+			{
+				"gid" "F8E2A3E8A9667650E1F81A1CF913A016"
+				"size" "BD4A397C0C30CF1957F8417231417145"
+				"download" "D511BA6FEC3BA32197944B7254BE0110"
+			}
+			"thp_main_latest"
+			{
+				"gid" "C4254C898E3A8AAE6622A766915D9527"
+				"size" "0932B51B4CCD882B34D8D0EBD8EBFA98"
+				"download" "580C061E029B6CE588698F7BFD9A8319"
+			}
+			"thp_main_stable"
+			{
+				"gid" "E071BAEF8AB422DBF57668C2FB64659D"
+				"size" "6C67198D899A6D7256012F7B38CDB17E"
+				"download" "211587D72B4232823D6ECDA8E9441F68"
+			}
+			"thp_marketing_1"
+			{
+				"gid" "1326D0DCB205F3795058FD7820C717D7"
+				"size" "EE6596C33BE49E91D3215D5972475A59"
+				"download" "71EFD6CA9A63010FD335353A915E928F"
+			}
+			"thp_playtest"
+			{
+				"gid" "8C006AD9B300AFD59A044CB89E3D4614"
+				"size" "F2592E900A69B7BAFE1EFA7B9AFB1D9A"
+				"download" "F48539D0C3552A59B48ECA27DFD01807"
+			}
+			"thp_qa_live"
+			{
+				"gid" "90670677817E5BB564EE78393AD98317"
+				"size" "0913D23257498FDEC1862EE93B6A88B1"
+				"download" "E25C543E66E292F850FB2D29BA6404F6"
+			}
+			"thp_qa_testbranch_1"
+			{
+				"gid" "5DF445BDCA22B541207F07C3852303C3"
+				"size" "344375D5F7C20520680826F18AF93835"
+				"download" "0D6AFE73078FA8475CE5F566B6B352A8"
+			}
+			"thp_qa_testbranch_2"
+			{
+				"gid" "E48A83F330C616C7753D8A34F2FBAE70"
+				"size" "EAB901ACBD1045246285B86E7385C911"
+				"download" "FB7F6CC01664C6C29BBDAA832E8BD346"
+			}
+			"thp_qa_testbranch_3"
+			{
+				"gid" "1D2F7595D951EA5FBCBBC30D79F69367"
+				"size" "F1A94E7EE6D0FDA12A1414246A2ABDF5"
+				"download" "C2B7EE89A62004D986EFCE9464A63DC0"
+			}
+			"thp_qa_testbranch_4"
+			{
+				"gid" "01B09933A33A79110D82E0970B6DE7C9"
+				"size" "9FDE5093DD45D15DBD05634B9CF0BBFE"
+				"download" "D77AA82ACDEE0270A38C1CD23C776A4C"
+			}
+			"thp_rc"
+			{
+				"gid" "7E4B22EE45870917C7040EA470694528"
+				"size" "5AEAF404CF88662384141FD7EDB3AF6F"
+				"download" "F3D9D49C61378BF46FEE4D2319B5D34A"
+			}
+			"thp_rm"
+			{
+				"gid" "829E5D376D3CDE2559BE2ADFF34DC4E7"
+				"size" "20FFA65AA27975C2D60331D51523C768"
+				"download" "99E0CE4EF45E7A4C3499068588544372"
+			}
+			"thp_staging_latest"
+			{
+				"gid" "D2F45EE2D489AB91ED093ED08D09072D"
+				"size" "F4E68172FF3A323C0D2D0949B5FD5E33"
+				"download" "B664EB12F86267C5BE6FD443C7B2BA2D"
+			}
+			"thp_staging_stable"
+			{
+				"gid" "83EFC45A202EAF717D4D213659A581D7"
+				"size" "5312C7B5C777B007C5764FC022FE5958"
+				"download" "EFA9F4A02C400377978F848DF174EC3C"
+			}
+		}
+	}
+	"528680"
+	{
+		"dlcappid" "528680"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2022411841941050441"
+				"size" "240"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "06C2C4372F3D87923A34F2D6A0FE15B4"
+				"size" "75306F8D2190E8F1C5ABAAFF890E2715"
+				"download" "B94D34CAA4A7365E0FF6B556A944D4AB"
+			}
+			"huntinglodge_streams"
+			{
+				"gid" "D2F486426A25932A5D3F605C4265F8F4"
+				"size" "3BBF29F841FEE753FB1982937551BD93"
+				"download" "BD6A3C2D76FAA9B20F7C8A40C1C383C4"
+			}
+			"thp_code_team_regression_testing"
+			{
+				"gid" "23C9C24B51CBA18E1432CA5712A45BD3"
+				"size" "406A1E91089A921A52F44FDB3899C49B"
+				"download" "136F657F005B5ACF3629CAC7B928FFF0"
+			}
+			"thp_legacy_save"
+			{
+				"gid" "4F4C240A813DC0DC6731590E1154755C"
+				"size" "FF99B1B60C47B989DB53F9B1615C6374"
+				"download" "009821389C676E04C893AC8E94920D47"
+			}
+			"thp_marketing_2"
+			{
+				"gid" "D7165D20E26B32BDFAF3D8255F983486"
+				"size" "CB767156EF29AD2312665D8E154BF2EF"
+				"download" "040ACFF32F5CD5726397DA3B74222859"
+			}
+			"thp_ur_test"
+			{
+				"gid" "DBCE638B5962E4F60E2C1203043A8BA4"
+				"size" "208B12CE453D7842D8D086E2F482A09F"
+				"download" "DE9E416CC4897F39FC31F3ACAF4430C7"
+			}
+			"callofthewild_press"
+			{
+				"gid" "C16E25F6229F80BA00663C816F7016A5"
+				"size" "F519B5E3890863ED11726982FC9205FD"
+				"download" "8251468F7AEAAECC0E6AB539A3273A8B"
+			}
+			"thehunter_heroes"
+			{
+				"gid" "80696ADA159875AAF90520EBB88BDAB7"
+				"size" "44BB0B42FB5FD62A4AAB298DACC87828"
+				"download" "E0569014D7B8008EC7197212014B0268"
+			}
+			"thp_dev_branch"
+			{
+				"gid" "53966944CDD80210688DB4A7FC73F11F"
+				"size" "837FC6F3C88DBCB29677B1B1AF627B26"
+				"download" "C3D078A6B35D2EECAE1E00A83C565C41"
+			}
+			"thp_main_latest"
+			{
+				"gid" "37FA638F3855B4B7DB4D39894958F7F7"
+				"size" "E1106585718A3B9D374BC0F377A2BE58"
+				"download" "A826FCCD8F48DEB208B651D7AA3A8D16"
+			}
+			"thp_main_stable"
+			{
+				"gid" "2FBC93DE5A7B61CBCC358DE2DD307A51"
+				"size" "C4F843FA0C98850422D2D4E00DC6A944"
+				"download" "2DB9579E2EB51E8E76F1325EC2141DBD"
+			}
+			"thp_marketing_1"
+			{
+				"gid" "E5F46A8AEFCDF7435A2BEC6113CD0DAA"
+				"size" "E76A72DBAA709ADDAB9781AF13800721"
+				"download" "12FBD5AF1FB4522EF4B6C69ECA28091A"
+			}
+			"thp_playtest"
+			{
+				"gid" "F45D66D95F0DF99EB04545B06BDFFFD6"
+				"size" "2C267F2359D67E6B13DEC97895CF218C"
+				"download" "A3B6293F4EC5DA053D6627EA9220309C"
+			}
+			"thp_qa_live"
+			{
+				"gid" "9802D364A7795F978168237E0F69431A"
+				"size" "6A93A8B5EA15BE8D9596F427B5984CAD"
+				"download" "4771A9341350B2BAE3AAB0B78A7DDF4A"
+			}
+			"thp_qa_testbranch_1"
+			{
+				"gid" "64C9CAAE6E677D1A984A012221AEBA52"
+				"size" "D074DA231C0ED3CFF4B4E65E06A121EC"
+				"download" "E8A28E5DBC663B86FE934ABF3A795AEF"
+			}
+			"thp_qa_testbranch_2"
+			{
+				"gid" "C93ABB399D6E4EF5B4A81FCCCAC8E660"
+				"size" "138D3A7CFF8FE4E58CCCC7098D5338D6"
+				"download" "0C19300378571B7FE06F6DA0F5D9D5DA"
+			}
+			"thp_qa_testbranch_3"
+			{
+				"gid" "A89D1F43EADAE9B8E566AA4BC63F600C"
+				"size" "5C58DFC6D4B25E674B24FAD938A90505"
+				"download" "3278D09B6BC63A1D34518C76C1443713"
+			}
+			"thp_qa_testbranch_4"
+			{
+				"gid" "FD5A328D8E1931507BACFDB9720CAAF0"
+				"size" "C83F1A792CC9D83AB8A13549BA4A7242"
+				"download" "B05A58661C1BF8DC20D0121B81E4080C"
+			}
+			"thp_rc"
+			{
+				"gid" "6B664F880DA32B8ECDB55C092EEB93BC"
+				"size" "3BA6EC14BEB8667090C760D73E63ED8B"
+				"download" "C244290E83FDA3607022859F409A9BA8"
+			}
+			"thp_rm"
+			{
+				"gid" "84E18078EE3BE6ABB7A9742C10AF4B3F"
+				"size" "E8E1C75FC9A638C40E28A49F9CEDD2D7"
+				"download" "DF33D52ED1BBF8C255325C96EBDEED9D"
+			}
+			"thp_staging_latest"
+			{
+				"gid" "38CB3CA3EEB82853BF5B8F52372AFF0A"
+				"size" "1CD68AE90C1373A76E78CAD7B8D72CAA"
+				"download" "AD6371E1B90FA721479D6640F57C4B82"
+			}
+			"thp_staging_stable"
+			{
+				"gid" "5858653B1429334C24EEF601EF838A2D"
+				"size" "CA2271FA12FA884A150D9DAC8C4F4A8A"
+				"download" "7010FAE314585695D3B9E0281710110F"
+			}
+		}
+	}
+	"518792"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4090385983569286542"
+				"size" "1529784439"
+				"download" "263689104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "108AE3798E56D476B167567A690C254B"
+				"size" "1D75672754C93D386A1050159DE8612F"
+				"download" "F139110294D9606F67FFEE3854CF7631"
+			}
+			"huntinglodge_streams"
+			{
+				"gid" "3D824497619F5FA9835C9700E8BB469C"
+				"size" "EF0FED5EB5FE35785EDBB1B15D4608F0"
+				"download" "3E2F9E44360056D7E29AE114C3EF0D9B"
+			}
+			"thp_code_team_regression_testing"
+			{
+				"gid" "23E78A1FB3E18C50DEBE7C3021E5E516"
+				"size" "796E9894ADBAA8CF11BF031199C5DDC2"
+				"download" "14F0FB099D34DAA85F8D1D36C40E5A24"
+			}
+			"thp_legacy_save"
+			{
+				"gid" "7F7E33F59FCC87430AD3C755452D5D3F"
+				"size" "F1FF6A70AA1FACFA0B3EDC3C5077FDDF"
+				"download" "3B9A738519F02DDF91D98E9B4C00E765"
+			}
+			"thp_marketing_2"
+			{
+				"gid" "3643E2175488716BD34EF1605F2AC522"
+				"size" "35AB6E394A9BB621693D28BA57BAC12D"
+				"download" "2FDAC0AF0BCA6D09E54521E7DF9A9B3A"
+			}
+			"thp_ur_test"
+			{
+				"gid" "2801361A3A91EFBEF926FCEFC830293A"
+				"size" "5E13DBC463B4BBF564F6CCBA5465DDE6"
+				"download" "5323F2736EDFAF51D20FB096DA95F93C"
+			}
+			"callofthewild_press"
+			{
+				"gid" "5E11DB8FFE1D2BBE6C7A19BB90205398"
+				"size" "39C5605424FDB7FF75B514EF58C4FFB6"
+				"download" "B7AE82673332F0263D728C8331356169"
+			}
+			"thehunter_heroes"
+			{
+				"gid" "5264CCA3C23BAB72F7E566CBED783791"
+				"size" "F6268CB653F9DAFCE8C3D98609B1789D"
+				"download" "6B8468D5DFC5BB59FF5F4BC47D06A59A"
+			}
+			"thp_dev_branch"
+			{
+				"gid" "6F4446C66A74FFC2D1D100C86C505504"
+				"size" "5368A36EA494D2AEE7600F401616213E"
+				"download" "ECA1B7D27BB9640C3EDCCB20D63CC848"
+			}
+			"thp_main_latest"
+			{
+				"gid" "CC612F0B01AB38CEDD091F8095383C4F"
+				"size" "67028353018683D28E9D28F655C8DE41"
+				"download" "1D108B2FA121DE6557ABBD4423862FC2"
+			}
+			"thp_main_stable"
+			{
+				"gid" "3DDEC7A8844EE0EA3032CB3FB6E6A7E5"
+				"size" "C3918010F7B66FAA9EA975D621AFAA45"
+				"download" "85E9F83EE3C7FF6DACCBD7468DB0B85A"
+			}
+			"thp_marketing_1"
+			{
+				"gid" "FBA17E61EE4844A5F3057DFE97E8DCB4"
+				"size" "258A46136585C5DA52F3BB7107E4256B"
+				"download" "7F5399A4EDD0C80BDAD5C14E705D8E88"
+			}
+			"thp_playtest"
+			{
+				"gid" "06F2C61E3E76A1BDD9491B0D648714D6"
+				"size" "B3A8F3CF3D8DA14CA0EC66B0E923CC51"
+				"download" "1B5A5BCC97A8757275C7DAA091B0713B"
+			}
+			"thp_qa_live"
+			{
+				"gid" "9EA59A392EB4321EFE702CE4E8656721"
+				"size" "C4B768C4C19663338D46C8E5EDA49202"
+				"download" "E703B4C012C3F20853501A7BA3C60FF0"
+			}
+			"thp_qa_testbranch_1"
+			{
+				"gid" "D1A242C9CF821325EC5E508847F48F12"
+				"size" "0ED9272C130B2B1623B0F13B628B4A9F"
+				"download" "01F42E5E9CD0F565F7BA42CC54BBB88E"
+			}
+			"thp_qa_testbranch_2"
+			{
+				"gid" "8CB224BE0F555FA8548A7CD0948C1EDE"
+				"size" "85928882529102C730421E00DC35EF94"
+				"download" "220428C4D95A390376695DF9BF257CB3"
+			}
+			"thp_qa_testbranch_3"
+			{
+				"gid" "24316AFDB36F1FA55EFC1E7AF968265D"
+				"size" "997CB068D25085146F58257B5DFBD585"
+				"download" "9BA7F964E774BBE18744ACD2C160EAEB"
+			}
+			"thp_qa_testbranch_4"
+			{
+				"gid" "66BFD577FF731F958D67C31DC69F08CB"
+				"size" "B23E1FECDFCA6AA28604BE2C180C14E8"
+				"download" "594173621820FB2F4A2E2C00807ACE55"
+			}
+			"thp_rc"
+			{
+				"gid" "3B3853EA36C4AD270FD6E09CDB36710B"
+				"size" "049D8B72DEA8C5CC964942F2576A5DC8"
+				"download" "F8EC2F07CDA550D831E08EF8CB238125"
+			}
+			"thp_rm"
+			{
+				"gid" "5B2DCEDABE707503CBF68A1FEB3C452F"
+				"size" "54F3E6A9AC16DD4CFAD37543A72D685B"
+				"download" "8DF7778A6887C5E6A5D038CD738AFFFE"
+			}
+			"thp_staging_latest"
+			{
+				"gid" "3D45CEDB0388D1925D87AA4B83449D48"
+				"size" "4D772D7535823D3B8F71EAEFC1C8AFC8"
+				"download" "4B67E2C516E3201A7F671DD6613A5C7C"
+			}
+			"thp_staging_stable"
+			{
+				"gid" "B9D7E3CC7B6D8AA8F030E70385A6D630"
+				"size" "26BD773541B5EE59F9348B8807427C3A"
+				"download" "D0DC6B22DDEAC73CE9B0FCC5821CFFDC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14161953"
+			"timeupdated" "1715072579"
+		}
+		"baseline"
+		{
+			"buildid" "3092679"
+			"pwdrequired" "1"
+			"timeupdated" "1536595848"
+		}
+		"huntinglodge_streams"
+		{
+			"buildid" "8882242"
+			"pwdrequired" "1"
+			"timeupdated" "1655815170"
+		}
+		"thp_code_team_regression_testing"
+		{
+			"buildid" "8464884"
+			"pwdrequired" "1"
+			"timeupdated" "1655903141"
+		}
+		"thp_legacy_save"
+		{
+			"buildid" "6787622"
+			"pwdrequired" "1"
+			"timeupdated" "1622629618"
+		}
+		"thp_marketing_2"
+		{
+			"buildid" "12571488"
+			"pwdrequired" "1"
+			"timeupdated" "1699093381"
+		}
+		"thp_ur_test"
+		{
+			"buildid" "9854832"
+			"pwdrequired" "1"
+			"timeupdated" "1667482668"
+		}
+		"callofthewild_press"
+		{
+			"buildid" "14577705"
+			"pwdrequired" "1"
+			"timeupdated" "1717575490"
+		}
+		"thehunter_heroes"
+		{
+			"buildid" "14486208"
+			"pwdrequired" "1"
+			"timeupdated" "1717079490"
+		}
+		"thp_dev_branch"
+		{
+			"buildid" "14161953"
+			"pwdrequired" "1"
+			"timeupdated" "1713975414"
+		}
+		"thp_main_latest"
+		{
+			"buildid" "14710088"
+			"pwdrequired" "1"
+			"timeupdated" "1718345621"
+		}
+		"thp_main_stable"
+		{
+			"buildid" "14697860"
+			"pwdrequired" "1"
+			"timeupdated" "1718269234"
+		}
+		"thp_marketing_1"
+		{
+			"buildid" "14332212"
+			"pwdrequired" "1"
+			"timeupdated" "1715587331"
+		}
+		"thp_playtest"
+		{
+			"buildid" "14430519"
+			"pwdrequired" "1"
+			"timeupdated" "1716272330"
+		}
+		"thp_qa_live"
+		{
+			"buildid" "14161953"
+			"pwdrequired" "1"
+			"timeupdated" "1718271872"
+		}
+		"thp_qa_testbranch_1"
+		{
+			"buildid" "14658824"
+			"pwdrequired" "1"
+			"timeupdated" "1718348956"
+		}
+		"thp_qa_testbranch_2"
+		{
+			"buildid" "14155659"
+			"pwdrequired" "1"
+			"timeupdated" "1713944694"
+		}
+		"thp_qa_testbranch_3"
+		{
+			"buildid" "14708608"
+			"pwdrequired" "1"
+			"timeupdated" "1718351653"
+		}
+		"thp_qa_testbranch_4"
+		{
+			"buildid" "14684965"
+			"pwdrequired" "1"
+			"timeupdated" "1718173815"
+		}
+		"thp_rc"
+		{
+			"buildid" "14577705"
+			"pwdrequired" "1"
+			"timeupdated" "1717394824"
+		}
+		"thp_rm"
+		{
+			"buildid" "14577705"
+			"pwdrequired" "1"
+			"timeupdated" "1718021405"
+		}
+		"thp_staging_latest"
+		{
+			"buildid" "14553519"
+			"pwdrequired" "1"
+			"timeupdated" "1717134915"
+		}
+		"thp_staging_stable"
+		{
+			"buildid" "14332212"
+			"pwdrequired" "1"
+			"timeupdated" "1715587314"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "52428800"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Avalanche Studios/COTW/Saves/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Avalanche Studios/theHunter Call of the Wild/Saves/settings"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23969055"
+"_sha" "6eb6a77ad1430ab03db19bbd000afded9fac0c65"
+"_size" "23358"
