@@ -1,0 +1,451 @@
+"appid" "965680"
+"common"
+{
+	"name" "Boomerang Fu"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "b2e95b77e73db30e37098303272f5cd98a25a013"
+	"logo_small" "b2e95b77e73db30e37098303272f5cd98a25a013_thumb"
+	"icon" "b931535c0cbe5c37a34ed2cffd752cd59c4e41d4"
+	"clienticon" "8d8f8c40f211f3f04be6e6a075329613612461c7"
+	"clienttga" "2f1736f389c15114d0cd289850378db3d2caf7a8"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"latam" "1"
+	}
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "ブーメランヒュー"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1664582400"
+		"tested_build_id" "8646932"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,ja"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "37.37910087587338"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718174746"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cranky Watermelon"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cranky Watermelon"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_37" "1"
+		"category_28" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_24" "1"
+		"category_2" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1597330860"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "965680"
+	"store_tags"
+	{
+		"0" "4840"
+		"1" "7368"
+		"2" "5350"
+		"3" "7178"
+		"4" "1743"
+		"5" "3878"
+		"6" "3841"
+		"7" "1775"
+		"8" "5711"
+		"9" "1685"
+		"10" "4791"
+		"11" "3968"
+		"12" "4726"
+		"13" "6915"
+		"14" "7108"
+		"15" "4136"
+		"16" "1719"
+		"17" "1773"
+		"18" "19"
+		"19" "597"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,beta"
+	"developer" "Cranky Watermelon"
+	"publisher" "Cranky Watermelon"
+	"homepage" "http://www.boomerangfu.com"
+	"listofdlc" "1685690,2851830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Boomerang Fu"
+	"steamcontrollertemplateindex" "4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Boomerang Fu.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"965681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2646198854485541629"
+				"size" "615257292"
+				"download" "109165808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "95EC29443E40EAAD21565798A5325B6A"
+				"size" "434336933B1A6EABD4EB832A3BB8BFA6"
+				"download" "D37D0A2C3B4B528AB9DCB32BBCBF44F6"
+			}
+			"translation"
+			{
+				"gid" "CCFC83339BE42E42B02FA86FED3D5359"
+				"size" "B4B8789053839C5405511E02A112BF58"
+				"download" "2D73840B018AF1B011BE100225997A55"
+			}
+			"beta"
+			{
+				"gid" "5EB6F0FAD55F0A33C58F3D5CE1C8E001"
+				"size" "F84833E4EDDFC505C310092A035F1DE0"
+				"download" "4EA74B42D8D9A8DF8D2B96512F3304E0"
+			}
+			"develop"
+			{
+				"gid" "C08A540DD24AD42411F2D223B0431C47"
+				"size" "FFDFEB58E25D7750715553122D33649C"
+				"download" "F1611B92DD83C8716587C4246C0A7591"
+			}
+			"preview"
+			{
+				"gid" "10989C109A9F624B9A18DB0FFAC8C6FC"
+				"size" "E9FBA6E210027150E5C1FE525031F16E"
+				"download" "1DF6564A179F2DF54FBA905DCF7713F9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14687785"
+			"timeupdated" "1718173536"
+		}
+		"debug"
+		{
+			"buildid" "8722968"
+			"pwdrequired" "1"
+			"timeupdated" "1652319506"
+		}
+		"translation"
+		{
+			"buildid" "7499639"
+			"pwdrequired" "1"
+			"timeupdated" "1633676123"
+		}
+		"beta"
+		{
+			"buildid" "14321551"
+			"pwdrequired" "1"
+			"timeupdated" "1718103156"
+		}
+		"develop"
+		{
+			"buildid" "14687785"
+			"pwdrequired" "1"
+			"timeupdated" "1718173312"
+		}
+		"preview"
+		{
+			"buildid" "14321551"
+			"pwdrequired" "1"
+			"timeupdated" "1715302591"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000"
+	"maxnumfiles" "4"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cranky Watermelon/Boomerang Fu"
+			"pattern" "modifiers.json"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Cranky Watermelon/Boomerang Fu"
+			"pattern" "*.data"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" "Cranky Watermelon/Boomerang Fu"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" "Cranky Watermelon/Boomerang Fu"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23984602"
+"_sha" "0ad566353649bd3905d0664a764ad0b6033de8aa"
+"_size" "8389"
