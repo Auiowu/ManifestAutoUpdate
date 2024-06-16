@@ -1,0 +1,549 @@
+"appid" "2066020"
+"common"
+{
+	"name" "Soulstone Survivors"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "b1f6da5d689321ab937401bc49feb5163724e2dd"
+	"clienttga" "1cd2663d489073f63e0e15dd136d98c8e652e13d"
+	"icon" "109206278198750d87b13389925764aadcf2ecd4"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "灵魂石幸存者"
+	}
+	"clienticns" "b95a0637a84647dcd87a89ec5794a20dd09537dc"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1715904000"
+		"tested_build_id" "14314203"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.46224256292906"
+			"height_pct" "52.659574344735915"
+		}
+	}
+	"store_asset_mtime" "1715263477"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Game Smithing Limited"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Game Smithing Limited"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Soulstone"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1667822347"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2066020"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "493"
+		"2" "4885"
+		"3" "3959"
+		"4" "4231"
+		"5" "4791"
+		"6" "1716"
+		"7" "1773"
+		"8" "19"
+		"9" "5125"
+		"10" "5154"
+		"11" "4305"
+		"12" "4182"
+		"13" "7481"
+		"14" "4604"
+		"15" "4758"
+		"16" "122"
+		"17" "1702"
+		"18" "4747"
+		"19" "1646"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Game Smithing Limited"
+	"publisher" "Game Smithing Limited"
+	"homepage" "http://www.soulstonesurvivors.com"
+}
+"config"
+{
+	"installdir" "Soulstone Survivors"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Soulstone Survivors.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Soulstone-Survivors.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "Soulstone-Survivors.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2066021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7061621855253002118"
+				"size" "2818991889"
+				"download" "801328512"
+			}
+			"newbeginning"
+			{
+				"gid" "8173945686451700869"
+				"size" "2717074491"
+				"download" "778132960"
+			}
+			"alpha"
+			{
+				"gid" "7061621855253002118"
+				"size" "2818991889"
+				"download" "801328512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"reverttest"
+			{
+				"gid" "FC38349568550CDD06CBA8AB9FF39C40"
+				"size" "3C91924E6B04DEF784F5730802A2C8E1"
+				"download" "6AEABEF64AB1107FD69BEA79AED3AD44"
+			}
+			"internal"
+			{
+				"gid" "77C80397602B1D4CEA9885DF4C42E0C9"
+				"size" "68004F5DE82A01F2C0D0E8FD594B6728"
+				"download" "F1898208793DA8AEDE90DFFB7E798611"
+			}
+			"matheus_testing"
+			{
+				"gid" "F4728404EDB025934032853B0672E5B7"
+				"size" "F708EBA8E462AB53E41737E3C1515ECA"
+				"download" "D093F8652B7909B0497FA8CAD8428D82"
+			}
+			"steamdeck"
+			{
+				"gid" "3A2637A33B104F314E0A3C372645652A"
+				"size" "8BA7BFD5E3F224A801445856DBCA2951"
+				"download" "D66CCE8095068DDC82BE2FE524F6F2B9"
+			}
+		}
+	}
+	"2066022"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4500271342611118530"
+				"size" "2894802110"
+				"download" "840167200"
+			}
+			"newbeginning"
+			{
+				"gid" "6390906462624315205"
+				"size" "2795046916"
+				"download" "817404048"
+			}
+			"alpha"
+			{
+				"gid" "4500271342611118530"
+				"size" "2894802110"
+				"download" "840167200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"reverttest"
+			{
+				"gid" "3D7ADC2FB7C245CB1746E36B124DB415"
+				"size" "0002B3A83A3469118D26BC6EC758163A"
+				"download" "0BA3D4AC11E023264CBD893761D4031B"
+			}
+			"internal"
+			{
+				"gid" "72AD58314D4DC910D472E544B7963452"
+				"size" "323563355E3C01FFF1231E00F0DA3DA0"
+				"download" "0EBB95BBEDE79AFD89CCE6111AB9BDCC"
+			}
+			"matheus_testing"
+			{
+				"gid" "5FECB8E735CF527C4A37AA38BEB01CCD"
+				"size" "DB15EF47F066328144824D0C24BA3DCB"
+				"download" "9CA7F2711124476429249EE87DA88E4A"
+			}
+			"steamdeck"
+			{
+				"gid" "F6EFC2CFC731F0D62C917EDAE7E3CD99"
+				"size" "E1182F0B6F4BCE0A78B910F3E063ED2D"
+				"download" "EECF06F773185494E5B4B31A6F08C406"
+			}
+		}
+	}
+	"2066023"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2401750257214079728"
+				"size" "2829033679"
+				"download" "805288544"
+			}
+			"newbeginning"
+			{
+				"gid" "5679780054462404050"
+				"size" "2727839878"
+				"download" "782374848"
+			}
+			"alpha"
+			{
+				"gid" "2401750257214079728"
+				"size" "2829033679"
+				"download" "805288544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"reverttest"
+			{
+				"gid" "3B6322453F54725AC474CC19D2F0BD9E"
+				"size" "0E452C47468C040135BDC003B94A826F"
+				"download" "2F17E6F35D4403787331D98F4D682DB7"
+			}
+			"internal"
+			{
+				"gid" "026EAC23515B6BD99C2D6A3F83819B65"
+				"size" "908424FBAC4F534995877371134D0F53"
+				"download" "5A9FA09005F14F0510B45811D1F7F26D"
+			}
+			"matheus_testing"
+			{
+				"gid" "F7FAE5553AC49B76C8AB46C7B8FCB637"
+				"size" "FC82158B0F10A1B074A7F243E49476B0"
+				"download" "58D32B942961C14C98C6057F3F9831B5"
+			}
+			"steamdeck"
+			{
+				"gid" "4D721FBD4E79370F3BE85299D69EF832"
+				"size" "6BE03BDC17218F67B46A75BE37D2E720"
+				"download" "CEAE96C35A8160E3684A334A6014CB54"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"workshopdepot" "2066020"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14402705"
+			"timeupdated" "1715976543"
+		}
+		"newbeginning"
+		{
+			"buildid" "13889765"
+			"description" "New Beginning update"
+			"timeupdated" "1711803775"
+		}
+		"reverttest"
+		{
+			"buildid" "13902783"
+			"pwdrequired" "1"
+			"timeupdated" "1711809927"
+		}
+		"alpha"
+		{
+			"buildid" "14402705"
+			"description" "Alpha testing"
+			"timeupdated" "1715947898"
+		}
+		"internal"
+		{
+			"buildid" "14402705"
+			"pwdrequired" "1"
+			"timeupdated" "1715946668"
+		}
+		"matheus_testing"
+		{
+			"buildid" "14414402"
+			"pwdrequired" "1"
+			"timeupdated" "1716046647"
+		}
+		"steamdeck"
+		{
+			"buildid" "14314203"
+			"pwdrequired" "1"
+			"timeupdated" "1715250903"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Game Smithing/Soulstone Survivors"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Game Smithing/Soulstone Survivors"
+					"replace" "com.GameSmithing.SoulstoneSurvivors/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Game Smithing/Soulstone Survivors"
+					"replace" ".config/unity3d/Game Smithing/Soulstone Survivors"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#statusfull" "%text%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23670369"
+"_sha" "a44ff2a8c56834d7885f8f3e5b933f9a498ebe70"
+"_size" "10325"
