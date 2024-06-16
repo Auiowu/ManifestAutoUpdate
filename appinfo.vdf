@@ -1,0 +1,608 @@
+"appid" "774171"
+"common"
+{
+	"name" "Muse Dash"
+	"type" "Game"
+	"logo" "c27a2910578c7b6ca7ca638510dc88472b72a26d"
+	"logo_small" "c27a2910578c7b6ca7ca638510dc88472b72a26d_thumb"
+	"icon" "e0f4a24aa5b44887dc3467ee3e9ceabf46082041"
+	"clienticon" "47e16c5452bf71809384370f30e0b331bbac2b09"
+	"clienttga" "23410591eb42d0048ef7ffac4a51852cafa6aed4"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"releasestate" "released"
+	"clienticns" "47e16c5452bf71809384370f30e0b331bbac2b09"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"osextended" "macos64"
+	"steamchinaapproved" "1"
+	"name_localized"
+	{
+		"sc_schinese" "喵斯快跑"
+	}
+	"releasestatesteamchina" "prerelease"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7903791"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Muse Dash"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en"
+		"library_logo" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.088558500323273"
+			"height_pct" "67.01388888888889"
+		}
+	}
+	"store_asset_mtime" "1706497560"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "peropero"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "hasuhasu"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1561014000"
+	"steam_release_date" "1560996060"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "774171"
+	"store_tags"
+	{
+		"0" "1621"
+		"1" "1752"
+		"2" "4085"
+		"3" "4726"
+		"4" "12095"
+		"5" "7208"
+		"6" "597"
+		"7" "1756"
+		"8" "4182"
+		"9" "3871"
+		"10" "4305"
+		"11" "492"
+		"12" "19"
+		"13" "9130"
+		"14" "4026"
+		"15" "4136"
+		"16" "1773"
+		"17" "5411"
+		"18" "6650"
+		"19" "5611"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "90"
+}
+"extended"
+{
+	"developer" "peropero"
+	"publisher" "hasuhasu"
+	"homepage" "https://musedash.peropero.net/"
+	"listofdlc" "1055810,2593750"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Muse Dash"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "musedash.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "dev"
+			}
+		}
+		"1"
+		{
+			"executable" "MuseDash_Mac_Steam.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862376736"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+			"has_localization_schinese" "1"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
+	"774172"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "383565354070955826"
+				"size" "3438075530"
+				"download" "3019915632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arcade_release"
+			{
+				"gid" "2A00750F9BD58FA70F47E8675D86B18B"
+				"size" "F8A76A05BDD1E53EBDF69538FD57C072"
+				"download" "A7ECBC3DEC12D8EC9CB50F4A414BD35C"
+			}
+			"4.4.0_beta"
+			{
+				"gid" "C89AF6B0A04C9C05C9FC5ED5639D413B"
+				"size" "B6C9A4C33FA1BA5A191450DDF477F18A"
+				"download" "8D680087B89B3ADAD54C282063680CFB"
+			}
+			"4.4.0_release"
+			{
+				"gid" "1402CEFF7D08C7A724D2CCAA6B1EC7B5"
+				"size" "9CD7EBD6F8A58CC3F21B470F581FB67C"
+				"download" "276824D1CE35F47C906899717873D1C1"
+			}
+			"4.5.0_alpha"
+			{
+				"gid" "FBCCB050691A028AB8A5E3CCBFDD904A"
+				"size" "930973419CB934F55DEED10A4277DF0A"
+				"download" "5FF2AB57E429C1C467B3448C26C448D5"
+			}
+			"4.5.0_beta"
+			{
+				"gid" "122919F75F0C167A496F8138838F03EE"
+				"size" "801A4BF448AB943FD0C878F37B58ED5D"
+				"download" "F270BC1D8BADAA7E6D5201EE40F9EB73"
+			}
+			"4.5.0_release"
+			{
+				"gid" "BC96E64DA6AAF87FEC97A2CC1C8E3DAE"
+				"size" "6C80EB9C7E0C1A8462A53B099638ED1D"
+				"download" "9F345B33584D29EBD760EC0AB2C4D9C8"
+			}
+			"md_input_test"
+			{
+				"gid" "D371ADD7C805AE817940397F1978CC8C"
+				"size" "7BA7A2B7894B4E915176B7D4E177BCA0"
+				"download" "43C7299A036652A6FD0F850A6D6A5EDE"
+			}
+			"musedash_dev"
+			{
+				"gid" "4588E6C9421A5B92002A03197143A6AC"
+				"size" "19811BB9FFB20D22FD7E0F6C75EEBC54"
+				"download" "4D6E74BDFA8684EEA05D47AF06A6B67A"
+			}
+			"player_test"
+			{
+				"gid" "D8F05F4315864942ED7ADAB6A9A397D6"
+				"size" "AA3DF12B56B86EE79F421377FA6BA2E1"
+				"download" "AC7DE08AB2093A662EFFFDAB651E9D29"
+			}
+			"steamdeck"
+			{
+				"gid" "34B792113D866B4413112E9817B4E7CD"
+				"size" "63556C8E7646A8B5D7006B8CDDD0409F"
+				"download" "1CDBD7BE0033A57DA46C1589987B276D"
+			}
+		}
+	}
+	"774173"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5987972734398884354"
+				"size" "3413443293"
+				"download" "3006300448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arcade_release"
+			{
+				"gid" "DF09C4A864DAAE81AA27ECE8BEEB2FAB"
+				"size" "E6AF9DEEC213130504137ECCAE9FDF3B"
+				"download" "E6AF9DEEC213130504137ECCAE9FDF3B"
+			}
+			"4.4.0_beta"
+			{
+				"gid" "BB74F3BE09B5CF972D0F10D285E9408D"
+				"size" "AEA1965B07D2CBDC825E1BC46291964D"
+				"download" "BCA24F2D9CD8C91AB5FCDCA6CA08C733"
+			}
+			"4.4.0_release"
+			{
+				"gid" "ADB017EC884055D2A3E2DC845F2A5D33"
+				"size" "CF972926E1C8E706D05CB2FEC3D23238"
+				"download" "6842E6788D25902CE30D0D4DC8EE8D9D"
+			}
+			"4.5.0_alpha"
+			{
+				"gid" "04DE49274578C51FDCADB92D1A536B43"
+				"size" "A3BF1780CACD347122AFDEBB0D303C18"
+				"download" "A3BF1780CACD347122AFDEBB0D303C18"
+			}
+			"4.5.0_beta"
+			{
+				"gid" "66EA60AB397EA01B0F83BA471797E3EA"
+				"size" "AA6B79ED432612A673AC0ED0D52E8995"
+				"download" "AA6B79ED432612A673AC0ED0D52E8995"
+			}
+			"4.5.0_release"
+			{
+				"gid" "7ACF724A5B00171AF1A80FEAFE351201"
+				"size" "42352FAA5CC5E65E95272BA08F92789B"
+				"download" "74889F6DD84B6EBACA31689C50DE9642"
+			}
+			"md_input_test"
+			{
+				"gid" "733D7EF1BA9496FBFD31AAABA0332798"
+				"size" "0D4E32B7E0B6D5DA3397698FC8EF0957"
+				"download" "0D4E32B7E0B6D5DA3397698FC8EF0957"
+			}
+			"musedash_dev"
+			{
+				"gid" "37E4D54F5D5D38266A589A01007057BC"
+				"size" "023287212289AAADC991728F146B72D5"
+				"download" "43A00DC3A80375E50C529E9FA20C4388"
+			}
+			"player_test"
+			{
+				"gid" "7109600CBBFF3FD628872CA8503F847C"
+				"size" "CDE8AEE7C695DBB464E207EA435C80E7"
+				"download" "CDE8AEE7C695DBB464E207EA435C80E7"
+			}
+			"steamdeck"
+			{
+				"gid" "D3FA187381FE037AC79F84EE2F50F0FF"
+				"size" "2A0EF0F34D8422CC9814C55D3695F317"
+				"download" "99C183B12653D013C08C767474D15410"
+			}
+		}
+	}
+	"1055810"
+	{
+		"dlcappid" "1055810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3071104558056225302"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arcade_release"
+			{
+				"gid" "BF7CDD143F8ED5D0C7CBC79529EE6433"
+				"size" "E6AF9DEEC213130504137ECCAE9FDF3B"
+				"download" "E6AF9DEEC213130504137ECCAE9FDF3B"
+			}
+			"4.4.0_beta"
+			{
+				"gid" "D6FFF71499202449D0887D86DA9DF2EB"
+				"size" "464E94D46F04C28494F50B4B9344435E"
+				"download" "464E94D46F04C28494F50B4B9344435E"
+			}
+			"4.4.0_release"
+			{
+				"gid" "FAE9D54C06AA022C278172ECF812A5CF"
+				"size" "E217B876484DA205FCBBA4481C3D243F"
+				"download" "E217B876484DA205FCBBA4481C3D243F"
+			}
+			"4.5.0_alpha"
+			{
+				"gid" "33C2C71A7C4FC8FE4B21955578612C3A"
+				"size" "A3BF1780CACD347122AFDEBB0D303C18"
+				"download" "A3BF1780CACD347122AFDEBB0D303C18"
+			}
+			"4.5.0_beta"
+			{
+				"gid" "289EA715D588AB16AF23055E1FE6614B"
+				"size" "AA6B79ED432612A673AC0ED0D52E8995"
+				"download" "AA6B79ED432612A673AC0ED0D52E8995"
+			}
+			"4.5.0_release"
+			{
+				"gid" "A4999A5A926B64AAED4A4B97860000C3"
+				"size" "A08CA5F1406DC94BBC7BB1E042F046BB"
+				"download" "A08CA5F1406DC94BBC7BB1E042F046BB"
+			}
+			"md_input_test"
+			{
+				"gid" "D1D403407E091765ADA66DCC019E326F"
+				"size" "0D4E32B7E0B6D5DA3397698FC8EF0957"
+				"download" "0D4E32B7E0B6D5DA3397698FC8EF0957"
+			}
+			"musedash_dev"
+			{
+				"gid" "6B25E865B80F60B6E7280E6A5EB57AC0"
+				"size" "44E2FFCAD6EC58D8512473D8F53EF72F"
+				"download" "44E2FFCAD6EC58D8512473D8F53EF72F"
+			}
+			"player_test"
+			{
+				"gid" "62C3141628810C158BF357C77B43B2D2"
+				"size" "CDE8AEE7C695DBB464E207EA435C80E7"
+				"download" "CDE8AEE7C695DBB464E207EA435C80E7"
+			}
+			"steamdeck"
+			{
+				"gid" "5B601AE5F0475FFC449BAC26225A5A50"
+				"size" "C824282955AC223C79CABB7C807699D3"
+				"download" "C824282955AC223C79CABB7C807699D3"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14311990"
+			"timeupdated" "1716541218"
+		}
+		"arcade_release"
+		{
+			"buildid" "14703659"
+			"pwdrequired" "1"
+			"timeupdated" "1718359096"
+		}
+		"4.4.0_beta"
+		{
+			"buildid" "14287087"
+			"pwdrequired" "1"
+			"timeupdated" "1715068404"
+		}
+		"4.4.0_release"
+		{
+			"buildid" "14311990"
+			"pwdrequired" "1"
+			"timeupdated" "1715235681"
+		}
+		"4.5.0_alpha"
+		{
+			"buildid" "14478649"
+			"pwdrequired" "1"
+			"timeupdated" "1716532138"
+		}
+		"4.5.0_beta"
+		{
+			"buildid" "14554726"
+			"pwdrequired" "1"
+			"timeupdated" "1717124326"
+		}
+		"4.5.0_release"
+		{
+			"buildid" "14626620"
+			"pwdrequired" "1"
+			"timeupdated" "1717681982"
+		}
+		"md_input_test"
+		{
+			"buildid" "14717034"
+			"pwdrequired" "1"
+			"timeupdated" "1718359367"
+		}
+		"musedash_dev"
+		{
+			"buildid" "8505743"
+			"pwdrequired" "1"
+			"timeupdated" "1649228579"
+		}
+		"player_test"
+		{
+			"buildid" "14554726"
+			"pwdrequired" "1"
+			"timeupdated" "1717120351"
+		}
+		"steamdeck"
+		{
+			"buildid" "13865356"
+			"pwdrequired" "1"
+			"timeupdated" "1711510522"
+		}
+		"2.10.0r1"
+		{
+			"sc_schinese" "2.10 Release"
+		}
+		"2.10.0r2"
+		{
+			"sc_schinese" "2.10.0 Release"
+		}
+		"vortexboy"
+		{
+			"sc_schinese" "DEV TEST"
+		}
+		"2.11.0a1"
+		{
+			"sc_schinese" "2.11.0 alpha"
+		}
+		"2.11.0_beta"
+		{
+			"sc_schinese" "2.11.0 Beta 测试"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "8"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Steam/MuseDash"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "/Steam/MuseDash"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23971170"
+"_sha" "8d9895f358b8f1176819a332f8b462fabfe51e78"
+"_size" "12873"
