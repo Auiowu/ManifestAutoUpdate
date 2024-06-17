@@ -1,0 +1,942 @@
+"appid" "495420"
+"common"
+{
+	"name" "State of Decay 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "342f3a6a74eca98cf2cf294c05604fd27deef452"
+	"clienttga" "b17d23e5e1e9ae1df91167bf2139409b89f3e582"
+	"icon" "d6d418d682accfb51ee089ea506587c9c924989b"
+	"osextended" ""
+	"logo" "772be0b14bee10ad5d0775ee0a06a5b4e6c8bf25"
+	"logo_small" "772be0b14bee10ad5d0775ee0a06a5b4e6c8bf25_thumb"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664928000"
+		"tested_build_id" "9546638"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "State Of Decay 2"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.41461916153517"
+			"height_pct" "45.04974647307936"
+		}
+	}
+	"store_asset_mtime" "1695072234"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Undead Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_27" "1"
+		"category_13" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1584118440"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/state-of-decay-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "495420"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "1659"
+		"3" "7332"
+		"4" "3859"
+		"5" "1685"
+		"6" "3843"
+		"7" "3835"
+		"8" "599"
+		"9" "19"
+		"10" "122"
+		"11" "3810"
+		"12" "1697"
+		"13" "4182"
+		"14" "4345"
+		"15" "1667"
+		"16" "4667"
+		"17" "1759"
+		"18" "4711"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5441173700729711860/"
+	"developer" "Undead Labs"
+	"publisher" "Xbox Game Studios"
+	"homepage" "https://www.stateofdecay.com"
+	"gamemanualurl" "https://store.steampowered.com/manual/495420/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "StateOfDecay2"
+	"usemms" "1"
+	"verifyupdates" "1"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-SteamBranch=main -steamlaunch"
+			"description" "Development"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "main"
+			}
+		}
+		"2"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=main-Test -steamlaunch"
+			"description" "Test"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "main"
+			}
+		}
+		"3"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-SteamBranch=main-Shipping -steamlaunch"
+			"description" "Shipping"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "main"
+			}
+		}
+		"4"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-SteamBranch=demo -steamlaunch"
+			"description" "Development"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "demo"
+			}
+		}
+		"5"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=demo-Test -steamlaunch"
+			"description" "Test"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "demo"
+			}
+		}
+		"6"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-SteamBranch=demo-Shipping -steamlaunch"
+			"description" "Shipping"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "demo"
+			}
+		}
+		"10"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=playtest-Test -AllowNewerSaves -steamlaunch"
+			"description" "StateOfDecay2-Win64-Test.exe (Pick Me!)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "playtest"
+			}
+		}
+		"11"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-steamlaunch"
+			"description" "Stage-Dev"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "stage"
+			}
+		}
+		"12"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-steamlaunch"
+			"description" "Stage-Test"
+			"type" "option2"
+			"config"
+			{
+				"betakey" "stage"
+			}
+		}
+		"13"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-steamlaunch"
+			"description" "Stage-Shipping"
+			"type" "option3"
+			"config"
+			{
+				"betakey" "stage"
+			}
+		}
+		"14"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-steamlaunch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"15"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe"
+			"arguments" "-SteamBranch=bugbase -steamlaunch"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "bugbase"
+			}
+			"description_loc"
+			{
+				"english" "Development"
+			}
+			"description" "Development"
+		}
+		"16"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe"
+			"arguments" "-SteamBranch=bugbase-Test -steamlaunch"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "bugbase"
+			}
+			"description_loc"
+			{
+				"english" "Test"
+			}
+			"description" "Test"
+		}
+		"17"
+		{
+			"executable" "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+			"arguments" "-SteamBranch=bugbase-Shipping -steamlaunch"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "bugbase"
+			}
+			"description_loc"
+			{
+				"english" "Shipping"
+			}
+			"description" "Shipping"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1329432380"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "demo,main,release"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,schinese,russian,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"495422"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3594852693874316151"
+				"size" "21633861709"
+				"download" "17965582640"
+			}
+			"labtech_beta"
+			{
+				"gid" "4813292845532816509"
+				"size" "21626316617"
+				"download" "17953554032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugbase"
+			{
+				"gid" "378B946F3AE7CCB5BB6A8C0C443C53BD"
+				"size" "0FA9D888482C6BA3F57F33274C80BA34"
+				"download" "0FA9D888482C6BA3F57F33274C80BA34"
+			}
+			"demo"
+			{
+				"gid" "0A6D87A5976688BB8BB86E2889476EB2"
+				"size" "1EAA8CC5BA1F30AD62E055A4011897F7"
+				"download" "1EAA8CC5BA1F30AD62E055A4011897F7"
+			}
+			"main"
+			{
+				"gid" "2C9916459B111AAC8FB09F64002B60AC"
+				"size" "73527CA62F9D99AB2DAAC6AC091E2DE1"
+				"download" "73527CA62F9D99AB2DAAC6AC091E2DE1"
+			}
+			"playtest"
+			{
+				"gid" "56422B2F53115D251547785F35E674B3"
+				"size" "2EA08B348B1926A6611AB1BF2E85D5C6"
+				"download" "2EA08B348B1926A6611AB1BF2E85D5C6"
+			}
+			"public_prerelease"
+			{
+				"gid" "65A7385AE33CA95B799AC1AAE8EFEBAF"
+				"size" "B100A3FAEF43CB1CAF40E92F85715176"
+				"download" "535948A36BF3142801155157DC53F261"
+			}
+			"release"
+			{
+				"gid" "193EFF355E4478A2EF193D3AC81F41ED"
+				"size" "8F028E952B468DEB853DBF025F236241"
+				"download" "8F028E952B468DEB853DBF025F236241"
+			}
+			"stage"
+			{
+				"gid" "104A1D8E06234078DEBBD4177B505CC3"
+				"size" "A3084ED9C64728F74C603154D3FB8FA8"
+				"download" "A3084ED9C64728F74C603154D3FB8FA8"
+			}
+			"tmp_branchtest"
+			{
+				"gid" "64E7BAB1A2224203ABA1A68C7C02C15D"
+				"size" "9541B43926DAFA0A4011EC6EC2176AC5"
+				"download" "3195573B9E7E3A146440224474898B56"
+			}
+		}
+	}
+	"495423"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9135075435278811908"
+				"size" "117309111"
+				"download" "109527120"
+			}
+			"labtech_beta"
+			{
+				"gid" "9135075435278811908"
+				"size" "117309111"
+				"download" "109527120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugbase"
+			{
+				"gid" "D8E3E00EAD9054E38DF4E4F0B631F73C"
+				"size" "9BE68C4F8C839D3D3E9EC5B820E455E9"
+				"download" "FD118D1D985FFF38506AFE7277423034"
+			}
+			"demo"
+			{
+				"gid" "DC2086AB6E77B6A3E444FA7965CDD21E"
+				"size" "4BAEB4552D02C14C74DE6C93C1088B72"
+				"download" "E773A4B568F1184CB4AC79938C05D3DF"
+			}
+			"main"
+			{
+				"gid" "347A4324577D9F5F0454E8450473B13A"
+				"size" "70C9CCE818249ECD2CB4D8B0A10D4680"
+				"download" "D860AFE3C6C2460DECDAA1E5B9CB281A"
+			}
+			"playtest"
+			{
+				"gid" "0C902D8185D2390775EACD878ABC1368"
+				"size" "1594379D2FC3AB031B393978591058B2"
+				"download" "9505CEADBF0D14F68B1D2712708A811D"
+			}
+			"public_prerelease"
+			{
+				"gid" "96E74844C8D6F9BE2AFF5D74DF30312F"
+				"size" "8EA8853C6FAFE9FA9B5183E26E151776"
+				"download" "67AC32030883EB41650676A066282AB0"
+			}
+			"release"
+			{
+				"gid" "922A1BE3365270F6FD4878BADE5003BE"
+				"size" "B18852D26613A5A7B89001F8949FC129"
+				"download" "29D22861E572F7CE90562301EEC8804E"
+			}
+			"stage"
+			{
+				"gid" "24BF8CE13072C2420AC68E53770EAA9D"
+				"size" "35E8F09D819CB6592C25A0F26EFF12F8"
+				"download" "A90E82A29BBF4006CA6B070E3074C5D9"
+			}
+			"tmp_branchtest"
+			{
+				"gid" "3B6D6DFD8179B85A38ACF665BA51B88E"
+				"size" "C8AC02A85FE348D96CF928491489738C"
+				"download" "8665A3A00C3951A2901814A3AEDBC8C7"
+			}
+		}
+	}
+	"495421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5656411397578746578"
+				"size" "0"
+				"download" "0"
+			}
+			"labtech_beta"
+			{
+				"gid" "5656411397578746578"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugbase"
+			{
+				"gid" "04085E003785D11985F037366C4EA77B"
+				"size" "6A9624BFD8A5C6C35FEEE62219FC0237"
+				"download" "3883D4444EFF4BF6760281E32F12D351"
+			}
+			"demo"
+			{
+				"gid" "10FB7FD667EE89E1B40DB9282DBAD394"
+				"size" "56593C7754FC5EDF92BD7E1FF1278F9A"
+				"download" "1D622C1B3F2B09941DB3F277B89E47E2"
+			}
+			"main"
+			{
+				"gid" "A6BAB46A5B5DB7348C69E4580A12FC5A"
+				"size" "286334BC014AF5D0D492322FCDA77970"
+				"download" "73A31F7C781F03CD2530710DC3385E23"
+			}
+			"playtest"
+			{
+				"gid" "DDFDFBCDA105195498E0374E676E88CE"
+				"size" "BBEE497F6FC2328625A70B70D02C8078"
+				"download" "19FEE7ABB4C78B9FB352B26577C28F6B"
+			}
+			"public_prerelease"
+			{
+				"gid" "6ABF8482970579731743FBDC1E8B5148"
+				"size" "6F50857D476029A866E92A16AC3E3F2A"
+				"download" "6F50857D476029A866E92A16AC3E3F2A"
+			}
+			"release"
+			{
+				"gid" "8380A5C6FE79A21506472590D3C6073B"
+				"size" "FB370F77BCA0D4B0D7ACAE6BFA11DC82"
+				"download" "B13ABD7F529F5D3DEA79838513C5FF80"
+			}
+			"stage"
+			{
+				"gid" "C7231BCCB1D55DBE234EC94B198D8D52"
+				"size" "77D324D137185E0D26D399CFF6AFE4B0"
+				"download" "B03157277346E8909C4AA61851DEA393"
+			}
+			"tmp_branchtest"
+			{
+				"gid" "BAB114A51D443661206C67A14B435E45"
+				"size" "2AD58071F5376AEA424A09399B2F9A82"
+				"download" "2AD58071F5376AEA424A09399B2F9A82"
+			}
+		}
+	}
+	"495424"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8754529441163365377"
+				"size" "0"
+				"download" "0"
+			}
+			"labtech_beta"
+			{
+				"gid" "8754529441163365377"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugbase"
+			{
+				"gid" "62622E28B42AEE3D1ABC2689EF9F8234"
+				"size" "0FA9D888482C6BA3F57F33274C80BA34"
+				"download" "0FA9D888482C6BA3F57F33274C80BA34"
+			}
+			"demo"
+			{
+				"gid" "09C1CE48FE3F5CA644BDF2DD11334967"
+				"size" "1EAA8CC5BA1F30AD62E055A4011897F7"
+				"download" "1EAA8CC5BA1F30AD62E055A4011897F7"
+			}
+			"main"
+			{
+				"gid" "76D3E135518D1DDB19ED5EBCF014DCF3"
+				"size" "73527CA62F9D99AB2DAAC6AC091E2DE1"
+				"download" "73527CA62F9D99AB2DAAC6AC091E2DE1"
+			}
+			"playtest"
+			{
+				"gid" "F6AA2532BD359C68E0F4CC8ABCEC2188"
+				"size" "2EA08B348B1926A6611AB1BF2E85D5C6"
+				"download" "2EA08B348B1926A6611AB1BF2E85D5C6"
+			}
+			"release"
+			{
+				"gid" "534C1A9A30FD43CBE4DD219BB7C1B126"
+				"size" "8F028E952B468DEB853DBF025F236241"
+				"download" "8F028E952B468DEB853DBF025F236241"
+			}
+			"stage"
+			{
+				"gid" "F98D7B53B263D2666563EA101DC7A0DC"
+				"size" "A3084ED9C64728F74C603154D3FB8FA8"
+				"download" "A3084ED9C64728F74C603154D3FB8FA8"
+			}
+			"tmp_branchtest"
+			{
+				"gid" "C49BA87C9ACF5D66DB099A21246A6349"
+				"size" "2AD58071F5376AEA424A09399B2F9A82"
+				"download" "2AD58071F5376AEA424A09399B2F9A82"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14287755"
+			"timeupdated" "1715072520"
+		}
+		"bugbase"
+		{
+			"buildid" "14406249"
+			"pwdrequired" "1"
+			"timeupdated" "1716194451"
+		}
+		"demo"
+		{
+			"buildid" "14629766"
+			"pwdrequired" "1"
+			"timeupdated" "1717698430"
+		}
+		"labtech_beta"
+		{
+			"buildid" "14610452"
+			"description" "Public Test Realm (en-US)"
+			"timeupdated" "1717581359"
+		}
+		"main"
+		{
+			"buildid" "14733286"
+			"pwdrequired" "1"
+			"timeupdated" "1718526641"
+		}
+		"playtest"
+		{
+			"buildid" "14175253"
+			"pwdrequired" "1"
+			"timeupdated" "1714066418"
+		}
+		"public_prerelease"
+		{
+			"buildid" "14222661"
+			"pwdrequired" "1"
+			"timeupdated" "1714488921"
+		}
+		"release"
+		{
+			"buildid" "14692166"
+			"pwdrequired" "1"
+			"timeupdated" "1718198334"
+		}
+		"stage"
+		{
+			"buildid" "14726756"
+			"pwdrequired" "1"
+			"timeupdated" "1718429464"
+		}
+		"tmp_branchtest"
+		{
+			"buildid" "14159533"
+			"pwdrequired" "1"
+			"timeupdated" "1713962844"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StateOfDecay2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "StateOfDecay2/Saved/Steam/{64BitSteamID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Preparing for Survival"
+				"#presence_tutorial" "Escaping Camp Osprey"
+				"#presence_game_host" "Reclaiming Our World from Zombies"
+				"#presence_game_client" "Helping Neighbors Fight the Zombies"
+				"#presence_daybreak_host" "Leading a Team in Daybreak"
+				"#presence_daybreak_client" "Part of a Team in Daybreak"
+				"#presence_heartland_host" "Searching for Answers in Heartland"
+				"#presence_heartland_client" "Helping a Friend in Heartland"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Готовится бороться за выживание"
+				"#presence_tutorial" "Сбегает из лагеря «Оспри»"
+				"#presence_game_host" "Отвоевывает мир у зомби"
+				"#presence_game_client" "Помогает соседям воевать с зомби"
+				"#presence_daybreak_host" "Возглавляет команду в режиме «Рассвет»"
+				"#presence_daybreak_client" "Участвует в команде в режиме «Рассвет»"
+				"#presence_heartland_host" "Ищет ответы в «Хартланде»"
+				"#presence_heartland_client" "Помогает другу в «Хартланде»"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#presence_menus" "为求生做好准备"
+				"#presence_tutorial" "逃离鱼鹰营地"
+				"#presence_game_host" "从丧尸的手中夺回世界"
+				"#presence_game_client" "帮助邻居迎击丧尸"
+				"#presence_daybreak_host" "在破晓中带领小队"
+				"#presence_daybreak_client" "在破晓中成为小队的一员"
+				"#presence_heartland_host" "深入腹地寻找答案"
+				"#presence_heartland_client" "在腹地之中帮助一位朋友"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Preparando-se para sobreviver"
+				"#presence_tutorial" "Fugindo do Acampamento Osprey"
+				"#presence_game_host" "Retomando o mundo dos zumbis"
+				"#presence_game_client" "Ajudando os vizinhos a combater os zumbis"
+				"#presence_daybreak_host" "Liderando uma equipe em Daybreak"
+				"#presence_daybreak_client" "Participando de uma equipe em Daybreak"
+				"#presence_heartland_host" "Procurando respostas em Heartland"
+				"#presence_heartland_client" "Ajudando um amigo em Heartland"
+			}
+		}
+		"latam"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Prepárate para sobrevivir"
+				"#presence_tutorial" "Escape del Campamento Osprey"
+				"#presence_game_host" "Recupera el mundo contra los zombis"
+				"#presence_game_client" "Ayúdale a tus vecinos contra los zombis"
+				"#presence_daybreak_host" "Dirige a un equipo en Amanecer"
+				"#presence_daybreak_client" "Integrante de un equipo en Amanecer"
+				"#presence_heartland_host" "Busca respuestas en Heartland"
+				"#presence_heartland_client" "Ayuda a tus amigos en Heartland"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Bereitet sich aufs Überleben vor"
+				"#presence_tutorial" "Flieht aus Camp Osprey"
+				"#presence_game_host" "Holt sich die Welt von den Zombies zurück"
+				"#presence_game_client" "Hilft Nachbarn beim Kampf gegen Zombies"
+				"#presence_daybreak_host" "Führt ein Team in Daybreak an"
+				"#presence_daybreak_client" "Teil eines Teams in Daybreak"
+				"#presence_heartland_host" "Sucht nach Antworten in Heartland"
+				"#presence_heartland_client" "Hilft einem Freund in Heartland"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Se prépare à la survie"
+				"#presence_tutorial" "S\'évade du camp Osprey"
+				"#presence_game_host" "Reprend le monde aux zombies"
+				"#presence_game_client" "Aide des voisins à combattre les zombies"
+				"#presence_daybreak_host" "Dirige une équipe dans Daybreak"
+				"#presence_daybreak_client" "Fait partie d\'une équipe dans Daybreak"
+				"#presence_heartland_host" "Cherche des réponses dans Heartland"
+				"#presence_heartland_client" "Aide un ami dans Heartland"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#presence_menus" "Si prepara alla sopravvivenza"
+				"#presence_tutorial" "Scappa da Camp Osprey"
+				"#presence_game_host" "Riconquista il mondo dagli zombie"
+				"#presence_game_client" "Aiuta i vicini a combattere gli zombie"
+				"#presence_daybreak_host" "Guida una squadra in Daybreak"
+				"#presence_daybreak_client" "Fa parte di una squadra in Daybreak"
+				"#presence_heartland_host" "Cerca risposte a Heartland"
+				"#presence_heartland_client" "Aiuta un amico a Heartland"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23990027"
+"_sha" "093c326225170b8d9e678f225f872b28ac0adb3c"
+"_size" "22201"
