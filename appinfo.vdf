@@ -1,0 +1,353 @@
+"appid" "832360"
+"common"
+{
+	"name" "Hotel Magnate"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "8efe82e2cf815398401a36ff4062cdba7fd56f73"
+	"logo_small" "8efe82e2cf815398401a36ff4062cdba7fd56f73_thumb"
+	"icon" "ed3c944ef5a2d1fdaca03a4e38b693c9e1981f17"
+	"clienticon" "9341393fa28e42b24339484c6176611f71eceba8"
+	"clienttga" "3bbf3c6432a31b2284507d6451fb3754b13c97b2"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1687392000"
+		"tested_build_id" "11483861"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Hotel Magnate"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.37584049370827"
+			"height_pct" "78.80794701986756"
+		}
+	}
+	"store_asset_mtime" "1701903594"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arcade Oven"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Arcade Oven"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1633435217"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "832360"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "8945"
+		"2" "4695"
+		"3" "599"
+		"4" "4328"
+		"5" "1643"
+		"6" "9"
+		"7" "7332"
+		"8" "3810"
+		"9" "4182"
+		"10" "5851"
+		"11" "492"
+		"12" "597"
+		"13" "1662"
+		"14" "3859"
+		"15" "493"
+	}
+	"review_score" "5"
+	"review_percentage" "63"
+}
+"extended"
+{
+	"developer" "Arcade Oven"
+	"publisher" "Arcade Oven"
+	"homepage" "http://www.hotel-magnate.com"
+}
+"config"
+{
+	"installdir" "Hotel Magnate"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hotel Magnate.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "Hotel Magnate.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "Hotel Magnate.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"832361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3955834226822053343"
+				"size" "2140069513"
+				"download" "336801472"
+			}
+			"previous-version"
+			{
+				"gid" "8615989807770132532"
+				"size" "1882585352"
+				"download" "257134352"
+			}
+			"experimental"
+			{
+				"gid" "3955834226822053343"
+				"size" "2140069513"
+				"download" "336801472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "FA6166167A71AC62E7395FE346BC977B"
+				"size" "F2B3A27220CBF68223587CDA65C9A2A8"
+				"download" "F9E31A9A7975BC27FD59D50B95539BB5"
+			}
+		}
+	}
+	"832363"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2912533506898594818"
+				"size" "2186144521"
+				"download" "355698752"
+			}
+			"previous-version"
+			{
+				"gid" "8454522797322337941"
+				"size" "1925113576"
+				"download" "273393152"
+			}
+			"experimental"
+			{
+				"gid" "2912533506898594818"
+				"size" "2186144521"
+				"download" "355698752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "A53685DF20F95156316A4AD34F4CCB91"
+				"size" "735DB4E095E065C251FC6C0CA6CB96DE"
+				"download" "063260232B6A59F869691999755310BC"
+			}
+		}
+	}
+	"832362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4616003175541379868"
+				"size" "2163849669"
+				"download" "345132032"
+			}
+			"previous-version"
+			{
+				"gid" "2561932292386547636"
+				"size" "1903713686"
+				"download" "263681536"
+			}
+			"experimental"
+			{
+				"gid" "4616003175541379868"
+				"size" "2163849669"
+				"download" "345132032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "9D689E5D4F6315391C4E66C51DB37708"
+				"size" "C9BD3C264EB25082E5163EE7FDAA670B"
+				"download" "929A743C5DB1BD9C91A58AB505F950A3"
+			}
+		}
+	}
+	"workshopdepot" "832360"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14702643"
+			"timeupdated" "1718269514"
+		}
+		"previous-version"
+		{
+			"buildid" "10150362"
+			"description" "older version of game than current"
+			"timeupdated" "1686651818"
+		}
+		"experimental"
+		{
+			"buildid" "14702643"
+			"description" "public testing"
+			"timeupdated" "1718269462"
+		}
+		"testing"
+		{
+			"buildid" "14702643"
+			"pwdrequired" "1"
+			"timeupdated" "1718267294"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "23952991"
+"_sha" "9529238bcfe3a7681d83ff85f76db3350503ba8c"
+"_size" "6466"
