@@ -1,0 +1,366 @@
+"appid" "1079260"
+"common"
+{
+	"name" "Fireworks Mania"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "21f464dd83c5add4f35e7e623f68a7698e2a614e"
+	"logo_small" "21f464dd83c5add4f35e7e623f68a7698e2a614e_thumb"
+	"icon" "a936d3047fe636e11d51f62317e945cf1a27401a"
+	"clienttga" "9ef6398aaa807bada31767caeb08609277c07fd5"
+	"clienticon" "f2af6a15dc459f267b535936dcd01dbe8aee90a1"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644278400"
+		"tested_build_id" "8032812"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Fireworks Mania - An Explosive Simulator"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "74.7957992998833"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1701469062"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Laumania ApS"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Laumania ApS"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"lithuanian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1608220829"
+	"community_hub_visible" "1"
+	"gameid" "1079260"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "3834"
+		"2" "3968"
+		"3" "4486"
+		"4" "1663"
+		"5" "1643"
+		"6" "4191"
+		"7" "3839"
+		"8" "4136"
+		"9" "599"
+		"10" "4726"
+		"11" "597"
+		"12" "5363"
+		"13" "6426"
+		"14" "4195"
+		"15" "4182"
+		"16" "1719"
+		"17" "4166"
+		"18" "19"
+		"19" "4234"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Laumania ApS"
+	"publisher" "Laumania ApS"
+}
+"config"
+{
+	"installdir" "Fireworks Mania"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fireworks Mania.exe"
+			"description" "Default"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"1079261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4220237134846512542"
+				"size" "1476846193"
+				"download" "306822048"
+			}
+			"v2021.6.2"
+			{
+				"gid" "5969806323198583127"
+				"size" "667215615"
+				"download" "116345984"
+			}
+			"experimental"
+			{
+				"gid" "6735648554404347078"
+				"size" "1426127287"
+				"download" "315730688"
+			}
+			"multiplayer-beta"
+			{
+				"gid" "6735648554404347078"
+				"size" "1426127287"
+				"download" "315730688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"default-staging"
+			{
+				"gid" "BC53C83334B9347E869FD68D81E2CAC3"
+				"size" "82171161AACFC3077D81B15E8ACA15B9"
+				"download" "8CAB3985B8C4158F36BDCC3860C53935"
+			}
+			"multiplayer-private"
+			{
+				"gid" "04E02C1DE7A95D17FC34E7FD435C8503"
+				"size" "4310BD1FB944BD32E84814CF483803FE"
+				"download" "1569DE104A6D4ECD8C0FD556F3F16135"
+			}
+			"multiplayer-unity6-urp"
+			{
+				"gid" "5B8ADAC39108D30D9775A77784172BC2"
+				"size" "CE5907123D8830B73097E50F90D5AC74"
+				"download" "0453CA45F113F89D165B054A9DCE7DF8"
+			}
+			"new-years-demo-2019"
+			{
+				"gid" "53359A41C8FFC1F97A33150979F2F88F"
+				"size" "93464CEFCE2BED16E5231789DA4644A0"
+				"download" "B6E36B315C9F776C69E1A2D1176CC67B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13334430"
+			"timeupdated" "1706804598"
+		}
+		"default-staging"
+		{
+			"buildid" "13334430"
+			"pwdrequired" "1"
+			"timeupdated" "1706783322"
+		}
+		"v2021.6.2"
+		{
+			"buildid" "6988476"
+			"description" "In case you want to go back to before mod support"
+			"timeupdated" "1639832351"
+		}
+		"experimental"
+		{
+			"buildid" "14729085"
+			"description" "Public experimental branch for testing out new things"
+			"timeupdated" "1718460924"
+		}
+		"multiplayer-beta"
+		{
+			"buildid" "14729085"
+			"description" "Public multiplayer beta"
+			"timeupdated" "1718460917"
+		}
+		"multiplayer-private"
+		{
+			"buildid" "14729085"
+			"pwdrequired" "1"
+			"timeupdated" "1718460909"
+		}
+		"multiplayer-unity6-urp"
+		{
+			"buildid" "14683161"
+			"pwdrequired" "1"
+			"timeupdated" "1718141272"
+		}
+		"new-years-demo-2019"
+		{
+			"buildid" "4508379"
+			"pwdrequired" "1"
+			"timeupdated" "1716987175"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23985279"
+"_sha" "4b19a884b62133c7431a7b9c48b54d252fa93631"
+"_size" "6542"
