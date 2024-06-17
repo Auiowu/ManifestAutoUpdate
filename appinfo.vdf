@@ -1,0 +1,676 @@
+"appid" "482400"
+"common"
+{
+	"name" "System Shock"
+	"type" "Game"
+	"oslist" "windows"
+	"clienticon" "90e0f41bb9e3711efe6d150878819e0e6d55e4db"
+	"clienttga" "80d186bc26e3dcff40b35ae45dbf4b43889a7e4b"
+	"icon" "02f179d02ba16944514e46cee8c614e04d2567b7"
+	"logo" "2e956c5db2be3eca8ad5e17cdb42f50bc3a0c1fc"
+	"logo_small" "2e956c5db2be3eca8ad5e17cdb42f50bc3a0c1fc_thumb"
+	"releasestate" "released"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1685577600"
+		"tested_build_id" "11242707"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.49661725472671"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1712909406"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nightdive Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Prime Matter"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "System Shock"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685458980"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "482400"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "9204"
+		"3" "4115"
+		"4" "3942"
+		"5" "5708"
+		"6" "1667"
+		"7" "1663"
+		"8" "4166"
+		"9" "4182"
+		"10" "3839"
+		"11" "1755"
+		"12" "3978"
+		"13" "1774"
+		"14" "4345"
+		"15" "1742"
+		"16" "4667"
+		"17" "122"
+		"18" "5153"
+		"19" "1662"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Nightdive Studios"
+	"publisher" "Prime Matter"
+	"homepage" "http://www.systemshock.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "System Shock Remake"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SystemShock.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "SystemReShock.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "old_branches"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"482401"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7174489987415310778"
+				"size" "8949295625"
+				"download" "3239132672"
+			}
+			"steam_next_fest_demo"
+			{
+				"gid" "5162618629796040740"
+				"size" "5336924219"
+				"download" "1949587968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alienware"
+			{
+				"gid" "28FE508CA3E9FC094A678367A8AC1080"
+				"size" "1FE58257FF1664BBC2764697E2D68FD2"
+				"download" "71CD0E2ACF936244CBFED855D72C8947"
+			}
+			"baseline"
+			{
+				"gid" "B97C076973BA536ADA8B9A45B797F179"
+				"size" "F30F9106C82B6EF30801069A304AFE48"
+				"download" "EDE38DB8D91655E98D9B89C7DC0D6ADD"
+			}
+			"km_testing"
+			{
+				"gid" "2F0342E52C0A1965DDC64BB6FA7220D8"
+				"size" "7669753A9DD0EAE09A80384A7D7BAC20"
+				"download" "BB9246428C33A7766D0ED1CC7A9A4DE1"
+			}
+			"moderator_branch"
+			{
+				"gid" "7BF0E72FF40960C99CD2C778009E34A6"
+				"size" "0A2891F8FD39480F4DC575B8A7EA7503"
+				"download" "043F8DF60F10DEB44D7D7E7F8BC5F58E"
+			}
+			"oem_partners"
+			{
+				"gid" "40FC30CF0E850CA8C7CB4684FEDD49C6"
+				"size" "0AA31E7FE5CEC54D537BA15308758487"
+				"download" "72151CEE14A03C8B9EA52D8DFE3443A8"
+			}
+			"old_branches"
+			{
+				"gid" "472F97127004E3D5592F93EFA9512EAC"
+				"size" "FC424B748A33029D1C6E2090ED811B1E"
+				"download" "E5BFA4EFABCFCEB0E6D0CFF7363FE929"
+			}
+			"partnerreview"
+			{
+				"gid" "EA21860AB5B9E3EE7AEFBC4BD6C6881C"
+				"size" "A38EB81321C2431A9D48D54289916E43"
+				"download" "8EF9D487565ECC3B563E64557E4A0872"
+			}
+			"pax_show"
+			{
+				"gid" "0D757D77BE6EDBD7DD2C031229DEEB7A"
+				"size" "93A9AA23366224E7E247E31F2DFF2190"
+				"download" "681C68662A3E392BCAA85CE26B256A5C"
+			}
+			"plaion_age_rating"
+			{
+				"gid" "DD5EE1EEECABBD9E1092544BB343AEFB"
+				"size" "2A011F92FDFABD578E318F2D91DEA6D0"
+				"download" "7E3212F0239EB0BF090BD3B7CC418EEB"
+			}
+			"plaion_loca"
+			{
+				"gid" "EFA325C310FAA4B1529B582C978B62CF"
+				"size" "9DF4388A026E9EAB24D1872C434B8C82"
+				"download" "9DE227CB2CA2B8D3ECC0EB57F8D65613"
+			}
+			"plaion_preview"
+			{
+				"gid" "2967CBF6E5614D1322262D84623825C9"
+				"size" "F3EC77F00A1EF3D8A415FA4840EC265E"
+				"download" "E72F33451A91A331870D9837C051D821"
+			}
+			"press"
+			{
+				"gid" "F788CF6C64FF808FB7ED91D31A88E70D"
+				"size" "05DFC3B19F4EB2B67995A6ECF072E971"
+				"download" "BE265E17A0CC67529CB82C671D402144"
+			}
+			"private_dev_cyberspaceexplorer"
+			{
+				"gid" "2B486EE50A3B1B610C87B86B27ACB104"
+				"size" "EF43B3D99C14EDEDECDE52D99CF37C17"
+				"download" "B75ECD0B14A46A5D611CFC39262D80F2"
+			}
+			"private_dev_shootinggallery"
+			{
+				"gid" "7D42B003B8600B3A7D56469E9F76D266"
+				"size" "BC940573259112A9FDDB2683C3076BC0"
+				"download" "10477067576E24E17C15D5DBAB72A9C4"
+			}
+			"private_dev_voicetesting"
+			{
+				"gid" "7CF8EB91F2E43AAF3BCD0F58064BDEF3"
+				"size" "5CFDD05706C1568FC372D0F984BD500E"
+				"download" "B9FA23A3F721FED2B1551DF0C9F36824"
+			}
+			"quanticdemo"
+			{
+				"gid" "6C8548E316CA10F42512325212438E15"
+				"size" "90EC44B52824421F311D703102740910"
+				"download" "9CC5EB9F6F383BD8EE69D27508B05EE3"
+			}
+			"quanticlab"
+			{
+				"gid" "7B1B0F1392DCE20EA46C6503748FBE84"
+				"size" "345F67F4149BB04443347449C59C41E5"
+				"download" "8C4F9F47CCC63C53D857DB47FFBD53BF"
+			}
+			"quanticlab_shipping"
+			{
+				"gid" "5D1B4B6525C8CBB9AC96B6DBED3ADA8A"
+				"size" "91AACF6856874E340C2E683558074403"
+				"download" "9EFB3E17F9137A5A15EE33084F742B6A"
+			}
+			"review_branch"
+			{
+				"gid" "0752BCA9E5CC1A9F21906F7B70D58CFE"
+				"size" "F9534BCE17D840E14CF4D563E9C2EEA3"
+				"download" "717D1F0515362CBB7CBBAD9C846EB553"
+			}
+			"shipping_partners"
+			{
+				"gid" "D6A23E0CDF3251DF50430AE1F542EF7F"
+				"size" "1907827506BB420C2204F9DC9DC82DC9"
+				"download" "BB16F45EE8F57915B0E8E8FE4D060269"
+			}
+			"cloud_testing"
+			{
+				"gid" "B9483BD9001083CDA253BBBDF7589BBA"
+				"size" "F06A52414F29C359DE23385654F5C3F3"
+				"download" "838FE149B485FCF0B0BAC9D87A5D2F1F"
+			}
+			"km_testing_2"
+			{
+				"gid" "1D52D33C79179270BD388EDFEC39B1C7"
+				"size" "827B1F09C9E3D72A0A2354F46213D09D"
+				"download" "B6B174F5EB71ED218C83C09A8B4D3D4C"
+			}
+			"plaion_qa_distribution_testing"
+			{
+				"gid" "4D0F90BF7C7B63FFCEA36D5394DEC9FB"
+				"size" "537C8E3F0A2B7340D7D7B6BED7E302BD"
+				"download" "FD78900144DA7B1A036A368EFD00F0B0"
+			}
+			"private_dev_development"
+			{
+				"gid" "371C3200D557EB8423B5108ACAD11349"
+				"size" "1563AE7DD6DB602AB4F65085E24C1C82"
+				"download" "AB4E9583DF539773D97626BD27E08C2B"
+			}
+			"private_dev_shipping"
+			{
+				"gid" "E71C40AE2350B43427D9DB68B19DBC8C"
+				"size" "8738F0D99C16F2ED727D1171B4F1CD06"
+				"download" "160024A41E6D1A14ECA0820AA67AE032"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14321957"
+			"timeupdated" "1716300704"
+		}
+		"alienware"
+		{
+			"buildid" "10379083"
+			"pwdrequired" "1"
+			"timeupdated" "1674585987"
+		}
+		"baseline"
+		{
+			"buildid" "14088713"
+			"pwdrequired" "1"
+			"timeupdated" "1713393349"
+		}
+		"km_testing"
+		{
+			"buildid" "14017174"
+			"pwdrequired" "1"
+			"timeupdated" "1712802257"
+		}
+		"moderator_branch"
+		{
+			"buildid" "10379083"
+			"pwdrequired" "1"
+			"timeupdated" "1674432194"
+		}
+		"oem_partners"
+		{
+			"buildid" "9293980"
+			"pwdrequired" "1"
+			"timeupdated" "1660207607"
+		}
+		"old_branches"
+		{
+			"buildid" "3401848"
+			"pwdrequired" "1"
+			"timeupdated" "1620844984"
+		}
+		"partnerreview"
+		{
+			"buildid" "9293980"
+			"pwdrequired" "1"
+			"timeupdated" "1660207650"
+		}
+		"pax_show"
+		{
+			"buildid" "10771831"
+			"pwdrequired" "1"
+			"timeupdated" "1678873032"
+		}
+		"plaion_age_rating"
+		{
+			"buildid" "11414032"
+			"pwdrequired" "1"
+			"timeupdated" "1687408166"
+		}
+		"plaion_loca"
+		{
+			"buildid" "10930986"
+			"pwdrequired" "1"
+			"timeupdated" "1680706713"
+		}
+		"plaion_preview"
+		{
+			"buildid" "14017210"
+			"pwdrequired" "1"
+			"timeupdated" "1712851020"
+		}
+		"press"
+		{
+			"buildid" "10545404"
+			"pwdrequired" "1"
+			"timeupdated" "1676346884"
+		}
+		"private_dev_cyberspaceexplorer"
+		{
+			"buildid" "8294773"
+			"pwdrequired" "1"
+			"timeupdated" "1646151893"
+		}
+		"private_dev_shootinggallery"
+		{
+			"buildid" "10680533"
+			"pwdrequired" "1"
+			"timeupdated" "1677815393"
+		}
+		"private_dev_voicetesting"
+		{
+			"buildid" "10680114"
+			"pwdrequired" "1"
+			"timeupdated" "1677811391"
+		}
+		"quanticdemo"
+		{
+			"buildid" "10570495"
+			"pwdrequired" "1"
+			"timeupdated" "1676585253"
+		}
+		"quanticlab"
+		{
+			"buildid" "14141027"
+			"pwdrequired" "1"
+			"timeupdated" "1713846339"
+		}
+		"quanticlab_shipping"
+		{
+			"buildid" "14141032"
+			"pwdrequired" "1"
+			"timeupdated" "1713846361"
+		}
+		"review_branch"
+		{
+			"buildid" "11242707"
+			"pwdrequired" "1"
+			"timeupdated" "1684397417"
+		}
+		"shipping_partners"
+		{
+			"buildid" "10958038"
+			"pwdrequired" "1"
+			"timeupdated" "1681981392"
+		}
+		"steam_next_fest_demo"
+		{
+			"buildid" "10498831"
+			"description" "Steam Next Fest Demo"
+			"timeupdated" "1675794117"
+		}
+		"cloud_testing"
+		{
+			"buildid" "14167475"
+			"pwdrequired" "1"
+			"timeupdated" "1714014788"
+		}
+		"km_testing_2"
+		{
+			"buildid" "14321957"
+			"pwdrequired" "1"
+			"timeupdated" "1715785418"
+		}
+		"plaion_qa_distribution_testing"
+		{
+			"buildid" "14167475"
+			"pwdrequired" "1"
+			"timeupdated" "1714045765"
+		}
+		"private_dev_development"
+		{
+			"buildid" "14552788"
+			"pwdrequired" "1"
+			"timeupdated" "1717104736"
+		}
+		"private_dev_shipping"
+		{
+			"buildid" "14321957"
+			"pwdrequired" "1"
+			"timeupdated" "1715305767"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "102400000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "23968436"
+"_sha" "246bbaccbf1b5e8792ff9530d4eedf7540f3fc4b"
+"_size" "13715"
