@@ -1,0 +1,675 @@
+"appid" "346010"
+"common"
+{
+	"name" "Besiege"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "16667f445723c720782314269e41f9daa8a7fb56"
+	"clienticns" "11ea3d1cce9e738adcd22930067532ffaa10f9ff"
+	"linuxclienticon" "11ea3d1cce9e738adcd22930067532ffaa10f9ff"
+	"logo" "d629e7d15a59c8195d0b1c72f8e9e28e78842c96"
+	"logo_small" "d629e7d15a59c8195d0b1c72f8e9e28e78842c96_thumb"
+	"clienticon" "f567cfb6308472b4ed09d7c75b58596a9bbdc8e3"
+	"clienttga" "a9e9c4913a4cfaf84fcbad7aba373d28aa3d670e"
+	"releasestate" "released"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"tchinese" "圍攻"
+		"schinese" "围攻"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661212800"
+		"tested_build_id" "8787459"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Besiege"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "90.55305012731935"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1717010004"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spiderling Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spiderling Studios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_9" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1582034100"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "346010"
+	"store_tags"
+	{
+		"0" "3968"
+		"1" "599"
+		"2" "1643"
+		"3" "5363"
+		"4" "3810"
+		"5" "6129"
+		"6" "4172"
+		"7" "1664"
+		"8" "1669"
+		"9" "4711"
+		"10" "15045"
+		"11" "3843"
+		"12" "3859"
+		"13" "1736"
+		"14" "5752"
+		"15" "4994"
+		"16" "8122"
+		"17" "11104"
+		"18" "5923"
+		"19" "4345"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Spiderling Studios"
+	"publisher" "Spiderling Studios"
+	"homepage" "http://www.besiege.spiderlinggames.co.uk/"
+	"listofdlc" "2165710,2959970"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Besiege"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Besiege.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Besiege.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Besiege.x86"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "Besiege.x86_64"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2071613236"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "346010"
+	"346011"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"045a"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"experimental"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+			"previousbuild"
+			{
+				"gid" "3617175051840139606"
+				"size" "557362566"
+				"download" "155840480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "6A61D82A33DB11C970FEB2104D7B1CC8"
+				"size" "AE2E52E90C9D6CDC9AE87C3044987E47"
+				"download" "A8F13507BD294B5576D66B5C07C8C2FB"
+			}
+			"prversion"
+			{
+				"gid" "F1DD7A9B92D519B5E7CA65746D635B7B"
+				"size" "73AC9708A05FBE2AB2A82436D34D1508"
+				"download" "A1B9F028D3F36285333BD801F6270601"
+			}
+			"threeheadedmonkey"
+			{
+				"gid" "E61D8E571E63AFECF4A3BB610A94AFBF"
+				"size" "EE9E4371AFE28B65006A68B8A6EFE26B"
+				"download" "BE1627ABAF9B7EF4EE4993056AAA76CD"
+			}
+		}
+	}
+	"346012"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"045a"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"experimental"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+			"previousbuild"
+			{
+				"gid" "6182491938988627730"
+				"size" "584312118"
+				"download" "163622208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "8219D32339776C1543D5E61CD5B6AF0A"
+				"size" "D2E9DC6780B074A6BA7DA9858F26DD44"
+				"download" "C474A9A42950D19A7BB26CFDD47E779E"
+			}
+			"prversion"
+			{
+				"gid" "E5DE32CA76588C8A98E8966DC06E8FDE"
+				"size" "0F8392F229533602B4C05939BC125634"
+				"download" "F5FB9C3C6D540B7C9C4B6176609061F4"
+			}
+			"threeheadedmonkey"
+			{
+				"gid" "97FD0ABC1B7B464F411A915CC65C342F"
+				"size" "BBC34B912A3C59C90378930F9CFF08B4"
+				"download" "55F3B8612EF770424A940E95007EB2D2"
+			}
+		}
+	}
+	"346013"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"045a"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"experimental"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+			"previousbuild"
+			{
+				"gid" "8698462310255593191"
+				"size" "579283088"
+				"download" "164551984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "928DBF3A9199A351704749201BB1FE41"
+				"size" "1B240920857C282C8F0CEF2636D9A49F"
+				"download" "0ABEF5E5108300B75E1A1FE581C5DCBF"
+			}
+			"prversion"
+			{
+				"gid" "3F5B3A67EB61A9C0F1EF8DC95EBA7543"
+				"size" "236A7B81D541B272D237B708042D3C65"
+				"download" "9DB7D2C2915F65912DA924F6861047A9"
+			}
+			"threeheadedmonkey"
+			{
+				"gid" "45FF9604CD796A1BFC0EC45504DFD305"
+				"size" "543673F80B8AEA6FEF84A597C681140F"
+				"download" "EB9A0306128832E6A4875E7219571771"
+			}
+		}
+	}
+	"346014"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3007051015381284514"
+				"size" "3742978213"
+				"download" "1136768512"
+			}
+			"045a"
+			{
+				"gid" "6333894489894344030"
+				"size" "1065497853"
+				"download" "376552208"
+			}
+			"experimental"
+			{
+				"gid" "3028125465516447342"
+				"size" "3744923973"
+				"download" "1137631744"
+			}
+			"previousbuild"
+			{
+				"gid" "6739313222460243293"
+				"size" "2975006115"
+				"download" "893246752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "3B65E06CE041A2F5134C510AFB8C135F"
+				"size" "06B0290B5D821824B4912094FA3E8CA2"
+				"download" "484233AC4CAC69659374A088465439EB"
+			}
+			"prversion"
+			{
+				"gid" "270418179981D5C9805990C4E2E15D7E"
+				"size" "71DD4E700E959473F074D1E20F7A55A4"
+				"download" "1137CBB10AE4D57AC9B930C14F3F1FDD"
+			}
+			"threeheadedmonkey"
+			{
+				"gid" "C04BA9C798EBFDDDF74DE8345C7D7B3F"
+				"size" "8E8DA137AA68CE021CE1CB23112B3CF7"
+				"download" "006C3E265053CB70C580E9D634D8C5EC"
+			}
+		}
+	}
+	"346015"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4197067954762599739"
+				"size" "3762600087"
+				"download" "1139008960"
+			}
+			"045a"
+			{
+				"gid" "89954485418478540"
+				"size" "1109640852"
+				"download" "388535536"
+			}
+			"experimental"
+			{
+				"gid" "3892108764438594985"
+				"size" "3764545339"
+				"download" "1139857584"
+			}
+			"previousbuild"
+			{
+				"gid" "8327771024016780807"
+				"size" "4870358211"
+				"download" "1159704272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "1AF66CD3B4DC9E0A2E3AEDA351318933"
+				"size" "23AC0092A330BC65809CEFDCA91C1567"
+				"download" "2B3B7266B973068D8874E9B0D6B77575"
+			}
+			"prversion"
+			{
+				"gid" "FCF3C59FB57763368622771BCA9F5600"
+				"size" "2C11803881AF1E4AC0307D4AD95695B4"
+				"download" "E96929B7B6051C2BC5A0BDE571A8CC39"
+			}
+			"threeheadedmonkey"
+			{
+				"gid" "78E700CF3B5E70D534724DAF235BB909"
+				"size" "5891B611967242BBD86E3CE75C43D0C6"
+				"download" "3BD81472129A9314A70AF4446AD28AA1"
+			}
+		}
+	}
+	"346016"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3125789950628681607"
+				"size" "3754587465"
+				"download" "1137626064"
+			}
+			"045a"
+			{
+				"gid" "2613073058836922557"
+				"size" "1101117508"
+				"download" "387320400"
+			}
+			"experimental"
+			{
+				"gid" "2092298248901763580"
+				"size" "3756533225"
+				"download" "1138487792"
+			}
+			"previousbuild"
+			{
+				"gid" "3282745615629072770"
+				"size" "2993432004"
+				"download" "898212224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2"
+			{
+				"gid" "3D8C47BF41893C5B0283EBF77CB629BC"
+				"size" "0C2098455B6E2B25822BC3A85C9EF690"
+				"download" "B832C795F087DF01CD09F148F5E5C4B1"
+			}
+			"prversion"
+			{
+				"gid" "0022D7833F6AB39951FAB1497A6FE5BA"
+				"size" "608F8982E7DAC9ECDD2D1A556B9FBB9C"
+				"download" "8E3DC8F312D7A3A19A6708CB36DC982B"
+			}
+			"threeheadedmonkey"
+			{
+				"gid" "00564333774E7F4FC07FD8320F8D3D66"
+				"size" "80E36FB9C357291D08050BFA5267C363"
+				"download" "5C79EBB0B7B2E224E1FA5E16E10C3E80"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14537968"
+			"timeupdated" "1717093328"
+		}
+		"045a"
+		{
+			"buildid" "1871221"
+			"description" "Pre-Multiplayer"
+			"timeupdated" "1641916576"
+		}
+		"beta2"
+		{
+			"buildid" "14519335"
+			"pwdrequired" "1"
+			"timeupdated" "1716900697"
+		}
+		"experimental"
+		{
+			"buildid" "14614918"
+			"timeupdated" "1717603666"
+		}
+		"previousbuild"
+		{
+			"buildid" "14025713"
+			"timeupdated" "1716555684"
+		}
+		"prversion"
+		{
+			"buildid" "14537968"
+			"pwdrequired" "1"
+			"timeupdated" "1717093344"
+		}
+		"threeheadedmonkey"
+		{
+			"buildid" "14718230"
+			"pwdrequired" "1"
+			"timeupdated" "1718365577"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "23985109"
+"_sha" "041f48d613b074a4eb40df291343502accf5fc8f"
+"_size" "12909"
