@@ -1,0 +1,554 @@
+"appid" "508440"
+"common"
+{
+	"name" "Totally Accurate Battle Simulator"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"logo" "e3d6701ba0fc67d28a7ec53991026055dc8c27c2"
+	"logo_small" "e3d6701ba0fc67d28a7ec53991026055dc8c27c2_thumb"
+	"icon" "50fbd075b1cbb63ab805d9e49bbe6c57c5c6e9ff"
+	"clienttga" "190c2df2a436c5156de3be1e42e56f60c2099b96"
+	"clienticon" "c05888eb92db0546e371503ba5b987e16c20dca0"
+	"clienticns" "b56754da7d069dd2bde476d10032d1265f02ac40"
+	"linuxclienticon" "b4d9a7893e3d855704a543e1d823538d66cf3b60"
+	"releasestate" "released"
+	"osarch" "64"
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "508440_eula_0"
+			"name" "Totally Accurate Battle Simulator EULA"
+			"url" "https://store.steampowered.com//eula/508440_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644364800"
+		"tested_build_id" "7575795"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Totally Accurate Battle Simulator"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "39.91737900100941"
+			"height_pct" "83.68173656187355"
+		}
+	}
+	"store_asset_mtime" "1702991241"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Landfall"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Landfall"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Landfall"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1617300000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "508440"
+	"store_tags"
+	{
+		"0" "3810"
+		"1" "599"
+		"2" "4136"
+		"3" "1678"
+		"4" "3968"
+		"5" "9"
+		"6" "4182"
+		"7" "4175"
+		"8" "492"
+		"9" "21"
+		"10" "4305"
+		"11" "1684"
+		"12" "4191"
+		"13" "1719"
+		"14" "19"
+		"15" "3987"
+		"16" "5350"
+		"17" "4726"
+		"18" "4684"
+		"19" "10397"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "landfall,landfall_qa,landfall_qa2,landfall_test"
+	"developer" "Landfall"
+	"publisher" "Landfall"
+	"homepage" "http://landfall.se"
+	"aliases" "tabs"
+	"listofdlc" "1270340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Totally Accurate Battle Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TotallyAccurateBattleSimulator.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "TotallyAccurateBattleSimulator.app/Contents/MacOS/Totally Accurate Battle Simulator"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862321124"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "508440"
+	"hasdepotsindlc" "0"
+	"508442"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8242906715970617352"
+				"size" "2790484484"
+				"download" "772821824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"flamingo"
+			{
+				"gid" "A24B2118BFFDCEF1D05098740AC2E3F3"
+				"size" "0D1609C2AE87EFF01E41EE6FFF3D2100"
+				"download" "ABBA7E03AEAB9609AE666AA695CA0C20"
+			}
+			"landfall"
+			{
+				"gid" "A8C7B029CA2F350A84D155D73C3C0383"
+				"size" "424C0187F348524BA2B57125672AFEBB"
+				"download" "3DB79E48E8670F5219D078658B3F5649"
+			}
+			"landfall_dm"
+			{
+				"gid" "FCC1D790BCFD6E049178FA9806D4AB78"
+				"size" "A844FCF4DDE7C4526EA49382E771A8E0"
+				"download" "1551890ED3BC29C827102F6AA32B04C1"
+			}
+			"landfall_qa"
+			{
+				"gid" "54C4F9A4FA537C20B892FFFF21059035"
+				"size" "079458DEC4FD1BAAEFCECC767C1EC226"
+				"download" "878A94FDE78B3246ECC92EB4899062B5"
+			}
+			"landfall_qa2"
+			{
+				"gid" "3D9A4474D5E5F764454771BE1656E569"
+				"size" "EA3B2CEF7CB292A69A8DB8E6E1DBEAF7"
+				"download" "9572423E27125113AE4C0E9110584BF9"
+			}
+			"landfall_secret"
+			{
+				"gid" "F27EE4B98ED7B5CE601C93E8E699CCAD"
+				"size" "3EDDF3CA8E5626C9CABFE0F6BE03A1F9"
+				"download" "DB181A78A242ABBBB0DB0F6FB4EF87CC"
+			}
+			"landfall_test"
+			{
+				"gid" "68EE037AF6557D947CD6D2749F51F916"
+				"size" "4DE43A5CBA52781F9F3923676D1086F2"
+				"download" "71F6B92F0EF911812FFF1E4C8E418146"
+			}
+			"landfall_tfbg"
+			{
+				"gid" "6EAB9347803929EE9D1577B84D328D9D"
+				"size" "F23FDA076773850729B21F601E455DF6"
+				"download" "9E220A8C8CBE8995432E68EE56F0252E"
+			}
+			"landfall_tfbg2"
+			{
+				"gid" "F2081D8F6EE30ACCA852BBD13227DA0B"
+				"size" "81F115E46A163C3AB3528B33F534D51B"
+				"download" "3E7198EDE802CD584A08FC15BC10C483"
+			}
+		}
+	}
+	"508443"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6059950873634174724"
+				"size" "4789183942"
+				"download" "1401181536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"flamingo"
+			{
+				"gid" "CCDBF84631456547CA35F63370F57212"
+				"size" "0AA747679269FA9CE516B20408891CDF"
+				"download" "45D4BD78A6D47ED9A83380F7FCEA624D"
+			}
+			"landfall"
+			{
+				"gid" "02E3F0B4B13097FD5D53B3D51088544F"
+				"size" "11811C2F6360D4D2959CB602AD68DA2D"
+				"download" "BFC4A8D295B14F6AE70090D147970624"
+			}
+			"landfall_dm"
+			{
+				"gid" "A2262A76AB0905C09936A67BC9DF1099"
+				"size" "1BEF94D636DDBA531A58ACA4B7BAC9C5"
+				"download" "B66B983C6CE46C5CA431979BAEEC2A6C"
+			}
+			"landfall_qa"
+			{
+				"gid" "84A23F86E861FD174B0520DE2F917960"
+				"size" "6F223C7A17A9D7F7C839861E9AA3F6F3"
+				"download" "A980DB7D7051B7056D8437FDABD9E875"
+			}
+			"landfall_qa2"
+			{
+				"gid" "D99C44D16C98E29057BC038B1E93DAE2"
+				"size" "057322269628CBE47247E4A262D2AE9C"
+				"download" "0E6E106C33C5FA77CED23DFEBADC0642"
+			}
+			"landfall_secret"
+			{
+				"gid" "0BDCA58387473730ECDACD7A7E0FC174"
+				"size" "D7F89386F70098CC6BA05B30E3179140"
+				"download" "CC6FD6B9F19D595A07BE9728B66B15E5"
+			}
+			"landfall_test"
+			{
+				"gid" "454C60ABB09CD6D2044A906C696C6482"
+				"size" "2BBB376FAFFF72A83FA22CF1A98F92BC"
+				"download" "E6DD8EAE996A98F958A83D236E5B67C7"
+			}
+			"landfall_tfbg"
+			{
+				"gid" "7A7C700BBA62271301FA07A5EAC75C14"
+				"size" "F20056D830E875107A26A9A2E778722B"
+				"download" "58DF39B0B8B028BD6F286D3BCAB48CA2"
+			}
+			"landfall_tfbg2"
+			{
+				"gid" "AA0948C84C3D95C141C269DEA77D4A5F"
+				"size" "17507426740672FF7992C69CA1CBF1A1"
+				"download" "B38594A2BE71EFFB61C5C74CBC7A41B0"
+			}
+		}
+	}
+	"508444"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4890196906770109428"
+				"size" "4760616779"
+				"download" "1388472896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"flamingo"
+			{
+				"gid" "AB2A119D0119F670FC09037DA8FF457C"
+				"size" "EBB78B22D9427DC6DCFB68588723E155"
+				"download" "E4801FDB103690E77B7FF047F61A0CC6"
+			}
+			"landfall"
+			{
+				"gid" "FE3F8AF645FE3F51C5159D7F108EFC96"
+				"size" "600AE83C6986AF6EA1CD73DD61573775"
+				"download" "94707A40B7F0900C719AB4C6292FF592"
+			}
+			"landfall_dm"
+			{
+				"gid" "47A0AADE2BC3F74C81B94E249A5B6B2B"
+				"size" "1AC9ABCC0CEF5930C4DE9EE83A7A89FD"
+				"download" "829B45A328596BCA4336253C8A53B86D"
+			}
+			"landfall_qa"
+			{
+				"gid" "43A5F068FDFD0A748A57850B92E36100"
+				"size" "5D3B173CEC63B0134A6657488B8BD0DE"
+				"download" "E98F2A92ADE49708ED14174899BC2054"
+			}
+			"landfall_qa2"
+			{
+				"gid" "BD5DA91D003A1B3C9AB1617CD51D355E"
+				"size" "B6739D999D259906094A662A7EBD9B2A"
+				"download" "AB5B338F2553855247D4FF1C130932AA"
+			}
+			"landfall_secret"
+			{
+				"gid" "D31A84C6FA3271439E8CA4A9F5FD1C77"
+				"size" "49EB4FB7FA027C063DDC35D3250E4405"
+				"download" "9427736D02D60C720112C7EC1EEA215A"
+			}
+			"landfall_test"
+			{
+				"gid" "E99B7205F6C53E1999FCB496EFC63334"
+				"size" "024BF89649E2272DB1C8B1C75CD164D3"
+				"download" "A609E875CE5D40417BF1AEECA520CFBA"
+			}
+			"landfall_tfbg"
+			{
+				"gid" "9FDBBDC935A792BE2974C4DAB6AC6098"
+				"size" "F463DD535D9F052AA31018504E70652F"
+				"download" "C24C80F7D2B192A0C713FD3CDE94EC09"
+			}
+			"landfall_tfbg2"
+			{
+				"gid" "C5801968F3C222EA2E4DB7147BA46766"
+				"size" "16C9F6D202CADF81AF580B02AC4C60C3"
+				"download" "7004AB9EE3D34BD7B7AEFAB358FE6C31"
+			}
+		}
+	}
+	"1270340"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"dlcappid" "1270340"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13382125"
+			"timeupdated" "1707232967"
+		}
+		"flamingo"
+		{
+			"buildid" "3864772"
+			"pwdrequired" "1"
+			"timeupdated" "1559053250"
+		}
+		"landfall"
+		{
+			"buildid" "13382125"
+			"pwdrequired" "1"
+			"timeupdated" "1707231094"
+		}
+		"landfall_dm"
+		{
+			"buildid" "8515863"
+			"pwdrequired" "1"
+			"timeupdated" "1649342247"
+		}
+		"landfall_qa"
+		{
+			"buildid" "13382125"
+			"pwdrequired" "1"
+			"timeupdated" "1707231119"
+		}
+		"landfall_qa2"
+		{
+			"buildid" "13382125"
+			"pwdrequired" "1"
+			"timeupdated" "1707231139"
+		}
+		"landfall_secret"
+		{
+			"buildid" "13248920"
+			"pwdrequired" "1"
+			"timeupdated" "1706019546"
+		}
+		"landfall_test"
+		{
+			"buildid" "7475467"
+			"pwdrequired" "1"
+			"timeupdated" "1633366996"
+		}
+		"landfall_tfbg"
+		{
+			"buildid" "13382125"
+			"pwdrequired" "1"
+			"timeupdated" "1707231108"
+		}
+		"landfall_tfbg2"
+		{
+			"buildid" "6575953"
+			"pwdrequired" "1"
+			"timeupdated" "1618997926"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "23884040"
+"_sha" "dcab39918afad3d999d87dfda5601a88aba48669"
+"_size" "11715"
