@@ -1,0 +1,507 @@
+"appid" "975370"
+"common"
+{
+	"name" "Dwarf Fortress"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"logo" "0b270e41db34fe1987e5c0e987f182f1f43a22c4"
+	"logo_small" "0b270e41db34fe1987e5c0e987f182f1f43a22c4_thumb"
+	"icon" "f2590e71d4b5c48c200ecc4d8b6e0eddb60eff20"
+	"clienticon" "027da8996e0093c84443e0ad7877d5cfecb7bdf0"
+	"clienttga" "e033e111a4317747e8b36a192b28416d08ceb8ff"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1688428800"
+		"tested_build_id" "11562924"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Dwarf Fortress"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "61.39871764426502"
+		}
+	}
+	"store_asset_mtime" "1697032107"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bay 12 Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kitfox Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Kitfox Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1670338717"
+	"metacritic_score" "93"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dwarf-fortress\?ftag=MCD-06-10aaa1f"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "975370"
+	"store_tags"
+	{
+		"0" "7918"
+		"1" "220585"
+		"2" "1643"
+		"3" "492"
+		"4" "599"
+		"5" "5125"
+		"6" "12472"
+		"7" "1684"
+		"8" "7332"
+		"9" "4695"
+		"10" "1669"
+		"11" "21725"
+		"12" "4325"
+		"13" "4026"
+		"14" "3810"
+		"15" "4182"
+		"16" "1662"
+		"17" "255534"
+		"18" "9"
+		"19" "1702"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Bay 12 Games"
+	"publisher" "Kitfox Games"
+}
+"config"
+{
+	"installdir" "Dwarf Fortress"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dwarf Fortress.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "dwarfort"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3156767819"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"workshopdepot" "975370"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"975371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5463945502301476512"
+				"size" "249372598"
+				"download" "238276512"
+			}
+			"beta"
+			{
+				"gid" "7610181874275197052"
+				"size" "618234770"
+				"download" "594330224"
+			}
+			"experimental"
+			{
+				"gid" "7610181874275197052"
+				"size" "618234770"
+				"download" "594330224"
+			}
+			"50.12"
+			{
+				"gid" "2300814353303666288"
+				"size" "247469868"
+				"download" "237733632"
+			}
+			"50.11"
+			{
+				"gid" "2086086306935381257"
+				"size" "247450554"
+				"download" "237723008"
+			}
+			"50.10"
+			{
+				"gid" "4604622674549261758"
+				"size" "246250981"
+				"download" "236524368"
+			}
+			"50.09"
+			{
+				"gid" "364588969493986169"
+				"size" "273707980"
+				"download" "245342864"
+			}
+			"50.08"
+			{
+				"gid" "1916426456955918564"
+				"size" "270809310"
+				"download" "244370880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"adventure_test"
+			{
+				"gid" "A2566373ECEB7F18EDC8F086C4B7F018"
+				"size" "6CBC9027BD4720B6479D37CC116C8463"
+				"download" "F534242FD646E8B32D4B591F40F3E549"
+			}
+			"testing"
+			{
+				"gid" "FC50BD0676703DBB47F2076481C1CA29"
+				"size" "6A63FE227EBB5713A63A40EC954FBB28"
+				"download" "A5249D40E01B82447662225CA4BAB86E"
+			}
+			"quicktest"
+			{
+				"gid" "107B5A7788D5835EDE4B016E216BAE13"
+				"size" "F39B654989B0E7997A7941234277F713"
+				"download" "2FA72882955D6122B34CE61ED7842116"
+			}
+		}
+	}
+	"975372"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5362281367310943472"
+				"size" "28182928"
+				"download" "9010960"
+			}
+			"beta"
+			{
+				"gid" "3254090859803119046"
+				"size" "30280080"
+				"download" "9706768"
+			}
+			"experimental"
+			{
+				"gid" "3254090859803119046"
+				"size" "30280080"
+				"download" "9706768"
+			}
+			"50.12"
+			{
+				"gid" "1461352434712686354"
+				"size" "28115856"
+				"download" "8990128"
+			}
+			"50.11"
+			{
+				"gid" "7290731218752815469"
+				"size" "27648912"
+				"download" "8879424"
+			}
+			"50.10"
+			{
+				"gid" "8335959046316052024"
+				"size" "27638672"
+				"download" "8879408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"adventure_test"
+			{
+				"gid" "ACE93C63B1029AD86EF8F812FFAD6900"
+				"size" "B692BBDD984C87463C54E300D06A6F92"
+				"download" "ECF10429DE78446BF532F2D2C4F88FA1"
+			}
+			"testing"
+			{
+				"gid" "80AEA29FAC776841904FEEA9EC90CB42"
+				"size" "81A09AF89E293BEDD2DA0E4F14F8DE94"
+				"download" "C31A866D7C8B45F5ECFAE987DBC7C02F"
+			}
+			"quicktest"
+			{
+				"gid" "300799F8B4CADB5E84C4C8D5D881A6B2"
+				"size" "A892C11120923D11C45811931ABECB28"
+				"download" "B14D4891AC4E4B98ACFBF25FEAFC7F1C"
+			}
+		}
+	}
+	"975373"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6972532802023449331"
+				"size" "37968116"
+				"download" "10707440"
+			}
+			"beta"
+			{
+				"gid" "6103475831195660165"
+				"size" "41229956"
+				"download" "11755792"
+			}
+			"experimental"
+			{
+				"gid" "6103475831195660165"
+				"size" "41229956"
+				"download" "11755792"
+			}
+			"50.12"
+			{
+				"gid" "8253629633889820503"
+				"size" "37879648"
+				"download" "10686240"
+			}
+			"50.11"
+			{
+				"gid" "5320256566678879319"
+				"size" "37489215"
+				"download" "10577536"
+			}
+			"50.10"
+			{
+				"gid" "1448971681262607594"
+				"size" "37504804"
+				"download" "10583776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"adventure_test"
+			{
+				"gid" "035976DC2937132F4EFB5BF676B9F42B"
+				"size" "D412FC933DE3419A965299822AFC03C8"
+				"download" "6EF447829301B46E23CEE91C24F3C349"
+			}
+			"testing"
+			{
+				"gid" "EB0AA6367904A47CE349A427C1C5DAA6"
+				"size" "C0AD6C22AE0EDE89D813B3DE297C91D8"
+				"download" "0837D81767C07B4E4EBF01924BE2FC2D"
+			}
+			"quicktest"
+			{
+				"gid" "2BACCB26A4B7A693736AD6DEAE654C2C"
+				"size" "74A4E83FA85B8C68C138351DE4A11614"
+				"download" "6C0D1A5321DED6FE88DC685FD726B391"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14128341"
+			"timeupdated" "1713888044"
+		}
+		"beta"
+		{
+			"buildid" "14731847"
+			"description" "Public beta branch"
+			"timeupdated" "1718608271"
+		}
+		"experimental"
+		{
+			"buildid" "14731847"
+			"description" "for experimental features early in testing"
+			"timeupdated" "1718608281"
+		}
+		"adventure_test"
+		{
+			"buildid" "14731847"
+			"pwdrequired" "1"
+			"timeupdated" "1718501303"
+		}
+		"testing"
+		{
+			"buildid" "14128341"
+			"pwdrequired" "1"
+			"timeupdated" "1713753590"
+		}
+		"quicktest"
+		{
+			"buildid" "14118832"
+			"pwdrequired" "1"
+			"timeupdated" "1713601096"
+		}
+		"50.12"
+		{
+			"buildid" "13655783"
+			"description" "Version 50.12"
+			"timeupdated" "1713888017"
+		}
+		"50.11"
+		{
+			"buildid" "13470733"
+			"description" "Version 50.11"
+			"timeupdated" "1709751520"
+		}
+		"50.10"
+		{
+			"buildid" "12212901"
+			"description" "Version 50.10"
+			"timeupdated" "1696351126"
+		}
+		"50.09"
+		{
+			"buildid" "11562924"
+			"description" "Version 50.09"
+			"timeupdated" "1695138103"
+		}
+		"50.08"
+		{
+			"buildid" "11133015"
+			"description" "Version 50.08"
+			"timeupdated" "1687974058"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "23997005"
+"_sha" "03563bb0e73fac6920aae734074874d135163f73"
+"_size" "9691"
