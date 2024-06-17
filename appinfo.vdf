@@ -1,0 +1,385 @@
+"appid" "1136380"
+"common"
+{
+	"name" "Ultimate Fishing Simulator 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "1d52aaa7d79b4c57c7f2a04b539a8afae10db025"
+	"logo_small" "1d52aaa7d79b4c57c7f2a04b539a8afae10db025_thumb"
+	"icon" "47159597cbd0963cc6f511d4d0563ea2c1a5672a"
+	"clienticon" "5d4b31fbe43a35dea34e55d88f55aa643f6962f6"
+	"clienttga" "21c8486e7abd46d88c417b5533b9c389a50c3b8a"
+	"name_localized"
+	{
+		"schinese" "终极钓鱼模拟器2"
+		"tchinese" "終極釣魚模擬器2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1668729600"
+		"tested_build_id" "9522953"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ultimate Fishing Simulator 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.593466424682404"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1703850483"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Silent Bear Studio"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "SHINING GAMES"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Ultimate Games S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Fishing"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Ultimate Fishing Simulator"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "28"
+		"1" "18"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1661186953"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1136380"
+	"store_tags"
+	{
+		"0" "15564"
+		"1" "701"
+		"2" "599"
+		"3" "4175"
+		"4" "4182"
+		"5" "3839"
+		"6" "3859"
+		"7" "1654"
+		"8" "597"
+		"9" "21"
+		"10" "5350"
+		"11" "4166"
+		"12" "492"
+		"13" "9204"
+		"14" "5900"
+		"15" "6276"
+		"16" "9157"
+		"17" "30358"
+		"18" "19"
+		"19" "1685"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Silent Bear Studio"
+	"publisher" "Ultimate Games S.A."
+	"homepage" "https://ultimate-fishing.com/"
+}
+"config"
+{
+	"installdir" "Ultimate Fishing Simulator 2020"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ultimate Fishing Simulator 2.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamdecktouchscreen" "0"
+	"steamcontrollertouchconfigdetails" ""
+	"steamconfigurator3rdpartynative" "7"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1136381"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5496923027472520733"
+				"size" "26147590450"
+				"download" "9673421312"
+			}
+			"beta"
+			{
+				"gid" "1378181355454635003"
+				"size" "25573490938"
+				"download" "9246365248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release_candidate"
+			{
+				"gid" "B21D8817B10FD71CCB43B13959711D0E"
+				"size" "4AE08900E63B4F83C089838B5694DE07"
+				"download" "B35E016E22678F9EF47FDF8BFEA94015"
+			}
+			"testing_krzysiek"
+			{
+				"gid" "8FD8584ECBC3AAC10F652A0A89F04AE8"
+				"size" "1BEBFE1101916F098071EBBFC0F339FE"
+				"download" "77C8646BB2113B572B4B827B2F713046"
+			}
+			"testing_michal"
+			{
+				"gid" "BBAD30D81E11CA187A098A57CB0F5173"
+				"size" "B2623EF087F673B69BEE32DCD3AB402B"
+				"download" "72EF1449F442AF8F50D080D2D19BD4A4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13104040"
+			"timeupdated" "1704705116"
+		}
+		"beta"
+		{
+			"buildid" "14722354"
+			"description" "Unstable Beta Branch"
+			"timeupdated" "1718388888"
+		}
+		"release_candidate"
+		{
+			"buildid" "13104040"
+			"pwdrequired" "1"
+			"timeupdated" "1704489156"
+		}
+		"testing_krzysiek"
+		{
+			"buildid" "14678389"
+			"pwdrequired" "1"
+			"timeupdated" "1718113326"
+		}
+		"testing_michal"
+		{
+			"buildid" "14225523"
+			"pwdrequired" "1"
+			"timeupdated" "1714506551"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MasterCode/Ultimate Fishing Simulator 2/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23977344"
+"_sha" "f39d4d6de36eeabef8edd82f8dbe3b1a9fe7647d"
+"_size" "7160"
