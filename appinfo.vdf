@@ -1,0 +1,312 @@
+"appid" "1695792"
+"common"
+{
+	"name" "Halo 4 Mod Tools - MCC"
+	"type" "Tool"
+	"parent" "976730"
+	"releasestate" "released"
+	"icon" "91c8aabecc955e0a392522855d812abcdb6803b5"
+	"clienttga" "84f1d1068517a095fb1f7a96bcc7cc88094a6358"
+	"clienticon" "a4dce2a0d039a59831020830335e4ba79f9c7f0d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1695792_eula_0"
+			"name" "Halo 4 Mod Tools - MCC EULA"
+			"url" "https://store.steampowered.com//eula/1695792_eula_0"
+			"version" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "61.0339687615575"
+			"height_pct" "91.38717363668147"
+		}
+	}
+	"store_asset_mtime" "1670445646"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "343 Industries"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Splash Damage"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Ruffian Games"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Bungie"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"gameid" "1695792"
+}
+"extended"
+{
+	"dlcforappid" "976730"
+	"mustownapptopurchase" "976730"
+	"disableoverlay" "1"
+	"disableoverlayinjection" "1"
+	"developer" "343 Industries"
+	"homepage" "http://www.halowaypoint.com"
+}
+"config"
+{
+	"installdir" "H4EK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "halo4_tag_test.exe"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Halo 4 Tag Test"
+			}
+			"description" "Halo 4 Tag Test"
+		}
+		"1"
+		{
+			"executable" "sapien.exe"
+			"description_loc"
+			{
+				"english" "Launch Sapien"
+			}
+			"description" "Launch Sapien"
+		}
+		"2"
+		{
+			"executable" "foundation.exe"
+			"description_loc"
+			{
+				"english" "Launch Foundation"
+			}
+			"description" "Launch Foundation"
+		}
+		"3"
+		{
+			"executable" "MegaloEdit.exe"
+			"description_loc"
+			{
+				"english" "Launch MegaloEdit "
+			}
+			"description" "Launch MegaloEdit "
+		}
+	}
+}
+"depots"
+{
+	"1701250"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2225106932614327627"
+				"size" "9947749128"
+				"download" "9835933840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dailybuild"
+			{
+				"gid" "96CFD7F54C2D7309531D3097A8976D87"
+				"size" "0154758569E063C3BB7CE085F9B6EF22"
+				"download" "149321E18B3B32E97268821D98F7EFBB"
+			}
+			"dailybuild-qfe1"
+			{
+				"gid" "B6AF3C38B3A6C0C3C7BAB5EC7EB1756E"
+				"size" "F4E9FF13F23ABA5BB180F0DEA82AF9F2"
+				"download" "F356F41064C473351359344C7A4B3A88"
+			}
+			"dailybuild-release"
+			{
+				"gid" "6AFDD30D2F7F2D095EC77A6947F4F07E"
+				"size" "5C6460BE089A6A439E80ABC6EAE00E1E"
+				"download" "0EA237106235A08644FA19040965DDAD"
+			}
+			"thepub"
+			{
+				"gid" "F734D29ADF76467472AF0CC37802E355"
+				"size" "754078D97302B617CA028A2FBFD7EFD9"
+				"download" "0E26660AB6CDD66E3DDBEB08CD23D972"
+			}
+			"burgersandfries_011923"
+			{
+				"gid" "DED8CAE87A5693B8C031ECA7617F2875"
+				"size" "23587DBEAC98D956C4396BF792C29593"
+				"download" "5AE049368829BB0D2E4456E54755F980"
+			}
+			"dailybuild-main"
+			{
+				"gid" "5C1CCD8085657E171D3395BD37CD640F"
+				"size" "CBA9A493A0E7B704499F0A7E5043D788"
+				"download" "76574D2359585F06A4620CDE897B6BB0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11571341"
+			"timeupdated" "1689181282"
+		}
+		"dailybuild"
+		{
+			"buildid" "10101472"
+			"pwdrequired" "1"
+			"timeupdated" "1670458332"
+		}
+		"dailybuild-qfe1"
+		{
+			"buildid" "10094197"
+			"pwdrequired" "1"
+			"timeupdated" "1672106937"
+		}
+		"dailybuild-release"
+		{
+			"buildid" "13087518"
+			"pwdrequired" "1"
+			"timeupdated" "1704322809"
+		}
+		"thepub"
+		{
+			"buildid" "10094197"
+			"pwdrequired" "1"
+			"timeupdated" "1670441724"
+		}
+		"burgersandfries_011923"
+		{
+			"buildid" "14251521"
+			"pwdrequired" "1"
+			"timeupdated" "1714753722"
+		}
+		"dailybuild-main"
+		{
+			"buildid" "14251521"
+			"pwdrequired" "1"
+			"timeupdated" "1714707856"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "1114168376c96dfe41dfa910a2d441b648dc8a73"
+"_size" "5576"
