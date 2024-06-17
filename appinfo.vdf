@@ -1,0 +1,255 @@
+"appid" "2019790"
+"common"
+{
+	"name" "Liftoff - Slipstream"
+	"type" "DLC"
+	"parent" "410340"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1661879844"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LuGus Studios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "9"
+		"2" "28"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_17" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_36" "1"
+		"category_25" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1661959721"
+	"gameid" "2019790"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "492"
+		"2" "701"
+		"3" "699"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"dlcforappid" "410340"
+	"mustownapptopurchase" "410340"
+	"developer" "LuGus Studios"
+	"homepage" "http://www.liftoff-game.com"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2019791"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5129583289194622289"
+				"size" "502217057"
+				"download" "439969056"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "2154162973872170749"
+				"size" "451686622"
+				"download" "397364480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "296F9457616BFFE6013F7D7D11040C52"
+				"size" "0D868348731C287CC7A2C4B4E499341F"
+				"download" "3C1C93B8FEBC6F043EC3845A52504D93"
+			}
+			"liftoff_delta"
+			{
+				"gid" "0F9D659B57288077431B8F431C9FA593"
+				"size" "AC4FE64CE60FAE5439FFA0135A31AC01"
+				"download" "3F50E9D7DA64E37CFCDF1F937ABE966C"
+			}
+			"alphatesting"
+			{
+				"gid" "F28B1ED95545B3B986F494A1200FB0C4"
+				"size" "0B115660096639651A305D54D3060CA9"
+				"download" "6E5F36EE2E3EFEEE731209314CFD9C2C"
+			}
+		}
+		"dlcappid" "2019790"
+	}
+	"2019792"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7708138441036272148"
+				"size" "499764158"
+				"download" "439177296"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "1688721099704384918"
+				"size" "448893038"
+				"download" "395265600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "ADE523835C055D18867F622F8950EEB2"
+				"size" "A84E8FBA46C307FACB3E795833D2D123"
+				"download" "5F9EF09407193F1D7F6A073667F74947"
+			}
+			"liftoff_delta"
+			{
+				"gid" "DBC5FFFEEBA50F143452A6871855E92E"
+				"size" "15448B05C4588AB172E8587B621B2F32"
+				"download" "30F2B0790C4ACAE234037B2FBB79D597"
+			}
+			"alphatesting"
+			{
+				"gid" "6EE965AEA0583C4A62BF293421EF5840"
+				"size" "53BFBE05CB05C8AF538C7FF3F99076FB"
+				"download" "CDB54877187022272F5C6B4430DFCEF6"
+			}
+		}
+		"dlcappid" "2019790"
+	}
+	"2019793"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4193887355816838946"
+				"size" "502019851"
+				"download" "440199664"
+			}
+			"liftoff_1.4.10"
+			{
+				"gid" "5718358982979568341"
+				"size" "451326986"
+				"download" "396350848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "F75EA4F718B48A55BF2744A862DD9C8D"
+				"size" "49A18692813DB319A0B667D5ED300A00"
+				"download" "97198CD0766DF6A4B8314CF122FB8650"
+			}
+			"liftoff_delta"
+			{
+				"gid" "33DF85422AFB492D92C66779F151E52F"
+				"size" "81445AD699D56B3F683CB48FD770DE80"
+				"download" "DBF8374077F7E7770194D0888E44547B"
+			}
+			"alphatesting"
+			{
+				"gid" "1D03B95A0D9F6D54E203499B03D3AA24"
+				"size" "5C7DF3B4AE0F3BBA72A95FD176B442FE"
+				"download" "3F557E12E0FE1139C50A650683E0656B"
+			}
+		}
+		"dlcappid" "2019790"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14565042"
+			"timeupdated" "1717411232"
+		}
+		"betatesting"
+		{
+			"buildid" "10137481"
+			"pwdrequired" "1"
+			"timeupdated" "1670959694"
+		}
+		"liftoff_1.4.10"
+		{
+			"buildid" "9940939"
+			"description" "Liftoff Legacy v1.4"
+			"timeupdated" "1674033911"
+		}
+		"liftoff_delta"
+		{
+			"buildid" "10975095"
+			"pwdrequired" "1"
+			"timeupdated" "1681206551"
+		}
+		"alphatesting"
+		{
+			"buildid" "14565042"
+			"pwdrequired" "1"
+			"timeupdated" "1717183467"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23802677"
+"_sha" "f3ba033ddf5adf90fbbcf8882b3e6c379eb2aa9c"
+"_size" "4755"
