@@ -1,0 +1,497 @@
+"appid" "421800"
+"common"
+{
+	"name" "SCS Workshop Uploader"
+	"type" "Tool"
+	"oslist" "windows"
+	"logo" "f0b85038634b0f4548beeaaf01fb5add74e650b2"
+	"logo_small" "f0b85038634b0f4548beeaaf01fb5add74e650b2_thumb"
+	"clienticon" "8497921bd46ef7ce97c12dfb768f02853edf06da"
+	"clienttga" "890cd7be3900f210d3099018c11e7ecd0a34afaa"
+	"icon" "7c95544fd8cc1af8941014b13ebd190ac89ce792"
+	"releasestate" "released"
+	"metacritic_name" "EuroTruck Simulator - Mod Tools"
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1457605120"
+	"associations"
+	{
+	}
+	"steam_release_date" "1457975735"
+	"gameid" "421800"
+	"review_score" "7"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SCS Workshop Uploader"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\win_x86\\mod_tools.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"421801"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"132_compatibility_branch"
+			{
+				"gid" "4785129129991228361"
+				"size" "92731"
+				"download" "17664"
+			}
+			"133_compatibility_branch"
+			{
+				"gid" "4785129129991228361"
+				"size" "92731"
+				"download" "17664"
+			}
+			"134_compatibility_branch"
+			{
+				"gid" "4785129129991228361"
+				"size" "92731"
+				"download" "17664"
+			}
+			"135_compatibility_branch"
+			{
+				"gid" "8088949647270025458"
+				"size" "93141"
+				"download" "17712"
+			}
+			"136_compatibility_branch"
+			{
+				"gid" "8088949647270025458"
+				"size" "93141"
+				"download" "17712"
+			}
+			"137_compatibility_branch"
+			{
+				"gid" "6849124100853595604"
+				"size" "96471"
+				"download" "17792"
+			}
+			"138_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"139_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"140_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"141_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"142_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"143_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"144_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"145_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"146_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"147_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"148_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"149_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"150_compatibility_branch"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+			"public_beta"
+			{
+				"gid" "8821057416756267898"
+				"size" "95930"
+				"download" "17808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbuilds"
+			{
+				"gid" "155B03B091CE8F308AA8DD28D8E2422B"
+				"size" "0C129726428F82761F4D78B880048A90"
+				"download" "E8451C3090E6F98E172FA0AAAA690653"
+			}
+			"experimental"
+			{
+				"gid" "E642D4D81C3856A868341E043CF63110"
+				"size" "E42EE5F9493EBB78C0022F1113384646"
+				"download" "F2350AD61A89BE9DA9DAC28F1215320D"
+			}
+		}
+	}
+	"421802"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2399400805704907792"
+				"size" "35563080"
+				"download" "8022144"
+			}
+			"132_compatibility_branch"
+			{
+				"gid" "6925468422888735451"
+				"size" "15489160"
+				"download" "5488000"
+			}
+			"133_compatibility_branch"
+			{
+				"gid" "4007963271431024819"
+				"size" "15652488"
+				"download" "5553648"
+			}
+			"134_compatibility_branch"
+			{
+				"gid" "5000569221011284096"
+				"size" "15662448"
+				"download" "5560864"
+			}
+			"135_compatibility_branch"
+			{
+				"gid" "3604375641031904358"
+				"size" "18951824"
+				"download" "6013104"
+			}
+			"136_compatibility_branch"
+			{
+				"gid" "2731966694597545352"
+				"size" "17964688"
+				"download" "5999264"
+			}
+			"137_compatibility_branch"
+			{
+				"gid" "2148683360974536394"
+				"size" "19292304"
+				"download" "6162416"
+			}
+			"138_compatibility_branch"
+			{
+				"gid" "6805609608721742935"
+				"size" "20171920"
+				"download" "6416256"
+			}
+			"139_compatibility_branch"
+			{
+				"gid" "8636141184997541538"
+				"size" "21029520"
+				"download" "6648144"
+			}
+			"140_compatibility_branch"
+			{
+				"gid" "7657460611072495873"
+				"size" "21744056"
+				"download" "6891072"
+			}
+			"141_compatibility_branch"
+			{
+				"gid" "8780344773044082060"
+				"size" "22084056"
+				"download" "6983552"
+			}
+			"142_compatibility_branch"
+			{
+				"gid" "1130443254767739383"
+				"size" "22015448"
+				"download" "6999712"
+			}
+			"143_compatibility_branch"
+			{
+				"gid" "6811418854602642718"
+				"size" "22373440"
+				"download" "7102400"
+			}
+			"144_compatibility_branch"
+			{
+				"gid" "6476967793384820538"
+				"size" "23343616"
+				"download" "7309040"
+			}
+			"145_compatibility_branch"
+			{
+				"gid" "1851476395694258613"
+				"size" "23526840"
+				"download" "7355776"
+			}
+			"146_compatibility_branch"
+			{
+				"gid" "3291925333275526872"
+				"size" "24250256"
+				"download" "7508176"
+			}
+			"147_compatibility_branch"
+			{
+				"gid" "4093251164238842146"
+				"size" "23479632"
+				"download" "7622176"
+			}
+			"148_compatibility_branch"
+			{
+				"gid" "5564764489772505273"
+				"size" "23905616"
+				"download" "7722960"
+			}
+			"149_compatibility_branch"
+			{
+				"gid" "8764901216745031476"
+				"size" "24438608"
+				"download" "7864224"
+			}
+			"150_compatibility_branch"
+			{
+				"gid" "2399400805704907792"
+				"size" "35563080"
+				"download" "8022144"
+			}
+			"public_beta"
+			{
+				"gid" "2399400805704907792"
+				"size" "35563080"
+				"download" "8022144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbuilds"
+			{
+				"gid" "9A614E787B2FB751EC8764FC08323243"
+				"size" "E500298DD96ACB2F307415D75F38855F"
+				"download" "3872DB435C8672B159DFEC9F94B05DD8"
+			}
+			"experimental"
+			{
+				"gid" "B2992BA7B3914D45D9D402218C1EB38F"
+				"size" "ED66B13221E4B7D1CBB45098C49ECE42"
+				"download" "A2AB4551414FC704BACA8D1CE7E2AD2A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14493353"
+			"timeupdated" "1716646400"
+		}
+		"132_compatibility_branch"
+		{
+			"buildid" "3288772"
+			"description" "1.32 compatibility branch"
+			"timeupdated" "1543323565"
+		}
+		"133_compatibility_branch"
+		{
+			"buildid" "3344676"
+			"description" "1.33 compatibility branch"
+			"timeupdated" "1549634825"
+		}
+		"134_compatibility_branch"
+		{
+			"buildid" "3550422"
+			"description" "1.34 compatibility branch"
+			"timeupdated" "1557145217"
+		}
+		"135_compatibility_branch"
+		{
+			"buildid" "3908585"
+			"description" " \t1.35 compatibility branch"
+			"timeupdated" "1571297358"
+		}
+		"136_compatibility_branch"
+		{
+			"buildid" "4482927"
+			"description" "1.36 compatibility branch"
+			"timeupdated" "1583009059"
+		}
+		"137_compatibility_branch"
+		{
+			"buildid" "5070310"
+			"description" "1.37 compatibility branch"
+			"timeupdated" "1590497195"
+		}
+		"138_compatibility_branch"
+		{
+			"buildid" "5620989"
+			"description" "1.38 compatibility branch"
+			"timeupdated" "1601542926"
+		}
+		"139_compatibility_branch"
+		{
+			"buildid" "5938116"
+			"description" "1.39 compatibility branch"
+			"timeupdated" "1607435695"
+		}
+		"140_compatibility_branch"
+		{
+			"buildid" "6528166"
+			"description" "1.40 compatibility branch"
+			"timeupdated" "1618246846"
+		}
+		"141_compatibility_branch"
+		{
+			"buildid" "7294755"
+			"description" "1.41 compatibility branch"
+			"timeupdated" "1630603520"
+		}
+		"142_compatibility_branch"
+		{
+			"buildid" "7461723"
+			"description" "1.42 compatibility branch"
+			"timeupdated" "1633100634"
+		}
+		"143_compatibility_branch"
+		{
+			"buildid" "7854332"
+			"description" "1.43 compatibility branch"
+			"timeupdated" "1639050034"
+		}
+		"144_compatibility_branch"
+		{
+			"buildid" "8711616"
+			"description" "1.44 compatibility branch"
+			"timeupdated" "1652189545"
+		}
+		"145_compatibility_branch"
+		{
+			"buildid" "9015624"
+			"description" "1.45 compatibility branch"
+			"timeupdated" "1656351238"
+		}
+		"146_compatibility_branch"
+		{
+			"buildid" "9894588"
+			"description" "1.46 compatibility branch"
+			"timeupdated" "1667929915"
+		}
+		"147_compatibility_branch"
+		{
+			"buildid" "11342074"
+			"description" "1.47 compatibility branch"
+			"timeupdated" "1685366066"
+		}
+		"148_compatibility_branch"
+		{
+			"buildid" "11946955"
+			"description" "1.48 compatibility branch"
+			"timeupdated" "1692113613"
+		}
+		"149_compatibility_branch"
+		{
+			"buildid" "12771079"
+			"description" "1.49 compatibility branch"
+			"timeupdated" "1700657717"
+		}
+		"150_compatibility_branch"
+		{
+			"buildid" "14493353"
+			"description" "1.50 compatibility branch"
+			"timeupdated" "1716646313"
+		}
+		"devbuilds"
+		{
+			"buildid" "14493353"
+			"pwdrequired" "1"
+			"timeupdated" "1716646184"
+		}
+		"experimental"
+		{
+			"buildid" "14493353"
+			"pwdrequired" "1"
+			"timeupdated" "1716646341"
+		}
+		"public_beta"
+		{
+			"buildid" "14493353"
+			"description" "1.50 support branch (beta)"
+			"timeupdated" "1716646327"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "23691131"
+"_sha" "86d0dedc0565c0583899423d78f81c5636998a79"
+"_size" "10368"
