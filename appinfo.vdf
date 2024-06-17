@@ -1,0 +1,353 @@
+"appid" "1956800"
+"common"
+{
+	"name" "Thriving City: Song"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "1d5499baf238aad9dddf46a21727dca1f74abd0c"
+	"clienticon" "6fee9431f144e315f5fe37557c8117f05a35bca9"
+	"clienttga" "b14f6b961ae97acfcc4754b2150e1aff9ca4fc39"
+	"name_localized"
+	{
+		"schinese" "满庭芳：宋上繁华"
+		"sc_schinese" "满庭芳：宋上繁华"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1712188800"
+		"tested_build_id" "13855024"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc,zh-cn"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "67.36199647361997"
+		}
+	}
+	"store_asset_mtime" "1717034647"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "White Star Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1717034721"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1956800"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4328"
+		"2" "9"
+		"3" "3987"
+		"4" "8945"
+		"5" "597"
+		"6" "17305"
+		"7" "5984"
+		"8" "4559"
+		"9" "22602"
+		"10" "1643"
+		"11" "3813"
+		"12" "7332"
+		"13" "6426"
+		"14" "12472"
+		"15" "6276"
+		"16" "6815"
+		"17" "5981"
+		"18" "4695"
+		"19" "4202"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "White Star Studio"
+	"publisher" "IndieArk"
+	"homepage" "http://www.whitestaaar.com/"
+}
+"config"
+{
+	"installdir" "Thriving City Song"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Song.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Song.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"workshopdepot" "1956800"
+	"1956801"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8033270907827587595"
+				"size" "1216577430"
+				"download" "965073440"
+			}
+			"version-0.5.3"
+			{
+				"gid" "2764188030832692437"
+				"size" "917822725"
+				"download" "750284064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"indieark-test"
+			{
+				"gid" "2A0A544D8769316683527D16D0A7EA5B"
+				"size" "018AE7F97BE4C8D2EB96DFAA6237B14C"
+				"download" "B12135BF9038700AED1372E6F703C12F"
+			}
+			"pre-default"
+			{
+				"gid" "68E8A1C2A7249B07895FFD5118C8938C"
+				"size" "274F9E114B1DBFFBED1B3F253AAB1FB8"
+				"download" "44720F68D3605B20A448CE18E045A30A"
+			}
+			"workshoptesting"
+			{
+				"gid" "1D18293617DA56FEA471631AF028AB5F"
+				"size" "CE0348489CE803D430027CD2D211FE07"
+				"download" "54EC73C5C05E02649DA403E7B3FAA9E3"
+			}
+		}
+	}
+	"1956802"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "443879849381852803"
+				"size" "1202513451"
+				"download" "953736288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"indieark-test"
+			{
+				"gid" "915E409ABFFE78B4E3C67EB4DA20ABED"
+				"size" "1DDCFD44653001FC0B819BEEB3A6751D"
+				"download" "7A36A71E2BF8E553DF89762359360511"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14716761"
+			"timeupdated" "1718358251"
+		}
+		"version-0.5.3"
+		{
+			"buildid" "12252991"
+			"description" "Old version"
+			"timeupdated" "1706686495"
+		}
+		"indieark-test"
+		{
+			"buildid" "14480764"
+			"pwdrequired" "1"
+			"timeupdated" "1716544248"
+		}
+		"pre-default"
+		{
+			"buildid" "12252991"
+			"pwdrequired" "1"
+			"timeupdated" "1695355770"
+			"sc_schinese" "pre-default"
+		}
+		"workshoptesting"
+		{
+			"buildid" "14359642"
+			"pwdrequired" "1"
+			"timeupdated" "1715676672"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+		"second_public_test"
+		{
+			"sc_schinese" "second_public_test_Sep"
+		}
+		"demo_test"
+		{
+			"sc_schinese" "demo_test"
+		}
+		"win11testing"
+		{
+			"sc_schinese" "win11testing"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WhiteStar\\Song"
+			"pattern" "*.record"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "23970510"
+"_sha" "6092bca12ce5ba5087f3ccccb6545e4765bc1f22"
+"_size" "6597"
