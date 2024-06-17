@@ -1,0 +1,933 @@
+"appid" "440900"
+"common"
+{
+	"name" "Conan Exiles"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienttga" "b9300e4a9b84ee03c0fc516a740626f028690d7d"
+	"logo" "554f691dfcb02f6969179774dd7b181532e70432"
+	"logo_small" "554f691dfcb02f6969179774dd7b181532e70432_thumb"
+	"clienticon" "5a86306c8f4a7ff2b0873fcc90696e501ce2f6a3"
+	"icon" "399859f8bdaeef066f14029d5f1910960545fbd9"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "440900_eula_0"
+			"name" "Conan Exiles EULA"
+			"url" "http://store.steampowered.com//eula/440900_eula_0"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7402676"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.81221885301365"
+			"height_pct" "69.54858967255075"
+		}
+	}
+	"store_asset_mtime" "1713364430"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funcom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funcom"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Funcom"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1525776000"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "440900"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "1643"
+		"3" "6650"
+		"4" "1100689"
+		"5" "1702"
+		"6" "3859"
+		"7" "3810"
+		"8" "122"
+		"9" "128"
+		"10" "21"
+		"11" "19"
+		"12" "3843"
+		"13" "3834"
+		"14" "4667"
+		"15" "4182"
+		"16" "1685"
+		"17" "1684"
+		"18" "4345"
+		"19" "1775"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"gamedir" "conanexiles"
+	"serverbrowsername" "Conan Exiles"
+	"developer" "Funcom"
+	"publisher" "Funcom"
+	"homepage" "http://www.conanexiles.com/"
+	"listofdlc" "577840,760730,785120,788220,887120,919390,972370,1040930,1066190,1066250,1076150,1134010,1147100,1173900,1206200,1265640,1410760,1668110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Conan Exiles"
+	"launch"
+	{
+		"11"
+		{
+			"executable" "Launcher\\FuncomLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2109132665"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"workshopdepot" "440900"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"hasdepotsindlc" "1"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"440901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8914159715114119482"
+				"size" "110153295882"
+				"download" "68211384096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"autobuildsystem"
+			{
+				"gid" "77BBE41C1E02E6593D144406BC33CAC9"
+				"size" "F69C2FD2D95373E2602C421CDA70C670"
+				"download" "4706C15A3C943277F93BEF3D13963E53"
+			}
+			"baseline"
+			{
+				"gid" "1E5E44BAC0E958336D0310F98E931FC5"
+				"size" "E1ACBD91583E5642FD25D088B90DDF7A"
+				"download" "3B3BDA2252A24CF40619E4438C9276B6"
+			}
+			"liveteam"
+			{
+				"gid" "B6D7F0C42FF74F29695E8D6887441DA0"
+				"size" "30508496B623C9E3879858098D0FD6E7"
+				"download" "D1188D71AB2D9F91FB499CE3B3C86C85"
+			}
+			"marketing"
+			{
+				"gid" "48A2AFC9ADC17010D42513A642C09F8D"
+				"size" "B35CD060C5B8B892482F5ABF9C89B844"
+				"download" "C998A7510E960578327CB268AE77720F"
+			}
+			"nightly-experimental"
+			{
+				"gid" "B9DCF6C2900DA0CAD6B4233950434AAB"
+				"size" "C85C64B02E46549E6E8AA86A23F67C18"
+				"download" "770F5F20C9C8F99D853445587752180C"
+			}
+			"previous_chapter"
+			{
+				"gid" "E03A9010C2BBF06DB795B4878CC226FF"
+				"size" "11DECDC3D5303B97576BF1821B836043"
+				"download" "9CCFA87B5F69BF1B1C5C184E8A61B405"
+			}
+			"2coreqa"
+			{
+				"gid" "41D505294BB9E4D53456F830D1C206F5"
+				"size" "44BBE3E4E2A29853059367A161EF0720"
+				"download" "E7DC783CA59FA69F2695F09D5A5A580E"
+			}
+			"3coreqa"
+			{
+				"gid" "DEB712CA9E4800D40A97DDF0E33A92FE"
+				"size" "545B9155555060BCBFD3299C56FB8EF3"
+				"download" "845198AAED813AB2346E0123EFC5561A"
+			}
+			"4coreqa"
+			{
+				"gid" "648B9E686A131821173E29759FE59FC9"
+				"size" "305AF01AF12AA9186D2ECF391120DCA3"
+				"download" "1CA1B66CD1F468068CC803D2BCE22181"
+			}
+			"5coreqa"
+			{
+				"gid" "8377EDD89AA6F0DC0A01CB073A8108F5"
+				"size" "377D9979BECC83B700C753943D65A076"
+				"download" "A55BC953AC91C9D507BAEF57FA027144"
+			}
+			"devqa"
+			{
+				"gid" "4CCE14E897CA409FA42A2C2380D2AE83"
+				"size" "6DDFDC98EFE4496BAB17C9D43FC1D908"
+				"download" "759390ECD5D3CD33CD0ECF6987DB8F27"
+			}
+			"exiles-testfeature"
+			{
+				"gid" "3CAB04E62910D6EA02B4849DCABAF5C3"
+				"size" "D96A8DE496215358C9A4A77B68E3E1C9"
+				"download" "6BF6CE589BA3CEA5302397DABAA35B1E"
+			}
+			"nightly-live"
+			{
+				"gid" "77122D5ABD4F2F38D92008B5358FE0E2"
+				"size" "1A9AD030D9A189AF9F229299E6177C30"
+				"download" "5AA04CDC0E5CED797BFDC26B5E49956D"
+			}
+			"nightly-stable"
+			{
+				"gid" "6EB9F31E3D9F74E787D01E2FBD3BDCEB"
+				"size" "4CF2C62B739232BCA42468A81F21652D"
+				"download" "FCAA3C2FFC6BF249F74C9D5A4FC8CC9F"
+			}
+			"nightly-test"
+			{
+				"gid" "77BD0DAD2F7A00479632DADCFD9C09E0"
+				"size" "46882DD7AC0A305D875A96FA739F870C"
+				"download" "D04A8730A12356746170D0A4B631328A"
+			}
+			"nightly-trunk"
+			{
+				"gid" "49A15005513189CCDB21C9F783DE3274"
+				"size" "A6E85A1493732C476021B8434C0F4C11"
+				"download" "1CF7237CBA72E592CC466B1DC78075F2"
+			}
+			"rc-retail"
+			{
+				"gid" "15893A0335E5F07E3D3036BCC252DC82"
+				"size" "3EDE7AB0C468C15E7D9BD01EE2332DEA"
+				"download" "A0E5B0C5B081098AC32C8E6FDB72429C"
+			}
+			"retail_backup1"
+			{
+				"gid" "CA3D222F342F21BBB099A259FEC18938"
+				"size" "312F6D0E38BBC811A6330B8024DC5571"
+				"download" "E64EBD1006B349B5B02B2C9BDA0F3C36"
+			}
+			"retail_backup2"
+			{
+				"gid" "A93D9D5127F81F5C566AABC38B7B71BA"
+				"size" "1858C1AA20A214E171B00A3BBBB79FBF"
+				"download" "0EDD348DD55B8F3490B9DABB151EBA48"
+			}
+		}
+	}
+	"440902"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6822372452346379708"
+				"size" "120162313"
+				"download" "40253712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"autobuildsystem"
+			{
+				"gid" "221F9BD8A992F8FC6A7BBD506B4DD5C5"
+				"size" "6BD54D5CDC1C90CCB5A18A561E537155"
+				"download" "FFF80833EFB54D67043D64AB662F9D0C"
+			}
+			"baseline"
+			{
+				"gid" "B74BA0FE092D7EBAC61FA8332568E8F4"
+				"size" "F20B6EFF10164A05CD876F19644EAB3C"
+				"download" "D66200F982B7371DB4D115BDE1507ED7"
+			}
+			"liveteam"
+			{
+				"gid" "C0DCC57BC80658199BDC9BF532C26F60"
+				"size" "82609A8E560AC71B5A41FFF8DAD82314"
+				"download" "9057A74F12E3FD3165677327D2D8FCE8"
+			}
+			"marketing"
+			{
+				"gid" "E0AEF01082DEFB01558FD2CC1984B38D"
+				"size" "6CB512E34E7EA5E513E637F04CD0B316"
+				"download" "591BD9286D6193B0225FECE9C6582D33"
+			}
+			"nightly-experimental"
+			{
+				"gid" "C277DB483F2C547AEC28B8F3DBD81EE5"
+				"size" "39BEB6F743C1A0BC13DB51ADFBA739D4"
+				"download" "E6195E39337DF650EBB8D5C8024E7BB8"
+			}
+			"previous_chapter"
+			{
+				"gid" "A1A8AB602563630DF065CB9BF5A2519D"
+				"size" "49D8B8E90F9E463CF15A00F1E539DB6D"
+				"download" "F4500B65C38D42634744E71589992C57"
+			}
+			"2coreqa"
+			{
+				"gid" "59E975ABD002754F4B7295A1914B5F22"
+				"size" "A4E9242B14F0F9EBA2A06A948D634A54"
+				"download" "D1DB9AFC14DD78D4FC25164ABA5E9CFD"
+			}
+			"3coreqa"
+			{
+				"gid" "37B44AFBAF505D9EDCFA0351C8E16954"
+				"size" "86FE265D5E308EEC3323F8F78821E152"
+				"download" "0EE24E2DB5C04B5BAEA67D61DA891F30"
+			}
+			"4coreqa"
+			{
+				"gid" "B79A7A7BD378423DE12A3D9D7C7252B3"
+				"size" "F24437A00ED1FCCDE9BEB3A33D3EBA0E"
+				"download" "2ED5DE6F1AED0655E166A4712CDF13E8"
+			}
+			"5coreqa"
+			{
+				"gid" "DB30255F358B4ECECDF81867F3724ED3"
+				"size" "FB3E23A8B4B40DB39712246CE048A960"
+				"download" "17D6F53013954528160E6C7E51A1F5F1"
+			}
+			"devqa"
+			{
+				"gid" "33CFCD09374D98A48C84A62D291721AA"
+				"size" "B8AB1F0B127556155CA6AF84B0A35F46"
+				"download" "D13B37035BE61CCACB603D65BDCAF7AE"
+			}
+			"exiles-testfeature"
+			{
+				"gid" "206416477D863B461C21769B6B6E747E"
+				"size" "BFFF127E73C4768E7D3646D5135A6D65"
+				"download" "C2DC401A36E5049D7FD31BEC411239D8"
+			}
+			"nightly-live"
+			{
+				"gid" "DE433FEA1EFE9ABC75E4196513571583"
+				"size" "3B1A35CC0873AC6B4413D7DE62E18DB9"
+				"download" "94C187DBB037C4A5CFF634D98818A872"
+			}
+			"nightly-stable"
+			{
+				"gid" "7E62330103790C366973A22E46A85930"
+				"size" "D29EB9A0EBD9663330BFBB8110900983"
+				"download" "4D4B5E2109A5976A45BEFC71B6AAEBA4"
+			}
+			"nightly-test"
+			{
+				"gid" "78AF5CA3B9D200A206EC28846210D826"
+				"size" "30F78638FA6813552A2FCFB52D1E1262"
+				"download" "F9C67832C4DFB9EE9D3A688A0955CD1A"
+			}
+			"nightly-trunk"
+			{
+				"gid" "FC4E795EC2B94919009F524C99F4A70D"
+				"size" "99528883365FA0D427221DC8F81A9068"
+				"download" "5DF292C4CFD456FAEE6F3C5C9B50AC3C"
+			}
+			"rc-retail"
+			{
+				"gid" "A922A60969750291665DBAE657AC86BC"
+				"size" "6BF3F14E9B0A3C05254C1CB5BD15AA29"
+				"download" "E4C785997002E543A2F714CF409F8A08"
+			}
+			"retail_backup1"
+			{
+				"gid" "B4B172F5C0645D8D93F6D14C5D90631B"
+				"size" "5214B98A13DF4A38E6890F1F58656EB3"
+				"download" "AA5D955E1DFC4C1689FA7F6509F7BAEE"
+			}
+			"retail_backup2"
+			{
+				"gid" "A4D73AFC56531B3B52BAEAED1F923748"
+				"size" "56C2C2BA272BFF9CB514F65E8822DF4C"
+				"download" "5AB68308082D1D001C8CC70FA8BE85FE"
+			}
+		}
+	}
+	"577840"
+	{
+		"dlcappid" "577840"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1847681229230730152"
+				"size" "583508428"
+				"download" "541488448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"autobuildsystem"
+			{
+				"gid" "31C0838CB34E5F849D184AC0960113AE"
+				"size" "DBF6B47CA31ABB3190531BD3A785C477"
+				"download" "35E3F7F4D6E570DCFF89AF70BAF88118"
+			}
+			"baseline"
+			{
+				"gid" "4231F47CD45D6D49E7E5E937890000AE"
+				"size" "49AB829358083E68A77AF5922F893493"
+				"download" "3B5F68B8B9BB5C67529DC3DD53B3DF8E"
+			}
+			"liveteam"
+			{
+				"gid" "8D384958036ED7173B5E78D4D278D524"
+				"size" "D8222D98ABA83FD215F01CAA3587A688"
+				"download" "B3CB7CC8C0CBED007C2A16B56A727569"
+			}
+			"marketing"
+			{
+				"gid" "4FCA55F5BC547CC2141B77390DD7BB47"
+				"size" "9ED562A1B1AFE920AE4B816EB61E2218"
+				"download" "BBF25C5EB59BDE7E9C3328AC8A253758"
+			}
+			"nightly-experimental"
+			{
+				"gid" "7EB3727287CC0EE4A1269EF7C0ADA194"
+				"size" "FD5B69ADDCDA7E1AF374762096403589"
+				"download" "E0C2A4E19918A1BB0BE01B55D847D136"
+			}
+			"previous_chapter"
+			{
+				"gid" "5FD0D6DF56282C29601042EF944B7F68"
+				"size" "90666F488F2B381A75F97DBAFA8D5ABF"
+				"download" "6041AAFD59AC5F4F0AC341F9657C8BAF"
+			}
+			"2coreqa"
+			{
+				"gid" "D7A71024581B5EC837EF29666098505D"
+				"size" "2E3B73663016D42DBBE06B959604B693"
+				"download" "D251502E97A6BC0126DA3A58F291F3AD"
+			}
+			"3coreqa"
+			{
+				"gid" "206107B477025FCBE3CB7EC213A1531C"
+				"size" "F7CBA6FDF1789A9FCB6FEFDF97BDC8BD"
+				"download" "4B4F10106DB370AA4D1A1B53B0DFC0B2"
+			}
+			"4coreqa"
+			{
+				"gid" "3D8FD958C866A712CDBAAA51D0EEA07C"
+				"size" "8E9D196BB9AD7E6C257AB871F84BD68F"
+				"download" "1B3C5F5F94B1B5255964A69E15E0A5D5"
+			}
+			"5coreqa"
+			{
+				"gid" "D9093CF762A90D49DA50F316CE002578"
+				"size" "FCEFAF12FEE7AA59DB8DDAFC0533AE3F"
+				"download" "E2BE5EDBE70F048AD66281ED8D87D6AE"
+			}
+			"devqa"
+			{
+				"gid" "FC226EF29D2C55FF0BCFC2A9313F6790"
+				"size" "2CA017BC2A2EA5F52F792637B58FF674"
+				"download" "EDFE77C365729613930A347C1D91AE2D"
+			}
+			"exiles-testfeature"
+			{
+				"gid" "253116E77D14842FF37A9A518737773E"
+				"size" "4300089B5D6C067721E96827EB87B8AE"
+				"download" "B8850179B658897ED2703EF599A92675"
+			}
+			"nightly-live"
+			{
+				"gid" "B00FAE0B760584A69CB449D4BAC319BB"
+				"size" "2A02AA3BF1EA03A114DA3F938B940EB5"
+				"download" "272A0CB54B31EF82A5BEE6DDA89E5701"
+			}
+			"nightly-stable"
+			{
+				"gid" "4322EA8968360B6CA042E9C12958BE4D"
+				"size" "B610DCD2F62F465C20E483AFFB6595D2"
+				"download" "1E613934182C0BB5465A9157B86409A5"
+			}
+			"nightly-test"
+			{
+				"gid" "DC18D1FD287778DCD2D374DE32F2BFF7"
+				"size" "52DC14ED1709BCB97622ABEBD78B0954"
+				"download" "08B1D601B3680467BE564224D83C350C"
+			}
+			"nightly-trunk"
+			{
+				"gid" "9907CA8F395238FB1ED580FCE70FEA18"
+				"size" "D1AAAC0A38AC03D7E43A9C58D0B51595"
+				"download" "F2E1251EC37B38A94D84E2CF4FA22325"
+			}
+			"rc-retail"
+			{
+				"gid" "EF394939CD212E17F6AE114B791A19E9"
+				"size" "F74C1EC30F63C3A1F06AD4C8126000B5"
+				"download" "FA2D6C000855EAC44C5AB239947C4298"
+			}
+			"retail_backup1"
+			{
+				"gid" "9F57F502D864F640E26399D8838888C4"
+				"size" "82A743F73E62426C478F4602B276B46B"
+				"download" "D50CA49009FB0C48D93CC522B3F121F1"
+			}
+			"retail_backup2"
+			{
+				"gid" "97EAB3182FE063743C75DABA5CBD409B"
+				"size" "A3FCE70040833597D1B8E69ED1D08017"
+				"download" "1CA58CD5FB0CA5109B64292A298623E0"
+			}
+		}
+	}
+	"440903"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5065914443839130616"
+				"size" "230258957"
+				"download" "97973456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"autobuildsystem"
+			{
+				"gid" "02F3268F889AAEE182DB765C11A4E9D4"
+				"size" "570DCB50022F0AE9702EDA7DC2E3896C"
+				"download" "945DEE006C52BBA9B666AD53BFA9F01D"
+			}
+			"liveteam"
+			{
+				"gid" "7DF009CB650C3752AB0F4C3A6B5AC148"
+				"size" "F8BA25A14F1F96EFB2FFFC2C4E3BA130"
+				"download" "E873D314CCA9B860489FC308000E1FD7"
+			}
+			"marketing"
+			{
+				"gid" "CF5168EEE1094EDD21C4FA73A7F48605"
+				"size" "C27C08B5625B48D2A55403E41BE44354"
+				"download" "30F76993372C9BA3BD0F4E8728154B43"
+			}
+			"previous_chapter"
+			{
+				"gid" "4CB753F18F97118DF50F0B65D7C4C69A"
+				"size" "5A30B60E31616FC1C6F8C6765EDE4A5A"
+				"download" "AE2E3F21168E7679DF141CDACF99EB31"
+			}
+			"2coreqa"
+			{
+				"gid" "02E9B50F6840FF662476739155BDD0DC"
+				"size" "B12A680E6514CDE0D60D06A8E362959B"
+				"download" "B027AAA24EF9FCAA2F9C2A46A00DFB03"
+			}
+			"3coreqa"
+			{
+				"gid" "DB0AF70B8542BCB7977CDBEA72F0BFBE"
+				"size" "F6FB9B9E59AF6DE62D7E634A57247FE9"
+				"download" "9EC2D0E33AA028F5432092DF138684A0"
+			}
+			"4coreqa"
+			{
+				"gid" "4B11B10D7BC45E4225A2C26AA3E1EBF3"
+				"size" "5E6E19F264B8FCBED3B73F8B171753A5"
+				"download" "4F8E8214A355735658BE5CD0FA09BB17"
+			}
+			"5coreqa"
+			{
+				"gid" "2289A14E46AB3069EE5567BF0AF9CF97"
+				"size" "332AED8CBD7C242CD31A022ECCD8A371"
+				"download" "454A8C6718597C3A1B1C86AA50749753"
+			}
+			"devqa"
+			{
+				"gid" "A650ED6AF5FE06A04C27D391511243A1"
+				"size" "0A5DD32DD68257141819315B8555694F"
+				"download" "A9D86CD3919AFC2A2D3FCB40035338BF"
+			}
+			"exiles-testfeature"
+			{
+				"gid" "EC70FD9E1D154377E55DBEC361BCE48B"
+				"size" "00B39239F398B021615A99EF0856FDD5"
+				"download" "A6564A507268397CF34F8C279A27E4FA"
+			}
+			"rc-retail"
+			{
+				"gid" "069E569B89B76AC63C7DB7097AE2E368"
+				"size" "671F2E2DCA156337A8607F4F4AB6556C"
+				"download" "2980411928A0502BA64CB7A480F55071"
+			}
+			"retail_backup1"
+			{
+				"gid" "05D0370632C549D50E7B150382C076DF"
+				"size" "5C23A49684B3655C2C2DB21D2869FBFF"
+				"download" "383BB2B4B3FA29F3E36E4B2AFE6D49AF"
+			}
+			"retail_backup2"
+			{
+				"gid" "BE08F811856062FFD06FD16206302357"
+				"size" "72F4709C293A7597EAB8F8883E7C422E"
+				"download" "0E5B4FF82D17BA5A44BC578276071B0B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14663686"
+			"timeupdated" "1718020827"
+		}
+		"autobuildsystem"
+		{
+			"buildid" "7921456"
+			"pwdrequired" "1"
+			"timeupdated" "1640098419"
+		}
+		"baseline"
+		{
+			"buildid" "2595960"
+			"pwdrequired" "1"
+			"timeupdated" "1520847731"
+		}
+		"liveteam"
+		{
+			"buildid" "13774705"
+			"pwdrequired" "1"
+			"timeupdated" "1710771275"
+		}
+		"marketing"
+		{
+			"buildid" "12729324"
+			"pwdrequired" "1"
+			"timeupdated" "1700213347"
+		}
+		"nightly-experimental"
+		{
+			"buildid" "13142930"
+			"pwdrequired" "1"
+			"timeupdated" "1704945734"
+		}
+		"previous_chapter"
+		{
+			"buildid" "13326193"
+			"pwdrequired" "1"
+			"timeupdated" "1713871587"
+		}
+		"2coreqa"
+		{
+			"buildid" "14738470"
+			"pwdrequired" "1"
+			"timeupdated" "1718601759"
+		}
+		"3coreqa"
+		{
+			"buildid" "14593939"
+			"pwdrequired" "1"
+			"timeupdated" "1717479720"
+		}
+		"4coreqa"
+		{
+			"buildid" "14738467"
+			"pwdrequired" "1"
+			"timeupdated" "1718601721"
+		}
+		"5coreqa"
+		{
+			"buildid" "14404185"
+			"pwdrequired" "1"
+			"timeupdated" "1715954143"
+		}
+		"devqa"
+		{
+			"buildid" "14643980"
+			"pwdrequired" "1"
+			"timeupdated" "1717788517"
+		}
+		"exiles-testfeature"
+		{
+			"buildid" "14736978"
+			"pwdrequired" "1"
+			"timeupdated" "1718582379"
+		}
+		"nightly-live"
+		{
+			"buildid" "14577599"
+			"pwdrequired" "1"
+			"timeupdated" "1717349072"
+		}
+		"nightly-stable"
+		{
+			"buildid" "14670243"
+			"pwdrequired" "1"
+			"timeupdated" "1718058824"
+		}
+		"nightly-test"
+		{
+			"buildid" "14736659"
+			"pwdrequired" "1"
+			"timeupdated" "1718577781"
+		}
+		"nightly-trunk"
+		{
+			"buildid" "14736791"
+			"pwdrequired" "1"
+			"timeupdated" "1718579446"
+		}
+		"rc-retail"
+		{
+			"buildid" "14625288"
+			"pwdrequired" "1"
+			"timeupdated" "1717674468"
+		}
+		"retail_backup1"
+		{
+			"buildid" "14092120"
+			"pwdrequired" "1"
+			"timeupdated" "1715686703"
+		}
+		"retail_backup2"
+		{
+			"buildid" "14008465"
+			"pwdrequired" "1"
+			"timeupdated" "1715686652"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "23996173"
+"_sha" "899e53c1f2cedde308cc1626f63b453a31cbaa31"
+"_size" "21186"
