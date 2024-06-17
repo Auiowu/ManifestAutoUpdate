@@ -1,0 +1,574 @@
+"appid" "1404850"
+"common"
+{
+	"name" "Luck be a Landlord"
+	"type" "Game"
+	"logo" "9d0c7b5e530943171177f90783be607b50c4b95b"
+	"logo_small" "9d0c7b5e530943171177f90783be607b50c4b95b_thumb"
+	"icon" "ce8b9c2719ccf0fb47c3b97eb58f758913a268fd"
+	"clienticon" "aa3f4e1a9b311c9150554aa1cee0ab5b0a200291"
+	"clienttga" "d0a8225627e92b4cdbb885f2114d88cb39215169"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"brazilian" "Sorte seja o Proprietário"
+		"schinese" "幸运房东"
+		"russian" "Удачи, арендодатель"
+		"french" "La Chance du Locataire"
+		"italian" "Luck be a Landlord"
+		"german" "Mieter-Fortuna"
+		"spanish" "La Suerte es un Casero"
+		"danish" "Lejerens Held"
+		"japanese" "幸運の大家様"
+		"koreana" "집주인이 너무해"
+		"tchinese" "租戶賭財運"
+		"latam" "Luck be a Landlord"
+		"polish" "Dola Lokatora"
+		"vietnamese" "Đánh Cược với Chủ Nhà"
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1667952000"
+		"tested_build_id" "9774416"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"english" "capsule_231x87.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"danish" "capsule_231x87_danish.jpg"
+		"portuguese" "capsule_231x87_portuguese.jpg"
+		"vietnamese" "capsule_231x87_vietnamese.jpg"
+		"turkish" "capsule_231x87_turkish.jpg"
+	}
+	"header_image"
+	{
+		"italian" "header_italian.jpg"
+		"russian" "header_russian.jpg"
+		"schinese" "header_schinese.jpg"
+		"spanish" "header_spanish.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"danish" "header_danish.jpg"
+		"english" "header.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"latam" "header_latam.jpg"
+		"polish" "header_polish.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"vietnamese" "header_vietnamese.jpg"
+		"turkish" "header_turkish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "pt-br,da,en,fr,de,it,ru,zh-cn,es,es-419,pl,zh-tw,ja,ko,pt,vi,tr"
+		"library_hero" "en"
+		"library_logo" "pt-br,da,en,fr,de,it,ru,zh-cn,es,zh-tw,ja,ko,es-419,pl,pt,vi,tr"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708029626"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TrampolineTales"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TrampolineTales"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1673019092"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1404850"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "32322"
+		"2" "3959"
+		"3" "9"
+		"4" "5125"
+		"5" "599"
+		"6" "3964"
+		"7" "16250"
+		"8" "1716"
+		"9" "4845"
+		"10" "8945"
+		"11" "1084988"
+		"12" "597"
+		"13" "12472"
+		"14" "4182"
+		"15" "492"
+		"16" "3871"
+		"17" "4004"
+		"18" "493"
+		"19" "11333"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "TrampolineTales"
+	"publisher" "TrampolineTales"
+}
+"config"
+{
+	"installdir" "Luck be a Landlord"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Luck be a Landlord.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Luck be a Landlord.app\\Contents\\MacOS\\Luck be a Landlord"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Luck be a Landlord.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1404851"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4480294586221372595"
+				"size" "160773599"
+				"download" "85567840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"jp-beta"
+			{
+				"gid" "543E9CDDBB68936E1DA97FAF3BBC22B8"
+				"size" "AC31E3B810D5292E0081AB2B917853D4"
+				"download" "A928C04D21A8703AAB8B6EDD5D8E4B5F"
+			}
+			"screen-reader-beta"
+			{
+				"gid" "014BE1B8B49B3D12EBDAEF506779E1E1"
+				"size" "4E3F4732955A1FC6E33E63E0065978FA"
+				"download" "6DF7097DDE322580723B3B3806568792"
+			}
+			"zh-beta"
+			{
+				"gid" "405B27E8B639B1862AEBF263A23A4DF4"
+				"size" "0BF7AB86BBC98B30F34DB1A17E4ED251"
+				"download" "F639177F038C1EEA2B42C00FDD58A6E4"
+			}
+			"ar-beta"
+			{
+				"gid" "B4165A34205D7BDACED2FB398DC5C39E"
+				"size" "654E2B9CFC3196C3EBC2AFE717D33481"
+				"download" "E8CDB129128A77091655B4DAFB86813C"
+			}
+			"workshop-beta-2"
+			{
+				"gid" "59CE093C3E07AC8D8D419356913A4ADC"
+				"size" "1154DACC7C248FB30A66CAFEAF804504"
+				"download" "5E27BB6128AE2B425BAA84F070DA2263"
+			}
+		}
+	}
+	"1404852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6735708717985560722"
+				"size" "270190235"
+				"download" "97949328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"jp-beta"
+			{
+				"gid" "04A3A266792425F557C05D9EC813B1AA"
+				"size" "319B2F4433B3C0E36B69C306A579E054"
+				"download" "1EF36B9AA9150A7F7A4E25B01CD82911"
+			}
+			"screen-reader-beta"
+			{
+				"gid" "2EBD27BFF07E16D618B64F968A803C62"
+				"size" "689E1321508D07B3CE5F9D0A4DB4EB1D"
+				"download" "2C56BA9FBF4D6BD5D628C11D5B0365F4"
+			}
+			"zh-beta"
+			{
+				"gid" "5C1544A54D0473A2839296462C009AC8"
+				"size" "7981DB6425CF1112B84F53A18503EA71"
+				"download" "4F8F1CD1DA1468E06A5E4E915F632CA2"
+			}
+			"ar-beta"
+			{
+				"gid" "7693C7CC017EDAA468334CF50932535F"
+				"size" "4A322DB38E204517184BF9B5A4B0B298"
+				"download" "849D9F1F1D188D4533404D747B920D30"
+			}
+			"workshop-beta-2"
+			{
+				"gid" "E36E16BA0B9D38F4D3525242DF002371"
+				"size" "CD4D635D776B5B356EF34F84E99D345D"
+				"download" "FA030CF9B2C5812F700E80EE69287040"
+			}
+		}
+	}
+	"1404853"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2441003354704026965"
+				"size" "183799972"
+				"download" "88332352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"jp-beta"
+			{
+				"gid" "E3341961D2056CEDB752F6A54CA4239D"
+				"size" "250345BC93D9FB6F58BB1414924109F4"
+				"download" "BF5682C1C9AD1132503A585A816D5C54"
+			}
+			"screen-reader-beta"
+			{
+				"gid" "7C8787DBB47E6927244F67869BA0B243"
+				"size" "96A8BB39C1820433D24639CA6E2896C5"
+				"download" "D19092E9F06FE10117DD227892E01DF3"
+			}
+			"zh-beta"
+			{
+				"gid" "B5C465F4CA58CA9C773B1946838A9879"
+				"size" "53583B76D7E609A41DD6A8E3050E41CB"
+				"download" "E7730FADF6116311C4C1AE85C7628191"
+			}
+			"ar-beta"
+			{
+				"gid" "168A7D25075DCCA2F0A73CE71493E843"
+				"size" "95800DF5615E23A1ACFA7D2440C9FD37"
+				"download" "1FAE47FFC7AB11CCA85521557542BA40"
+			}
+			"workshop-beta-2"
+			{
+				"gid" "D08D7D27BA0112679EB772DE9A2F6F0A"
+				"size" "525E5AA0847F711A9D07C195649DB6AF"
+				"download" "22BA9C76FFE9C3ADFAF2E04D0D404FA6"
+			}
+		}
+	}
+	"baselanguages" ""
+	"workshopdepot" "1404850"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14255162"
+			"timeupdated" "1714738306"
+		}
+		"jp-beta"
+		{
+			"buildid" "13468723"
+			"pwdrequired" "1"
+			"timeupdated" "1708027688"
+		}
+		"screen-reader-beta"
+		{
+			"buildid" "13254044"
+			"pwdrequired" "1"
+			"timeupdated" "1706054042"
+		}
+		"zh-beta"
+		{
+			"buildid" "13169053"
+			"pwdrequired" "1"
+			"timeupdated" "1705240009"
+		}
+		"ar-beta"
+		{
+			"buildid" "14653536"
+			"pwdrequired" "1"
+			"timeupdated" "1717899057"
+		}
+		"workshop-beta-2"
+		{
+			"buildid" "14239458"
+			"pwdrequired" "1"
+			"timeupdated" "1714619691"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Luck be a Landlord"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Godot/app_userdata/Luck be a Landlord"
+					"replace" ".local/share/godot/app_userdata/Luck be a Landlord"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23890672"
+"_sha" "3a7f996fd5ace02b92644b24098073bd423c86a2"
+"_size" "11711"
