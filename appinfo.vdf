@@ -1,0 +1,295 @@
+"appid" "1695795"
+"common"
+{
+	"name" "Halo MCC Mod Uploader"
+	"type" "Tool"
+	"parent" "976730"
+	"releasestate" "released"
+	"clienticon" "a4dce2a0d039a59831020830335e4ba79f9c7f0d"
+	"clienttga" "84f1d1068517a095fb1f7a96bcc7cc88094a6358"
+	"icon" "91c8aabecc955e0a392522855d812abcdb6803b5"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1695795_eula_0"
+			"name" "Halo MCC Mod Uploader EULA"
+			"url" "https://store.steampowered.com//eula/1695795_eula_0"
+			"version" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "84.83460330516596"
+			"height_pct" "95.13888888888889"
+		}
+	}
+	"store_asset_mtime" "1670446555"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "343 Industries"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Splash Damage"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Ruffian Games"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Bungie"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"gameid" "1695795"
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"dlcforappid" "976730"
+	"mustownapptopurchase" "976730"
+	"disableoverlay" "1"
+	"disableoverlayinjection" "1"
+	"developer" "343 Industries"
+	"homepage" "http://www.halowaypoint.com"
+}
+"config"
+{
+	"installdir" "Excession"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ExcessionApp.exe"
+			"description_loc"
+			{
+				"english" "Launch Excession"
+			}
+			"description" "Launch Excession"
+		}
+	}
+}
+"depots"
+{
+	"1701280"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6367935247596888591"
+				"size" "187816004"
+				"download" "103125120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dailybuild"
+			{
+				"gid" "A59A097E190DA5591FDE6D1BC111CCFB"
+				"size" "35E1F7CCB791F56121078834559CC260"
+				"download" "D92FAB2B0786BB37AA7CC33E4A8DCA76"
+			}
+			"dailybuild-qfe1"
+			{
+				"gid" "53F4B9B6C38D4693572F1288043FC702"
+				"size" "AF4AB924B55C42681A8031E966C022A4"
+				"download" "82D464668EBD96E4C3AC4E1050BB26C1"
+			}
+			"dailybuild-release"
+			{
+				"gid" "FB5919CEF1DA661EE1A682A25A05CFBA"
+				"size" "F780E52E0A350D6BEFF672318EE1668A"
+				"download" "8772EBF8CEE1B08253629CFF18A2C56A"
+			}
+			"thepub"
+			{
+				"gid" "F58D0DED3ED3C3948323CF38D3A99FE2"
+				"size" "E4359A103FCC48F0D4C33F9B7031D9C2"
+				"download" "D7521BAA1BDD4E16E72F2C412D79B6F4"
+			}
+			"burgersandfries_011923"
+			{
+				"gid" "61DEE511B3147AC01FF43AB8C3D3C284"
+				"size" "CBC0180FE6CC7000C2D68291CB8A6342"
+				"download" "EBB09E2431CB78C1829190765322DD32"
+			}
+			"dailybuild-main"
+			{
+				"gid" "79E312F40222594437D4987F5B30E1B1"
+				"size" "00BB0B3BD6D9FBA20E539B80C09D36D9"
+				"download" "DEFDC6BD5383E8FC2EE4E52A3A10F25D"
+			}
+		}
+	}
+	"workshopdepot" "1695795"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13469874"
+			"timeupdated" "1708038080"
+		}
+		"dailybuild"
+		{
+			"buildid" "10141872"
+			"pwdrequired" "1"
+			"timeupdated" "1670979087"
+		}
+		"dailybuild-qfe1"
+		{
+			"buildid" "12219201"
+			"pwdrequired" "1"
+			"timeupdated" "1695070152"
+		}
+		"dailybuild-release"
+		{
+			"buildid" "13469874"
+			"pwdrequired" "1"
+			"timeupdated" "1708035922"
+		}
+		"thepub"
+		{
+			"buildid" "10141872"
+			"pwdrequired" "1"
+			"timeupdated" "1671061130"
+		}
+		"burgersandfries_011923"
+		{
+			"buildid" "14251701"
+			"pwdrequired" "1"
+			"timeupdated" "1714753750"
+		}
+		"dailybuild-main"
+		{
+			"buildid" "14251701"
+			"pwdrequired" "1"
+			"timeupdated" "1714709639"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "102428800"
+	"maxnumfiles" "200"
+	"appidredirect" "976730"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "23648874"
+"_sha" "2a7912a83058d5c673475821a07e8cb5f24c4bd6"
+"_size" "5300"
