@@ -1,0 +1,498 @@
+"appid" "1694420"
+"common"
+{
+	"name" "Card Survival: Tropical Island"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "763eda076f01974028ff102ef00f68fc87df05c2"
+	"clienttga" "b16d03520335e07f5daf349b78b619bf2ba1094a"
+	"icon" "8e8c1154fc40174fe6a627c0bedd07ede695a836"
+	"logo" "b40cd542bd6f2ffa50f53f2095b963567b1a68e9"
+	"logo_small" "b40cd542bd6f2ffa50f53f2095b963567b1a68e9_thumb"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "卡牌生存：热带岛屿"
+		"tchinese" "卡牌生存：热带岛屿"
+		"koreana" "카드 서바이벌: 열대 섬"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1673308800"
+		"tested_build_id" "9646207"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn,ja"
+		"library_hero" "en,zh-tw,zh-cn,ja"
+		"library_logo" "en,zh-cn,zh-tw,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "77.71295215869317"
+			"height_pct" "92.40121615789738"
+		}
+	}
+	"store_asset_mtime" "1707499703"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "WinterSpring Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WinterSpring Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1663371117"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1694420"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1662"
+		"2" "1666"
+		"3" "599"
+		"4" "4182"
+		"5" "1702"
+		"6" "1759"
+		"7" "9"
+		"8" "492"
+		"9" "6815"
+		"10" "31275"
+		"11" "1716"
+		"12" "1100689"
+		"13" "1677"
+		"14" "8945"
+		"15" "1721"
+		"16" "1770"
+		"17" "493"
+		"18" "3959"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "WinterSpring Games"
+	"publisher" "WinterSpring Games"
+}
+"config"
+{
+	"installdir" "Card Survival Tropical Island"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Card Survival - Tropical Island.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CSTI.app/Contents/MacOS/Card Survival - Tropical Island"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1694421"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5260930073706306569"
+				"size" "425009696"
+				"download" "131654976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chineselocalizationtest"
+			{
+				"gid" "19E9289AA59F28E80BADEC457DB4808D"
+				"size" "4206EE22E4072E93E7FC322F123C3E21"
+				"download" "F6E0E99F8CAAB4191062B00B36B4EEED"
+			}
+			"frenchlocalizationtest"
+			{
+				"gid" "13D09F4FE18A03B390C50926C91BD66B"
+				"size" "D74F081E224DEDED2DD338E7B0CA0CA5"
+				"download" "5D73159E12CCF49237A4CCF2744D4899"
+			}
+			"germanlocalizationtest"
+			{
+				"gid" "C06C769082F612C3F83D4FE75DA25CA0"
+				"size" "9FFA776E3C3CDBA78018E56579A334A0"
+				"download" "94B01D6E46BE5130C4D24327132E5D43"
+			}
+			"hungarianlocalizationtest"
+			{
+				"gid" "88C7382F31E51CC9D93E24614F525CAC"
+				"size" "38163B1E8001C7ADE5D309EBDE11BC80"
+				"download" "7DF8E240163EF9CC0BBA2929249DE375"
+			}
+			"japaneselocalizationtest"
+			{
+				"gid" "33F8AA29846928DEEB7DE027F2D2414F"
+				"size" "C6D1E9ED6F2A60EA0FA14F4A522127BC"
+				"download" "7CC467ACCA8E9A5E662FE1FBD1E10710"
+			}
+			"koreanlocalizationtest"
+			{
+				"gid" "EFFFDF9CA64CC5A8B9251593FD330C8D"
+				"size" "A91C9E41229944E3750AB69111168759"
+				"download" "D96B79A144C4EF63784397E5B73033B7"
+			}
+			"mactest"
+			{
+				"gid" "81DEF037808F5A157FE6AD275C59C47F"
+				"size" "304A44AC172678C909BA72B589BAD2AC"
+				"download" "2329038FE9F9859379E1024F2F348AD2"
+			}
+			"neomaretestingbranch"
+			{
+				"gid" "75D8548476EDE2562CCCC78597EF536D"
+				"size" "127C689C35D12886A5B596B0C310C5AF"
+				"download" "54BBD1A2CA5C3EAD72D98EF75D81E415"
+			}
+			"spanishlocalizationtest"
+			{
+				"gid" "8933D3A04F745E2FF75EE9975613CEB7"
+				"size" "630A9458A3F3B6821C6EEFC7BD43C295"
+				"download" "CD27808A672A03C8D8B7BFB87DBAB012"
+			}
+			"uiresearch"
+			{
+				"gid" "474E02445667FB2712963E9E203761CA"
+				"size" "1F8EADBE49416710D320B77F5C2ECA51"
+				"download" "3E84EC41DEE0A720A537A16945FCACB3"
+			}
+		}
+	}
+	"1694422"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "143966611682855529"
+				"size" "415460253"
+				"download" "129450336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"frenchlocalizationtest"
+			{
+				"gid" "2FC38B709062BEDDB61C0694CC20ACAC"
+				"size" "9E756BA57981EB5D1FEB3BEB72738537"
+				"download" "6E5721FAA3864AE8909DA28A2EA26C04"
+			}
+			"germanlocalizationtest"
+			{
+				"gid" "C9A86977D4E53EDBD2EACD29E4611EA0"
+				"size" "0717989A55AAE6551D85705773A5A77A"
+				"download" "0725E5CFFF680505B4303034B5FB2663"
+			}
+			"hungarianlocalizationtest"
+			{
+				"gid" "3E5556B74E38E167F01D67115EE37AFF"
+				"size" "F7A709195E2D56F3F7A7AA17BADF916A"
+				"download" "899EEC5A4C36E411BD8CE39442F47D9B"
+			}
+			"japaneselocalizationtest"
+			{
+				"gid" "E5CD855178FDE54308657C670398191B"
+				"size" "78D41B4722D8D3BE7FB1789C34008F7C"
+				"download" "D9FEFFA88DB89ECF206465319B821ECF"
+			}
+			"koreanlocalizationtest"
+			{
+				"gid" "5AF417F66694E9E50D17598453AD7152"
+				"size" "B28486F215375094A6969A470ADC3067"
+				"download" "2DDF5B79A7725D44DCBF04B196298E08"
+			}
+			"mactest"
+			{
+				"gid" "AE67C5146B448EFCC5F9C4EE9E39DDB4"
+				"size" "AF9E6B8F0A89AC370E2D71B9E9E9FDF7"
+				"download" "362FFCF454A2BD53D824FB21F9594805"
+			}
+			"neomaretestingbranch"
+			{
+				"gid" "F357149F7C8762CCDFC36BBDD776984A"
+				"size" "53CCF5CD4D76E5EC5099389803EB4CE4"
+				"download" "8D94B6DA69F6E2DCAA172ABC19E54ABB"
+			}
+			"spanishlocalizationtest"
+			{
+				"gid" "6B92B5B8F469A3C2B2AA1D433EFF57FA"
+				"size" "1C8F272716FF90BA44E6A34485BA382C"
+				"download" "E2DAB563B10A505A16805DACFBE01E77"
+			}
+			"uiresearch"
+			{
+				"gid" "BF0CE8F904439A40AA515601F9F0F5DC"
+				"size" "808F5758A11D101C2F4A74DE5FF32F11"
+				"download" "245ABBF1D1249578B65B4BC3548CD99E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13987548"
+			"timeupdated" "1712591139"
+		}
+		"chineselocalizationtest"
+		{
+			"buildid" "10076072"
+			"pwdrequired" "1"
+			"timeupdated" "1670190545"
+		}
+		"frenchlocalizationtest"
+		{
+			"buildid" "13464933"
+			"pwdrequired" "1"
+			"timeupdated" "1708002755"
+		}
+		"germanlocalizationtest"
+		{
+			"buildid" "11793534"
+			"pwdrequired" "1"
+			"timeupdated" "1690386088"
+		}
+		"hungarianlocalizationtest"
+		{
+			"buildid" "13386931"
+			"pwdrequired" "1"
+			"timeupdated" "1707267653"
+		}
+		"japaneselocalizationtest"
+		{
+			"buildid" "13417445"
+			"pwdrequired" "1"
+			"timeupdated" "1707501885"
+		}
+		"koreanlocalizationtest"
+		{
+			"buildid" "11528513"
+			"pwdrequired" "1"
+			"timeupdated" "1687382794"
+		}
+		"mactest"
+		{
+			"buildid" "13847222"
+			"pwdrequired" "1"
+			"timeupdated" "1711392561"
+		}
+		"neomaretestingbranch"
+		{
+			"buildid" "12452743"
+			"pwdrequired" "1"
+			"timeupdated" "1697468534"
+		}
+		"spanishlocalizationtest"
+		{
+			"buildid" "11528513"
+			"pwdrequired" "1"
+			"timeupdated" "1687382803"
+		}
+		"uiresearch"
+		{
+			"buildid" "10666780"
+			"pwdrequired" "1"
+			"timeupdated" "1677690417"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WinterSpring Games/Card Survival - Tropical Island"
+			"pattern" "SaveData.json"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WinterSpring Games/Card Survival - Tropical Island"
+			"pattern" "SaveData.json.backup"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WinterSpring Games/Card Survival - Tropical Island"
+			"pattern" "Options.json"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WinterSpring Games/Card Survival - Tropical Island/Games"
+			"pattern" "*.json"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WinterSpring Games/Card Survival - Tropical Island/Games"
+			"pattern" "*.json.backup"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "WinterSpring Games/Card Survival - Tropical Island"
+					"replace" "com.winterspring.cardsurvival"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23075158"
+"_sha" "c638950e679c6a28967dc7b2fb2a7835b6876e89"
+"_size" "10617"
