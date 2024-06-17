@@ -1,0 +1,596 @@
+"appid" "2067920"
+"common"
+{
+	"name" "Rogue: Genesia "
+	"type" "Game"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "3902c16718546348eae5db5838e1123189641198"
+	"clienttga" "13a1d2d302502d0ed05fc5dba1fea5b6470aa27b"
+	"clienticon" "b160a71df2d7a022379c3ee1e008a12c57c97989"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"french" "1"
+	}
+	"name_localized"
+	{
+		"english" "Rogue: Genesia"
+		"schinese" "罗格：救世传说"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1706140800"
+		"tested_build_id" "13205891"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "46.68192219679635"
+			"height_pct" "87.8419458526358"
+		}
+	}
+	"store_asset_mtime" "1705478101"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ouadi Huard"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " iolaCorp Studio"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "3"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_30" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1663599011"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2067920"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4885"
+		"2" "3959"
+		"3" "1773"
+		"4" "4758"
+		"5" "6426"
+		"6" "6730"
+		"7" "19"
+		"8" "1716"
+		"9" "4975"
+		"10" "3871"
+		"11" "9"
+		"12" "4791"
+		"13" "4191"
+		"14" "5125"
+		"15" "7481"
+		"16" "122"
+		"17" "597"
+		"18" "3964"
+		"19" "1684"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Ouadi Huard"
+	"publisher" " iolaCorp Studio"
+	"listofdlc" "2388080,2388081"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rogue Genesia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rogue Genesia.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "rg0.6"
+			}
+			"description_loc"
+			{
+				"english" "Play Windows Version"
+				"french" "Windows"
+			}
+			"description" "Play Windows Version"
+		}
+		"1"
+		{
+			"executable" "Rogue Genesia.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Linux"
+				"french" "Linux"
+			}
+			"description" "Linux"
+		}
+		"2"
+		{
+			"executable" "Vanilla/Rogue Genesia.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Vanilla"
+			}
+			"description" "Vanilla"
+		}
+		"3"
+		{
+			"executable" "Modded/Rogue Genesia.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Modded"
+			}
+			"description" "Modded"
+		}
+		"4"
+		{
+			"executable" "Rogue Genesia.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "rg0.7"
+			}
+			"description_loc"
+			{
+				"english" "Play Version 0.7 of Rogue: Genesia"
+			}
+			"description" "Play Version 0.7 of Rogue: Genesia"
+		}
+		"5"
+		{
+			"executable" "Vanilla/Rogue Genesia.exe"
+			"arguments" "-force-gfx-jobs off"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Disable GFX Jobs"
+			}
+			"description" "Disable GFX Jobs"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,schinese,japanese,turkish,brazilian"
+	"2067921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4005646111758751981"
+				"size" "1650911603"
+				"download" "336674256"
+			}
+			"rg0.8"
+			{
+				"gid" "4702092123256513491"
+				"size" "744368183"
+				"download" "133383568"
+			}
+			"rg0.7"
+			{
+				"gid" "4091850965422763658"
+				"size" "356563460"
+				"download" "109331936"
+			}
+			"rg0.6"
+			{
+				"gid" "8849458293282878496"
+				"size" "312624599"
+				"download" "98435568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"indevbeta"
+			{
+				"gid" "8D02D5671ECDF7114284470C2AFF00AC"
+				"size" "E0E1C27E4047B05DD36E4846EFC01717"
+				"download" "B182B06687030BBE6D540D28917F7C0A"
+			}
+			"rg0.10_beta"
+			{
+				"gid" "44EC5FB4020637BC1F94BCDB24E67E47"
+				"size" "EFBD505C88986973D49F210F56AEE4F5"
+				"download" "1C9F36B2610518D079400DB886AEFAC0"
+			}
+		}
+	}
+	"2067922"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "985230311967510435"
+				"size" "770779161"
+				"download" "273024880"
+			}
+			"rg0.8"
+			{
+				"gid" "4041459143321850820"
+				"size" "455413831"
+				"download" "129249216"
+			}
+			"rg0.7"
+			{
+				"gid" "5396456951922253266"
+				"size" "409991214"
+				"download" "117842416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"indevbeta"
+			{
+				"gid" "3267B87EBC4E9154D3D978DAEB7D4302"
+				"size" "00D556FF1412883AAE65F8976F783FE8"
+				"download" "633986B4DC1175BE9F8E98726F29B23A"
+			}
+			"rg0.10_beta"
+			{
+				"gid" "3EDD71C08965B0F8B6E543E86A7E4CE5"
+				"size" "6119CA040CF35AB0BB308A9420C8D829"
+				"download" "FD2857FC1A74B6CF3009BC3C3C0551C9"
+			}
+		}
+	}
+	"2067923"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"workshopdepot" "2067920"
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13489403"
+			"timeupdated" "1708247007"
+		}
+		"indevbeta"
+		{
+			"buildid" "14692695"
+			"pwdrequired" "1"
+			"timeupdated" "1718201102"
+		}
+		"rg0.10_beta"
+		{
+			"buildid" "14692695"
+			"pwdrequired" "1"
+			"timeupdated" "1718201158"
+		}
+		"rg0.8"
+		{
+			"buildid" "11356759"
+			"description" "(OLD) Version 0.8"
+			"timeupdated" "1693318185"
+		}
+		"rg0.7"
+		{
+			"buildid" "10145813"
+			"description" "(OLD) Version 0.7"
+			"timeupdated" "1678105530"
+		}
+		"rg0.6"
+		{
+			"buildid" "9611151"
+			"description" "(OLD) Version 0.6"
+			"timeupdated" "1668430850"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia"
+			"pattern" "GameDataSave.rgsav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia"
+			"pattern" "Achievements.rgsav"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia"
+			"pattern" "Achievement.rgsav"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia"
+			"pattern" "PersistantSave.rgsav"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia/Profile"
+			"pattern" "EnabledMods.json"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia/Profile"
+			"pattern" "*GameHistory.rgsav"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuardOuadi/Rogue Genesia/Profile"
+			"pattern" "*Run.rgsav"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "HuardOuadi/Rogue Genesia"
+					"replace" "HuardOuadi/Rogue Genesia"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "HuardOuadi/Rogue Genesia"
+					"replace" "HuardOuadi/Rogue Genesia"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_atmainmenu" "At the main menu"
+				"#status_survivors" "%worldTier%-Rank Survivors mode | %time%"
+				"#status_reachedinfinity" "Reached Infinity in %worldTier%-Rank Survivors mode"
+				"#status_gameoversurvivors" "Gameover - %worldTier%-Rank survivors mode | %time%"
+				"#status_victorysurvivors" "Victory - %worldTier%-Rank survivors mode | %time%"
+				"#status_gameoverrog" "Gameover - %worldTier%-Rank Rogs\' mode - Stage %stage% - Zone %zone%"
+				"#status_victoryrog" "Victory - %worldTier%-Rank Rogs\' mode - Stage %stage% - Zone %zone%"
+				"#status_soulshop" "Soul shop - Soul coin: %soulcoin%"
+				"#status_selectstage" "%worldTier%-Rank - Stage Selection - Stage %stage% - Zone %zone%"
+				"#status_event" "%worldTier%-Rank - Event: %eventname% - Stage %stage% - Zone %zone%"
+				"#status_shop" "%worldTier%-Rank - Shop - Gold: %gold% - Stage %stage% - Zone %zone%"
+				"#status_blasksmith" "%worldTier%-Rank - Blacksmith - Gold: %gold% - Stage %stage% - Zone %zone%"
+				"#status_chest" "%worldTier%-Rank - Chest - Stage %stage% - Zone %zone%"
+				"#status_reward" "%worldTier%-Rank - Stage reward - Stage %stage% - Zone %zone%"
+				"#status_roguestage" "%worldTier%-Rank - {#Stage_%currentstage%} - Stage %stage% - Zone %zone%"
+				"#stage_normalstage" "Combat Stage"
+				"#stage_elitestage" "Elite Stage"
+				"#stage_swarmstage" "Swarm Stage"
+				"#stage_eliteswarmstage" "Elite Swarm Stage"
+				"#stage_bossstage" "Boss Stage"
+				"#stage_midbossstage" "Mid-Boss Stage"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_atmainmenu" "Au menu principal"
+				"#status_survivors" "Mode Survivors rang %worldTier% | %time%"
+				"#status_reachedinfinity" "Atteint l\'infini en mode survivors de rang %worldTier%"
+				"#status_gameoversurvivors" "Defaite - survivors de rang %worldTier% | %time%"
+				"#status_victorysurvivors" "Victoire - survivors de rang %worldTier% | %time%"
+				"#status_gameoverrog" "Defaite - Mode Rogs %worldTier% - Stage %stage% - Zone %zone%"
+				"#status_victoryrog" "Victoire - Mode Rogs %worldTier% - Stage %stage% - Zone %zone%"
+				"#status_soulshop" "Marchand D\'âme - Pièces d\'âme: %soulcoin%"
+				"#status_selectstage" "Rang %worldTier% - Selection de stage - Stage %stage% - Zone %zone%"
+				"#status_event" "Rang %worldTier% - Evénement: %eventname% - Stage %stage% - Zone %zone%"
+				"#status_shop" "Rang %worldTier% - Marchand - Or: %gold% - Stage %stage% - Zone %zone%"
+				"#status_blasksmith" "Rang %worldTier% - Forgeron - Or: %gold% - Stage %stage% - Zone %zone%"
+				"#status_chest" "Rang %worldTier% - Coffre - Stage %stage% - Zone %zone%"
+				"#status_reward" "Rang %worldTier% - Récompense - Stage %stage% - Zone %zone%"
+				"#status_roguestage" "Rang %worldTier% - {#Stage_%currentstage%} - Stage %stage% - Zone %zone%"
+				"#stage_normalstage" "Combat"
+				"#stage_elitestage" "Elite"
+				"#stage_swarmstage" "Essaim"
+				"#stage_eliteswarmstage" "Essaim d\'élite"
+				"#stage_bossstage" "Boss"
+				"#stage_midbossstage" "Mini Boss"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23940562"
+"_sha" "7254020e77b33caabe5468a5f09e7dbfa7e23bc6"
+"_size" "12978"
