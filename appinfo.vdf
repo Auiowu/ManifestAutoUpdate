@@ -1,0 +1,212 @@
+"appid" "952730"
+"common"
+{
+	"name" "18层"
+	"type" "Game"
+	"clienticon" "ba56c633499bc8ea9d109d78387e0404e0fa8c2e"
+	"clienticns" "952b5f5f3cc333d1154b21fd0408fb01874a914e"
+	"clienttga" "3a449f9049aaeb4ea55bfb7f78c239445ce2c41b"
+	"icon" "94c287a2b421dcf58b684a2adf979db669b8755c"
+	"logo" "cbdbcac2af530e0b62360ea2dc0d11e5faf38096"
+	"logo_small" "cbdbcac2af530e0b62360ea2dc0d11e5faf38096_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"spanish" "header_spanish.jpg"
+		"latam" "header_latam.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.538737364127094"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1705141662"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "幻壁工作室 DWall-studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" " 幻壁工作室 DWall-studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "恐怖,horror,惊悚,心理恐怖,国产独立"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1647535928"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "952730"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "1667"
+		"2" "5716"
+		"3" "1664"
+		"4" "21"
+		"5" "599"
+		"6" "122"
+		"7" "9204"
+		"8" "4106"
+		"9" "4191"
+		"10" "3839"
+		"11" "5984"
+		"12" "4064"
+		"13" "3978"
+		"14" "7250"
+		"15" "1687"
+		"16" "4182"
+		"17" "5186"
+		"18" "5395"
+		"19" "3916"
+	}
+	"review_score" "5"
+	"review_percentage" "51"
+}
+"extended"
+{
+	"developer" "幻壁工作室 DWall-studio"
+	"publisher" " 幻壁工作室 DWall-studio"
+}
+"config"
+{
+	"installdir" "18hell"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "18hell.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "18hell.exe"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"952732"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8060410344650488266"
+				"size" "5761814205"
+				"download" "5597409888"
+			}
+			"18hell:lost"
+			{
+				"gid" "8976757778139219512"
+				"size" "7223907741"
+				"download" "6200029648"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8299931"
+			"timeupdated" "1705150508"
+		}
+		"18hell:lost"
+		{
+			"buildid" "14108435"
+			"description" "18Hell:Lost"
+			"timeupdated" "1713554099"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23451053"
+"_sha" "b1ce01c29c5978b16f1f6faaa73b3714b9f383a0"
+"_size" "3721"
