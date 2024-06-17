@@ -1,0 +1,430 @@
+"appid" "1640300"
+"common"
+{
+	"name" "Project Warlock II"
+	"type" "Game"
+	"icon" "d75081d021ce158e7c39f3c7252c545f632361d9"
+	"logo" "558271b385cdd7aa65b4fa76d4f678d7031cf11f"
+	"logo_small" "558271b385cdd7aa65b4fa76d4f678d7031cf11f_thumb"
+	"clienticon" "e1aacca82a6bc6317236f76c36aec6ddf0d39789"
+	"clienttga" "fc9e5c687a0a4885739910045ae41888c132d227"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"clienticns" "4b484aaceedd4bba14fc90af71b61ebd4ac846b3"
+	"linuxclienticon" "5f8f344cbbd40e76e5f96b30a12a6d5099489723"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1665014400"
+		"tested_build_id" "9260957"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.980834105345075"
+			"height_pct" "39.42307673685648"
+		}
+	}
+	"store_asset_mtime" "1717707694"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Buckshot Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Retrovibe"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Retrovibe"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1654876578"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1640300"
+	"store_tags"
+	{
+		"0" "1023537"
+		"1" "1774"
+		"2" "4004"
+		"3" "3916"
+		"4" "4182"
+		"5" "19"
+		"6" "1663"
+		"7" "4345"
+		"8" "6691"
+		"9" "3839"
+		"10" "4975"
+		"11" "4191"
+		"12" "9541"
+		"13" "7208"
+		"14" "4057"
+		"15" "7481"
+		"16" "5765"
+		"17" "5547"
+		"18" "620519"
+		"19" "3964"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "playtesting"
+	"developer" "Buckshot Software"
+	"publisher" "Retrovibe"
+}
+"config"
+{
+	"installdir" "Project Warlock II"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Project Warlock 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1640301"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5870438632525671441"
+				"size" "8893796016"
+				"download" "2440513536"
+			}
+			"chapter2_wargression"
+			{
+				"gid" "4855901570708881704"
+				"size" "8725687108"
+				"download" "2436881760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"episode_2_wargression"
+			{
+				"gid" "17DEA8E5917DE511A18E782901F2DC36"
+				"size" "1F8341F70F29614764B10D79BA188D77"
+				"download" "1EF2348A56AD2F036B319A3071B67985"
+			}
+			"episode_3"
+			{
+				"gid" "69EF1E3E342D50301912373036BF4F8C"
+				"size" "F9FC57C6558FE0798ED260EA08F8D43F"
+				"download" "D13EE25A7AE79E8551034DEFAF2EDF05"
+			}
+			"balans_test"
+			{
+				"gid" "CE9B459FC7A21285397D511E2FB7053D"
+				"size" "651BC912F00B801B02B4DAAE11C3210E"
+				"download" "ABC251F452A0E4787E5A1AF9C0D3459C"
+			}
+			"devqa"
+			{
+				"gid" "0D651E71D38F1058937747C422DFFF38"
+				"size" "87D85269CF49E9A113CCC3D77ADADC17"
+				"download" "D865864F954B154ABC56F18ACA00526D"
+			}
+			"no_monsters"
+			{
+				"gid" "A3435A006FF0D922FFDD20111A76D477"
+				"size" "2A2E2924A7137ED04F43783EA269991D"
+				"download" "CA970498A3A90897BA9A7CDAA0298DE1"
+			}
+			"qa_testing"
+			{
+				"gid" "2FA7EEF056852D2131BF2C39BA1D30A5"
+				"size" "D356E6CAE3F3CA6B609257E155A003C4"
+				"download" "0032C92B1524FBAA7798F71454D03AFE"
+			}
+			"system_rework"
+			{
+				"gid" "536A3AB16293D87825FB9E53D81D9599"
+				"size" "59ED932E4E6EA16949B4F53AF3E83688"
+				"download" "7A2CBC979C07E6095309C07DE73AA697"
+			}
+			"system_rework_ep2"
+			{
+				"gid" "FAF256A06608B51E35704BE0771E76A5"
+				"size" "973C9817E3041FF4A8DE9E30A59E3E95"
+				"download" "36BC3CE04C9FA5A8335E345097845CA6"
+			}
+		}
+	}
+	"1640302"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"1640303"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14706146"
+			"timeupdated" "1718290385"
+		}
+		"episode_2_wargression"
+		{
+			"buildid" "12673782"
+			"pwdrequired" "1"
+			"timeupdated" "1700040547"
+		}
+		"episode_3"
+		{
+			"buildid" "13114195"
+			"pwdrequired" "1"
+			"timeupdated" "1704683843"
+		}
+		"balans_test"
+		{
+			"buildid" "14315861"
+			"pwdrequired" "1"
+			"timeupdated" "1715350898"
+		}
+		"chapter2_wargression"
+		{
+			"buildid" "14627764"
+			"description" "Project Warlock II: Chapter 2 Wargression (retired)"
+			"timeupdated" "1717692765"
+		}
+		"devqa"
+		{
+			"buildid" "14705079"
+			"pwdrequired" "1"
+			"timeupdated" "1718280741"
+		}
+		"no_monsters"
+		{
+			"buildid" "13775992"
+			"pwdrequired" "1"
+			"timeupdated" "1718226787"
+		}
+		"qa_testing"
+		{
+			"buildid" "14507938"
+			"pwdrequired" "1"
+			"timeupdated" "1717587423"
+		}
+		"system_rework"
+		{
+			"buildid" "14706146"
+			"pwdrequired" "1"
+			"timeupdated" "1718285657"
+		}
+		"system_rework_ep2"
+		{
+			"buildid" "14501902"
+			"pwdrequired" "1"
+			"timeupdated" "1716768280"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Project Warlock 2/Steam Saves/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"polish"
+		{
+			"tokens"
+			{
+				"#mainmenu" "W Menu Głównym"
+				"#level_e1_m1" "W trakcie E1M1 - Zamek Palmera"
+				"#level_e1_m2" "W trakcie E1M2 - Stara Wioska"
+				"#level_e1_m3" "W trakcie E1M3 - Starożytne Ruiny"
+				"#level_e1_m4" "W trakcie E1M4 - Podziemny Komplex"
+				"#level_e1_m5" "W trakcie E1M5 - Zamek Nekromanty"
+				"#level_e1_m6" "W trakcie E1M6 - Wilcza Nora"
+			}
+		}
+		"english"
+		{
+			"tokens"
+			{
+				"#mainmenu" "At Main Menu"
+				"#level_e1_m1" "Playing E1M1 - Palmer\'s Castle"
+				"#level_e1_m2" "Playing E1M2 - Old Village"
+				"#level_e1_m3" "Playing E1M3 - The Ancient Ruins"
+				"#level_e1_m4" "Playing E1M4 - The Underground Complex"
+				"#level_e1_m5" "Playing E1M5 - Necromancer\'s Castle"
+				"#level_e1_m6" "Playing E1M6 - The Wolf\'s Den"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23957822"
+"_sha" "3303d2043c302c2cdbcef2db402fbc6943426865"
+"_size" "8379"
