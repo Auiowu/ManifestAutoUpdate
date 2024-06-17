@@ -1,0 +1,403 @@
+"appid" "1721470"
+"common"
+{
+	"name" "Poppy Playtime"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "6e1d9a4d801f01f05482dfe33c4c0c92a9c086df"
+	"logo_small" "6e1d9a4d801f01f05482dfe33c4c0c92a9c086df_thumb"
+	"icon" "2035ade9393613f669a77e23d09b1fa22ac77481"
+	"clienttga" "05bad639805af60ed1e1db55f845d05d7b9a741d"
+	"clienticns" "61902e6fa82399a55874a87f17850cc9781c5e20"
+	"linuxclienticon" "4bc10fa203164da4916858b8a536d2e749bf61a8"
+	"clienticon" "eac94405ad511b57405a662849460f8ae84b5e5a"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1659657600"
+		"tested_build_id" "8698639"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "95.5761195289748"
+			"height_pct" "88.01089738515527"
+		}
+	}
+	"store_asset_mtime" "1710185475"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mob Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mob Entertainment"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634053980"
+	"community_hub_visible" "1"
+	"gameid" "1721470"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "4182"
+		"2" "3859"
+		"3" "113"
+		"4" "1664"
+		"5" "3839"
+		"6" "3978"
+		"7" "4342"
+		"8" "5716"
+		"9" "1662"
+		"10" "1721"
+		"11" "492"
+		"12" "3854"
+		"13" "7743"
+		"14" "4064"
+		"15" "21"
+		"16" "4166"
+		"17" "19"
+		"18" "4195"
+		"19" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Mob Entertainment"
+	"publisher" "Mob Entertainment"
+	"homepage" "https://www.mobentertainment.com/poppy-playtime"
+	"isfreeapp" "1"
+	"listofdlc" "1817490,2555190"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Poppy Playtime"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "PlaytimeLauncher/PlaytimeLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launcher"
+			}
+			"description" "Launcher"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1721471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6958304966447160997"
+				"size" "5612538888"
+				"download" "5239996016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_beta_translation"
+			{
+				"gid" "E1A00A065249FFDEF22D7A83E8904E9D"
+				"size" "C8B5143C5749A1CA68D72B7C5E3ACD32"
+				"download" "1F0B02BC35E4060E8506D3CCE090FC5B"
+			}
+			"dev_profile"
+			{
+				"gid" "CC3D27F9BF749C1C7D4A2691A9A16944"
+				"size" "2E89F0132C2F393B19395C03402419FD"
+				"download" "9C0B5F62A92DB14B5067E34BD2BBC26E"
+			}
+			"test"
+			{
+				"gid" "DD48A50356C36B598260E087934E8544"
+				"size" "DEDD191ACFC90F03E3730D2E5C9C057B"
+				"download" "9A2D8D7164B436D024A5E52BC94E9629"
+			}
+			"ch4_beta"
+			{
+				"gid" "D0B2B3F8B868ACF9F163039B21A7FCD4"
+				"size" "38545114748D917550D636352B6098E3"
+				"download" "A00DEFF69B7A8974008AB69A52C761AB"
+			}
+		}
+	}
+	"1721472"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4482829141712140547"
+				"size" "282701783"
+				"download" "176403280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_beta_translation"
+			{
+				"gid" "9ACE9DF82A8A6B38A07A5B1E61DA6BE7"
+				"size" "438EEAAAE4CE22C02FBA5290EC6A4385"
+				"download" "F2D47865879C696F31E3EF58871A46A6"
+			}
+			"dev_profile"
+			{
+				"gid" "0CA537BD1E6D7711482B2001518C22BC"
+				"size" "F601F2CFE694D58F8546D90CEFBE3CE0"
+				"download" "79D4CED6F554280859E632CDBDB7223F"
+			}
+			"test"
+			{
+				"gid" "67F850E61452B757703C2A9E49AE0945"
+				"size" "7DB09D589B7A5AFBCB5CD99012E5CEF6"
+				"download" "959CE133CBF8F7273D82D828EFEF3F5D"
+			}
+			"ch4_beta"
+			{
+				"gid" "BE81A809BC61D600BB41B666EAF49595"
+				"size" "D463A461D02297BF15EFFF4D428EC608"
+				"download" "859D2AE0513F29CB9DE3084D527B9C6C"
+			}
+		}
+	}
+	"1721473"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev_profile"
+			{
+				"gid" "39C8FEEAA980F5A2690BF665AF78FC79"
+				"size" "42C1391222E747A6EBA9500F88446281"
+				"download" "5F69069723F1B938565139F2E1659400"
+			}
+			"test"
+			{
+				"gid" "E86FE339D59BF18A95AB82D028DD7511"
+				"size" "88031850D8EF3279FF38C5F8B5096248"
+				"download" "F9772CA20B046749A9801DCE25877C1F"
+			}
+		}
+	}
+	"1721474"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev_profile"
+			{
+				"gid" "229CE85A1440BF563179ECE2D9BDF60F"
+				"size" "0D78F0E29E3F1533D8D662AD192D5BEC"
+				"download" "0D78F0E29E3F1533D8D662AD192D5BEC"
+			}
+			"test"
+			{
+				"gid" "D44C8DC679AE78C649080FC1F85529BC"
+				"size" "B954E0B9EAD98A26814FA1F0AAB756B6"
+				"download" "27A48036ACC80895B0CC4F7FFE0D18BC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13339726"
+			"timeupdated" "1706820485"
+		}
+		"dev_beta_translation"
+		{
+			"buildid" "13339726"
+			"pwdrequired" "1"
+			"timeupdated" "1706819621"
+		}
+		"dev_profile"
+		{
+			"buildid" "13777705"
+			"pwdrequired" "1"
+			"timeupdated" "1710789884"
+		}
+		"test"
+		{
+			"buildid" "13616337"
+			"pwdrequired" "1"
+			"timeupdated" "1709317063"
+		}
+		"ch4_beta"
+		{
+			"buildid" "13339726"
+			"pwdrequired" "1"
+			"timeupdated" "1716483415"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23998839"
+"_sha" "9d34df5441255f48a952e6f35a8174523fc57e23"
+"_size" "7553"
