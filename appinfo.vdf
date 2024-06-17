@@ -1,0 +1,2296 @@
+"appid" "1273400"
+"common"
+{
+	"name" "Construction Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "5f1c90498e5444b08531f568abb49322057c50ac"
+	"clienttga" "b09969c28014a78e245863332864247f5900f3d5"
+	"icon" "e8d8dcccca84500b17912f4def1209d07700480c"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1273400_eula_1"
+			"name" "Construction Simulator EULA"
+			"url" "https://store.steampowered.com//eula/1273400_eula_1"
+			"version" "2"
+		}
+	}
+	"name_localized"
+	{
+		"german" "Bau-Simulator"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677024000"
+		"tested_build_id" "10469432"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"german" "capsule_231x87_german.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"german" "header_german.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,de"
+		"library_hero" "en"
+		"library_logo" "en,de"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "39.4431554524362"
+			"height_pct" "49.93777777777777"
+		}
+	}
+	"store_asset_mtime" "1717578768"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "weltenbauer. Software Entwicklung GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Construction Simulator"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1663685023"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1273400"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3859"
+		"2" "1643"
+		"3" "3843"
+		"4" "1654"
+		"5" "1695"
+		"6" "4175"
+		"7" "1644"
+		"8" "1036"
+		"9" "9204"
+		"10" "10383"
+		"11" "3968"
+		"12" "1100687"
+		"13" "3839"
+		"14" "597"
+		"15" "1697"
+		"16" "4328"
+		"17" "5350"
+		"18" "4182"
+		"19" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "weltenbauer. Software Entwicklung GmbH"
+	"publisher" "astragon Entertainment"
+	"homepage" "https://www.construction-simulator.com"
+	"listofdlc" "1944340,1944341,2153870,2203420,2291420,2295780,2295810,2295820,2322970,2322980,2322990,2323000,2657380,2657390,2657420,2666240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Construction Simulator"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "ConSim.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "ConSim.exe (Use this for new builds!)"
+			}
+			"description" "ConSim.exe (Use this for new builds!)"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2867929888"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2867935571"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2867938663"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2866700665"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+		"2932869717"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,agerating,astragontesting,baseline,beta,denuvo,dlc1,dlc2,gamescom,licenseetest,loca,main,marketing,multiplayertest,nightly,playtest,review,terrain,testing,testing2,testing3,updatetest"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian"
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1273401"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8375904035006587969"
+				"size" "13149833840"
+				"download" "10680956032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "88FBDD0F085F2F9BADEC718B55B6F85F"
+				"size" "923B314AE9E73856CB2EB67647193180"
+				"download" "30785F93768CF80CC8F59B0FA0B8B2F7"
+			}
+			"agerating"
+			{
+				"gid" "7416A8DE45E91DF524DA1EB3E8F8BD32"
+				"size" "89B954E16A5E16E862CDA6FA3DDB017D"
+				"download" "748D83F8174430CA41613BE6119646D7"
+			}
+			"baseline"
+			{
+				"gid" "C2AC199A3DAC94678F8223BCCC617499"
+				"size" "72ABAEF425CFA0D0C3752A6EBABC9DBB"
+				"download" "72BB7E250E87CEAE9EDEAF5C9B28D3EC"
+			}
+			"denuvo"
+			{
+				"gid" "91B32B25F56C47BD611FB9E311945B38"
+				"size" "DC296087F03E9998444533AAB5C78CE5"
+				"download" "FE96F631297FF6FB84ABFD1AA937C9AF"
+			}
+			"exhibition"
+			{
+				"gid" "497B13447FAB743AC34EF1988E25DF4E"
+				"size" "C49D702D5CD5C14BE158E005FF6B65A6"
+				"download" "A17081114CAB9B912538265165D60F97"
+			}
+			"exhibition2"
+			{
+				"gid" "8454ACBA37459DC92F6C6E4DA4AADA13"
+				"size" "29F696276504CB2EFB87C04E2E253B5B"
+				"download" "4CD6C8A79B2BE9A7BD0C715CD63290B5"
+			}
+			"licenseetest"
+			{
+				"gid" "FEB2B48B61BA072B1A26356C4CECC67C"
+				"size" "031766758384F8C9793FBA96E8167D1B"
+				"download" "BB01CFC1A88BF2898FBB5D9A8E36225E"
+			}
+			"loca"
+			{
+				"gid" "A2E4BBECAD7BC5BEFF5D0CCEC2D47CD6"
+				"size" "4846AA55EC6E1B6AB2105DC37B88739C"
+				"download" "45B57ADB777C918CDBA9040610BAEC4E"
+			}
+			"marketing"
+			{
+				"gid" "A4ED55968FC0F0BF310A06386C561EDC"
+				"size" "6A51441413E3068DE6CA4BD09C299223"
+				"download" "F1F012D047101249CD0F06BC4E640E71"
+			}
+			"qatesting2"
+			{
+				"gid" "0C04F3D5983CD7050DCB3859290544FE"
+				"size" "ACD98675F33D2CA4198916B7A733038E"
+				"download" "366B63286B03694F525F56467C700617"
+			}
+			"terrain"
+			{
+				"gid" "0D0519BD335F49169A173A4BFB76CBAC"
+				"size" "044B1F95C63154222F0ED5025D1EC93B"
+				"download" "2C165B8C5789945A843ECC319A4C7B3A"
+			}
+			"updatetest"
+			{
+				"gid" "37B655D6C96E0F2B1B1B9C47BA49B834"
+				"size" "D420CE04F423EB763575AF39243A7A8A"
+				"download" "7E96203E2D63D4CF3B88080624A8C477"
+			}
+			"beta"
+			{
+				"gid" "6CAFA85B650EFC054B697DB88C933AA4"
+				"size" "537636BA2ABC0C11DA437498ED30C57B"
+				"download" "913515555583BE329A6CF2DDA1134958"
+			}
+			"gamescom"
+			{
+				"gid" "8B7D5B24C5334D1B0EFFD3DA41CD21AA"
+				"size" "BAE1627024FB42D30757BDA985EDE16E"
+				"download" "5920713F612AA2B8B253C81AD981E635"
+			}
+			"main"
+			{
+				"gid" "196858A1722CF6F8202B42841CAA478B"
+				"size" "1BA56F4D0E8A1A518558031804C6CCA1"
+				"download" "909788402A2E63EE4B466E4C9CAC8C5D"
+			}
+			"nightly"
+			{
+				"gid" "F2BBAA47BE87EDA51B8B2DDF69630629"
+				"size" "1F31800916D1574675621F207AE8317B"
+				"download" "673B3C4454EF057302C705F609195109"
+			}
+			"preview"
+			{
+				"gid" "25895DCFE1C79D0943C2C2B641857E8D"
+				"size" "2CCCA4DE1F9DDFC446F14649BDD4DF91"
+				"download" "3B083CAEDABCE39369E3705E6DD84C64"
+			}
+			"qatesting1"
+			{
+				"gid" "8F5F7D978C4898ED3E8934D0732A1AD1"
+				"size" "BB021498A8B80D54C95649A5319C0EB1"
+				"download" "5648DDF6092B570A9E2712778BB8A135"
+			}
+			"review"
+			{
+				"gid" "F4FA4B21A1C696C26C5C4A053AFBD3A8"
+				"size" "2D897437CB7CA49ABB08203DECCB57CB"
+				"download" "521126271CB323AC0320E1210BECD41C"
+			}
+			"testing"
+			{
+				"gid" "3A935A6A0120E284BEDDFC586FB6A0F0"
+				"size" "2DB37449D64BCD99A6D8F770DC4DF92F"
+				"download" "BDA6F87FB0A485E9BFFDF72C43270796"
+			}
+			"testing2"
+			{
+				"gid" "39749D752D3151C47DE83641E6D10A42"
+				"size" "35E4AF1BA0A492C49E39A5D0415D8564"
+				"download" "ECD473EF1C6D731BDD47BE3CD1E3740E"
+			}
+			"testing3"
+			{
+				"gid" "EBABEF24B1702D754B1699CAC1171756"
+				"size" "F3253C5A7A2FD1721507F3B87AA563C4"
+				"download" "95273C7ACB4F3B7D56D5076E210A0EEA"
+			}
+			"vehicleupdates"
+			{
+				"gid" "0A0E052521FBD44ACD39C6CD44CFD8AC"
+				"size" "D78E1452A51E041B034EC71F50128B4D"
+				"download" "6F4D9B318518A58DA47AF2533C191139"
+			}
+		}
+	}
+	"1944341"
+	{
+		"dlcappid" "1944341"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8807678063382063768"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "DFF04B65EC858BBC259B6E77A2706FF8"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"agerating"
+			{
+				"gid" "0E711996A2B568F1C67323BAFA7E79D5"
+				"size" "ABC40CF2AFFD55001FE484799CE47313"
+				"download" "972C13714E821847A38C9C45ED2200F0"
+			}
+			"baseline"
+			{
+				"gid" "E8E588F3C3C5256FB68D465CF06016C5"
+				"size" "24F95F31C25088B4FD60CEDC44C1DCFE"
+				"download" "53283673F672C9AEEC2843EBFBB52184"
+			}
+			"denuvo"
+			{
+				"gid" "EB205E0329DB9C6D8D3D53B4E8DB09FB"
+				"size" "B4887E13F4A2A238642058CDD75160C3"
+				"download" "5D29660A5C88FB62DC19594BE32F2DC9"
+			}
+			"exhibition"
+			{
+				"gid" "F37D222F405080888901353BD47FD586"
+				"size" "F6FCFDC27C7023CC7923397DA76A4044"
+				"download" "C176B0C51091FC30861C4376F5EE0C60"
+			}
+			"exhibition2"
+			{
+				"gid" "19CAF5E56A5112E8919B551AE1474EC0"
+				"size" "7325DCEC746AC1F38266BF75FCCFE1AD"
+				"download" "C407306BF9C6DFCA54F6D85E354046EB"
+			}
+			"licenseetest"
+			{
+				"gid" "6FCC85B17B7D43E9663C2417E26FA51A"
+				"size" "54631EC7ED458B10387F4FEBCE2B7603"
+				"download" "F25B4A575CE806D1BDD5ED0904551D93"
+			}
+			"loca"
+			{
+				"gid" "D02304F3934DF5EA3728184E702FA708"
+				"size" "EFEECA4255364B4936087A87066EC5C4"
+				"download" "E751C2AEAE20E9AC237F352873E8A383"
+			}
+			"marketing"
+			{
+				"gid" "B81C06C7770482E2FF535311AC0C71B0"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "0CAD9579A6EAD8F64BC2152AF3105A4F"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "B586C18484AE6B4ACAE733E3506ECBC7"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"updatetest"
+			{
+				"gid" "D17E0BA8506AD1A9D089E70CD996F548"
+				"size" "BD0607F3A95A420E65C44787F841022D"
+				"download" "52999F901ADF8BAD0C0AC13996729ADE"
+			}
+			"beta"
+			{
+				"gid" "50EE90623736B58BC729FB7ED90793D2"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "A576E0AC1E0D9AFE65BC1EBD2836C76D"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "3879F18F356DCFE21D61313ACCAE59DF"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "2519D0849233F30B642AA7C5FCB982EA"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "0B3488716638B6A589463DB102DBC89A"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "DD6521C920199EB89E79DC32779C81D1"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"review"
+			{
+				"gid" "C7569BCB0266A269883FC4F69C7DB677"
+				"size" "9B4583A12D816C143937DADD3F80BDFB"
+				"download" "BA453404BF45153B7D883AD7158D2F4C"
+			}
+			"testing"
+			{
+				"gid" "C2F2482A2697DCE48ABF819DDBB497CE"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "AC6C05B11ED043E9A9BBFB79FFF1EF6E"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "B6A85E2AF487EDFC83543620BDE8A171"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "E76A876A5D7D911E6E68E73B10F372B1"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"1944340"
+	{
+		"dlcappid" "1944340"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "322555549106022213"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "E03A207B1EBCA1B2A4D652F1CA2774BB"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"agerating"
+			{
+				"gid" "76EFA176529935A4016C81C70DF63062"
+				"size" "ABC40CF2AFFD55001FE484799CE47313"
+				"download" "972C13714E821847A38C9C45ED2200F0"
+			}
+			"baseline"
+			{
+				"gid" "C75ED16B9F8808436781F2D378139D57"
+				"size" "24F95F31C25088B4FD60CEDC44C1DCFE"
+				"download" "53283673F672C9AEEC2843EBFBB52184"
+			}
+			"denuvo"
+			{
+				"gid" "B131998174FC7DF3652DA964FDA619E2"
+				"size" "B4887E13F4A2A238642058CDD75160C3"
+				"download" "5D29660A5C88FB62DC19594BE32F2DC9"
+			}
+			"exhibition"
+			{
+				"gid" "8221032493CEBB89B7B735AB45640E2D"
+				"size" "F6FCFDC27C7023CC7923397DA76A4044"
+				"download" "C176B0C51091FC30861C4376F5EE0C60"
+			}
+			"exhibition2"
+			{
+				"gid" "687272120DACC982E8171DB9A985854D"
+				"size" "7325DCEC746AC1F38266BF75FCCFE1AD"
+				"download" "C407306BF9C6DFCA54F6D85E354046EB"
+			}
+			"licenseetest"
+			{
+				"gid" "B579A7B05B3578A944DBA01CE5B134A2"
+				"size" "54631EC7ED458B10387F4FEBCE2B7603"
+				"download" "F25B4A575CE806D1BDD5ED0904551D93"
+			}
+			"loca"
+			{
+				"gid" "FC4B7EC448E35A346E0522AFF06DECE9"
+				"size" "EFEECA4255364B4936087A87066EC5C4"
+				"download" "E751C2AEAE20E9AC237F352873E8A383"
+			}
+			"marketing"
+			{
+				"gid" "F422DE2CF7B58B3E989116AD5AA22EFB"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "2304D16C7F751A0BF14C0858C4CEC810"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "96C5F2DA7A48BC29AEDB9297441D7E97"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"updatetest"
+			{
+				"gid" "A95B385816DD68C3D371EB793ECDEAA9"
+				"size" "BD0607F3A95A420E65C44787F841022D"
+				"download" "52999F901ADF8BAD0C0AC13996729ADE"
+			}
+			"beta"
+			{
+				"gid" "7DB9003FE25CDFFEBD578AC9DB37E3A1"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "9EE3453F238CC03572D57D671605BB35"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "A718A0AADC213722764AE32FC6944607"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "9DA5DBF3415B78E9022AB3A74CF15EBB"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "58A1CD47022B150C918E3FD889C361F7"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "2483A3CEDCA7CBA6E3E906531F14C36F"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"review"
+			{
+				"gid" "FC225F3A03B7BC4D0D1EE46590B8A56A"
+				"size" "9B4583A12D816C143937DADD3F80BDFB"
+				"download" "BA453404BF45153B7D883AD7158D2F4C"
+			}
+			"testing"
+			{
+				"gid" "86A95BCDE908F7EFB9A79CA1102A611B"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "686D60903BEB1EFDF74E31CFC2E8435A"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "CE80CFD94639084EBA6BF4701F4D6528"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "81107D61F6BEFAFAB63DFD3EF1D1B58F"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2203420"
+	{
+		"dlcappid" "2203420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8739100311331388793"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "F327D3C36310CAF01D27B9CD1D6E8052"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"agerating"
+			{
+				"gid" "C2F2DE83E7180FD629A0DEB2C0F152F5"
+				"size" "ABC40CF2AFFD55001FE484799CE47313"
+				"download" "972C13714E821847A38C9C45ED2200F0"
+			}
+			"denuvo"
+			{
+				"gid" "C52E4D160631F785DE31AFCB7C3CC52D"
+				"size" "B4887E13F4A2A238642058CDD75160C3"
+				"download" "5D29660A5C88FB62DC19594BE32F2DC9"
+			}
+			"exhibition"
+			{
+				"gid" "95F30A988E3BEDFB46242AFA66B2E391"
+				"size" "F6FCFDC27C7023CC7923397DA76A4044"
+				"download" "C176B0C51091FC30861C4376F5EE0C60"
+			}
+			"exhibition2"
+			{
+				"gid" "339D8055AA00B778D552490CEB198B8C"
+				"size" "7325DCEC746AC1F38266BF75FCCFE1AD"
+				"download" "C407306BF9C6DFCA54F6D85E354046EB"
+			}
+			"licenseetest"
+			{
+				"gid" "55A783AB389F33155D367B6CCEE4001B"
+				"size" "54631EC7ED458B10387F4FEBCE2B7603"
+				"download" "F25B4A575CE806D1BDD5ED0904551D93"
+			}
+			"loca"
+			{
+				"gid" "91922F258B224EECB94D9EFFE2211287"
+				"size" "EFEECA4255364B4936087A87066EC5C4"
+				"download" "E751C2AEAE20E9AC237F352873E8A383"
+			}
+			"marketing"
+			{
+				"gid" "CA4170FC1316C0834BB89DF8AAC8249D"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "0183005AE5EF7843AE263C1FEE10053F"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "B09A1830E5745DD97CE9300B906D3843"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"updatetest"
+			{
+				"gid" "CE3F46AF57997AE0C4EDE294F5F1EAEA"
+				"size" "BD0607F3A95A420E65C44787F841022D"
+				"download" "52999F901ADF8BAD0C0AC13996729ADE"
+			}
+			"beta"
+			{
+				"gid" "7F6E6DB342075CE836342165E3D85420"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "C04789EAE15DAC64FE9B4321A47804EC"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "99AAA328FA0E3751B2A4D1AD234AFD3D"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "BD5AE7B5685664E95BDE9B62DAD128FF"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "2DBC103079E894C6977C3D33241FE7E3"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "D3CB88F5DD8AB91D3DB049DF1083F609"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"review"
+			{
+				"gid" "4F98EF4DA64546E954A67B0BFF71B7B8"
+				"size" "9B4583A12D816C143937DADD3F80BDFB"
+				"download" "BA453404BF45153B7D883AD7158D2F4C"
+			}
+			"testing"
+			{
+				"gid" "EF78F3E3D5FC80E11B6CFB593E939BCD"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "1B06564C15EB2CEF2220BF765CAA1F86"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "737B975152271EE093810002286C4FEC"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "166CF9A42883E1A15A87E145196C98B1"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2291424"
+	{
+		"dlcappid" "2291420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8453066766368453847"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "55A156C034E35B2D0D4FE4069D8727D7"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"agerating"
+			{
+				"gid" "A803E6D8D8D251C9EC037BF3942EA145"
+				"size" "ABC40CF2AFFD55001FE484799CE47313"
+				"download" "972C13714E821847A38C9C45ED2200F0"
+			}
+			"denuvo"
+			{
+				"gid" "AF820146BBF525FDE54A12B3B434796C"
+				"size" "B4887E13F4A2A238642058CDD75160C3"
+				"download" "5D29660A5C88FB62DC19594BE32F2DC9"
+			}
+			"exhibition"
+			{
+				"gid" "D0396E556BCD19D0480C93AB239A8C43"
+				"size" "F6FCFDC27C7023CC7923397DA76A4044"
+				"download" "C176B0C51091FC30861C4376F5EE0C60"
+			}
+			"exhibition2"
+			{
+				"gid" "C1CDBE012424823471B912B4B38491E2"
+				"size" "7325DCEC746AC1F38266BF75FCCFE1AD"
+				"download" "C407306BF9C6DFCA54F6D85E354046EB"
+			}
+			"licenseetest"
+			{
+				"gid" "0C57121EBE9EED4BC3AC3EA07C95B871"
+				"size" "54631EC7ED458B10387F4FEBCE2B7603"
+				"download" "F25B4A575CE806D1BDD5ED0904551D93"
+			}
+			"loca"
+			{
+				"gid" "89F187853B129DCD604499A2C1E145CA"
+				"size" "EFEECA4255364B4936087A87066EC5C4"
+				"download" "E751C2AEAE20E9AC237F352873E8A383"
+			}
+			"marketing"
+			{
+				"gid" "183D6E7D2726001F9BB638791E59E7A3"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "5075F01E1EDC8EDAD76F850E049528CC"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "BBE49BEC446EFAF4A7CBC96AD14B1435"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"updatetest"
+			{
+				"gid" "EA908A60AE69E8862076BBE7D492E77E"
+				"size" "BD0607F3A95A420E65C44787F841022D"
+				"download" "52999F901ADF8BAD0C0AC13996729ADE"
+			}
+			"beta"
+			{
+				"gid" "3666F1B01B5B255DC96440B1460D87F1"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "5FC04C94D62445217CA0A7838DF09B2E"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "C8816981FA2FF59E0314722A31F6633C"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "99673DCBAFC7F6F376CF2BB24D97BD84"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "C66522AA32DDBB2618B5CEEAD1231613"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "9B6532E14F1C35B62A922C83B1EB4D54"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"review"
+			{
+				"gid" "2C28FEF96282489C6725148BFAE77A83"
+				"size" "9B4583A12D816C143937DADD3F80BDFB"
+				"download" "BA453404BF45153B7D883AD7158D2F4C"
+			}
+			"testing"
+			{
+				"gid" "A859AB20161F6B53CA48F5F3BAD54E2E"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "8F4193080B16A3B792D00F150A91A7BE"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "A4A5D1D3FC9095F9CA71AB825C9D5AE1"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "73EC08E6FF262AD27FEDB3905C195985"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2295781"
+	{
+		"dlcappid" "2295780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "685349866155445181"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "06CB4DF3E1B8F443A2EB63D6C72123C9"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"agerating"
+			{
+				"gid" "5EEA4F7E42912766E941347A17D41460"
+				"size" "ABC40CF2AFFD55001FE484799CE47313"
+				"download" "972C13714E821847A38C9C45ED2200F0"
+			}
+			"baseline"
+			{
+				"gid" "7508485B571526E4F037BD4C5B06E9F6"
+				"size" "24F95F31C25088B4FD60CEDC44C1DCFE"
+				"download" "53283673F672C9AEEC2843EBFBB52184"
+			}
+			"denuvo"
+			{
+				"gid" "68F8C1563B87F226C30AA5FCFE00A991"
+				"size" "B4887E13F4A2A238642058CDD75160C3"
+				"download" "5D29660A5C88FB62DC19594BE32F2DC9"
+			}
+			"exhibition"
+			{
+				"gid" "9E8C5A4F450C2937E760AB00CDE31DC3"
+				"size" "F6FCFDC27C7023CC7923397DA76A4044"
+				"download" "C176B0C51091FC30861C4376F5EE0C60"
+			}
+			"exhibition2"
+			{
+				"gid" "3C308EDF5CDE52FF86FA129CA00B6453"
+				"size" "7325DCEC746AC1F38266BF75FCCFE1AD"
+				"download" "C407306BF9C6DFCA54F6D85E354046EB"
+			}
+			"licenseetest"
+			{
+				"gid" "799F3BB5B84F1DF40D8132D6C7518428"
+				"size" "54631EC7ED458B10387F4FEBCE2B7603"
+				"download" "F25B4A575CE806D1BDD5ED0904551D93"
+			}
+			"loca"
+			{
+				"gid" "8CA86B2797AA7C096CEE6E4B43DAFF6F"
+				"size" "EFEECA4255364B4936087A87066EC5C4"
+				"download" "E751C2AEAE20E9AC237F352873E8A383"
+			}
+			"marketing"
+			{
+				"gid" "609E09CD788C34204655C9E15E6102BB"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "B7F879A90D99515ECCFE18653AC62198"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "8BFCF7A7A795E9A5AB9AEB6B01CBA45A"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"updatetest"
+			{
+				"gid" "495ECD2900875A5D7CF75F92C476C1EC"
+				"size" "BD0607F3A95A420E65C44787F841022D"
+				"download" "52999F901ADF8BAD0C0AC13996729ADE"
+			}
+			"beta"
+			{
+				"gid" "FF995B620D8F713047E2B1B66E88886A"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "1CF229291E1AF82C44C02070301E6133"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "DD2C23C0A85AE9617E8760011DD93DFA"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "4AF0C7C3A9917CAE70EF6DE0E307F306"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "1324D92C7E57FCA45ABA8C9F184D641F"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "DE2772659E1C39E30F353CB8639DA0BB"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"review"
+			{
+				"gid" "FFCF0D6F35D8A1082BA90E2BD8087215"
+				"size" "9B4583A12D816C143937DADD3F80BDFB"
+				"download" "BA453404BF45153B7D883AD7158D2F4C"
+			}
+			"testing"
+			{
+				"gid" "67F568824F8F42A73E58CFFCA4B85914"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "8EF7E6A1EC2B6F50F7F564715012F209"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "7A35177469243761343719935E19E503"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "800EE2659C6E5E469E756BF81F38FA14"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2295811"
+	{
+		"dlcappid" "2295810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3383914678723808175"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "95515E7B79B2225CAF24F1BBC6F7D94F"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"qatesting2"
+			{
+				"gid" "62949BAB609585C476E6CC9AECC6B295"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "C6666FB3CBFBC723240A24E7CEEEB3EB"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "859C7F6D191D0C3824C48270B589B9DD"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "DE1516669944917709DF167B62E19E06"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "FFFCDAB65E1381916777A52D06F69038"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "91ADE1F4ACF23451807F72321FBD2B42"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "BA1A6A5EBB167D70F8BCCF00B25B13B8"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "1B58167786A1733B00E11470644AE5E8"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"vehicleupdates"
+			{
+				"gid" "73C741C74805AF3D2B871CC27B65D382"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2295821"
+	{
+		"dlcappid" "2295820"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8580441773329478911"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "A119FCE31205B43CB513268FFBBA320B"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"qatesting2"
+			{
+				"gid" "A0DB09AB5FF700C6856CBFE90D081AAC"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "9B0E434798C3B2B2115BEF1724CAB29F"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "CD3F1AC1C5FC3B3D18AA771F89F6AC15"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "BFA8FE58C5F62F7A68BEB87B800BDE7C"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "1DF32AAF1035ED096388CFC0A387303C"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "943FC055494085EF1E3026DB5B714622"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "AC91CA0CE9B6668F63951B58709C1ABD"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "B3604D1CE9910659E75C174698791F39"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "29C402787EE73AA9C29FA789F593C66F"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "0137CD41802F4059EBA95318ABDD43F7"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2322991"
+	{
+		"dlcappid" "2322990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7520794540910599885"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "46AF7672D08CC4F76EDADCF799ABA540"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"agerating"
+			{
+				"gid" "B43DFCFEFCA554A38E46F73AA01C8EEC"
+				"size" "ABC40CF2AFFD55001FE484799CE47313"
+				"download" "972C13714E821847A38C9C45ED2200F0"
+			}
+			"denuvo"
+			{
+				"gid" "793300A72A6A455BCC730184086958C3"
+				"size" "B4887E13F4A2A238642058CDD75160C3"
+				"download" "5D29660A5C88FB62DC19594BE32F2DC9"
+			}
+			"exhibition"
+			{
+				"gid" "8C0CD174D3C39B20C572E81EBB3FEDC0"
+				"size" "F6FCFDC27C7023CC7923397DA76A4044"
+				"download" "C176B0C51091FC30861C4376F5EE0C60"
+			}
+			"exhibition2"
+			{
+				"gid" "C70F49FE4150CC8635E48FABAB356AC8"
+				"size" "7325DCEC746AC1F38266BF75FCCFE1AD"
+				"download" "C407306BF9C6DFCA54F6D85E354046EB"
+			}
+			"licenseetest"
+			{
+				"gid" "CD1B812E88A7D0ADDE99E009B28767F5"
+				"size" "54631EC7ED458B10387F4FEBCE2B7603"
+				"download" "F25B4A575CE806D1BDD5ED0904551D93"
+			}
+			"loca"
+			{
+				"gid" "A499E1DB8586DFA841DD5726C0B93674"
+				"size" "EFEECA4255364B4936087A87066EC5C4"
+				"download" "E751C2AEAE20E9AC237F352873E8A383"
+			}
+			"marketing"
+			{
+				"gid" "06B2905464177E85EC47C99D6B6CA8FF"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "9E44DDF381DD8BD9AAEDA53E000E30CF"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "8F4616A1D78185367A59EE31D81883ED"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"updatetest"
+			{
+				"gid" "893DBD9CB4C27610B6755CECC6E777C8"
+				"size" "BD0607F3A95A420E65C44787F841022D"
+				"download" "52999F901ADF8BAD0C0AC13996729ADE"
+			}
+			"beta"
+			{
+				"gid" "4F71405BBBC4F7AE7CDD9AFD548EB8F3"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"gamescom"
+			{
+				"gid" "59820A6BAAAF98A651E5B2DE397FC795"
+				"size" "095643A7944FD9CCFD9E75C1DE88682A"
+				"download" "93B38B9ABF2565E6D6BBBAB9130EA489"
+			}
+			"main"
+			{
+				"gid" "BF769E74FBC0AAF84795F34FE2AC6FA8"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "4540A6AED3B7C41E5BC684FA2BC50B58"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "2B001445C2AD85D0A39851F219AF92CD"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "2DCA1B7B191EDD53F75F1EDA7AC69817"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"review"
+			{
+				"gid" "88DDAFF95C2BB945E5BD9AB1624C44D8"
+				"size" "9B4583A12D816C143937DADD3F80BDFB"
+				"download" "BA453404BF45153B7D883AD7158D2F4C"
+			}
+			"testing"
+			{
+				"gid" "CFFFAA1727F5A1855ABB94C1821F3AF8"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "4BD17499E8891C456C3409754A512B49"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "BBC73AA944FA4935D961A7CA1B6B0926"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "46CACD07A91D8CD7B15D68CCA1C7D1D9"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2322981"
+	{
+		"dlcappid" "2322980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5743210225651998743"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "BF5798E46D3261E3C63F2D8A3E475654"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"marketing"
+			{
+				"gid" "9B31AC567824DEF02106CAC857FF4926"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "743A8DC2F2E0B0FA6312710D73AEC89C"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "BDFDB9C0D5A490DD5A2DD3E2B7814E2E"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "0A76BCE78433F26D3DB4CE8247279E49"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "D3025D62BE5981E4F89A25A8C5FA280D"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "7CE2BF1A25BD17D54813257338BF476B"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "9B12F3787400B2F206AB67C77C8175D5"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "F64D07D48D1F2F763026A254120319DE"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "9EDE0A1F6D507E2EF52A7093D5B7867B"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "43A30C4385E4E58314B60FC8D845390F"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "BCAB2D0691BAFA947F5AB389B2A28414"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2322971"
+	{
+		"dlcappid" "2322970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "320280581201002583"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"accessibility"
+			{
+				"gid" "A96B324E99907E58DF867ACE28B63B1C"
+				"size" "CE5752D3B6AB5A62BDE7895FDC907B80"
+				"download" "A202595891F73FB562EDB9AEF5EF9B82"
+			}
+			"marketing"
+			{
+				"gid" "9DDCD5EC113082D16999F482C4F2940F"
+				"size" "BC9F63BCC22844E85450874778B009BA"
+				"download" "C746F5080F4A3F967F8675CC0F26D3FD"
+			}
+			"qatesting2"
+			{
+				"gid" "19C0F5689F5A2D47F45B52695961B4F0"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"main"
+			{
+				"gid" "EDD7EDB4A7E0451014F44FAF6962886D"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "B02AFDAE8A463B454E3E17157F741AFD"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "EC4B8F9F57888B640A92E61203642594"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "575C2434F6BA5832E08AF77B27820A4F"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "161B6194ECB80856FC5514D642E29335"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "C47A180EC986158947326F077441E45C"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "B68405084F05E5E1B447453D98BD892E"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "67803C7CD86538BF7E1B4EFFF3C9B8A0"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2657421"
+	{
+		"dlcappid" "2657420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8791015684642513912"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatesting2"
+			{
+				"gid" "B0AF9D73F45A8640A346E7C7DF629B18"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "59F6579CF301FBADAECF34AA5B156CD5"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "7350E9E95A665C7F14C8817CB7721838"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "8A73103A96ED0597AAE75DE16A6581F7"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "93C2A2CD2540ACF613A7CC128C520CB1"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "6116BF4E3426DE891E97CB00AFA59D9E"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "574A143E430A0D3E7A0C47574F847CF7"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "292FB3A63CAB66B039739D80C8E7C568"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "4725F8EC52168ED86A387FF95ED80309"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "2A1FA22C9E7E607CB7BA471CF6143D70"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2657381"
+	{
+		"dlcappid" "2657380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6016383179637761921"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatesting2"
+			{
+				"gid" "389215A3050E7695F39F30841ACA14C6"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "FCB69EE1C4318BF95BC077542199D12D"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "F0A43E22D7E121C800A9F0C0275DEB0F"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "4060BA337A0A4E43A437B07C295ADD8A"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "121EE6286267B75EDFA9EE645EDFC7CB"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "12BCD3251DA27512C11CDC2B2B74594A"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "A8CD7424704671EBFE17602A8E6CD41C"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "3ECBAB922492A47501834DCDB00734E3"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "796B434E2558C8CBCC8B719EC83D3F12"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "FD1AA2BAD8C4B4B7CA8F3E3B6FA763DE"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2657391"
+	{
+		"dlcappid" "2657390"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3197796519729678759"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatesting2"
+			{
+				"gid" "68DE72830F4F9E8EE10DE36AA4235FAA"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"terrain"
+			{
+				"gid" "3BF555F73D05E9C53ED5926C689FF123"
+				"size" "40F450C0B044EF8CCB63CD45C0D18C65"
+				"download" "5230CDEA661E40D22FED619D7ACC38B3"
+			}
+			"beta"
+			{
+				"gid" "7DE24ED9C8C969024CCEDA94E5961B7A"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "47B615FAE238DB5141F393951BC14909"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "0B5401579790AD21990A4821C6A1F9D4"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "418807858A90C15DE1ED2FAD4FFB7C77"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "FED6955EFC405C9CBB414C5D8046FC8C"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "7041562689157D21568D843B923BE141"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "911FC1984A939C22F95782E9F1B737F4"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "CC6B6BAC31C2E036B65EBF67E87C444F"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "EEC77DC3777E038C323CBE2EBF34203F"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2657401"
+	{
+		"dlcappid" "2657400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8114831874000182204"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatesting2"
+			{
+				"gid" "77F4FCCFC8FB2E58594281E88A81B020"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "8FFDDEE295775C1ED6E4707106B876EE"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "9E3632FD9339EF106EC5E684BD60E428"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "47AC8D8E553B31A0F582FB6CB69EA173"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "BC6D2509CCBA718E391032136F1E6C7B"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "5DD2AF1691ACFE41695A717015ECDE3F"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "19521472F3A95521FB255FFFBB43FA14"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "6B4D20812CEA2C58672F4E0E18BA3A95"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "78910C7D6DB1264889E5DB7507B8733C"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "21357D96B221932862276E096EE0B691"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"2657411"
+	{
+		"dlcappid" "2657410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3557864438957203195"
+				"size" "2"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatesting2"
+			{
+				"gid" "AF48FF118106CF8DC0A3C7F1AD434B3C"
+				"size" "CC6D4E574783A1EB11899BC5D23DE6B3"
+				"download" "A03436D66F5EAC8740B07DEBA3535C23"
+			}
+			"beta"
+			{
+				"gid" "EAD853F76F7AA922B3F66ED1485708AD"
+				"size" "FA91818A15C6AC06A3F22F63DAE1E2B2"
+				"download" "A20379CB59CB6D2E6800A250F8C975B3"
+			}
+			"main"
+			{
+				"gid" "F48607865666D7B0454385E260D3F858"
+				"size" "6E302CDD0A8F4CBF5551993413EFA3CD"
+				"download" "930FEBBA4C1534C78A28B8F947DE14C2"
+			}
+			"nightly"
+			{
+				"gid" "F91EDACB6C528071E731A1EC58F28E64"
+				"size" "283226C9F10897740E379AD7FE9C19AB"
+				"download" "F33910976E9C53AF9FD4FE5C2F4FF2E6"
+			}
+			"preview"
+			{
+				"gid" "C8D15C73AE3B9AE5515DD173BB085183"
+				"size" "F96E2470BA1613E62668664B7763FB22"
+				"download" "4C96C9E94396DA68E299E15CF22ED6CA"
+			}
+			"qatesting1"
+			{
+				"gid" "C7274BF0A374F9F6DE27652842A27416"
+				"size" "FF5C1AFD7A1F87A5FDA021E6B7FA930C"
+				"download" "1640D7EAB0813DCE67D32BCFDF1C03E8"
+			}
+			"testing"
+			{
+				"gid" "46D3B77ECD5FDFE89C4E169544B0D431"
+				"size" "8731D56AAC1D441A2F23FD7A3EE45D70"
+				"download" "4F08AADAD4FAFDC8E101C6CD2DE9623D"
+			}
+			"testing2"
+			{
+				"gid" "2EBF8C4F0DAB4758231EB94975819154"
+				"size" "1F3916C341F4E3ECA51AAD8BC67CBAE2"
+				"download" "F88823562CF633345F33FB971D4D6666"
+			}
+			"testing3"
+			{
+				"gid" "1778B8BE8D06AE803560BF5A655A1913"
+				"size" "F3D882582A462660A1580C0F4936BD43"
+				"download" "ACD3A9B0B2D6EA6592A6EB8BE871008F"
+			}
+			"vehicleupdates"
+			{
+				"gid" "E8AE120BE847200A6969EEA49DD18175"
+				"size" "764E7E5A73068CF2CEB535FD4CB687CD"
+				"download" "1D76CB4396CE4DB84D09BB5AE14B95D4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14695361"
+			"timeupdated" "1718367829"
+		}
+		"accessibility"
+		{
+			"buildid" "11954785"
+			"pwdrequired" "1"
+			"timeupdated" "1692188877"
+		}
+		"agerating"
+		{
+			"buildid" "11503360"
+			"pwdrequired" "1"
+			"timeupdated" "1687158631"
+		}
+		"baseline"
+		{
+			"buildid" "11503358"
+			"pwdrequired" "1"
+			"timeupdated" "1687158625"
+		}
+		"denuvo"
+		{
+			"buildid" "11503357"
+			"pwdrequired" "1"
+			"timeupdated" "1687158616"
+		}
+		"exhibition"
+		{
+			"buildid" "13601338"
+			"pwdrequired" "1"
+			"timeupdated" "1709211802"
+		}
+		"exhibition2"
+		{
+			"buildid" "11503355"
+			"pwdrequired" "1"
+			"timeupdated" "1687158571"
+		}
+		"licenseetest"
+		{
+			"buildid" "11503349"
+			"pwdrequired" "1"
+			"timeupdated" "1687158547"
+		}
+		"loca"
+		{
+			"buildid" "11503338"
+			"pwdrequired" "1"
+			"timeupdated" "1687158509"
+		}
+		"marketing"
+		{
+			"buildid" "12540220"
+			"pwdrequired" "1"
+			"timeupdated" "1698309725"
+		}
+		"qatesting2"
+		{
+			"buildid" "13135167"
+			"pwdrequired" "1"
+			"timeupdated" "1704881347"
+		}
+		"terrain"
+		{
+			"buildid" "13927954"
+			"pwdrequired" "1"
+			"timeupdated" "1712094347"
+		}
+		"updatetest"
+		{
+			"buildid" "12297854"
+			"pwdrequired" "1"
+			"timeupdated" "1695828505"
+		}
+		"beta"
+		{
+			"buildid" "14582027"
+			"pwdrequired" "1"
+			"timeupdated" "1717401189"
+		}
+		"gamescom"
+		{
+			"buildid" "14705823"
+			"pwdrequired" "1"
+			"timeupdated" "1718283977"
+		}
+		"main"
+		{
+			"buildid" "14695361"
+			"pwdrequired" "1"
+			"timeupdated" "1718214229"
+		}
+		"nightly"
+		{
+			"buildid" "14724640"
+			"pwdrequired" "1"
+			"timeupdated" "1718406375"
+		}
+		"preview"
+		{
+			"buildid" "14516586"
+			"pwdrequired" "1"
+			"timeupdated" "1716885311"
+		}
+		"qatesting1"
+		{
+			"buildid" "14205498"
+			"pwdrequired" "1"
+			"timeupdated" "1714372639"
+		}
+		"review"
+		{
+			"buildid" "14363217"
+			"pwdrequired" "1"
+			"timeupdated" "1715695868"
+		}
+		"testing"
+		{
+			"buildid" "14641284"
+			"pwdrequired" "1"
+			"timeupdated" "1717772877"
+		}
+		"testing2"
+		{
+			"buildid" "14614172"
+			"pwdrequired" "1"
+			"timeupdated" "1717599788"
+		}
+		"testing3"
+		{
+			"buildid" "14637923"
+			"pwdrequired" "1"
+			"timeupdated" "1717756048"
+		}
+		"vehicleupdates"
+		{
+			"buildid" "14724003"
+			"pwdrequired" "1"
+			"timeupdated" "1718401124"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "weltenbauer-se/ConSim/Profiles"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "weltenbauer-se/ConSim/UserData"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23980137"
+"_sha" "032bec85f791f138ef23e617a943495ff6aaf136"
+"_size" "57943"
