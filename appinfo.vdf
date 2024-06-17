@@ -1,0 +1,516 @@
+"appid" "1612770"
+"common"
+{
+	"name" "Sweet Transit"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "8cba60c1246f5adb3ddf4cb75ffd953c10a34f55"
+	"logo" "2ef38a12f4bba2eb3579a916ceb05ac907e92bcf"
+	"logo_small" "2ef38a12f4bba2eb3579a916ceb05ac907e92bcf_thumb"
+	"clienttga" "d0853f7d6f1eef349b61848b0ed637f1315d3b5c"
+	"clienticon" "8601dc14afe61255d33ed3d025dbd86c3e563df8"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "铁路先驱"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1700265600"
+		"tested_build_id" "12730401"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.643168990881016"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1713802074"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ernestas Norvaišas"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17 Digital"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713801965"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1612770"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1616"
+		"2" "4328"
+		"3" "10383"
+		"4" "12472"
+		"5" "9"
+		"6" "1643"
+		"7" "4695"
+		"8" "8945"
+		"9" "5125"
+		"10" "1669"
+		"11" "8122"
+		"12" "3810"
+		"13" "4175"
+		"14" "4598"
+		"15" "7332"
+		"16" "4182"
+		"17" "5851"
+		"18" "3871"
+		"19" "4791"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Ernestas Norvaišas"
+	"publisher" "Team17"
+	"homepage" "https://www.sweettransitgame.com/"
+}
+"config"
+{
+	"installdir" "Sweet Transit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sweet Transit.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2922378152"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,early,ernestas,experimental,preview,qa_rc,qa_stable,qa_test,trailer,usability"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"3056314148"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,early,ernestas,experimental,preview,qa_rc,qa_stable,qa_test,trailer,usability"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1612770"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1612771"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3149927032767572399"
+				"size" "3348958861"
+				"download" "2128064304"
+			}
+			"v.0.2"
+			{
+				"gid" "5539529264506626553"
+				"size" "2236101356"
+				"download" "1407058352"
+			}
+			"v.0.3"
+			{
+				"gid" "478482045249086149"
+				"size" "2360446527"
+				"download" "1491572896"
+			}
+			"v.0.4"
+			{
+				"gid" "9171965308526107154"
+				"size" "2395421657"
+				"download" "1512695472"
+			}
+			"v.0.5"
+			{
+				"gid" "4285955205697654891"
+				"size" "2785524256"
+				"download" "1765735872"
+			}
+			"experimental"
+			{
+				"gid" "1760659666456176812"
+				"size" "3348959542"
+				"download" "2128064640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"lockit"
+			{
+				"gid" "8FA773036E41F2F3E6B7E6BA6139360B"
+				"size" "F3E643B144C947350829D410AAEDB2FB"
+				"download" "86615D9E2A24BF65E87DEA1BC44F0B41"
+			}
+			"preview"
+			{
+				"gid" "5FE677BFE0F0E31DC7CC7F2E696C4CB3"
+				"size" "CDF12651E636BAE2EA010D4E8D539E5F"
+				"download" "E696EC0C45CE1BCEDA3D55F26581EB68"
+			}
+			"trailer"
+			{
+				"gid" "D1AEA24298B93EEFC7DA7DF1EFE83E86"
+				"size" "E9B45088978CEBD9BF601C419D846997"
+				"download" "13213A7B883398C0ED6E0D66BA370064"
+			}
+			"usability"
+			{
+				"gid" "DFE92F28AFADC481BD66BC7230E9A271"
+				"size" "3A9E490949D599DA136217A1E4DBE368"
+				"download" "F5D06E6E07487F7C39EE9BD151E49D35"
+			}
+			"early"
+			{
+				"gid" "B93F8FA558F9B941EB587FFE3266D881"
+				"size" "60A0F331570BC7C6022DAEB5F0AC6CCA"
+				"download" "07249B887718DE6D4D7023E62EF910EF"
+			}
+			"ernestas"
+			{
+				"gid" "ACCFD1FC3A2C61AFBD923A578E0854E4"
+				"size" "2C1BF79137DB61EC7F9A5888A922163A"
+				"download" "CEC6DBC7479A8BEC206222275FE800CC"
+			}
+			"qa_stable"
+			{
+				"gid" "A2C056BC705514C41F398056E737CAB8"
+				"size" "72AAE8BD9737A41A1FA1C0B9DA90A0B9"
+				"download" "85A11C9F0E7656D53C6E80E211694D5C"
+			}
+			"qa_test"
+			{
+				"gid" "C6C78E12CB629D8F17CA73D9C576E41C"
+				"size" "FA8F075DF4467438F0A06945E148A79A"
+				"download" "8A7E44DE0D75200836E9CB5778A5C825"
+			}
+		}
+	}
+	"1612772"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14177130"
+			"timeupdated" "1714381096"
+		}
+		"lockit"
+		{
+			"buildid" "14084027"
+			"pwdrequired" "1"
+			"timeupdated" "1713364259"
+		}
+		"preview"
+		{
+			"buildid" "11726184"
+			"pwdrequired" "1"
+			"timeupdated" "1690292028"
+		}
+		"trailer"
+		{
+			"buildid" "14084027"
+			"pwdrequired" "1"
+			"timeupdated" "1713364252"
+		}
+		"usability"
+		{
+			"buildid" "10028247"
+			"pwdrequired" "1"
+			"timeupdated" "1669644808"
+		}
+		"v.0.2"
+		{
+			"buildid" "9618185"
+			"description" "Sweet Transit v.0.2"
+			"timeupdated" "1666772350"
+		}
+		"v.0.3"
+		{
+			"buildid" "10036444"
+			"description" "Sweet Transit v.0.3"
+			"timeupdated" "1675846785"
+		}
+		"v.0.4"
+		{
+			"buildid" "11061974"
+			"description" "Sweet Transit v.0.4"
+			"timeupdated" "1689018324"
+		}
+		"v.0.5"
+		{
+			"buildid" "11794952"
+			"description" "Sweet Transit v.0.5"
+			"timeupdated" "1700635649"
+		}
+		"early"
+		{
+			"buildid" "14424524"
+			"pwdrequired" "1"
+			"timeupdated" "1716185240"
+		}
+		"ernestas"
+		{
+			"buildid" "14424524"
+			"pwdrequired" "1"
+			"timeupdated" "1716185015"
+		}
+		"experimental"
+		{
+			"buildid" "14424524"
+			"description" "Experimental branch."
+			"timeupdated" "1716185231"
+		}
+		"qa_stable"
+		{
+			"buildid" "14177130"
+			"pwdrequired" "1"
+			"timeupdated" "1714074164"
+		}
+		"qa_test"
+		{
+			"buildid" "14424524"
+			"pwdrequired" "1"
+			"timeupdated" "1716185250"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Sweet Transit/Saved Games"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Sweet Transit/Saved Games"
+			"pattern" "*.jpg"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Sweet Transit"
+			"pattern" "*.dat"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Sweet Transit/"
+			"pattern" "Tutorial.ini"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23607674"
+"_sha" "01d15e0e11d3d1cd60ce2af2f6fee0022ed67904"
+"_size" "9749"
