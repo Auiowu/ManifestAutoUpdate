@@ -1,0 +1,565 @@
+"appid" "1135230"
+"common"
+{
+	"name" "Ember Knights"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "76e570ab00521fa73aa9fb19c81e10f76f7beb77"
+	"logo_small" "76e570ab00521fa73aa9fb19c81e10f76f7beb77_thumb"
+	"icon" "6309ed12efcbdc62ef1d1c00175d2a0398d4eb39"
+	"clienticon" "0456df2ba54cadb5766720e1c9a7ace12d3ad6de"
+	"clienttga" "53af25d782d562bcebc2284efe37b36ac8fb6373"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1135230_eula_1"
+			"name" "Ember Knights EULA"
+			"url" "https://store.steampowered.com//eula/1135230_eula_1"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1655251200"
+		"tested_build_id" "8835939"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "21.90477322807186"
+			"height_pct" "54.166666666666664"
+		}
+	}
+	"store_asset_mtime" "1716913697"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Doom Turtle"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Twin Sails Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Twin Sails Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689681645"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1135230"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "3964"
+		"2" "3959"
+		"3" "1720"
+		"4" "1685"
+		"5" "1646"
+		"6" "3859"
+		"7" "3843"
+		"8" "122"
+		"9" "5125"
+		"10" "21"
+		"11" "3841"
+		"12" "19"
+		"13" "4182"
+		"14" "3871"
+		"15" "1716"
+		"16" "7368"
+		"17" "4791"
+		"18" "3993"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,sandbox"
+	"developer" "Doom Turtle"
+	"publisher" "Twin Sails Interactive"
+	"homepage" "https://doomturtle.ca/"
+	"listofdlc" "2948140"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "EmberKnights"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "EmberKnights_64.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "EmberKnights.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "EmberKnights.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1135232"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "727104133370739194"
+				"size" "752809533"
+				"download" "506197696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "3E8A2058FA35DF5F8B642086B072598B"
+				"size" "E3FFDC486D6DE1539B5A14771041A136"
+				"download" "89C87C4A5BD931380A05652256455E05"
+			}
+			"press"
+			{
+				"gid" "299D0DB9DBE6BD54A25DA60267BC4994"
+				"size" "15AB9F8BC00BE33442F56C6204EC9C5E"
+				"download" "FD009D1905313C4C431FEBCEBAE38BBE"
+			}
+			"sandboxgreg"
+			{
+				"gid" "B42C2D92581F8C6C61FECAFA3EC292A6"
+				"size" "D586082C94059E14421294EF93F204FD"
+				"download" "56C6949608DEB09A4B2805C7BF24EB8E"
+			}
+			"experimental"
+			{
+				"gid" "9C7AAEFBDC9E15176F728039FD9153CD"
+				"size" "207E941959EE8A660EE66DA9B2C76572"
+				"download" "45E8DEA834E00E40E0FC58AD7845FC1E"
+			}
+			"qa_branch"
+			{
+				"gid" "95523B9DD965A57E9E4E04D0AFDFE70D"
+				"size" "C8E78B6BB727BBCB788849DA0A994645"
+				"download" "F9CC752EEEED4A098F84DF4A763F3AE7"
+			}
+			"sandbox"
+			{
+				"gid" "C8F5014223F6AD8B6B328F63F1C2F9D7"
+				"size" "A0736C7123D71412ED5F173DF219E781"
+				"download" "4B76CB2BE3CDB2C37359C914D74A8A41"
+			}
+			"staging"
+			{
+				"gid" "419178A72B930C84055420A0C1E02E73"
+				"size" "3D2E525F335D55121B57C8027D30CA67"
+				"download" "D6C6FB94D02DED8DC5D4027C9BAD847F"
+			}
+		}
+	}
+	"1135231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4282928667131848033"
+				"size" "178036344"
+				"download" "71031776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "86B5167D4BDEEC4750C7D06A2E3F97FC"
+				"size" "784915E43749325D31BD231F0753BA41"
+				"download" "CD6C84AD8A3D1DC1228FF128C3217D8E"
+			}
+			"press"
+			{
+				"gid" "4376D6A8B655F232458A07BE30E64768"
+				"size" "5B38A71A392EC17B1CA838E15530D65A"
+				"download" "3FFC140801D339543383AD5EA726F8A6"
+			}
+			"sandboxgreg"
+			{
+				"gid" "2CA8BCE4F67AFCCFD84B86F3142BE082"
+				"size" "58F516860ED06F4ADAFA343C3B6F3A95"
+				"download" "DACEC53D3447EC024920CBC904D4F046"
+			}
+			"experimental"
+			{
+				"gid" "E997BB7BD31992B725EB86DF3FC81DE5"
+				"size" "1D5AA78FEE1AB722E30C39A3D2A6701E"
+				"download" "C73C19C58D58052C12A03EE91238795D"
+			}
+			"qa_branch"
+			{
+				"gid" "8E6539BB3BC01357D991ECF026CEC033"
+				"size" "FAFB03E1F2AFB5D7907ADEDC5DB30F13"
+				"download" "6D3100CAB653D7E44FF9040B0AD51B79"
+			}
+			"sandbox"
+			{
+				"gid" "8DF27F8883F1FCBBFE007D5CA6A384BA"
+				"size" "F0AF6DFCACFD146278122B65D017A4F3"
+				"download" "47BDF40869F70C8E7EE3E3A446DC276D"
+			}
+			"staging"
+			{
+				"gid" "DD2FCC9B2DBC911E8A39945DEFE4F3CC"
+				"size" "6C202FF7DDFC712D048F2A97F27BB4F7"
+				"download" "5618B72545695715B34CBC0A292B63CA"
+			}
+		}
+	}
+	"1135233"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "865315344378060855"
+				"size" "273631877"
+				"download" "113159040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "825CFBAC8256B3541B37D475A7780FB3"
+				"size" "CF5021BB3E1354088E9FDC398B83B19F"
+				"download" "D733DF7DEBAD436F55FB627160D00AA1"
+			}
+			"press"
+			{
+				"gid" "737D11B817C4F2044DA2E4F65C1E215A"
+				"size" "5A968838184E5BBF32B94ACC8FBDE1DC"
+				"download" "5A966758D9D33749CFCCF772951C1A58"
+			}
+			"sandboxgreg"
+			{
+				"gid" "58618F924B027967D18D4A9C651199F6"
+				"size" "8FE43EA5487D59E2223AF22544AEEA52"
+				"download" "0A5FCEDF25043A618E4FFC6C40C42970"
+			}
+			"experimental"
+			{
+				"gid" "3076120089FC4C5910C6783BFFD0D1C0"
+				"size" "47FC334C34CD0E6E4041DA04CC22D4EF"
+				"download" "68757123B54B1B4F453AA492278C4789"
+			}
+			"qa_branch"
+			{
+				"gid" "8DE1B9DBB56F74BAE02F3CFB6C26E03D"
+				"size" "DF22EB790CF710AC183559903A7DA5ED"
+				"download" "E234C3954716BA97263D2A46AB876CA4"
+			}
+			"sandbox"
+			{
+				"gid" "0F1666523D743D08A5FB91560DC46C23"
+				"size" "A63EC2968F64B7ED800C01728E4C30BF"
+				"download" "918326C15782133DF774DEFE31AAABD9"
+			}
+			"staging"
+			{
+				"gid" "86F58E925312565972260022FE98780B"
+				"size" "7C83BBBA11322E67F45F8809108E78C5"
+				"download" "DDFD0B06B6915193277E13D1C8EF7B45"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14459267"
+			"timeupdated" "1716469130"
+		}
+		"beta"
+		{
+			"buildid" "11330038"
+			"pwdrequired" "1"
+			"timeupdated" "1685136398"
+		}
+		"press"
+		{
+			"buildid" "11776118"
+			"pwdrequired" "1"
+			"timeupdated" "1690234260"
+		}
+		"sandboxgreg"
+		{
+			"buildid" "13814531"
+			"pwdrequired" "1"
+			"timeupdated" "1711111991"
+		}
+		"experimental"
+		{
+			"buildid" "14723319"
+			"pwdrequired" "1"
+			"timeupdated" "1718397395"
+		}
+		"qa_branch"
+		{
+			"buildid" "14565613"
+			"pwdrequired" "1"
+			"timeupdated" "1717188405"
+		}
+		"sandbox"
+		{
+			"buildid" "14724368"
+			"pwdrequired" "1"
+			"timeupdated" "1718404215"
+		}
+		"staging"
+		{
+			"buildid" "14459267"
+			"pwdrequired" "1"
+			"timeupdated" "1716405158"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "8"
+}
+"_missing_token" "False"
+"_change_number" "23979817"
+"_sha" "76d4d2b1fb886b7fb13f02cbc47e6fe336c45558"
+"_size" "11205"
