@@ -1,0 +1,316 @@
+"appid" "1695790"
+"common"
+{
+	"name" "Halo 2 Anniversary MP Mod Tools - MCC"
+	"type" "Tool"
+	"parent" "976730"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "91c8aabecc955e0a392522855d812abcdb6803b5"
+	"clienttga" "84f1d1068517a095fb1f7a96bcc7cc88094a6358"
+	"clienticon" "a4dce2a0d039a59831020830335e4ba79f9c7f0d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1695790_eula_0"
+			"name" "Halo 2 Anniversary MP Mod Tools - MCC EULA"
+			"url" "https://store.steampowered.com//eula/1695790_eula_0"
+			"version" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "60.90261199058665"
+			"height_pct" "90.55106911876871"
+		}
+	}
+	"store_asset_mtime" "1670445898"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "343 Industries"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Splash Damage"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Ruffian Games"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Bungie"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"gameid" "1695790"
+}
+"extended"
+{
+	"dlcforappid" "976730"
+	"mustownapptopurchase" "976730"
+	"disableoverlay" "1"
+	"disableoverlayinjection" "1"
+	"developer" "343 Industries"
+	"homepage" "http://www.halowaypoint.com"
+}
+"config"
+{
+	"installdir" "H2AMPEK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "halo2a_tag_test.exe"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Halo 2 Anniversary MP Tag Test"
+			}
+			"description" "Halo 2 Anniversary MP Tag Test"
+		}
+		"1"
+		{
+			"executable" "sapien.exe"
+			"description_loc"
+			{
+				"english" "Launch Sapien"
+			}
+			"description" "Launch Sapien"
+		}
+		"2"
+		{
+			"executable" "Foundation.exe"
+			"description_loc"
+			{
+				"english" "Launch Foundation"
+			}
+			"description" "Launch Foundation"
+		}
+		"3"
+		{
+			"executable" "MegaloEdit.exe"
+			"description_loc"
+			{
+				"english" "Launch MegaloEdit"
+			}
+			"description" "Launch MegaloEdit"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1695799"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4791671210297014484"
+				"size" "5558690327"
+				"download" "5391100864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dailybuild"
+			{
+				"gid" "5B4703CB5EED15C330F30003E343F1A5"
+				"size" "6F3C49945D8CBAEC608A7C868BA1DA39"
+				"download" "D33024E1119D9615D8100D2C8469E3B5"
+			}
+			"dailybuild-qfe1"
+			{
+				"gid" "882C10EFE06E9D55D0C916806377E663"
+				"size" "87C7A46149C22F3AC9EF3F99A50D2CDC"
+				"download" "D2C22AE2C24608A8DF93259538977665"
+			}
+			"dailybuild-release"
+			{
+				"gid" "7722E9AE0D93980C979D74DAEAE0B823"
+				"size" "7B76FD3FC8D1BF53D764842FE9D39023"
+				"download" "A4C84938C7E0AA323AD920156D60C791"
+			}
+			"thepub"
+			{
+				"gid" "6A9318785F15229798388CA56CE65FBC"
+				"size" "C445A69553D96814828AF2A00CA50D0F"
+				"download" "4CBA6D8C5D7652D506F00697E95782ED"
+			}
+			"burgersandfries_011923"
+			{
+				"gid" "DC9C541F8171ACFF33C75A6E18A3966F"
+				"size" "6317C364CF02D054B57064EB78212278"
+				"download" "BE516181373E99590AE3AEE8422805E6"
+			}
+			"dailybuild-main"
+			{
+				"gid" "09A2D70A64F562C9E7D54BE5F23D37A2"
+				"size" "D5C1393AF9CB1A88C4006CCECA569D5E"
+				"download" "A074DF4E1EE715001F7657B28FBF5645"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13160247"
+			"timeupdated" "1707933826"
+		}
+		"dailybuild"
+		{
+			"buildid" "10101296"
+			"pwdrequired" "1"
+			"timeupdated" "1670456326"
+		}
+		"dailybuild-qfe1"
+		{
+			"buildid" "10094219"
+			"pwdrequired" "1"
+			"timeupdated" "1672106962"
+		}
+		"dailybuild-release"
+		{
+			"buildid" "13160247"
+			"pwdrequired" "1"
+			"timeupdated" "1705088719"
+		}
+		"thepub"
+		{
+			"buildid" "10094219"
+			"pwdrequired" "1"
+			"timeupdated" "1670441721"
+		}
+		"burgersandfries_011923"
+		{
+			"buildid" "14251478"
+			"pwdrequired" "1"
+			"timeupdated" "1714753735"
+		}
+		"dailybuild-main"
+		{
+			"buildid" "14251478"
+			"pwdrequired" "1"
+			"timeupdated" "1714707320"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "5646958cc60adbe052f1fae73fcf87f8cca9f779"
+"_size" "5724"
