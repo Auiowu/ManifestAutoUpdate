@@ -1,0 +1,438 @@
+"appid" "2239530"
+"common"
+{
+	"name" "American Truck Simulator Dedicated Server"
+	"type" "Tool"
+	"parent" "270880"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"icon" "d5c8b0bf827cf1a526d04121baf1a24887983861"
+	"clienttga" "92f14a9894ddccf5bc5b0986dd0af85ae6ac39f7"
+	"clienticon" "bb3d5e390828e6acd0424566d77446b592d066b1"
+	"associations"
+	{
+	}
+	"gameid" "2239530"
+}
+"extended"
+{
+	"gamedir" "American Truck Simulator Dedicated Server"
+}
+"config"
+{
+	"installdir" "American Truck Simulator Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin/win_x64/amtrucks_server.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "bin/linux_x64/amtrucks_server"
+			"workingdir" "bin/linux_x64"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "server_launch.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2239531"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6326549656978591153"
+				"size" "471392613"
+				"download" "466233552"
+			}
+			"public_beta"
+			{
+				"gid" "6326549656978591153"
+				"size" "471392613"
+				"download" "466233552"
+			}
+			"temporary_1_50"
+			{
+				"gid" "6326549656978591153"
+				"size" "471392613"
+				"download" "466233552"
+			}
+			"temporary_1_49"
+			{
+				"gid" "3819885760785769050"
+				"size" "64233295"
+				"download" "60876976"
+			}
+			"temporary_1_48_5"
+			{
+				"gid" "57758795408129578"
+				"size" "62568501"
+				"download" "59345696"
+			}
+			"temporary_1_48"
+			{
+				"gid" "7617458574517374118"
+				"size" "384530536"
+				"download" "381569488"
+			}
+			"temporary_1_47"
+			{
+				"gid" "3300141783868971827"
+				"size" "352440884"
+				"download" "349734976"
+			}
+			"temporary_1_46"
+			{
+				"gid" "7515429596123839528"
+				"size" "349605807"
+				"download" "346914096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "6D9FD61C2E6DF97A7D6D6D1B527A6B06"
+				"size" "004068C45372483B54D4C30350BDAB7F"
+				"download" "34E0AD174901D1226F2C88800BECE6EF"
+			}
+		}
+	}
+	"2239532"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2077368787628174445"
+				"size" "33621872"
+				"download" "7982160"
+			}
+			"public_beta"
+			{
+				"gid" "2077368787628174445"
+				"size" "33621872"
+				"download" "7982160"
+			}
+			"temporary_1_50"
+			{
+				"gid" "2077368787628174445"
+				"size" "33621872"
+				"download" "7982160"
+			}
+			"temporary_1_49"
+			{
+				"gid" "369368053928064452"
+				"size" "23829624"
+				"download" "7491328"
+			}
+			"temporary_1_48_5"
+			{
+				"gid" "1188602857365578639"
+				"size" "23576184"
+				"download" "7427520"
+			}
+			"temporary_1_48"
+			{
+				"gid" "1804772497770292784"
+				"size" "23196280"
+				"download" "7362864"
+			}
+			"temporary_1_47"
+			{
+				"gid" "3364946708758070330"
+				"size" "22505080"
+				"download" "7134656"
+			}
+			"temporary_1_46"
+			{
+				"gid" "5534304006764554514"
+				"size" "23187640"
+				"download" "7301216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "AD004C28515422A0FB264F8B1DE7FD13"
+				"size" "889C2E9F4B3C7B57F7563122A92D585F"
+				"download" "001E69D5B5289241AF977BCBCA7C6AE5"
+			}
+		}
+	}
+	"2239533"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8581509751726254528"
+				"size" "39157885"
+				"download" "11390224"
+			}
+			"public_beta"
+			{
+				"gid" "8581509751726254528"
+				"size" "39157885"
+				"download" "11390224"
+			}
+			"temporary_1_50"
+			{
+				"gid" "8581509751726254528"
+				"size" "39157885"
+				"download" "11390224"
+			}
+			"temporary_1_49"
+			{
+				"gid" "1481030371122017631"
+				"size" "41489821"
+				"download" "11396896"
+			}
+			"temporary_1_48_5"
+			{
+				"gid" "6550560824449020669"
+				"size" "41163613"
+				"download" "11305024"
+			}
+			"temporary_1_48"
+			{
+				"gid" "7772908570440498156"
+				"size" "40605597"
+				"download" "11159056"
+			}
+			"temporary_1_47"
+			{
+				"gid" "3036116657366143748"
+				"size" "39572525"
+				"download" "10888144"
+			}
+			"temporary_1_46"
+			{
+				"gid" "8519455116413774827"
+				"size" "38573562"
+				"download" "10759776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "362DA45341DFFDD0A572291091EA3CE5"
+				"size" "9D8947B0CA30A8386C5CCCBCBC26A96E"
+				"download" "F84B41D4EB90E9DFD0A1A2E0F43A9922"
+			}
+		}
+	}
+	"2239534"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7886257100193347395"
+				"size" "38525419"
+				"download" "11559376"
+			}
+			"public_beta"
+			{
+				"gid" "7886257100193347395"
+				"size" "38525419"
+				"download" "11559376"
+			}
+			"temporary_1_50"
+			{
+				"gid" "7886257100193347395"
+				"size" "38525419"
+				"download" "11559376"
+			}
+			"temporary_1_49"
+			{
+				"gid" "5897184925260392195"
+				"size" "33266596"
+				"download" "10460320"
+			}
+			"temporary_1_48_5"
+			{
+				"gid" "7352627760040805329"
+				"size" "32953668"
+				"download" "10381776"
+			}
+			"temporary_1_48"
+			{
+				"gid" "7546107546615386581"
+				"size" "32461300"
+				"download" "10218560"
+			}
+			"temporary_1_47"
+			{
+				"gid" "2228509760917893435"
+				"size" "31266228"
+				"download" "10002880"
+			}
+			"temporary_1_46"
+			{
+				"gid" "4094839594275171925"
+				"size" "30639395"
+				"download" "9930224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "034472CBAD81E14326A020C4CAFF3E46"
+				"size" "7B4673C8E0AE2E09C7BC93D631DFEFF0"
+				"download" "FB5AEDE71237EF007B5F45338319CD2B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14525805"
+			"timeupdated" "1716977338"
+		}
+		"experimental"
+		{
+			"buildid" "14525805"
+			"pwdrequired" "1"
+			"timeupdated" "1716967446"
+		}
+		"public_beta"
+		{
+			"buildid" "14525805"
+			"description" "Public Beta 1.50"
+			"timeupdated" "1716977317"
+		}
+		"temporary_1_50"
+		{
+			"buildid" "14525805"
+			"description" "1.50\t"
+			"timeupdated" "1716977408"
+		}
+		"temporary_1_49"
+		{
+			"buildid" "13130902"
+			"description" "1.49.x"
+			"timeupdated" "1705341604"
+		}
+		"temporary_1_48_5"
+		{
+			"buildid" "12535646"
+			"description" "1.48.5.x"
+			"timeupdated" "1701167684"
+		}
+		"temporary_1_48"
+		{
+			"buildid" "11826069"
+			"description" "1.48.x"
+			"timeupdated" "1691678885"
+		}
+		"temporary_1_47"
+		{
+			"buildid" "11371923"
+			"description" "1.47.x"
+			"timeupdated" "1690876913"
+		}
+		"temporary_1_46"
+		{
+			"buildid" "10146920"
+			"description" "1.46.x"
+			"timeupdated" "1690876999"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23760255"
+"_sha" "aaeb2e80dd9719db339cc0b2fd8577d5cf1ba83d"
+"_size" "7778"
