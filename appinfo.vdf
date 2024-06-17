@@ -1,0 +1,644 @@
+"appid" "1176470"
+"common"
+{
+	"name" "Terra Invicta"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "5cbac5d7c1df8492afaa83546a176a73e8328e44"
+	"logo_small" "5cbac5d7c1df8492afaa83546a176a73e8328e44_thumb"
+	"icon" "8c5e5f5252c5fd85b3327c4faca2d30832ecdeb1"
+	"clienticon" "8e155a9a0d50a1b6782d32d23122b8f23479f273"
+	"clienttga" "78ad4829e0794bbd1bfdc68e7f8410879a84b9a6"
+	"linuxclienticon" "8e155a9a0d50a1b6782d32d23122b8f23479f273"
+	"name_localized"
+	{
+		"schinese" "地球不屈 Terra Invicta"
+		"tchinese" "地球不屈 Terra Invicta"
+		"koreana" "Terra Invicta 테라 인빅타  "
+		"japanese" "Terra Invicta テラ・インヴィクタ  "
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1665705600"
+		"tested_build_id" "9593678"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en,ja"
+		"library_header" "ja,zh-cn,en,zh-tw,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.36097396655134"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709159001"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pavonis Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1664204353"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1176470"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "9"
+		"2" "599"
+		"3" "4364"
+		"4" "4168"
+		"5" "5125"
+		"6" "3834"
+		"7" "3942"
+		"8" "1670"
+		"9" "3987"
+		"10" "1678"
+		"11" "12472"
+		"12" "4695"
+		"13" "1708"
+		"14" "4182"
+		"15" "1669"
+		"16" "3810"
+		"17" "6310"
+		"18" "7107"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"developer" "Pavonis Interactive"
+	"publisher" "Hooded Horse"
+	"homepage" "https://www.pavonisinteractive.com/"
+}
+"config"
+{
+	"installdir" "Terra Invicta"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta"
+			}
+		}
+		"8"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "validation"
+			}
+		}
+		"9"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "experimental"
+			}
+		}
+		"10"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release"
+			}
+		}
+		"11"
+		{
+			"executable" "Terra-Invicta.app/Contents/MacOS/TerraInvicta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mac-validation"
+			}
+		}
+		"12"
+		{
+			"executable" "Terra-Invicta.app/Contents/MacOS/TerraInvicta"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mac-release"
+			}
+		}
+		"13"
+		{
+			"executable" "TerraInvicta.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"workshopdepot" "1176470"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1176471"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2645230615506934570"
+				"size" "25346973197"
+				"download" "20770516192"
+			}
+			"rollback-0-3-107"
+			{
+				"gid" "4660062986234302257"
+				"size" "20812993638"
+				"download" "16296375008"
+			}
+			"rollback-0-3-118"
+			{
+				"gid" "2556949239215933393"
+				"size" "25150367735"
+				"download" "20605652256"
+			}
+			"rollback-0-3-138"
+			{
+				"gid" "538399558052361150"
+				"size" "25188528951"
+				"download" "20637638368"
+			}
+			"rollback-0-3-35"
+			{
+				"gid" "79848757807937725"
+				"size" "20401158955"
+				"download" "15989601344"
+			}
+			"rollback-0-3-49"
+			{
+				"gid" "5404439927330286970"
+				"size" "20408636753"
+				"download" "15993607216"
+			}
+			"rollback-0-3-59"
+			{
+				"gid" "4154699954280865202"
+				"size" "20413670719"
+				"download" "16001640944"
+			}
+			"rollback-0-3-76"
+			{
+				"gid" "8444455761495563168"
+				"size" "20419639193"
+				"download" "16007006208"
+			}
+			"rollback-0-3-99"
+			{
+				"gid" "2431545909369954194"
+				"size" "20600874075"
+				"download" "16113655456"
+			}
+			"rollback-0-4-18"
+			{
+				"gid" "7784002322535845678"
+				"size" "25345611274"
+				"download" "20770322400"
+			}
+			"beta-release"
+			{
+				"gid" "5032185821694162388"
+				"size" "25931758437"
+				"download" "21291058736"
+			}
+			"experimental"
+			{
+				"gid" "5912518447684937324"
+				"size" "25933481561"
+				"download" "21291162096"
+			}
+			"validation-release"
+			{
+				"gid" "706715035069907794"
+				"size" "25933480211"
+				"download" "21291162000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mac-release"
+			{
+				"gid" "15F698D8D8EA47E1720C90BC59211DE5"
+				"size" "0B605ADA4A7877A75047DFC68B08C188"
+				"download" "F3B88387C375D459D228F9FD4F2C15C9"
+			}
+			"beta"
+			{
+				"gid" "5734E7ED0C220A37BF93AC4B50B00DF7"
+				"size" "3795B635656E191D150460414AD16C96"
+				"download" "E0A46B445DB0BEE674920836F6AC534D"
+			}
+			"de-fault-devbuild"
+			{
+				"gid" "874DB833CDAF7A6C6A9EA9A15E943E68"
+				"size" "6DE96A661A97B4D36854DB679A86568E"
+				"download" "FE75266CC151FFE3423531D0EE49F629"
+			}
+			"devbranch"
+			{
+				"gid" "4B9B1BFD23B71B80069C949A7F74B1CE"
+				"size" "AFA5C75B3971DAA108C5FD0D651ED1A9"
+				"download" "C31931444ACA9398282A70227DB179E5"
+			}
+			"pack-testing"
+			{
+				"gid" "3C2673225216089726379E684FD677DA"
+				"size" "C798195959D1FD2BF289670D450C8ED4"
+				"download" "CDC7E97707E2328EE9C5D7D918F01265"
+			}
+			"release"
+			{
+				"gid" "09A23A6E04EF93F1B7346AB29817B818"
+				"size" "D4466330B405F6B6C7964021FBFF4A55"
+				"download" "23A340E48B76C12369C126233D2340F7"
+			}
+			"validation"
+			{
+				"gid" "89B58F97CF5D4F17B666D23D94B47AEA"
+				"size" "E77F336A1A285050A79AB26845040DC4"
+				"download" "BF74F450B744C5FDAA07B35B743F18EA"
+			}
+		}
+	}
+	"1176472"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"mac-release"
+			{
+				"gid" "A8FD42BA9B30D9C0E5FC532F71F3C34B"
+				"size" "577A14A11A6EE40C20B7CE75A0CA2A83"
+				"download" "F9E5AF0C54885BBD3FDB57EC1FED143E"
+			}
+		}
+	}
+	"2939040"
+	{
+		"dlcappid" "2939040"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"devbranch"
+			{
+				"gid" "9EA1BC8059E9AB46CB13EB2ABC18936E"
+				"size" "3D568ACD5D730677789929FE17D39893"
+				"download" "9B015C2342655A8C5FB3615687C5FC42"
+			}
+			"pack-testing"
+			{
+				"gid" "312DE18060131431F52BA344CB62A1AC"
+				"size" "89E8AAA39B67A8E9C84B02564AF9A609"
+				"download" "557706A00179DEC04E44C1C8269D63BA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14233838"
+			"timeupdated" "1714592644"
+		}
+		"mac-release"
+		{
+			"buildid" "13635590"
+			"pwdrequired" "1"
+			"timeupdated" "1709576724"
+		}
+		"rollback-0-3-107"
+		{
+			"buildid" "12005851"
+			"description" "0.3.107"
+			"timeupdated" "1701113394"
+		}
+		"rollback-0-3-118"
+		{
+			"buildid" "12894324"
+			"description" "0.3.118"
+			"timeupdated" "1705929801"
+		}
+		"rollback-0-3-138"
+		{
+			"buildid" "13833453"
+			"description" "0.3.138"
+			"timeupdated" "1712798485"
+		}
+		"rollback-0-3-35"
+		{
+			"buildid" "9849869"
+			"description" "0.3.35"
+			"timeupdated" "1675778678"
+		}
+		"rollback-0-3-49"
+		{
+			"buildid" "10225337"
+			"description" "0.3.49"
+			"timeupdated" "1678132985"
+		}
+		"rollback-0-3-59"
+		{
+			"buildid" "10490608"
+			"description" "0.3.59"
+			"timeupdated" "1689273008"
+		}
+		"rollback-0-3-76"
+		{
+			"buildid" "10691675"
+			"description" "0.3.76"
+			"timeupdated" "1688156215"
+		}
+		"rollback-0-3-99"
+		{
+			"buildid" "11644005"
+			"description" "0.3.99"
+			"timeupdated" "1692366443"
+		}
+		"rollback-0-4-18"
+		{
+			"buildid" "14046637"
+			"description" "0.4.18"
+			"timeupdated" "1713806642"
+		}
+		"beta"
+		{
+			"buildid" "14328728"
+			"pwdrequired" "1"
+			"timeupdated" "1715811021"
+		}
+		"beta-release"
+		{
+			"buildid" "14552632"
+			"description" "0.4.32"
+			"timeupdated" "1717625307"
+		}
+		"de-fault-devbuild"
+		{
+			"buildid" "14233750"
+			"pwdrequired" "1"
+			"timeupdated" "1714592467"
+		}
+		"devbranch"
+		{
+			"buildid" "14650879"
+			"pwdrequired" "1"
+			"timeupdated" "1717861837"
+		}
+		"experimental"
+		{
+			"buildid" "14650941"
+			"description" "0.4.36"
+			"timeupdated" "1717875354"
+		}
+		"pack-testing"
+		{
+			"buildid" "14353157"
+			"pwdrequired" "1"
+			"timeupdated" "1715813116"
+		}
+		"release"
+		{
+			"buildid" "14650941"
+			"pwdrequired" "1"
+			"timeupdated" "1717862354"
+		}
+		"validation"
+		{
+			"buildid" "14328728"
+			"pwdrequired" "1"
+			"timeupdated" "1715811031"
+		}
+		"validation-release"
+		{
+			"buildid" "14630572"
+			"description" "0.4.34"
+			"timeupdated" "1717804384"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "8388608000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/TerraInvicta/Saves/"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/TerraInvicta/Saves/"
+			"pattern" "*.gz"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23888762"
+"_sha" "91ca2e03c23acbb5f9984e957407e7042023f121"
+"_size" "12429"
