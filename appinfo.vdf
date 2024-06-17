@@ -1,0 +1,427 @@
+"appid" "1620290"
+"common"
+{
+	"name" "Zombie Cure Lab"
+	"type" "Game"
+	"logo" "ef8060861a99f2500537800b31e0ba92a77879d2"
+	"logo_small" "ef8060861a99f2500537800b31e0ba92a77879d2_thumb"
+	"icon" "caaaf3a55adc55327608ff80f09987c0fb11d658"
+	"clienticon" "38fe289c79fecfaf17cb89ffbd669f18f74a8f54"
+	"clienttga" "254d21ecf4371540eb8faa038f77e0edb189fcf4"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1620290_eula_0"
+			"name" "Zombie Cure Lab EULA"
+			"url" "https://store.steampowered.com//eula/1620290_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1680048000"
+		"tested_build_id" "10774577"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "75.67094515752626"
+			"height_pct" "66.33738526052062"
+		}
+	}
+	"store_asset_mtime" "1713350719"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Thera Bytes GmbH"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Aerosoft GmbH"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "aerosoft"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1670425213"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1620290"
+	"store_tags"
+	{
+		"0" "220585"
+		"1" "7332"
+		"2" "1662"
+		"3" "8945"
+		"4" "1643"
+		"5" "4182"
+		"6" "12472"
+		"7" "599"
+		"8" "5794"
+		"9" "3810"
+		"10" "9"
+		"11" "1645"
+		"12" "4328"
+		"13" "3835"
+		"14" "1659"
+		"15" "4695"
+		"16" "4191"
+		"17" "4726"
+		"18" "4791"
+		"19" "16689"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Thera Bytes GmbH"
+	"publisher" "Aerosoft GmbH"
+	"homepage" "https://www.zombiecurelab.com/"
+}
+"config"
+{
+	"installdir" "Zombie Cure Lab"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Zombie Cure Lab.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollertouchconfigdetails" ""
+}
+"depots"
+{
+	"1620291"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3936771834547274733"
+				"size" "1218748894"
+				"download" "475739232"
+			}
+			"experimental"
+			{
+				"gid" "7807912525045434567"
+				"size" "1220586788"
+				"download" "475825536"
+			}
+			"hotfix"
+			{
+				"gid" "1913975449201735636"
+				"size" "697574219"
+				"download" "506362240"
+			}
+			"previous_version"
+			{
+				"gid" "3767957013112305524"
+				"size" "1468521680"
+				"download" "688263344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "B36FFE61B500AD3E609CE78B8310B2C9"
+				"size" "40E7E7AB05B78428A8F52E0165FDC85A"
+				"download" "969BACA0F82F0EE86800B766F0ADFA44"
+			}
+			"mac-master"
+			{
+				"gid" "29DB9598AF3093A78BA850E9EFC7F93D"
+				"size" "BCCADAA55F6486784909282621EA506D"
+				"download" "A2A5DAC74AFBA760423F875A98737563"
+			}
+			"master"
+			{
+				"gid" "DBCB47F09C3A664A10AC6959827293F0"
+				"size" "EB582B5AB539BF24BB0BDDA5B0F24B51"
+				"download" "695AF684CD08764B26D653D0428E1D7E"
+			}
+			"quantic"
+			{
+				"gid" "A8CB22F6438C359AA200084F042518B8"
+				"size" "EA54973E324FF0BA97CBEE054875BD89"
+				"download" "CBFF314CDEEC2F284C26EE18E4482B4A"
+			}
+			"sandbox"
+			{
+				"gid" "F4CA60E484AEEB17A833B74D194AED48"
+				"size" "087270C27F873342CA6A2340FE24231B"
+				"download" "1477C34EE5977D6458CB008E3790DC3D"
+			}
+			"usk_test"
+			{
+				"gid" "86C9A285AF8F30C8DC496B7B0E0A4B60"
+				"size" "520A2CBCAD02A7748A118F731915EC01"
+				"download" "3C03E2B36B066D98DFA2ED271F1FF452"
+			}
+			"weekly"
+			{
+				"gid" "5C038D88392DDA85FEE7F108AADA76E5"
+				"size" "65DF7F413D413AFE1525D8EEB24A58D4"
+				"download" "A45EC1BDC28613012EA8C6431DE6D1EA"
+			}
+			"hotfix-internal"
+			{
+				"gid" "6FB287D9EB4F4965056FA25FF4E046C9"
+				"size" "5CFB431713F66B8B0132244398A4FBE7"
+				"download" "C4A379A9C41D6FB84E245A83E723CAD5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14440496"
+			"timeupdated" "1716294919"
+		}
+		"develop"
+		{
+			"buildid" "14081579"
+			"pwdrequired" "1"
+			"timeupdated" "1713349896"
+		}
+		"experimental"
+		{
+			"buildid" "13465069"
+			"description" "Here we test out stuff like new features or unstable fixes to discover problems or test new things."
+			"timeupdated" "1708013156"
+		}
+		"hotfix"
+		{
+			"buildid" "12001387"
+			"description" "Test out Hotfixes before they are officially released."
+			"timeupdated" "1692695417"
+		}
+		"mac-master"
+		{
+			"buildid" "9077405"
+			"pwdrequired" "1"
+			"timeupdated" "1657186082"
+		}
+		"master"
+		{
+			"buildid" "12791298"
+			"pwdrequired" "1"
+			"timeupdated" "1700834220"
+		}
+		"previous_version"
+		{
+			"buildid" "12022615"
+			"description" "Here you can play the previous version 0.19.4"
+			"timeupdated" "1698658819"
+		}
+		"quantic"
+		{
+			"buildid" "9762746"
+			"pwdrequired" "1"
+			"timeupdated" "1666775313"
+		}
+		"sandbox"
+		{
+			"buildid" "10185713"
+			"pwdrequired" "1"
+			"timeupdated" "1671552378"
+		}
+		"usk_test"
+		{
+			"buildid" "9280578"
+			"pwdrequired" "1"
+			"timeupdated" "1660052233"
+		}
+		"weekly"
+		{
+			"buildid" "10577302"
+			"pwdrequired" "1"
+			"timeupdated" "1676648864"
+		}
+		"hotfix-internal"
+		{
+			"buildid" "14440496"
+			"pwdrequired" "1"
+			"timeupdated" "1716288120"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Thera Bytes/Zombie Cure Lab/Savegames/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Thera Bytes/Zombie Cure Lab/"
+			"pattern" "UserSettings.txt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "23627242"
+"_sha" "1b822997d4f0c01a9843a3bf297c8652732dcf57"
+"_size" "8309"
