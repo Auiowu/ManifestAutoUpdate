@@ -1,0 +1,311 @@
+"appid" "1847240"
+"common"
+{
+	"name" "Game Dev Story"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "c68ccfead445318e74273f64a762dc311caf01c8"
+	"clienticon" "999bccc37f470994babe7095961bd5728b068b70"
+	"icon" "70c20b3f2892cbaa1e486eb3661017536f630ecf"
+	"name_localized"
+	{
+		"koreana" "게임개발 스토리 (Game Dev Story)"
+		"tchinese" "遊戲發展國++ (Game Dev Story)"
+		"schinese" "游戏开发物语 (Game Dev Story)"
+		"thai" "เรื่องราวคนสร้างเกม (Game Dev Story)"
+		"japanese" "ゲーム発展国++"
+	}
+	"logo" "4960a727b8542e80e4e2d12c47e0316ba91b83a3"
+	"logo_small" "4960a727b8542e80e4e2d12c47e0316ba91b83a3_thumb"
+	"languages"
+	{
+		"english" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1667001600"
+		"tested_build_id" "9272579"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "en,ja"
+		"library_logo" "en,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1647229151"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kairosoft Co.,Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kairosoft Co.,Ltd"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Kairosoft Co.,Ltd"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1648445996"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1847240"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "1643"
+		"2" "3813"
+		"3" "4328"
+		"4" "5379"
+		"5" "13906"
+		"6" "5432"
+		"7" "10235"
+		"8" "9"
+		"9" "3871"
+		"10" "597"
+		"11" "4726"
+		"12" "8013"
+		"13" "3964"
+		"14" "599"
+		"15" "4004"
+		"16" "6691"
+		"17" "4182"
+		"18" "492"
+		"19" "7368"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Kairosoft Co.,Ltd"
+	"publisher" "Kairosoft Co.,Ltd"
+	"homepage" "https://kairosoft.net/game/appli/gamedev.html"
+}
+"config"
+{
+	"installdir" "GameDevStory"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2675516519"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KairoGames.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1847241"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8735648231807345950"
+				"size" "85384253"
+				"download" "32799680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "F8FE9D386012C893A5DDC0F1C9B8684D"
+				"size" "35C43B4907F6900F984531E55165DCBE"
+				"download" "AD81091773A54BF68B10F3AF5BD72F2D"
+			}
+		}
+	}
+	"baselanguages" ""
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14358721"
+			"timeupdated" "1715670495"
+		}
+		"beta"
+		{
+			"buildid" "14358625"
+			"pwdrequired" "1"
+			"timeupdated" "1715670507"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "saves/{64BitSteamID}"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23776667"
+"_sha" "6e1ba76cf83c893ab89f07a8c9cd039f0f285624"
+"_size" "5483"
