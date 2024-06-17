@@ -1,0 +1,318 @@
+"appid" "1915510"
+"common"
+{
+	"name" "降妖散记"
+	"type" "Game"
+	"clienttga" "db9560876811e91f7e25868d9dbfd0066df85762"
+	"clienticon" "1d0b12f0a6879592d687a7daffd1e0859bbc2997"
+	"icon" "b52923ec3d2305aeaaf084d7762bfdc66e579d4f"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Yao-Guai Hunter"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1683676800"
+		"tested_build_id" "11172317"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.82708084535565"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1694231055"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MòGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MòGames"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "MyACG Studio"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680518108"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1915510"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "4711"
+		"2" "1716"
+		"3" "1666"
+		"4" "791774"
+		"5" "4195"
+		"6" "32322"
+		"7" "1677"
+		"8" "4182"
+		"9" "492"
+		"10" "3959"
+		"11" "9"
+		"12" "122"
+		"13" "3871"
+		"14" "1720"
+		"15" "493"
+		"16" "4085"
+		"17" "14139"
+		"18" "1684"
+		"19" "4057"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "MòGames"
+	"publisher" "MòGames"
+}
+"config"
+{
+	"installdir" "降妖散记"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "降妖散记.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"1915511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3706629762992990401"
+				"size" "6609818367"
+				"download" "1850425376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test1"
+			{
+				"gid" "591BE92AFE7E3AF1149B093DFDA154C3"
+				"size" "363E5236EFBE3D15081F864356AFB7BF"
+				"download" "C717DF7A6F5A0574D15C9C350F8E5707"
+			}
+			"lastdefault"
+			{
+				"gid" "986BCDF81FFA47F8E5CE6892AA936893"
+				"size" "0444868816F183681721F4AAB6EC5622"
+				"download" "99CAEBBA978D09EB6B56A5C73FF0D5C5"
+			}
+			"test2"
+			{
+				"gid" "AD456B5BC62A5CF3A41D29EDE8599F4E"
+				"size" "7D413BD11A264D4E8468A3D865B27CB1"
+				"download" "7CCB8B174E982BA8E7F3D2047871BC22"
+			}
+			"test3"
+			{
+				"gid" "0C668BE904C695F3EA98CD6DA4F8BF1A"
+				"size" "1D36510B5EBF725FFC45849C1285959D"
+				"download" "1413118E92BD115758B8CAB1ED886B67"
+			}
+			"test4"
+			{
+				"gid" "B63F33032149A83285C1DCF31647581F"
+				"size" "5A28264086AB6763A4EC0C0E75E541B0"
+				"download" "C350C2228BD8D3FFF876A90ACCFF54D7"
+			}
+			"test5"
+			{
+				"gid" "C91C62077486F2086167BBDCF1E250C6"
+				"size" "0C845561ED4D5A0ACDAEF22DF5DABFE5"
+				"download" "C9922E065D84BB839C53BA0F034C8FF5"
+			}
+		}
+	}
+	"baselanguages" "english,schinese"
+	"workshopdepot" "1915510"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14719308"
+			"timeupdated" "1718372680"
+		}
+		"test1"
+		{
+			"buildid" "12022467"
+			"pwdrequired" "1"
+			"timeupdated" "1692879965"
+		}
+		"lastdefault"
+		{
+			"buildid" "14614388"
+			"pwdrequired" "1"
+			"timeupdated" "1718306647"
+		}
+		"test2"
+		{
+			"buildid" "14719308"
+			"pwdrequired" "1"
+			"timeupdated" "1718371946"
+		}
+		"test3"
+		{
+			"buildid" "14313641"
+			"pwdrequired" "1"
+			"timeupdated" "1715247137"
+		}
+		"test4"
+		{
+			"buildid" "14520146"
+			"pwdrequired" "1"
+			"timeupdated" "1716906481"
+		}
+		"test5"
+		{
+			"buildid" "14719308"
+			"pwdrequired" "1"
+			"timeupdated" "1718371962"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MyACG Studio/降妖散记/Save"
+			"pattern" "*.save"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MyACG Studio/降妖散记/Save"
+			"pattern" "*.run"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23973772"
+"_sha" "6ba93cc3a545945cb957ff1a88b0869ecfddb9cd"
+"_size" "6019"
