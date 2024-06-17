@@ -1,0 +1,375 @@
+"appid" "1975440"
+"common"
+{
+	"name" "Under The Waves"
+	"type" "Game"
+	"icon" "89ee20b3906c85b158bc9be9b24180123e44c94d"
+	"clienticon" "6096fc8101f1801379896d17bbec024ff88ddd2f"
+	"clienttga" "62f5bf0871f6b358bc0471eae84fd8adc094de45"
+	"name_localized"
+	{
+		"schinese" "碧波之下"
+		"tchinese" "碧波之下"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1710201600"
+		"tested_build_id" "13497222"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,zh-tw,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1695312611"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Parallel Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spotlight by Quantic Dream"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1693291603"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1975440"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "3834"
+		"2" "1742"
+		"3" "492"
+		"4" "9157"
+		"5" "4166"
+		"6" "4182"
+		"7" "3942"
+		"8" "1697"
+		"9" "19780"
+		"10" "4191"
+		"11" "5094"
+		"12" "4145"
+		"13" "7702"
+		"14" "1695"
+		"15" "1667"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Parallel Studio"
+	"publisher" "Spotlight by Quantic Dream"
+	"homepage" "https://www.UnderTheWavesGame.com"
+}
+"config"
+{
+	"installdir" "Under The Waves"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "UnderTheWaves.exe"
+			"type" "default"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1975441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1003512359064067064"
+				"size" "9328376027"
+				"download" "6992170032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "0708838B7FE2338792B9A74D1B83B56F"
+				"size" "01265A2BD2F42B74A58322AB1DB0CC50"
+				"download" "60455995333AC6F3BDD1C253A7A7FFB7"
+			}
+			"stage"
+			{
+				"gid" "B56DD245EBBA4E6BA39E9C0950D80A72"
+				"size" "1C843C8E71E4C1C3AE332040C58BD112"
+				"download" "B277C42B4905753585B4EAE12C7FC8E9"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13497222"
+			"timeupdated" "1708685030"
+		}
+		"debug"
+		{
+			"buildid" "13813090"
+			"pwdrequired" "1"
+			"timeupdated" "1711041334"
+		}
+		"stage"
+		{
+			"buildid" "13813090"
+			"pwdrequired" "1"
+			"timeupdated" "1711041343"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "32000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "UnderTheWaves/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23871627"
+"_sha" "7c30ccea16676fc8411487d15aef9cd8fd16f180"
+"_size" "6443"
