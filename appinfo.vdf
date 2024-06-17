@@ -1,0 +1,270 @@
+"appid" "1695791"
+"common"
+{
+	"name" "Halo 3 Mod Tools - MCC"
+	"type" "Tool"
+	"parent" "976730"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1695791_eula_1"
+			"name" "Halo 3 Mod Tools - MCC EULA"
+			"url" "https://store.steampowered.com//eula/1695791_eula_1"
+			"version" "2"
+		}
+	}
+	"logo" "595558790bfbb5b72d186c4298919ec29a970af0"
+	"logo_small" "595558790bfbb5b72d186c4298919ec29a970af0_thumb"
+	"icon" "870606b1a18d7b2a921db03a69ff872edf8431d4"
+	"clienticon" "a4dce2a0d039a59831020830335e4ba79f9c7f0d"
+	"clienttga" "84f1d1068517a095fb1f7a96bcc7cc88094a6358"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "58.01763132478533"
+			"height_pct" "92.64133041355063"
+		}
+	}
+	"store_asset_mtime" "1670445765"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "343 Industries"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Splash Damage"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Ruffian Games"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "Bungie"
+		}
+		"4"
+		{
+			"type" "developer"
+			"name" "Saber Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1634144400"
+	"gameid" "1695791"
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"dlcforappid" "976730"
+	"mustownapptopurchase" "976730"
+	"disableoverlay" "1"
+	"disableoverlayinjection" "1"
+	"developer" "343 Industries"
+	"homepage" "http://www.halowaypoint.com"
+}
+"config"
+{
+	"installdir" "H3EK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "halo3_tag_test.exe"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Halo 3 Tag Test"
+			}
+			"description" "Halo 3 Tag Test"
+		}
+		"1"
+		{
+			"executable" "sapien.exe"
+			"description_loc"
+			{
+				"english" "Launch Sapien"
+			}
+			"description" "Launch Sapien"
+		}
+		"2"
+		{
+			"executable" "guerilla.exe"
+			"description_loc"
+			{
+				"english" "Launch Guerilla"
+			}
+			"description" "Launch Guerilla"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1701231"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5733961325012115096"
+				"size" "7615909898"
+				"download" "7538253936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dailybuild"
+			{
+				"gid" "4C4187928886D15D1AB71F83AB06A610"
+				"size" "7A51ADC1B6D977C2F401D1CA7A375AB2"
+				"download" "058A51898AFED0C73AC903A691B21AB6"
+			}
+			"dailybuild-qfe1"
+			{
+				"gid" "D01F675FA11F029F2174066D7363C921"
+				"size" "55A3456BD251EC1DE7F8C23E528DB6DE"
+				"download" "AD72D380DD24574C640BA973A0C87161"
+			}
+			"dailybuild-release"
+			{
+				"gid" "044A0FC7865A9D9CD854FD1C78FF490E"
+				"size" "099E509C599C6294F59B094BB35C7154"
+				"download" "28D5FB1AB363EFE59F3C85CF9A486A98"
+			}
+			"sq_hold"
+			{
+				"gid" "A57057BCB5DA7494579C4B0FDBD6F247"
+				"size" "A727152994F4658D1DF34C88DD04E368"
+				"download" "95701581BD7B0C8DCCBDA817D5CB98E9"
+			}
+			"thepub"
+			{
+				"gid" "060B0112A1093E24ECF1B292D0046E42"
+				"size" "837B48F0CF184033F9252973C38CD70A"
+				"download" "F804A67686BC12ED16F8E284B6B22596"
+			}
+			"burgersandfries_011923"
+			{
+				"gid" "A2264EECB61FDC9CCD00BF2329A99A2D"
+				"size" "8A7B36D0DFEEABCEAD0C8489E97CC620"
+				"download" "F1B5A5E9711F2CB2B31A4B2F80F04E7C"
+			}
+			"dailybuild-main"
+			{
+				"gid" "A3DD5D3399A1592359F3BF4AEB8300CD"
+				"size" "20A76A703B98BDCE319A21F1BDFF43C6"
+				"download" "9A168C1694BA25CF43CA70E2BFF4268D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13160128"
+			"timeupdated" "1707933784"
+		}
+		"dailybuild"
+		{
+			"buildid" "10101672"
+			"pwdrequired" "1"
+			"timeupdated" "1670460226"
+		}
+		"dailybuild-qfe1"
+		{
+			"buildid" "12145436"
+			"pwdrequired" "1"
+			"timeupdated" "1694203163"
+		}
+		"dailybuild-release"
+		{
+			"buildid" "13160128"
+			"pwdrequired" "1"
+			"timeupdated" "1705087640"
+		}
+		"sq_hold"
+		{
+			"buildid" "7242385"
+			"pwdrequired" "1"
+			"timeupdated" "1630695076"
+		}
+		"thepub"
+		{
+			"buildid" "9998142"
+			"pwdrequired" "1"
+			"timeupdated" "1669242223"
+		}
+		"burgersandfries_011923"
+		{
+			"buildid" "14251683"
+			"pwdrequired" "1"
+			"timeupdated" "1714753677"
+		}
+		"dailybuild-main"
+		{
+			"buildid" "14251683"
+			"pwdrequired" "1"
+			"timeupdated" "1714709441"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "5e696c2e3064f54bb096af7aa7fee6965943854f"
+"_size" "5210"
