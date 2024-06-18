@@ -1,0 +1,519 @@
+"appid" "22370"
+"common"
+{
+	"name" "Fallout 3 - Game of the Year Edition"
+	"metacritic_url" "pc/fallout3"
+	"logo" "ddccc41c513694e7a5542aa115e9e091d6495420"
+	"logo_small" "ddccc41c513694e7a5542aa115e9e091d6495420_thumb"
+	"icon" "21d7090bdea8f6685ca730850b7b55acfdb92732"
+	"clienttga" "d3526dee8a0d4e2b1f2ada4c6e0ad7153dbf8097"
+	"clienticon" "e98a5d98b6e96e213816a3fc4ff7bb0816f048f2"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7447090"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Fallout 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32"
+			"height_pct" "44"
+		}
+	}
+	"store_asset_mtime" "1406908738"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bethesda Game Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fallout"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1255417200"
+	"steam_release_date" "1261072800"
+	"metacritic_score" "91"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/fallout-3\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "22370"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "122"
+		"2" "3835"
+		"3" "4182"
+		"4" "1669"
+		"5" "3839"
+		"6" "3942"
+		"7" "1663"
+		"8" "21"
+		"9" "19"
+		"10" "3834"
+		"11" "4711"
+		"12" "4166"
+		"13" "3810"
+		"14" "1697"
+		"15" "1742"
+		"16" "1774"
+		"17" "4231"
+		"18" "7782"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Bethesda Game Studios"
+	"gamedir" "Fallout 3 - Game of the Year Edition"
+	"homepage" "http://fallout.bethsoft.com/"
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "22371"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "Bethesda Softworks"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Fallout 3 goty"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fallout3Launcher.exe"
+		}
+		"1"
+		{
+			"executable" "FalloutLauncherSteam.exe"
+			"type" "none"
+			"config"
+			{
+				"betakey" "beta"
+			}
+			"description_loc"
+			{
+				"english" "Test Branch"
+			}
+			"description" "Test Branch"
+		}
+		"2"
+		{
+			"executable" "Fallout3Launcher.exe"
+			"config"
+			{
+				"betakey" "vine"
+			}
+			"description_loc"
+			{
+				"english" "Test Branch"
+			}
+			"description" "Test Branch"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"22371"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2416786561786063548"
+				"size" "9347718020"
+				"download" "7574112368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "61FCDF1E73903B7BC7DFCDD25C50083A"
+				"size" "C0E0226667F1620218D731B6520989E8"
+				"download" "0325A65FFDBD05B3C127083DFB4D0971"
+			}
+			"delve"
+			{
+				"gid" "8DC2DF00FB4392720CF84E4C5350A861"
+				"size" "3645F6A882D67AD305864E464827CB56"
+				"download" "2B303CDC70D9B9F5C68A8C8E011DBFCC"
+			}
+			"vine"
+			{
+				"gid" "81F1B7BA9E53BFEC8FA12800899E71A8"
+				"size" "F61F5E849EBF6D9F6399F7C40C079C59"
+				"download" "8BC57F1F8ADF850BE9EB64991142927A"
+			}
+		}
+	}
+	"22376"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "574311061399254078"
+				"size" "8217754391"
+				"download" "6507688192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "E282BC400564933E59B935521AF19C7D"
+				"size" "22FA2EA27E250FF2683A69631EFBE0A4"
+				"download" "9597E4C7FC810910C33986F930716203"
+			}
+			"delve"
+			{
+				"gid" "326470F1841243E234417F36257CA33B"
+				"size" "4C695754D82FECDD58941C6FEB7788D0"
+				"download" "5289E9602463AF97FBDBA289A5015219"
+			}
+			"vine"
+			{
+				"gid" "BF0938B411447D7C27E5B3124810187A"
+				"size" "D3AB4045371BDEBC819D13ECACD7BC0E"
+				"download" "BEBE29112B8A0218C72570AA1EFC6296"
+			}
+		}
+	}
+	"22372"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "827002912150357260"
+				"size" "9094752748"
+				"download" "7326607536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "926C71B84CDCBB892D408C065E819A38"
+				"size" "CF113526D28C37C151A6875040AB4E31"
+				"download" "CA61145A3D90746AEA8BCBFD1837D77E"
+			}
+			"delve"
+			{
+				"gid" "166EFDE66B1093E04FEBF420371D9421"
+				"size" "89546EC1CD160850AAAD7450F646247E"
+				"download" "B4D6A3B9D0B62C0B8FBDA974812F4ECA"
+			}
+			"vine"
+			{
+				"gid" "3BF440E6D19E99A8E60BFBA3B86D5E52"
+				"size" "42EA987567E23ED187139AA2D8535067"
+				"download" "2B238BA5D75FB48709C99BD681405DD3"
+			}
+		}
+	}
+	"22373"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "179161400861758364"
+				"size" "9324820450"
+				"download" "7554370816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "36FFA924F4886F51522D5AFAF0479E3E"
+				"size" "93749B88F4295E586FBA3D6D7BE10FE9"
+				"download" "B08D9567A0808AD30164F47D584E958D"
+			}
+			"delve"
+			{
+				"gid" "5B4A9020C009DAD658F87E709D1D42C1"
+				"size" "0D55D44B4DA6563F780F437F58B3EAF9"
+				"download" "850FEBF355865737DB38D55B8D05C8E4"
+			}
+			"vine"
+			{
+				"gid" "7708583D678772A9136C9955D1BB5559"
+				"size" "C75A5DDD8BAC588C6B58C90F666C4C8F"
+				"download" "FB038A9B4B2FA00BB7FB0E444D08F8FD"
+			}
+		}
+	}
+	"22374"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5562528913773688286"
+				"size" "9245669254"
+				"download" "7478638368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "35CF004BC8FBB251BA7B9A6FCC3E8BB9"
+				"size" "FD1EEE0D39CF86204B71510AD613F0DC"
+				"download" "3A9E3747E5CBFEC8C281DA43895731A7"
+			}
+			"delve"
+			{
+				"gid" "7D1F3377D3B7EC5384C8717BF0C6B0BF"
+				"size" "62A5523BCADAE5D68EF952B655800D96"
+				"download" "37A4E940F34028A92570E04112BA31C0"
+			}
+			"vine"
+			{
+				"gid" "B0ED7FB6E739A6A4192A6697EBE9AA5E"
+				"size" "E51E7A563E807A1AFEA88591720FEA4D"
+				"download" "B81CEA62961F685EC00E0BC64B79E0BB"
+			}
+		}
+	}
+	"22375"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5343648328298172273"
+				"size" "9236814494"
+				"download" "7460437840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "4C609EFACFB26C13DA526D48F9D8595C"
+				"size" "A61AE8E940470CB40CB22C39444AFB00"
+				"download" "5554ABDE8320BCA5DBBBBD053248E8B4"
+			}
+			"delve"
+			{
+				"gid" "DAD5CB6254A662CEB95B7F0BEA783945"
+				"size" "5F7ACE82C35986284ED3205A4D2BD0CC"
+				"download" "E624F47A59431982F255E9C9B4367B02"
+			}
+			"vine"
+			{
+				"gid" "2E8B30847DFCA6485B56EC18229C9586"
+				"size" "52FC3A75D9FF15CFCA88CB17788A7CDE"
+				"download" "5ECC2A71099559AB82B47AB8634E8FCD"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14365463"
+			"timeupdated" "1717513289"
+		}
+		"beta"
+		{
+			"buildid" "7447090"
+			"pwdrequired" "1"
+			"timeupdated" "1632934035"
+		}
+		"delve"
+		{
+			"buildid" "13717865"
+			"pwdrequired" "1"
+			"timeupdated" "1710267707"
+		}
+		"vine"
+		{
+			"buildid" "14365463"
+			"pwdrequired" "1"
+			"timeupdated" "1715707884"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "/My Games/Fallout3/Saves"
+			"pattern" "*.fos"
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "/My Games/Fallout3"
+			"pattern" "FalloutPrefs.ini"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23840900"
+"_sha" "cf06c668381105852a70d8334ef0143d22ae9807"
+"_size" "9958"
