@@ -1,0 +1,412 @@
+"appid" "1265820"
+"common"
+{
+	"name" "Fights in Tight Spaces"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "973311df4fa79d28d1ba235b8fe2644c8cc6eca8"
+	"logo_small" "973311df4fa79d28d1ba235b8fe2644c8cc6eca8_thumb"
+	"icon" "2cc71a5671a1c5c98cb35520214223a34fc567dd"
+	"clienticon" "33d58369d8099c0fcc1f4df7ddde1488cacf7fde"
+	"clienttga" "b63d9c30a00d267f276cf3cee3dee3b3d0d07d69"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7778453"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "78.2896535449839"
+		}
+	}
+	"store_asset_mtime" "1678274623"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ground Shatter"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mode 7"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1638467100"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1265820"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "32322"
+		"3" "14139"
+		"4" "4325"
+		"5" "6915"
+		"6" "1091588"
+		"7" "1666"
+		"8" "1677"
+		"9" "492"
+		"10" "1716"
+		"11" "1741"
+		"12" "4711"
+		"13" "1708"
+		"14" "4667"
+		"15" "3959"
+		"16" "5851"
+		"17" "4182"
+		"18" "4158"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Ground Shatter"
+	"publisher" "Mode 7"
+	"homepage" "http://www.fightsintightspaces.com"
+	"listofdlc" "1867120"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fights in Tight Spaces"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FightsInTightSpaces.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1265821"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6773874843122492271"
+				"size" "2123307416"
+				"download" "1344977072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "539C2E2D311C4B4F88BE953024C537EF"
+				"size" "AD601FCBBEA84C5FF7AA273C5A66B57B"
+				"download" "1E75170A885BC910F756515D1FC5057D"
+			}
+			"beta"
+			{
+				"gid" "21FB2C24398CA27FBEB10290171B2014"
+				"size" "ED21438A1843A2967166B144D22780C6"
+				"download" "DE54EAAAC32C98D621A1397B827D94EC"
+			}
+			"development"
+			{
+				"gid" "59674EDD33E0B0B514F10404D79AFEED"
+				"size" "3B2682B60ED754BB27A024E45AA7F5F2"
+				"download" "2698E0D7EDF6CBCEB4C1DE0304E2078A"
+			}
+			"experimental"
+			{
+				"gid" "097F7F7F36B6D8E1B1C4378819119642"
+				"size" "C8443F64EA490B4DDB61DA9F50460AC0"
+				"download" "BB280BBE40090A6D8F92B938B8736204"
+			}
+			"external"
+			{
+				"gid" "EF23CD7AD559F8ABA25BB11BEC1882EA"
+				"size" "DD40BA2D16A36BF86871168B9564DBD9"
+				"download" "DDBD5DAB301A268C951FBA8B6816681A"
+			}
+			"innercircle"
+			{
+				"gid" "D48277DFB5744E83B5C8E511F8CC28EF"
+				"size" "393AADB996402E846A9001882EBE675C"
+				"download" "C380238F3839EEC1AE950927755A712F"
+			}
+			"preview"
+			{
+				"gid" "A7A75122C147D57FB10117C8B77F6BE1"
+				"size" "CC2A37ED8488F2995717185603D19780"
+				"download" "B793A86340E06210F92FF788CCA72D74"
+			}
+			"saveydavey"
+			{
+				"gid" "76262658F2D346C2723D87A69EC9A68F"
+				"size" "803691B962AC251FEABECFDA65F1BA38"
+				"download" "3A0DE3D56E15A128038C15AA8A0CE2A6"
+			}
+			"staging"
+			{
+				"gid" "B55A6D8F47234875A09C45168A7CDD33"
+				"size" "9A42A6699EE5FDF97C64FB2BBA1043BA"
+				"download" "565C046C240A6678E7687DA2BDB02009"
+			}
+			"staging_debug"
+			{
+				"gid" "B5B63902F1412704B4BD4C5501C4750C"
+				"size" "4973A8C347873B8ACAF0E8C6D6855E2F"
+				"download" "5C59DEB6C118711B52FA156AE9CF495D"
+			}
+			"staging_release_debug"
+			{
+				"gid" "0263C0D82116AFC51EB73153FE40C69B"
+				"size" "2A1A19C8E8DFD116649EECA60A58DE95"
+				"download" "51F6BA67FEF438CC70C1C9C5BDC3268D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13946751"
+			"timeupdated" "1712833629"
+		}
+		"alpha"
+		{
+			"buildid" "6609604"
+			"pwdrequired" "1"
+			"timeupdated" "1619549865"
+		}
+		"beta"
+		{
+			"buildid" "13946751"
+			"pwdrequired" "1"
+			"timeupdated" "1712833644"
+		}
+		"development"
+		{
+			"buildid" "5379789"
+			"pwdrequired" "1"
+			"timeupdated" "1596722623"
+		}
+		"experimental"
+		{
+			"buildid" "5141051"
+			"pwdrequired" "1"
+			"timeupdated" "1591721138"
+		}
+		"external"
+		{
+			"buildid" "7857456"
+			"pwdrequired" "1"
+			"timeupdated" "1639080071"
+		}
+		"innercircle"
+		{
+			"buildid" "4970941"
+			"pwdrequired" "1"
+			"timeupdated" "1588345361"
+		}
+		"preview"
+		{
+			"buildid" "7778453"
+			"pwdrequired" "1"
+			"timeupdated" "1638464216"
+		}
+		"saveydavey"
+		{
+			"buildid" "8633569"
+			"pwdrequired" "1"
+			"timeupdated" "1651071213"
+		}
+		"staging"
+		{
+			"buildid" "13946751"
+			"pwdrequired" "1"
+			"timeupdated" "1712218956"
+		}
+		"staging_debug"
+		{
+			"buildid" "13946768"
+			"pwdrequired" "1"
+			"timeupdated" "1712219024"
+		}
+		"staging_release_debug"
+		{
+			"buildid" "13946764"
+			"pwdrequired" "1"
+			"timeupdated" "1712218990"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "40"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Mode7/Fights in Tight Spaces/Saves"
+			"pattern" "*.stats"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Mode7/Fights in Tight Spaces/Saves"
+			"pattern" "*.fits"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Mode7/Fights in Tight Spaces/Saves"
+					"replace" "Mode7/Fights in Tight Spaces/Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Mode7/Fights in Tight Spaces/Saves"
+					"replace" ".config/unity3d/Mode7/Fights in Tight Spaces/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23650703"
+"_sha" "f99853997c23dd4c0a00e74b927639e99304d5ce"
+"_size" "8045"
