@@ -1,0 +1,420 @@
+"appid" "839630"
+"common"
+{
+	"name" "Survisland"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "839630_eula_0"
+			"name" "Survisland EULA"
+			"url" "https://store.steampowered.com//eula/839630_eula_0"
+		}
+	}
+	"clienttga" "62e265fd0498f56f7148943c6d9efddbde7eda0e"
+	"clienticon" "ee16a8e090652db930aa66dbdf37bdf16eec98e2"
+	"icon" "34a170c391701e228b0bb7fe462cbbf9a54f18e9"
+	"logo" "7607a66829e8f05cf60ac8ef761707a68eb22339"
+	"logo_small" "7607a66829e8f05cf60ac8ef761707a68eb22339_thumb"
+	"name_localized"
+	{
+		"schinese" "实境求生"
+		"tchinese" "實境求生"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"metacritic_name" "Survisland"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.60107461239335"
+			"height_pct" "85.53162094483415"
+		}
+	}
+	"store_asset_mtime" "1713153050"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Super Trampers Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Easy Joy Ltd."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1713160824"
+	"community_hub_visible" "1"
+	"gameid" "839630"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "3859"
+		"3" "1643"
+		"4" "599"
+		"5" "19"
+		"6" "3810"
+		"7" "1702"
+		"8" "6650"
+		"9" "1695"
+		"10" "4182"
+		"11" "3843"
+		"12" "4026"
+		"13" "4175"
+		"14" "9204"
+		"15" "1697"
+		"16" "3834"
+		"17" "492"
+		"18" "493"
+		"19" "21"
+	}
+	"review_score" "5"
+	"review_percentage" "64"
+}
+"extended"
+{
+	"developer" "Super Trampers Studio"
+	"publisher" "Easy Joy Ltd."
+}
+"config"
+{
+	"installdir" "Survisland"
+	"steamcontrollertemplateindex" "6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Survisland.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229003"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,schinese,tchinese"
+	"839632"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5479814162971955922"
+				"size" "15755224956"
+				"download" "8884550336"
+			}
+			"alpha_0.5.2.9_stable_version"
+			{
+				"gid" "832134230328708379"
+				"size" "1836961110"
+				"download" "746155744"
+			}
+			"alpha_0.6.1.2_backup"
+			{
+				"gid" "7329830786482027100"
+				"size" "1716184447"
+				"download" "1056160736"
+			}
+			"alpha_0.7.2.7_backup"
+			{
+				"gid" "3425653850084439415"
+				"size" "2113890049"
+				"download" "1285253152"
+			}
+			"alpha_0.8.x.x_backup"
+			{
+				"gid" "4279204731304798538"
+				"size" "2511942619"
+				"download" "1642134144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha_internal_multiplayer"
+			{
+				"gid" "008713A0BAFA282B44E53802028C6819"
+				"size" "16555092EA695406AE639CEBBB411884"
+				"download" "F413275F38798745164C3AF341156A55"
+			}
+		}
+	}
+	"839631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "270156270171182559"
+				"size" "14003818327"
+				"download" "8434675136"
+			}
+			"alpha_0.5.2.9_stable_version"
+			{
+				"gid" "5200118051511494390"
+				"size" "1836961110"
+				"download" "745719872"
+			}
+			"alpha_0.6.1.2_backup"
+			{
+				"gid" "6411650904434018415"
+				"size" "1716184447"
+				"download" "1056016512"
+			}
+			"alpha_0.7.2.7_backup"
+			{
+				"gid" "952964228211251640"
+				"size" "2113890049"
+				"download" "1285162016"
+			}
+			"alpha_0.8.x.x_backup"
+			{
+				"gid" "289061450749399289"
+				"size" "11680455439"
+				"download" "7934556800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha_internal_multiplayer"
+			{
+				"gid" "A06CD04EDAF62C59F53BC9B07231C925"
+				"size" "CFB83BB31709D79A39ACC4B665BC6878"
+				"download" "DA906C2BFF616AEC8D7327379B91CBBC"
+			}
+		}
+	}
+	"839633"
+	{
+	}
+	"hasdepotsindlc" "0"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14425809"
+			"timeupdated" "1716194539"
+		}
+		"alpha_0.5.2.9_stable_version"
+		{
+			"buildid" "3144417"
+			"description" "Previous Stable Version"
+			"timeupdated" "1543574403"
+		}
+		"alpha_0.6.1.2_backup"
+		{
+			"buildid" "3606769"
+			"description" "Old Crafting System"
+			"timeupdated" "1567152008"
+		}
+		"alpha_0.7.2.7_backup"
+		{
+			"buildid" "4189786"
+			"timeupdated" "1579578268"
+		}
+		"alpha_0.8.x.x_backup"
+		{
+			"buildid" "14048731"
+			"description" "Single Player Latest version"
+			"timeupdated" "1713087870"
+		}
+		"alpha_internal_multiplayer"
+		{
+			"buildid" "14053802"
+			"pwdrequired" "1"
+			"timeupdated" "1713166464"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "524288000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SuperTrampers/Survisland"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SuperTrampers/Survisland/Characters"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23609366"
+"_sha" "ae376618576032b64ff482433c587e03d5e0977f"
+"_size" "7173"
