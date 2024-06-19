@@ -1,0 +1,73 @@
+"appid" "2789700"
+"common"
+{
+	"name" "Farthest Frontier Mod Tools"
+	"type" "Tool"
+	"parent" "1044720"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "5b48e530a6a6bba866d5efab8c32302b5fee7f95"
+	"clienticon" "57959cf303ae1d11c1e8d8b467fd016ebf2abbe5"
+	"clienttga" "ffe1d898ad313bb4cdb5310e45a4a7a97cb76cf5"
+	"associations"
+	{
+	}
+	"gameid" "2789700"
+}
+"config"
+{
+	"installdir" "Farthest Frontier Mod Tools"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "uploader.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Farthest Frontier Mod Tools"
+			}
+			"description" "Farthest Frontier Mod Tools"
+		}
+	}
+}
+"depots"
+{
+	"2789701"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4750967837885620995"
+				"size" "234183365"
+				"download" "88844416"
+			}
+		}
+	}
+	"workshopdepot" "2789700"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13673160"
+			"timeupdated" "1711553792"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "22932063"
+"_sha" "fa689517e21e1a0a39f74310da66849c7d6cc52b"
+"_size" "1152"
