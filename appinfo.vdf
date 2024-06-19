@@ -1,0 +1,514 @@
+"appid" "1594320"
+"common"
+{
+	"name" "Captain of Industry"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "88cee7b7eb6086c50b4532390600d543589a68d8"
+	"logo_small" "88cee7b7eb6086c50b4532390600d543589a68d8_thumb"
+	"icon" "ac3ebd0dd8f4244545ca18091b23f60de42d7ade"
+	"clienticon" "8f92f46e82aab17213374f25a7d570f858018bd0"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "工业巨头 (Captain of Industry)"
+		"tchinese" "工業巨頭 (Captain of Industry)"
+		"japanese" "産業キャプテン (Captain of Industry)"
+		"koreana" "캡틴 산업 (Captain of Industry)"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667865600"
+		"tested_build_id" "9402496"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.998211091234346"
+			"height_pct" "55.902777777777786"
+		}
+	}
+	"store_asset_mtime" "1716657744"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MaFi Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MaFi Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+		}
+		"estonian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1654002080"
+	"community_hub_visible" "1"
+	"gameid" "1594320"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "255534"
+		"2" "8945"
+		"3" "12472"
+		"4" "599"
+		"5" "5981"
+		"6" "4695"
+		"7" "4328"
+		"8" "1662"
+		"9" "220585"
+		"10" "9"
+		"11" "4175"
+		"12" "10383"
+		"13" "1643"
+		"14" "493"
+		"15" "6129"
+		"16" "4182"
+		"17" "22602"
+		"18" "1669"
+		"19" "4191"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "MaFi Games"
+	"publisher" "MaFi Games"
+	"homepage" "https://www.captain-of-industry.com/"
+	"listofdlc" "2004740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Captain of Industry"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Captain of Industry.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1594321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1741443511009561281"
+				"size" "1559656932"
+				"download" "1312926816"
+			}
+			"alpha-legacy"
+			{
+				"gid" "4486113827918517499"
+				"size" "521492663"
+				"download" "416814080"
+			}
+			"beta-legacy"
+			{
+				"gid" "8024176006462910408"
+				"size" "779021317"
+				"download" "661562432"
+			}
+			"ea-legacy"
+			{
+				"gid" "8808902189245306884"
+				"size" "1006088607"
+				"download" "830484240"
+			}
+			"pre-alpha-legacy"
+			{
+				"gid" "51148691094757715"
+				"size" "438934032"
+				"download" "334997888"
+			}
+			"update1-legacy"
+			{
+				"gid" "2343200866089698002"
+				"size" "1381631972"
+				"download" "1151341040"
+			}
+			"experimental"
+			{
+				"gid" "1741443511009561281"
+				"size" "1559656932"
+				"download" "1312926816"
+			}
+			"legacy-temporary"
+			{
+				"gid" "8855127029810949887"
+				"size" "1559770737"
+				"download" "1312997712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cheetah2-private"
+			{
+				"gid" "AE82981AF97CE13205C2AAD306822822"
+				"size" "5AF5FD02FC94BE01326C49D27102AABC"
+				"download" "D455BDE028E68E02C252C141A4F341B4"
+			}
+			"dev-only"
+			{
+				"gid" "22E4521345C51F3325C6D9EC442316F0"
+				"size" "82C911B72C5B00E7AFF79EF425DFC2AF"
+				"download" "EF856BD316EC71BA1C23227A6BAC7CFF"
+			}
+			"dev-staging"
+			{
+				"gid" "56BA1C99D87FE7AC0469A8455A816973"
+				"size" "B8D5823A9D0241CE5B0A06D076E0302B"
+				"download" "3A9B3A91070C89859CAF7A81D030BB53"
+			}
+		}
+	}
+	"2004740"
+	{
+		"dlcappid" "2004740"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6872047341464147159"
+				"size" "10424252"
+				"download" "8600560"
+			}
+			"ea-legacy"
+			{
+				"gid" "1505119816856339038"
+				"size" "8517139"
+				"download" "6947872"
+			}
+			"update1-legacy"
+			{
+				"gid" "694384496265204915"
+				"size" "8447021"
+				"download" "6864704"
+			}
+			"experimental"
+			{
+				"gid" "6872047341464147159"
+				"size" "10424252"
+				"download" "8600560"
+			}
+			"legacy-temporary"
+			{
+				"gid" "5431795620429349516"
+				"size" "10424252"
+				"download" "8600592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cheetah2-private"
+			{
+				"gid" "D8771F5DFF1357F015F1F92EDCCED562"
+				"size" "D6DCD767A8717D1CCE62136816DB0BCE"
+				"download" "1EDF509FAF0A92D6C4279B93805C9B20"
+			}
+			"dev-only"
+			{
+				"gid" "78F65B58ABE002BA215F5ECAE9B8A71D"
+				"size" "6D0F9802173EFCF5AB845745B62D2EAF"
+				"download" "F786C40B96C02639154AD469B37C2F4F"
+			}
+			"dev-staging"
+			{
+				"gid" "5CD5B39C0C8003C8CB330FC39585008D"
+				"size" "C25F893A5103F74CDF40EE6DE9D8EC8E"
+				"download" "ED41B80AA9D3BC8E072B4AA06005C8D9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14566443"
+			"timeupdated" "1717193660"
+		}
+		"alpha-legacy"
+		{
+			"buildid" "7546314"
+			"description" "Legacy alpha build v0.2.14"
+			"timeupdated" "1640055536"
+		}
+		"beta-legacy"
+		{
+			"buildid" "8074186"
+			"description" "Legacy beta build v0.3.11f"
+			"timeupdated" "1652756679"
+		}
+		"ea-legacy"
+		{
+			"buildid" "11552291"
+			"description" "Legacy early access v0.4.xx"
+			"timeupdated" "1687643980"
+		}
+		"pre-alpha-legacy"
+		{
+			"buildid" "7344310"
+			"description" "Legacy pre-alpha build v0.1.9c"
+			"timeupdated" "1631411171"
+		}
+		"update1-legacy"
+		{
+			"buildid" "13643163"
+			"description" "Legacy Update 1 build v0.5.5d"
+			"timeupdated" "1711830810"
+		}
+		"cheetah2-private"
+		{
+			"buildid" "14510600"
+			"pwdrequired" "1"
+			"timeupdated" "1716834182"
+		}
+		"dev-only"
+		{
+			"buildid" "14634822"
+			"pwdrequired" "1"
+			"timeupdated" "1717736082"
+		}
+		"dev-staging"
+		{
+			"buildid" "14566443"
+			"pwdrequired" "1"
+			"timeupdated" "1717192941"
+		}
+		"experimental"
+		{
+			"buildid" "14566443"
+			"description" "Testing of experimental features, not stable"
+			"timeupdated" "1717193487"
+		}
+		"legacy-temporary"
+		{
+			"buildid" "14310505"
+			"description" "v0.6.3b b334"
+			"timeupdated" "1716070631"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2147483648"
+	"maxnumfiles" "1024"
+	"savefiles"
+	{
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Captain of Industry/Saves"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Captain of Industry/Blueprints"
+			"pattern" "*.data"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Captain of Industry/Maps"
+			"pattern" "*.map"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23866697"
+"_sha" "851d4af99c3630de671ff46606237d349d2ee855"
+"_size" "9447"
