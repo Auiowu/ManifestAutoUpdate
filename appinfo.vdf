@@ -1,0 +1,569 @@
+"appid" "784150"
+"common"
+{
+	"name" "Workers & Resources: Soviet Republic"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "f4869b8d1f6815260e43246961e61551a44ee611"
+	"logo_small" "f4869b8d1f6815260e43246961e61551a44ee611_thumb"
+	"icon" "3f0b2192d07b611df8422bfa8b4b385b84312555"
+	"clienttga" "baac0b57e0054098d9a199d6a5caf3258e57b0a3"
+	"clienticon" "e6010adb85b85c46840889fb46e1f23a9b4b3b62"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic"
+		"tchinese" "工人與資源：蘇維埃共和國 Workers & Resources: Soviet Republic"
+		"japanese" "Workers & Resources: Soviet Republic ワーカー&リソース：ソビエト リパブリック   "
+		"koreana" "Workers & Resources: Soviet Republic 워커스 앤 리소스: 소비에트 리퍼블릭  "
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669939200"
+		"tested_build_id" "9022868"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Workers &amp;amp; Resources: Soviet Republic"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn,zh-tw,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,ja,zh-tw,zh-cn,ko"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "63.57903370159228"
+		}
+	}
+	"store_asset_mtime" "1718616318"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "3Division"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "70"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1552658097"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "784150"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "4328"
+		"3" "3810"
+		"4" "5125"
+		"5" "7332"
+		"6" "12472"
+		"7" "1643"
+		"8" "4695"
+		"9" "1669"
+		"10" "597"
+		"11" "4166"
+		"12" "4175"
+		"13" "8945"
+		"14" "1695"
+		"15" "4182"
+		"16" "1654"
+		"17" "4711"
+		"18" "7107"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "92"
+}
+"extended"
+{
+	"developer" "3Division"
+	"publisher" "Hooded Horse"
+	"homepage" "https://www.sovietrepublic.net"
+	"listofdlc" "1948180,2499360"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SovietRepublic"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SETUPAPPLICATION SOVIET.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,russian,japanese,polish,hungarian,czech,romanian,brazilian"
+	"workshopdepot" "784150"
+	"hasdepotsindlc" "0"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"784151"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5359276774517135745"
+				"size" "9168881850"
+				"download" "2903547776"
+			}
+			"oldversion_0.8.2.x"
+			{
+				"gid" "8610927233841545076"
+				"size" "2901831352"
+				"download" "796941728"
+			}
+			"oldversion_0.8.3.x"
+			{
+				"gid" "9020831567261844481"
+				"size" "4664747706"
+				"download" "1654039552"
+			}
+			"oldversion_0.8.4.x"
+			{
+				"gid" "1578758805732948274"
+				"size" "5059623984"
+				"download" "1831790304"
+			}
+			"oldversion_0.8.5.x"
+			{
+				"gid" "6227604224576416931"
+				"size" "5259826622"
+				"download" "1905233104"
+			}
+			"oldversion_0.8.7.x"
+			{
+				"gid" "4623090445588766955"
+				"size" "5485476552"
+				"download" "1986018752"
+			}
+			"oldversion_0.8.8.x"
+			{
+				"gid" "3818709512004247135"
+				"size" "6262172720"
+				"download" "2095210048"
+			}
+			"oldversion_0.8.9.x"
+			{
+				"gid" "3740818269940538809"
+				"size" "7711725599"
+				"download" "2411825760"
+			}
+			"test"
+			{
+				"gid" "6880950525624100102"
+				"size" "9307333067"
+				"download" "2954730752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"previoustesting2"
+			{
+				"gid" "240294D008AC4A92F485EBF499C5C4D6"
+				"size" "8F5F493E2EA5317DFFE4E401A157E2D9"
+				"download" "E0C7BF09357402BA9C0C6834468FC379"
+			}
+			"previousversion"
+			{
+				"gid" "2B0EC388ECB66A7CDFB09FD2A8F03214"
+				"size" "E0294DCB1C05A12FE20EF690F50B952B"
+				"download" "D42F8EF93EB76A196235C98AB51DFD30"
+			}
+			"test_internal"
+			{
+				"gid" "4B0A6D55F3E481BD6310C798CC912D2A"
+				"size" "2C2F221078CFEB618282929D27FFBB69"
+				"download" "5CAB9DA4E0E7A1424350FC01B21EF5A6"
+			}
+			"test_top_secret"
+			{
+				"gid" "372267024B7FFB1F46AA8F553DE1A455"
+				"size" "7B935BF0DB4CEFA213438A83EF6B4EF2"
+				"download" "6FB802AFC6969D98DD3FE682BA8F7150"
+			}
+		}
+	}
+	"1948180"
+	{
+		"dlcappid" "1948180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8335740167848930851"
+				"size" "379677507"
+				"download" "84685808"
+			}
+			"oldversion_0.8.7.x"
+			{
+				"gid" "8237179793833823096"
+				"size" "376415762"
+				"download" "84169024"
+			}
+			"oldversion_0.8.8.x"
+			{
+				"gid" "4818077498532898741"
+				"size" "376415880"
+				"download" "84169040"
+			}
+			"oldversion_0.8.9.x"
+			{
+				"gid" "854359613713170317"
+				"size" "379676823"
+				"download" "84685424"
+			}
+			"test"
+			{
+				"gid" "8335740167848930851"
+				"size" "379677507"
+				"download" "84685808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test_internal"
+			{
+				"gid" "C83B47A92B4160A45985576516ADB7B5"
+				"size" "FACF878DD1828567AE00BD5FA1F5E85F"
+				"download" "69D870F1759B1B1FF6B915F97B39106E"
+			}
+			"test_top_secret"
+			{
+				"gid" "FA2B79B3280B1249B7D0DF171FD4FE71"
+				"size" "7C1A0F246682CF9145B31D0DB3CB25C9"
+				"download" "554C906BEB88954E0E0D8E26F2E0F2FA"
+			}
+		}
+	}
+	"2499360"
+	{
+		"dlcappid" "2499360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6214306370478012587"
+				"size" "1816717168"
+				"download" "349959216"
+			}
+			"test"
+			{
+				"gid" "8709324388037240004"
+				"size" "1812927144"
+				"download" "348607472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test_internal"
+			{
+				"gid" "222D5E32012D0522F1D2DFE8A789DB4D"
+				"size" "86D00A173BEA1FDE1C598689A6515BB2"
+				"download" "6E846E1C89DD71319FAF4D6E93D36343"
+			}
+			"test_top_secret"
+			{
+				"gid" "AD37391969059E64CF6CA6E0E1907036"
+				"size" "3035C881A3521A8C916F39ECB9A0812E"
+				"download" "41CEDE1C8F43DDA8F98A12594E28CC36"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13964455"
+			"timeupdated" "1714598781"
+		}
+		"oldversion_0.8.2.x"
+		{
+			"buildid" "5546126"
+			"description" "Ships update (old stable version)"
+			"timeupdated" "1608715084"
+		}
+		"oldversion_0.8.3.x"
+		{
+			"buildid" "6430976"
+			"description" "Airplanes update (old stable version)"
+			"timeupdated" "1623858083"
+		}
+		"oldversion_0.8.4.x"
+		{
+			"buildid" "6952492"
+			"description" "Helicopter update (old stable version)"
+			"timeupdated" "1635252744"
+		}
+		"oldversion_0.8.5.x"
+		{
+			"buildid" "7927180"
+			"description" "Secret police (old stable version)"
+			"timeupdated" "1643637777"
+		}
+		"oldversion_0.8.7.x"
+		{
+			"buildid" "9022868"
+			"description" "Water update (old stable version)"
+			"timeupdated" "1669814304"
+		}
+		"oldversion_0.8.8.x"
+		{
+			"buildid" "10722240"
+			"description" "metro update (old stable version)"
+			"timeupdated" "1683475219"
+		}
+		"oldversion_0.8.9.x"
+		{
+			"buildid" "12619896"
+			"description" "Waste update (old stable version)"
+			"timeupdated" "1706268562"
+		}
+		"previoustesting2"
+		{
+			"buildid" "6430976"
+			"pwdrequired" "1"
+			"timeupdated" "1621945421"
+		}
+		"previousversion"
+		{
+			"buildid" "4246149"
+			"pwdrequired" "1"
+			"timeupdated" "1576420282"
+		}
+		"test"
+		{
+			"buildid" "14759594"
+			"description" "beta branch - public testing of new features"
+			"timeupdated" "1718742402"
+		}
+		"test_internal"
+		{
+			"buildid" "14759594"
+			"pwdrequired" "1"
+			"timeupdated" "1718742380"
+		}
+		"test_top_secret"
+		{
+			"buildid" "14759594"
+			"pwdrequired" "1"
+			"timeupdated" "1718742389"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "media_soviet/save_cloud"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24023525"
+"_sha" "1e5156563d3ed88e15a1896f954e53480b1adb49"
+"_size" "11634"
