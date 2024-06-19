@@ -1,0 +1,1117 @@
+"appid" "1128920"
+"common"
+{
+	"name" "EVERSPACE™ 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "8c85afd78e1ecfd907b495b2651dc227a3a0a47f"
+	"logo" "b43c376c3e54263fbb08946b85c4eba5c2abce65"
+	"logo_small" "b43c376c3e54263fbb08946b85c4eba5c2abce65_thumb"
+	"clienticon" "088c88948b71c2bc62ce4bc181fef191d956c3d6"
+	"clienttga" "5365a8c6ccc20df1a6ce17e0f41658bd7fc0095f"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1128920_eula_0"
+			"name" "EVERSPACE™ 2 EULA"
+			"url" "https://store.steampowered.com//eula/1128920_eula_0"
+			"version" "1"
+		}
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "永恒空间2"
+		"tchinese" "永恒空间2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695427200"
+		"tested_build_id" "11753700"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "EVERSPACE 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,ja,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ko,ja,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1714328379"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ROCKFISH Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ROCKFISH Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "EVERSPACE™"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680799758"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/everspace-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1128920"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "4291"
+		"2" "21"
+		"3" "15045"
+		"4" "599"
+		"5" "4835"
+		"6" "19"
+		"7" "3942"
+		"8" "4106"
+		"9" "4182"
+		"10" "1742"
+		"11" "1695"
+		"12" "4166"
+		"13" "353880"
+		"14" "1774"
+		"15" "4231"
+		"16" "16598"
+		"17" "4191"
+		"18" "1773"
+		"19" "122"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "ROCKFISH Games"
+	"publisher" "ROCKFISH Games"
+	"homepage" "https://everspace.game"
+	"listofdlc" "2606620,2911770"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "EVERSPACE™ 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Everspace2.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "EVERSPACE™ 2 - DirectX 12"
+			}
+			"description" "EVERSPACE™ 2 - DirectX 12"
+		}
+		"2"
+		{
+			"executable" "Everspace2.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "EVERSPACE™ 2 - DirectX 11"
+			}
+			"description" "EVERSPACE™ 2 - DirectX 11"
+		}
+		"3"
+		{
+			"executable" "Everspace2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "The Art of EVERSPACE™ 2.pdf"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2606620"
+			}
+			"description_loc"
+			{
+				"english" "Open Digital Artbook"
+				"german" "Digitales Artbook öffnen"
+			}
+			"description" "Open Digital Artbook"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2361257447"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dev_branch,preview_branch,qa_branch"
+			"use_action_block" "false"
+		}
+		"2361299790"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,dev_branch,preview_branch,qa_branch"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1128921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5051543908357323892"
+				"size" "33630228012"
+				"download" "30228110208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "2F6343ED3A5214E0EB0AB2E72AB8897C"
+				"size" "143B8F704CB987C6D9F43541C1F80215"
+				"download" "BE890D0DB7F265E9BDC0C1826E39AE67"
+			}
+			"cert"
+			{
+				"gid" "0279773CE42ABD4AE4F80203B9ECFB64"
+				"size" "1E64E4959A0D695D556F0B0E07EC13E1"
+				"download" "A6C32AF14280120632FF9EE2B8665041"
+			}
+			"dev_branch"
+			{
+				"gid" "F673E3394C6CCFC87763413DE8333114"
+				"size" "73C287FDB363CA6BCB9CBBD5592324AF"
+				"download" "48576200CD353722479A00A8FA152985"
+			}
+			"dev_branch2"
+			{
+				"gid" "E581461482749DBBCDDA10A717D99B28"
+				"size" "9D09CF32FFBCA77B78967E602329DCED"
+				"download" "B0CD3C912319B021D2A4408628E05711"
+			}
+			"ks_branch"
+			{
+				"gid" "9A0C9C83EE82AFC0828E248BE24AA8ED"
+				"size" "B74A45A094A22A947356B55ECB4CE022"
+				"download" "C312FC391C960C85CF25FD7FD0840E65"
+			}
+			"preview_branch"
+			{
+				"gid" "9EBB80FD3EB195650856A72DA4815506"
+				"size" "472CECD875C054BD217413C6BD9698DC"
+				"download" "5F64785BFE62F09E0CB6E9516A7E9708"
+			}
+			"qa_branch"
+			{
+				"gid" "AF7069E6E0CC509EC593D88476A7EA25"
+				"size" "E34B7E57068775B6A1F4FB9C8D90A46C"
+				"download" "D37790BD513629F68D5E9961BB62DE61"
+			}
+			"qa_branch2"
+			{
+				"gid" "0C7085E31BDFA0D22492786BD136BB1D"
+				"size" "F0E2D0B1375E87200FCC3462B2A9B2F9"
+				"download" "165DC8FAB3A525CE70F5A327052904B4"
+			}
+			"review_branch"
+			{
+				"gid" "8244450C6FA35C12E3F474A891D2DFE1"
+				"size" "BB94A55947D01ECD911A2EC0DF13BF98"
+				"download" "93EA333D10CB79CBFDFBEB30968EA070"
+			}
+		}
+	}
+	"1128922"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3529817254570438527"
+				"size" "34007536563"
+				"download" "31357268592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "B45938DC4E3431EB9D2A782B3403716E"
+				"size" "AF369FE852BED67E7FFA16CEB2D5600D"
+				"download" "E322A5CAFBF47D67686A6038B8497889"
+			}
+			"cert"
+			{
+				"gid" "766C3CC8EE75243076C60603E46EB1F7"
+				"size" "EC59F7A69DB16949FF650FF5318A0C9A"
+				"download" "A4ABE62B8316EB23EEEA42AAA650C763"
+			}
+			"dev_branch"
+			{
+				"gid" "E813FEDA2AAA489FBE770BFC3E2E8DEA"
+				"size" "DE3CD9ED97349308BE7A0205E30AB558"
+				"download" "77CCFC0B28729B0944DFB722D6346B05"
+			}
+			"dev_branch2"
+			{
+				"gid" "5C370BD3CA02C2D5C9B3E05050FBE8EF"
+				"size" "A5B6656DA1DD7D025E299EDF50FD997D"
+				"download" "3A6F45F26827A5EFA6DA43D214FFA527"
+			}
+			"ks_branch"
+			{
+				"gid" "6AE5CF390995EE40D654F63E332A7800"
+				"size" "8D453F829056B914A4C0619399FAFCBC"
+				"download" "F30ADF091D385912B5D035565B985C32"
+			}
+			"preview_branch"
+			{
+				"gid" "DEF29C9FD97AAED87CDF394AD84A943D"
+				"size" "105C268B9604AFEF4E5C3C368619CAA2"
+				"download" "3ED2FC4C18354C6A4CC34A20528F1340"
+			}
+			"qa_branch"
+			{
+				"gid" "2D358614D1011EDA7CC059E9B5B539BB"
+				"size" "ACA15F6F46A1B02A6FC488127A140B8E"
+				"download" "A418291B9A93965BFC7699FBEBCC33E6"
+			}
+			"qa_branch2"
+			{
+				"gid" "EC5E13073A220C290FB65A46527206D0"
+				"size" "FF39CAFD338CDEF3192EED85F90F070F"
+				"download" "CB9595431EE2029A780F39170ECC8A6A"
+			}
+			"review_branch"
+			{
+				"gid" "0EC824B41D8E24D83DA7AD7BC45332D3"
+				"size" "D139483495711666E4E4BCFDAA19EA2B"
+				"download" "7E6C48BC8B0E92651DA37F9972302AAD"
+			}
+		}
+	}
+	"2606620"
+	{
+		"dlcappid" "2606620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "195865514797556095"
+				"size" "607075697"
+				"download" "599821072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "5E137B4E19D5BAC517F138716ACC5C4D"
+				"size" "DE17B6356EBABD6A2669DBDF2567F1B2"
+				"download" "7134F8B2379C0EE9F0EF4D90CDA6E236"
+			}
+			"cert"
+			{
+				"gid" "54FCDBF54693779F913C88620BF76F8D"
+				"size" "A134E8A4897F85383D6A259977A21276"
+				"download" "09C5AD5B74C30B5AB1284515898B15F7"
+			}
+			"dev_branch"
+			{
+				"gid" "276201D4E02AC37D337F9E0C0F4D6851"
+				"size" "1737BE37E86003D6A1D8FE309241065F"
+				"download" "E35670D4F303BBDB6351999A86573CD2"
+			}
+			"dev_branch2"
+			{
+				"gid" "231E0E0653EC2D65967768E3D02A0F44"
+				"size" "14BD5B7CAC9713C25829E40EF630C9D3"
+				"download" "DA49B29D3F4E109A5F30E4288C7BAAAA"
+			}
+			"ks_branch"
+			{
+				"gid" "21C40CD3B83273DCD4949E2C65FC01DB"
+				"size" "A3E81225C484F83445380A62D3D7B10C"
+				"download" "E72CB230C404F0B59705519D26CA9A30"
+			}
+			"preview_branch"
+			{
+				"gid" "2B71B704B4F1BE3823FAB707DF1CC3B9"
+				"size" "2865D1D78956069FAD619595B00DAEC1"
+				"download" "C9C4A519570F7427BC7CA4CAB50C4F01"
+			}
+			"qa_branch"
+			{
+				"gid" "C962D9D8FD6B28FBE1D7D2F92253C2FF"
+				"size" "927D807008DCB2371104A1242C4419E9"
+				"download" "17381DC0CD3EA4DB1DA36EFC95F1C27F"
+			}
+			"qa_branch2"
+			{
+				"gid" "8E646689D81A8DCEE9C266C3C8E164FF"
+				"size" "4CA63F390D9C5C0A4DA3725FE2FB4E9E"
+				"download" "20B39A9F4BF190A59685BA0C9DA5A7AB"
+			}
+			"review_branch"
+			{
+				"gid" "47C2B0249107033FF74850D9584C5145"
+				"size" "C20E55E2106BDC939855F4952A7A4C18"
+				"download" "FE068E7855DF3F90BCF7412FD8C5CE1D"
+			}
+		}
+	}
+	"2873460"
+	{
+		"dlcappid" "2873460"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7997683789331793875"
+				"size" "390602286"
+				"download" "382594112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "B8C3EFCAD482DCCC32DE814FF23D5B93"
+				"size" "DECA393DA7CDC90AA22948127614EC23"
+				"download" "EFA1971A5D492B9FE7DA3065B29E5653"
+			}
+			"cert"
+			{
+				"gid" "F0244141D0B5A6310043A2CE13485887"
+				"size" "F9661EFE0830C5F707FD1A5C19F95D90"
+				"download" "E3C29A47FBE6B5144E7A21462F294AC3"
+			}
+			"dev_branch"
+			{
+				"gid" "EE631354B80315606BF9FB7C97B12A9B"
+				"size" "AB28240ADD73B59473A5E5B85ED5A48A"
+				"download" "F189CA0B90AB69E1804735A1F730126B"
+			}
+			"dev_branch2"
+			{
+				"gid" "291066AF1C734F6A10AD3B99B01A7C6F"
+				"size" "4CC6B83E8AB5D3F48FD2AD29499B34AD"
+				"download" "69B2B19C71AB13FA2B3819BA785D25AA"
+			}
+			"ks_branch"
+			{
+				"gid" "D4F79DE1E3BBD9120BA9BA5E1B1D7428"
+				"size" "13A818C1DFBFC89636D4240DB1ED1AC1"
+				"download" "52858AA0EFE176F9F866FD35D8FEB5B2"
+			}
+			"preview_branch"
+			{
+				"gid" "64A0B0CF9F6B2582C27110DD711A5840"
+				"size" "57A184F9FC732188E84675811A834469"
+				"download" "CFA00CD1BDAF5535B28A2D5C3148788E"
+			}
+			"qa_branch"
+			{
+				"gid" "DECC720708E4FF0DA8796A001E91A4CF"
+				"size" "04ED82B4C0D03AEF86B358B90CE151F3"
+				"download" "CD68606752EE9606F2CD96ED2F651DE1"
+			}
+			"qa_branch2"
+			{
+				"gid" "BB648C9205542D5791C061C0826EB28B"
+				"size" "337E787C66E724ADFF44968213E0225A"
+				"download" "66382F1E2DE03A44D56BF8D5AF5A1947"
+			}
+			"review_branch"
+			{
+				"gid" "39F802101F03EB71ED87680F7FA0A62A"
+				"size" "69E6C0197731B384C5412948E91600D8"
+				"download" "9A4BEA2B525341412588C6FEC8A44C2E"
+			}
+		}
+	}
+	"2873470"
+	{
+		"dlcappid" "2873470"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4189993551334104040"
+				"size" "5207206230"
+				"download" "4923620944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "E1F4ECE73978C4A7407E35D5FC1AFE51"
+				"size" "BB9BBF8E5D6FA3CAEFF88E57EC2FC17C"
+				"download" "0C90CFA7EE18D739863F6B7FEED6CA0F"
+			}
+			"cert"
+			{
+				"gid" "3DBF324D2281B2ABB26FE236EF551236"
+				"size" "43CDFA60254611663DB7A8F750844C20"
+				"download" "C6C5227657B73AB88593AF4E6D86B97F"
+			}
+			"dev_branch"
+			{
+				"gid" "BE75B884B5F8526F0AC518ACE4012878"
+				"size" "E832C0032DF1F2BD42B1A3E041C48A10"
+				"download" "EB7636F4FEAE168AA03FFBFAAAED693C"
+			}
+			"dev_branch2"
+			{
+				"gid" "2B3F3B71306B755583E909F7E22664D2"
+				"size" "A947EFDAB4163CD93E0AC0D281C5936C"
+				"download" "55E313618284A27A862C2BE4128781C8"
+			}
+			"ks_branch"
+			{
+				"gid" "3416E7F0E2CDC92EEDB18339F045F942"
+				"size" "D4B03E871ABA35A8A7056676372B9965"
+				"download" "9407CE6E13855DCCD9DE4619A6E6DF48"
+			}
+			"preview_branch"
+			{
+				"gid" "09CE05D107C6360599158DFA42D002A0"
+				"size" "A5B34F3AA4AEC2A1926B048DB18D6C3F"
+				"download" "C2FE782F36088AF72AB40C6F2D87F7A4"
+			}
+			"qa_branch"
+			{
+				"gid" "BCE315874FBD7DC59D033F1041A56BB3"
+				"size" "A3F7492B7C61C45D74AAB35E1B2D361D"
+				"download" "806724EB4CA12D71EEC5D031774E9D47"
+			}
+			"qa_branch2"
+			{
+				"gid" "987D7EA26A96BE0D10216BA569F4E49B"
+				"size" "F93912A47E5B0CD3993B0CEADE5759E9"
+				"download" "4E44A31CE7344540AE6E3B7075965552"
+			}
+			"review_branch"
+			{
+				"gid" "50336F69C6B943A76F0562FB916E55E8"
+				"size" "BA163F6AE1E5471944BABEA66792A01D"
+				"download" "776AB89FDB1FC59B3424D537C2AFEF41"
+			}
+		}
+	}
+	"1128923"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1589185040519313724"
+				"size" "31594590976"
+				"download" "28970753728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_branch"
+			{
+				"gid" "619C908643BA4D2689FA2FD36C060E88"
+				"size" "B44D3E7E2DB306DEA712936CC85DC079"
+				"download" "17DBCF7548B373DCCC75C45B44C8FDB1"
+			}
+			"dev_branch2"
+			{
+				"gid" "78FD42BA949BAB3DDB21DDA1CC838DF3"
+				"size" "195E5AD46EE0224498D0AD62C96DEB6C"
+				"download" "CBB7937E9A668209747071E5ED626D63"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14524648"
+			"timeupdated" "1717138684"
+		}
+		"balancing"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612007"
+		}
+		"cert"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612016"
+		}
+		"dev_branch"
+		{
+			"buildid" "14764184"
+			"pwdrequired" "1"
+			"timeupdated" "1718777257"
+		}
+		"dev_branch2"
+		{
+			"buildid" "14621515"
+			"pwdrequired" "1"
+			"timeupdated" "1718004769"
+		}
+		"ks_branch"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612036"
+		}
+		"preview_branch"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612048"
+		}
+		"qa_branch"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612058"
+		}
+		"qa_branch2"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715611821"
+		}
+		"review_branch"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612066"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ES2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" ".config/Epic/ES2/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "ES2\\Saved\\SaveGames"
+					"replace" "Epic/ES2/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "In the main menu"
+				"#token_keystatus_valuesystem1" "Exploring Ceto"
+				"#token_keystatus_valuesystem2" "Exploring Union"
+				"#token_keystatus_valuesystem3" "Exploring Zharkov"
+				"#token_keystatus_valuesystem4" "Exploring Khaït Nebula"
+				"#token_keystatus_valuesystem6" "Exploring Drake"
+				"#token_keystatus_valuesystem7" "Exploring Khione"
+				"#token_keystatus_valuesystem8" "Exploring Aethon"
+				"#token_keystatus_valuerift" "In a Rift"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "Im Hauptmenü"
+				"#token_keystatus_valuesystem1" "Erkundet das Ceto System"
+				"#token_keystatus_valuesystem2" "Erkundet das Union System"
+				"#token_keystatus_valuesystem3" "Erkundet das Zharkov System"
+				"#token_keystatus_valuesystem4" "Erkundet den Khait Nebel"
+				"#token_keystatus_valuesystem6" "Erkundet das Drake System"
+				"#token_keystatus_valuesystem7" "Erkundet das Khione System"
+				"#token_keystatus_valuesystem8" "Erkundet das Aethon System"
+				"#token_keystatus_valuerift" "In einem Riss"
+			}
+		}
+		"czech"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "V hlavní nabídce"
+				"#token_keystatus_valuesystem1" "Na průzkumu soustavy Ceto"
+				"#token_keystatus_valuesystem2" "Na průzkumu soustavy Unie"
+				"#token_keystatus_valuesystem3" "Na průzkumu soustavy Žarkov"
+				"#token_keystatus_valuesystem4" "Na průzkumu Khaïtské mlhoviny"
+				"#token_keystatus_valuesystem6" "Na průzkumu soustavy Drake"
+				"#token_keystatus_valuesystem7" "Na průzkumu soustavy Khione"
+				"#token_keystatus_valuesystem8" "Na průzkumu soustavy Aethon"
+				"#token_keystatus_valuerift" "V trhlině"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "En el menú principal"
+				"#token_keystatus_valuesystem1" "Explorando Ceto"
+				"#token_keystatus_valuesystem2" "Explorando Unión"
+				"#token_keystatus_valuesystem3" "Explorando Zharkov"
+				"#token_keystatus_valuesystem4" "Explorando la nebulosa de Khaït"
+				"#token_keystatus_valuesystem6" "Explorando Drake"
+				"#token_keystatus_valuesystem7" "Explorando Khione"
+				"#token_keystatus_valuesystem8" "Explorando Aethon"
+				"#token_keystatus_valuerift" "En una grieta"
+			}
+		}
+		"latam"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "En el menú principal"
+				"#token_keystatus_valuesystem1" "Explorando Ceto"
+				"#token_keystatus_valuesystem2" "Explorando Unión"
+				"#token_keystatus_valuesystem3" "Explorando Zharkov"
+				"#token_keystatus_valuesystem4" "Explorando la nebulosa de Khaït"
+				"#token_keystatus_valuesystem6" "Explorando Drake"
+				"#token_keystatus_valuesystem7" "Explorando Khione"
+				"#token_keystatus_valuesystem8" "Explorando Aethon"
+				"#token_keystatus_valuerift" "En una grieta"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "Dans le menu principal"
+				"#token_keystatus_valuesystem1" "Explorer Ceto"
+				"#token_keystatus_valuesystem2" "Explorer Union"
+				"#token_keystatus_valuesystem3" "Explorer Zharkov"
+				"#token_keystatus_valuesystem4" "Explorer la Nébuleuse de Khaït"
+				"#token_keystatus_valuesystem6" "Explorer Drake"
+				"#token_keystatus_valuesystem7" "Explorer Khione"
+				"#token_keystatus_valuesystem8" "Explorer Aethon"
+				"#token_keystatus_valuerift" "Dans une faille"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "Nel menu principale"
+				"#token_keystatus_valuesystem1" "All’esplorazione di Ceto"
+				"#token_keystatus_valuesystem2" "All’esplorazione di Union"
+				"#token_keystatus_valuesystem3" "All’esplorazione di Zharkov"
+				"#token_keystatus_valuesystem4" "All’esplorazione della Nebulosa Khaït"
+				"#token_keystatus_valuesystem6" "All’esplorazione di Drake"
+				"#token_keystatus_valuesystem7" "All’esplorazione di Khione"
+				"#token_keystatus_valuesystem8" "All’esplorazione di Aethon"
+				"#token_keystatus_valuerift" "In un varco"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "メインメニュー内"
+				"#token_keystatus_valuesystem1" "セトを探索"
+				"#token_keystatus_valuesystem2" "ユニオンを探索"
+				"#token_keystatus_valuesystem3" "ザーコフを探索"
+				"#token_keystatus_valuesystem4" "カイート星雲を探索"
+				"#token_keystatus_valuesystem6" "ドレイクを探索"
+				"#token_keystatus_valuesystem7" "キオーンを探索"
+				"#token_keystatus_valuesystem8" "エトンを探索"
+				"#token_keystatus_valuerift" "裂け目内"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "W menu głównym"
+				"#token_keystatus_valuesystem1" "Odkrywanie Ceto"
+				"#token_keystatus_valuesystem2" "Odkrywanie Unii"
+				"#token_keystatus_valuesystem3" "Odkrywanie Układu Żarkowa"
+				"#token_keystatus_valuesystem4" "Odkrywanie Mgławicy Khait"
+				"#token_keystatus_valuesystem6" "Odkrywanie Drake’a"
+				"#token_keystatus_valuesystem7" "Odkrywanie Khione"
+				"#token_keystatus_valuesystem8" "Odkrywanie Aethon"
+				"#token_keystatus_valuerift" "W szczelinie"
+			}
+		}
+		"portuguese"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "No menu principal"
+				"#token_keystatus_valuesystem1" "Explorando Ceto"
+				"#token_keystatus_valuesystem2" "Explorando Union"
+				"#token_keystatus_valuesystem3" "Explorando Zharkov"
+				"#token_keystatus_valuesystem4" "Explorando Nebulosa de Khait"
+				"#token_keystatus_valuesystem6" "Explorando Drake"
+				"#token_keystatus_valuesystem7" "Explorando Khione"
+				"#token_keystatus_valuesystem8" "Explorando Aethon"
+				"#token_keystatus_valuerift" "Em uma fenda"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "No menu principal"
+				"#token_keystatus_valuesystem1" "Explorando Ceto"
+				"#token_keystatus_valuesystem2" "Explorando Union"
+				"#token_keystatus_valuesystem3" "Explorando Zharkov"
+				"#token_keystatus_valuesystem4" "Explorando Nebulosa de Khait"
+				"#token_keystatus_valuesystem6" "Explorando Drake"
+				"#token_keystatus_valuesystem7" "Explorando Khione"
+				"#token_keystatus_valuesystem8" "Explorando Aethon"
+				"#token_keystatus_valuerift" "Em uma fenda"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "В главном меню"
+				"#token_keystatus_valuesystem1" "Исследует Кето"
+				"#token_keystatus_valuesystem2" "Исследует Юнион"
+				"#token_keystatus_valuesystem3" "Исследует Жарков"
+				"#token_keystatus_valuesystem4" "Исследует Туманность Хаит"
+				"#token_keystatus_valuesystem6" "Исследует Дрейк"
+				"#token_keystatus_valuesystem7" "Исследует Хиону"
+				"#token_keystatus_valuesystem8" "Исследует Эфон"
+				"#token_keystatus_valuerift" "В портале"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "在主菜单中"
+				"#token_keystatus_valuesystem1" "正在探索刻托"
+				"#token_keystatus_valuesystem2" "正在探索联合星系"
+				"#token_keystatus_valuesystem3" "正在探索扎尔科夫"
+				"#token_keystatus_valuesystem4" "正在探索卡伊特星云"
+				"#token_keystatus_valuesystem6" "正在探索天龙星系"
+				"#token_keystatus_valuesystem7" "正在探索喀俄涅"
+				"#token_keystatus_valuesystem8" "正在探索艾同"
+				"#token_keystatus_valuerift" "在裂隙中"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "在主選單中"
+				"#token_keystatus_valuesystem1" "正在探索克托"
+				"#token_keystatus_valuesystem2" "正在探索聯盟"
+				"#token_keystatus_valuesystem3" "正在探索扎科夫"
+				"#token_keystatus_valuesystem4" "正在探索凱伊特星雲"
+				"#token_keystatus_valuesystem6" "正在探索德雷克"
+				"#token_keystatus_valuesystem7" "正在探索齊昂妮"
+				"#token_keystatus_valuesystem8" "正在探索乙頌"
+				"#token_keystatus_valuerift" "在裂縫中"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#token_keystatus_valuemainmenu" "메인 메뉴에 있음"
+				"#token_keystatus_valuesystem1" "시토 탐험 중"
+				"#token_keystatus_valuesystem2" "유니언 탐험 중"
+				"#token_keystatus_valuesystem3" "자르코프 탐험 중"
+				"#token_keystatus_valuesystem4" "카이트 성운 탐험 중"
+				"#token_keystatus_valuesystem6" "드레이크 탐험 중"
+				"#token_keystatus_valuesystem7" "키온 탐험 중"
+				"#token_keystatus_valuesystem8" "에손 탐험 중"
+				"#token_keystatus_valuerift" "균열에 있음"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24028848"
+"_sha" "119806ca39f28244412d545ed457aeb7200a0c72"
+"_size" "27969"
