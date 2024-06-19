@@ -1,0 +1,969 @@
+"appid" "1621690"
+"common"
+{
+	"name" "Core Keeper"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "efa098d33b18f540892d499b33ef0cd362596db8"
+	"logo_small" "efa098d33b18f540892d499b33ef0cd362596db8_thumb"
+	"clienticon" "61ad6cf2936a000a8f004cef2d4b790e76407538"
+	"clienttga" "2f3abebfd25cbf11966f1b6ace53084825cbdebc"
+	"icon" "661ff82410b3c1c49e0f6a5e3715c445dbccfb77"
+	"name_localized"
+	{
+	}
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1678406400"
+		"tested_build_id" "10702308"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "37.249822676500344"
+			"height_pct" "85.74363704416638"
+		}
+	}
+	"store_asset_mtime" "1718121603"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pugstorm"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fireshine Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fireshine Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1646729194"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1621690"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "3964"
+		"2" "1100689"
+		"3" "3810"
+		"4" "1662"
+		"5" "21"
+		"6" "1702"
+		"7" "3871"
+		"8" "3834"
+		"9" "1643"
+		"10" "1720"
+		"11" "5981"
+		"12" "5125"
+		"13" "87918"
+		"14" "1654"
+		"15" "3920"
+		"16" "599"
+		"17" "4166"
+		"18" "5716"
+		"19" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Pugstorm"
+	"publisher" "Fireshine Games"
+}
+"config"
+{
+	"installdir" "Core Keeper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CoreKeeper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CoreKeeper"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "CoreKeeper"
+			"arguments" "-force-opengl"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (OpenGL)"
+			}
+			"description" "Core Keeper (OpenGL)"
+		}
+		"3"
+		{
+			"executable" "CoreKeeper.exe"
+			"arguments" "-safemode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
+			}
+			"description" "Core Keeper (no mods)"
+		}
+		"4"
+		{
+			"executable" "CoreKeeper"
+			"arguments" "-safemode"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Core Keeper (no mods)"
+				"german" "Core Keeper (keine Mods)"
+				"french" "Core Keeper (pas de mods)"
+				"italian" "Core Keeper (nessuna mod)"
+				"koreana" "Core Keeper (모드 없음)"
+				"spanish" "Core Keeper (sin mods)"
+				"schinese" "Core Keeper (无模组)"
+				"tchinese" "Core Keeper (無模組)"
+				"thai" "Core Keeper (ไม่มี mod)"
+				"japanese" "Core Keeper (MODなし)"
+				"brazilian" "Core Keeper (sem mods)"
+			}
+			"description" "Core Keeper (no mods)"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1621691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2644483683942342046"
+				"size" "649779005"
+				"download" "350937152"
+			}
+			"0.7.1"
+			{
+				"gid" "5537815892178850829"
+				"size" "353270382"
+				"download" "237117648"
+			}
+			"0.7.2"
+			{
+				"gid" "943763884574608209"
+				"size" "635621300"
+				"download" "348475488"
+			}
+			"0.7.3"
+			{
+				"gid" "3414912731463985201"
+				"size" "636303579"
+				"download" "348373504"
+			}
+			"0.7.4"
+			{
+				"gid" "8732972105623222578"
+				"size" "644441715"
+				"download" "353793328"
+			}
+			"moddebug"
+			{
+				"gid" "149985388986118280"
+				"size" "649779003"
+				"download" "350940224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_ratings"
+			{
+				"gid" "2C452858EE6E9F330C65C0F924523B16"
+				"size" "986D8EB4B56093B63154EA27CD7D56B7"
+				"download" "B00C0F4D0D8988DE0E3E481FEBBE03D4"
+			}
+			"compatibility"
+			{
+				"gid" "8C5DA2BA3A2CAAB828F65ADABA844722"
+				"size" "229089EFA6125D5AC4160AFF6B707662"
+				"download" "1794ACAEA555AFF3362097981D20D9B4"
+			}
+			"early_explorers"
+			{
+				"gid" "B464E5864DBE6C7EA48CCC3F287DC206"
+				"size" "ABCB17FAC702623DD6C1CFD697A4940C"
+				"download" "DCDCAF5ECC6FE8C2F65C415B231FD487"
+			}
+			"experimental"
+			{
+				"gid" "5900EC52D3B3531D3FE606A0AAB700E9"
+				"size" "BBA8EB570D035936228B0A7C454B64E0"
+				"download" "005AB76F8D286D6A960E05A71589F4BF"
+			}
+			"marketing"
+			{
+				"gid" "4A45C311C0218D24195003AB457AB1B6"
+				"size" "5D58CA63B60605F005736989694B150E"
+				"download" "EAE0CC9C31480DAB41E622EE99D5C8C5"
+			}
+			"nightly"
+			{
+				"gid" "90A67C7473834ED05A93939849D6BA33"
+				"size" "2B7934271FBB248DC0568CBB4B6DBF53"
+				"download" "88A5D37DF60C62A2E1AD4846FD4222C0"
+			}
+			"secret"
+			{
+				"gid" "9CE5A91C6059DA628BC424C0746A2CFE"
+				"size" "9FC1C581F03293101D65367542C4F28D"
+				"download" "FFF457546C5A0985BD75179B7F4E8E8D"
+			}
+			"splashscreen"
+			{
+				"gid" "651A35048A540715F90E08CBAA0CEB0A"
+				"size" "F803834C77ED4E61244B7EE117739A4D"
+				"download" "1904010E9A542C061E31DB26F11F523F"
+			}
+			"steamdeck"
+			{
+				"gid" "A5927426C9CBECDEC31C15610EEE0A96"
+				"size" "5010E8A586DEE7085704C53E9EEC9B02"
+				"download" "FDD2C68426CF58A49E8F27A450CC5B99"
+			}
+			"usability"
+			{
+				"gid" "EEF4B67F734B02A733FA666C326ABF5B"
+				"size" "56EAF5150610521189A401E3B3256812"
+				"download" "8DE22596C321F093E236F94841307F9C"
+			}
+			"ambassadors"
+			{
+				"gid" "A01CEA6C099A377F66D7396ED04D6FB6"
+				"size" "28A40C3708CFA49601F6DEFB4A4C2105"
+				"download" "B43D0664D117A1995694D0A1FC4876DC"
+			}
+			"communitymanagement"
+			{
+				"gid" "1A901CC98FCC8716DFF0AA25CC97AFA4"
+				"size" "5D1C4DA99C30499263E8E1B1A18EBA30"
+				"download" "FB087CE08371CAB5E3355606B77203B2"
+			}
+			"developer"
+			{
+				"gid" "9AA0B037ED1EE60697F41E80538362BB"
+				"size" "01447A16448CF783C5EE885EB040E272"
+				"download" "DC9C14DADF3AF9D6796FBFB6317DACB9"
+			}
+			"externalaccess"
+			{
+				"gid" "B257C8661091C10C2014E40FD7FEAC38"
+				"size" "59673775BE7C6007DA04D54773135D1A"
+				"download" "79CB73819914BA67EAF4ECD068CA6B26"
+			}
+			"press"
+			{
+				"gid" "4AD52E1DA36C498D12252B35A4FACD03"
+				"size" "DE3243651B2AF7A33F3F48F03B0DC125"
+				"download" "06DE874F4FF521834C723E1DF772088B"
+			}
+			"private"
+			{
+				"gid" "35FA5869BDA6076FAED504C16A7B3905"
+				"size" "FBC2CC42BD0FC0BC1F6425831B6F3145"
+				"download" "EED307CA3EBDCDDE121B0CCAEF7C58BE"
+			}
+			"publisher"
+			{
+				"gid" "8E429C5D23F871972D7D684CE3F6F1C0"
+				"size" "8B84F3BF08BDE531E64EBC2F4E1C518B"
+				"download" "31E07F024FFFAD937CE82CAB523E38F2"
+			}
+			"trailers"
+			{
+				"gid" "6BA0DEACC95F8B701B70AAE093309794"
+				"size" "585BC7ED7C4B78350292A31B1DB82BD2"
+				"download" "359543DEF077E86172300452B5D3F1E0"
+			}
+			"trailers2"
+			{
+				"gid" "A567BE813B3EC9FC91D7B79707320FD5"
+				"size" "46300BF224AC6E5FD6A233C9EBC2477E"
+				"download" "6E228AE3EFA18F74F6B9F0C199FE655D"
+			}
+		}
+	}
+	"1621692"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7309972588116932422"
+				"size" "691317190"
+				"download" "351528240"
+			}
+			"0.7.1"
+			{
+				"gid" "1103487944642273363"
+				"size" "363654224"
+				"download" "235883024"
+			}
+			"0.7.2"
+			{
+				"gid" "5305540204499833251"
+				"size" "674384678"
+				"download" "348407520"
+			}
+			"0.7.3"
+			{
+				"gid" "4438538967916979394"
+				"size" "677408361"
+				"download" "348828656"
+			}
+			"0.7.4"
+			{
+				"gid" "2740356615636661715"
+				"size" "686313978"
+				"download" "354268480"
+			}
+			"moddebug"
+			{
+				"gid" "4653214899307521642"
+				"size" "691317181"
+				"download" "351528528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_ratings"
+			{
+				"gid" "7D6042910A82FED5F4F403AD8A282215"
+				"size" "B54876CA332421092849681E57BAC1D2"
+				"download" "218A1F3ABCD53377F61F81003B7F4AA6"
+			}
+			"compatibility"
+			{
+				"gid" "40408186E794C022BE7EE6A027F7CAE4"
+				"size" "A5F64B215B1A54F41777DC98560C46C9"
+				"download" "56777D6432981377672D20D2D994AF35"
+			}
+			"early_explorers"
+			{
+				"gid" "9B6E899904E05A209AD81F4FDF2F4663"
+				"size" "6E5A9BBAB9D0740B8B5B9753EEB793FF"
+				"download" "967B5AACE63C1CC16E2822C0581BD015"
+			}
+			"experimental"
+			{
+				"gid" "146DE54DB73FB40ED668E3C175412DBB"
+				"size" "E50E9F782CB20DAA0BFF54C96F9D56BE"
+				"download" "9194F93B38FB4B243FF13FE27AE2C9A6"
+			}
+			"marketing"
+			{
+				"gid" "1888FAF1EFBB3E9D5FFC3AD98EEEBF43"
+				"size" "A800BBF5BD2BE012B59356FBDA2DD8FB"
+				"download" "14FAECAF2E99DB6C3A8DC2A53BC4D819"
+			}
+			"nightly"
+			{
+				"gid" "65CB8A3D52E6F95C0B037CDC78C20F86"
+				"size" "39F8ED2A25A5CE48EC4D06BEEE23AF96"
+				"download" "E145A1B673A50464B5C0D3C003E59DB8"
+			}
+			"secret"
+			{
+				"gid" "5FF68F2B0AD834AAAD2D3FD2A20AF287"
+				"size" "124B1A95E84A2A415C6E7F728CFD2CCA"
+				"download" "E75AC91D260D6FBB28CD4EE01D6CD505"
+			}
+			"splashscreen"
+			{
+				"gid" "A29AB3F5A88793CFDE28452584B21F36"
+				"size" "D0FE27EA3E4142EC8D25342D56B2B760"
+				"download" "2D35F1250BEA2D26CB593B155C2A72AA"
+			}
+			"steamdeck"
+			{
+				"gid" "4E46D38C54684B365D268C1222272F4D"
+				"size" "F46289BFB30DF46E41A0FA02594BF243"
+				"download" "9716BB28CE20B0BEA0AA08BF0BA48F78"
+			}
+			"usability"
+			{
+				"gid" "6851D6FF8B10D79A2F46F69F09386AFF"
+				"size" "62B1F717B3CCCD75461E133618ACBC91"
+				"download" "03AF012349043638EC504DB6531DB7EE"
+			}
+			"ambassadors"
+			{
+				"gid" "9869D86B504D67AC9DDC313C9307DE33"
+				"size" "3A098DA9367B4EF643ADCC10D509DE93"
+				"download" "8515897303D9CA65BFF8A3895E647A5C"
+			}
+			"communitymanagement"
+			{
+				"gid" "97367AE009BFA551668746C80204FC55"
+				"size" "08E756046787107B379EE6F21FE08D13"
+				"download" "EA75DC9D4910F6EDC336259225ECD801"
+			}
+			"developer"
+			{
+				"gid" "C1DC4E063EAB1D64928F12489B0F4FA0"
+				"size" "F259D0DFB73256439CDE2527141E6287"
+				"download" "C6EFCC51BCA42BD050CE28B563175BA8"
+			}
+			"externalaccess"
+			{
+				"gid" "B380A50D93A44B6CA9213BF278652CC6"
+				"size" "02D0ED083641480B5198E5B4213463A2"
+				"download" "7D7BACF6E14567C494154C8BFE2747B3"
+			}
+			"press"
+			{
+				"gid" "CB43139C4D4C7E8C36B590353419A978"
+				"size" "BC7B6D05A4BF65ED66276A45E53BBF74"
+				"download" "540BC2BF6B89A333F5EC3ABD29DAB75F"
+			}
+			"private"
+			{
+				"gid" "5D27709F1B934CEB8948C680BBA0B867"
+				"size" "27C7E0B0F224DB1EAA773BA9ECEF11A3"
+				"download" "FBD7C40A949927D8A31AC671C5B6B52B"
+			}
+			"publisher"
+			{
+				"gid" "91F84C25173EE6474D42EC2F044EF21E"
+				"size" "A4A3E6C1691DC3E9C615E1314EF0387A"
+				"download" "82B8567796461AF8CAB3C92250E4A493"
+			}
+			"trailers"
+			{
+				"gid" "4F6960801C821E8EA8234ED988DEA46C"
+				"size" "F1B9E2ED82F3B8DCF6857E2BF8287530"
+				"download" "9E03BDBD7185819C81B1C10FA7929E23"
+			}
+			"trailers2"
+			{
+				"gid" "AB0A1CEC5C2FCB3C7150C09D683ED844"
+				"size" "6906B7CFA7AEBC4A5DBAF252D39A727F"
+				"download" "192C1B0143B4F3E2F07753D5FDE9B9AE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14614569"
+			"timeupdated" "1717602516"
+		}
+		"0.7.1"
+		{
+			"buildid" "12520890"
+			"description" "Legacy Build - 12520890"
+			"timeupdated" "1701251692"
+		}
+		"0.7.2"
+		{
+			"buildid" "12959740"
+			"description" "Legacy build - 12959740"
+			"timeupdated" "1706694750"
+		}
+		"0.7.3"
+		{
+			"buildid" "13462550"
+			"description" "Legacy build - 13462550"
+			"timeupdated" "1709891529"
+		}
+		"age_ratings"
+		{
+			"buildid" "12373687"
+			"pwdrequired" "1"
+			"timeupdated" "1696590769"
+		}
+		"compatibility"
+		{
+			"buildid" "10398670"
+			"pwdrequired" "1"
+			"timeupdated" "1674640293"
+		}
+		"early_explorers"
+		{
+			"buildid" "11163328"
+			"pwdrequired" "1"
+			"timeupdated" "1683285089"
+		}
+		"experimental"
+		{
+			"buildid" "8605588"
+			"pwdrequired" "1"
+			"timeupdated" "1655139407"
+		}
+		"marketing"
+		{
+			"buildid" "13812311"
+			"pwdrequired" "1"
+			"timeupdated" "1711037624"
+		}
+		"nightly"
+		{
+			"buildid" "12048756"
+			"pwdrequired" "1"
+			"timeupdated" "1693220379"
+		}
+		"secret"
+		{
+			"buildid" "9575587"
+			"pwdrequired" "1"
+			"timeupdated" "1663913884"
+		}
+		"splashscreen"
+		{
+			"buildid" "8605588"
+			"pwdrequired" "1"
+			"timeupdated" "1650633882"
+		}
+		"steamdeck"
+		{
+			"buildid" "10673750"
+			"pwdrequired" "1"
+			"timeupdated" "1677759159"
+		}
+		"usability"
+		{
+			"buildid" "9572319"
+			"pwdrequired" "1"
+			"timeupdated" "1665501007"
+		}
+		"0.7.4"
+		{
+			"buildid" "14373060"
+			"description" "Legacy build - 14373060"
+			"timeupdated" "1717603187"
+		}
+		"ambassadors"
+		{
+			"buildid" "14614569"
+			"pwdrequired" "1"
+			"timeupdated" "1717602444"
+		}
+		"communitymanagement"
+		{
+			"buildid" "14348043"
+			"pwdrequired" "1"
+			"timeupdated" "1715614827"
+		}
+		"developer"
+		{
+			"buildid" "14614569"
+			"pwdrequired" "1"
+			"timeupdated" "1717601972"
+		}
+		"externalaccess"
+		{
+			"buildid" "14538023"
+			"pwdrequired" "1"
+			"timeupdated" "1717047027"
+		}
+		"moddebug"
+		{
+			"buildid" "14614480"
+			"description" "For mod debugging"
+			"timeupdated" "1717602556"
+		}
+		"press"
+		{
+			"buildid" "14614569"
+			"pwdrequired" "1"
+			"timeupdated" "1717602454"
+		}
+		"private"
+		{
+			"buildid" "14614569"
+			"pwdrequired" "1"
+			"timeupdated" "1717602469"
+		}
+		"publisher"
+		{
+			"buildid" "14289296"
+			"pwdrequired" "1"
+			"timeupdated" "1715081325"
+		}
+		"trailers"
+		{
+			"buildid" "14716741"
+			"pwdrequired" "1"
+			"timeupdated" "1718358572"
+		}
+		"trailers2"
+		{
+			"buildid" "14361792"
+			"pwdrequired" "1"
+			"timeupdated" "1715693842"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "In the main menu"
+				"#biome_none" "in the Unknown"
+				"#biome_slime" "in the Undergrounds"
+				"#biome_larva" "in the Clay Caves"
+				"#biome_stone" "in the Forgotten Ruins"
+				"#biome_obsidian" "in the Unknown"
+				"#biome_nature" "in Azeos\' Wilderness"
+				"#biome_greatwall" "at the Great Wall"
+				"#biome_sea" "in the Sunken Sea"
+				"#biome_desert" "in the Desert of Beginnings"
+				"#task_idle" "Chilling"
+				"#task_exploring" "Exploring"
+				"#task_dying" "Dying"
+				"#task_fishing" "Fishing"
+				"#task_sleeping" "Sleeping"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "Im Hauptmenü"
+				"#biome_none" "im Unbekannten"
+				"#biome_slime" "in den Untergründen"
+				"#biome_larva" "in den Lehm-Höhlen"
+				"#biome_stone" "in den Vergessenen Ruinen"
+				"#biome_obsidian" "im Unbekannten"
+				"#biome_nature" "in Azeos\' Wildnis"
+				"#biome_greatwall" "an der Großen Mauer"
+				"#biome_sea" "im Versunkenen Meer"
+				"#biome_desert" "in der Wüste der Anfänge"
+				"#task_idle" "Frieren"
+				"#task_exploring" "Erkunden"
+				"#task_dying" "Sterben"
+				"#task_fishing" "Angeln"
+				"#task_sleeping" "Schlafen"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "メインメニュー"
+				"#biome_none" "未知の地"
+				"#biome_slime" "地下世界"
+				"#biome_larva" "粘土の洞窟"
+				"#biome_stone" "忘却の遺跡"
+				"#biome_obsidian" "未知の地"
+				"#biome_nature" "アゼオスの原生地域"
+				"#biome_greatwall" "大いなる壁"
+				"#biome_sea" "沈んだ海"
+				"#biome_desert" "始まりの砂漠"
+				"#task_idle" "休息中："
+				"#task_exploring" "探検中："
+				"#task_dying" "瀕死："
+				"#task_fishing" "釣り中："
+				"#task_sleeping" "睡眠中："
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "(메인 메뉴)"
+				"#biome_none" "(알 수 없는 곳)"
+				"#biome_slime" "(지하 세계)"
+				"#biome_larva" "(점토 동굴)"
+				"#biome_stone" "(잊힌 폐허)"
+				"#biome_obsidian" "(알 수 없는 곳)"
+				"#biome_nature" "(아제오스의 황야)"
+				"#biome_greatwall" "(위대한 벽)"
+				"#biome_sea" "(침몰한 바다)"
+				"#biome_desert" "(태초의 사막)"
+				"#task_idle" "쉬는 중"
+				"#task_exploring" "탐험 중"
+				"#task_dying" "죽어가는 중"
+				"#task_fishing" "낚시"
+				"#task_sleeping" "자는 중"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "En el menú principal"
+				"#biome_none" "en lo desconocido"
+				"#biome_slime" "en el Mundo Subterráneo"
+				"#biome_larva" "en las Cuevas de Arcilla"
+				"#biome_stone" "en las Ruinas Olvidadas"
+				"#biome_obsidian" "en lo desconocido"
+				"#biome_nature" "en el Bosque de Azeos"
+				"#biome_greatwall" "en la Gran Muralla"
+				"#biome_sea" "en el Mar Hundido"
+				"#biome_desert" "en el Desierto de los Inicios"
+				"#task_idle" "Relajándose"
+				"#task_exploring" "Explorando"
+				"#task_dying" "Muriendo"
+				"#task_fishing" "Pescando"
+				"#task_sleeping" "Durmiendo"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "In the main menu"
+				"#biome_none" "身处未知地带"
+				"#biome_slime" "身处地下世界"
+				"#biome_larva" "身处黏土洞窟"
+				"#biome_stone" "身处被遗忘的废墟"
+				"#biome_obsidian" "身处未知地带"
+				"#biome_nature" "身处埃齐欧斯荒野"
+				"#biome_greatwall" "身处高墙脚下"
+				"#biome_sea" "身处沉没之海"
+				"#biome_desert" "身处起源荒漠"
+				"#task_idle" "发呆中，"
+				"#task_exploring" "探索中，"
+				"#task_dying" "奄奄一息中，"
+				"#task_fishing" "钓鱼中，"
+				"#task_sleeping" "睡觉中，"
+			}
+		}
+		"thai"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#Task_%task%} {#Biome_%biome%}"
+				"#status_inmainmenu" "ในเมนูหลัก"
+				"#biome_none" "ในที่ที่ไม่รู้จัก"
+				"#biome_slime" "ในโลกใต้ดิน"
+				"#biome_larva" "ในถ้ำดินเหนียว"
+				"#biome_stone" "ในโบราณสถานที่ถูกลืม"
+				"#biome_obsidian" "ในที่ที่ไม่รู้จัก"
+				"#biome_nature" "ในทุ่งอะซีออส"
+				"#biome_greatwall" "ที่กำแพงใหญ่"
+				"#biome_sea" "ในทะเลใต้น้ำ"
+				"#biome_desert" "ในทะเลทรายก่อกำเนิด"
+				"#task_idle" "พักผ่อน"
+				"#task_exploring" "สำรวจ"
+				"#task_dying" "ตาย"
+				"#task_fishing" "ตกปลา"
+				"#task_sleeping" "หลับ"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23991406"
+"_sha" "654b01e4bf83d86157b926fbd6d1fc23bedf4522"
+"_size" "22561"
