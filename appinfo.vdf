@@ -1,0 +1,574 @@
+"appid" "835650"
+"common"
+{
+	"name" "Rising Lords"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "947573a74657832c724b3bf027acfe35d64ad921"
+	"logo_small" "947573a74657832c724b3bf027acfe35d64ad921_thumb"
+	"icon" "ec1c51e441138889be5622bab0ffb42f8fdb6b8f"
+	"clienticon" "4f808350df3bc85f48ecdcf65c77cd8fa3010c22"
+	"clienttga" "2f51324d31c6c48990b2c199e6398a4008c4c0f7"
+	"name_localized"
+	{
+		"schinese" "领主争锋"
+		"tchinese" "領主爭鋒"
+		"japanese" "ライジング・ロード"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666224000"
+		"tested_build_id" "9118898"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rising Lords"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "39.78867977411426"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1705660128"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Argonwood"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deck13"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Deck13 Spotlight"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Focus Entertainment"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_30" "1"
+		"category_32" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1705597432"
+	"metacritic_score" "69"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rising-lords\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "835650"
+	"store_tags"
+	{
+		"0" "4172"
+		"1" "14139"
+		"2" "1741"
+		"3" "9"
+		"4" "492"
+		"5" "3859"
+		"6" "1708"
+		"7" "1677"
+		"8" "4325"
+		"9" "7332"
+		"10" "1717"
+		"11" "3871"
+		"12" "4328"
+		"13" "599"
+		"14" "493"
+		"15" "4182"
+		"16" "3810"
+		"17" "6815"
+		"18" "1685"
+		"19" "4711"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Argonwood"
+	"publisher" "Deck13"
+	"homepage" "https://www.Argonwood.com"
+}
+"config"
+{
+	"installdir" "Rising Lords"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RisingLords.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "launcher.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"betakey" "ubuntu"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "835650"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"835651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4108512295480066322"
+				"size" "639762260"
+				"download" "587886160"
+			}
+			"beta"
+			{
+				"gid" "7650244001678935695"
+				"size" "639791972"
+				"download" "587892112"
+			}
+			"previous"
+			{
+				"gid" "5641963867564305459"
+				"size" "584399129"
+				"download" "531919712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"argontest"
+			{
+				"gid" "E473CEA5A0F29150CF48E48B34D11A8E"
+				"size" "0E811EF9C457949827E4E103A4531B27"
+				"download" "685855CB2DE01789353CED4AB7A2E088"
+			}
+			"cheatconsole"
+			{
+				"gid" "E2F6E7E374668E352EB807756841EF8C"
+				"size" "D6C2447A5EE5554155B39F9F6679D18E"
+				"download" "5ACF8FE3BFB35E67A9902ACE156F9D51"
+			}
+			"devtest2"
+			{
+				"gid" "195605087D77872DEA8C6215B431B97B"
+				"size" "5C29296BE22F9A50DD787211B4B536C4"
+				"download" "3F445D6DC89003D8C881D6A4A273E3A9"
+			}
+			"no_intro"
+			{
+				"gid" "95A7704B8EC9BB75DA18F8894DACDDDA"
+				"size" "3876958AAD9E3AE8C34BE82A8012F420"
+				"download" "61F6652698523BCD6A4A8B4C9C9F50F6"
+			}
+			"prerelease"
+			{
+				"gid" "D60D7EF3B2C1634AF1C699452A8325AA"
+				"size" "14E06986171BF36A9E403CE429DF837B"
+				"download" "25F97C209F4B65552B57CCC11E68D74B"
+			}
+			"storage"
+			{
+				"gid" "5AA29C203965A8F6014DE33B5DC0E53C"
+				"size" "0BF28DCEBA5B5DE023C561A5016ED012"
+				"download" "75637F7C7F525FD92A83571444F05AD2"
+			}
+			"devtest"
+			{
+				"gid" "A2E4C4F1F67E0C20E1AA7F4A00B53EE0"
+				"size" "84917749D9DC3400B5CA616CEC1DE868"
+				"download" "6D4233D434BC23821B958541A6EDFCAD"
+			}
+			"ratman"
+			{
+				"gid" "996A8D93A486E6DDB6F6CFF4195680F7"
+				"size" "249F770A19A99B1D988A14224CB7A3B4"
+				"download" "62283314F006FDC0FE32E0E966034739"
+			}
+			"ratman2"
+			{
+				"gid" "603758262EB8E228C572CFF42E76D12D"
+				"size" "45E0B9CCE03B60E7F96C4A0AED147EF3"
+				"download" "E6C526FD5B6AA03E04A815EBDD710CAA"
+			}
+		}
+	}
+	"835652"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7224757215891973034"
+				"size" "477522149"
+				"download" "427621760"
+			}
+			"beta"
+			{
+				"gid" "7224757215891973034"
+				"size" "477522149"
+				"download" "427621760"
+			}
+			"previous"
+			{
+				"gid" "7224757215891973034"
+				"size" "477522149"
+				"download" "427621760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"argontest"
+			{
+				"gid" "D9D67A5E1674056791C42C4150935DBB"
+				"size" "DF6E324D22A9BDD3F63F6BAD5A0B676C"
+				"download" "7C88B9D717EE674AA63A3717F3C5E1E4"
+			}
+			"cheatconsole"
+			{
+				"gid" "641D473AC3BE4631922C7A53143B037B"
+				"size" "D89CEB0575612C1E364503A4F2EF65CB"
+				"download" "6EA69AE17FDE11BF9DC4ECA992A727CA"
+			}
+			"devtest2"
+			{
+				"gid" "7E911763DFA0058D0878C795C49CB39D"
+				"size" "382EA0844110D9996DFBDE3590DF4654"
+				"download" "1511081819EB2C7FD7D86D28E6FBB035"
+			}
+			"no_intro"
+			{
+				"gid" "EFD3C60D38D0364A40E974D57EC951AB"
+				"size" "4084B4284342354A71F69ABCD0D69D08"
+				"download" "8BD9F54F4D5CC6926349212C32EFD0D1"
+			}
+			"prerelease"
+			{
+				"gid" "8C848559A1634F552F7F18C5B5F60A0D"
+				"size" "1842379C2436637B95B3B8772E5D9E21"
+				"download" "F27CB1DC9B95A33ABE1C2B8B497AAD18"
+			}
+			"storage"
+			{
+				"gid" "D41C89EAE33990581CA831D5F0E7DEEF"
+				"size" "1768E9CCD3CA84A16A3670AF68A1B7DA"
+				"download" "96AB7E2297E7A6EAFE31B83275D7844E"
+			}
+			"devtest"
+			{
+				"gid" "6D0948247F5B258A45526533DCC293B2"
+				"size" "E7BB08DD0879D29DA815772CE0C30184"
+				"download" "8A71B5D383E8A5F9B917446B3A213A79"
+			}
+			"ratman"
+			{
+				"gid" "B158863F257D2E0A1A563EE4CFE7DD44"
+				"size" "D02B571E1DA809898C1B7686021A711B"
+				"download" "0C949258C24B5204A4BD1E8FAD7E4620"
+			}
+			"ratman2"
+			{
+				"gid" "37042C0B633B7D94605F318D27A797F5"
+				"size" "94329EAD4A38F4F76CBA7E74F14D1093"
+				"download" "8945C55A4B278D9C7E48C6A0504FA8BD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14625500"
+			"timeupdated" "1718175758"
+		}
+		"argontest"
+		{
+			"buildid" "13328852"
+			"pwdrequired" "1"
+			"timeupdated" "1706768804"
+		}
+		"cheatconsole"
+		{
+			"buildid" "13231579"
+			"pwdrequired" "1"
+			"timeupdated" "1706032101"
+		}
+		"devtest2"
+		{
+			"buildid" "13169087"
+			"pwdrequired" "1"
+			"timeupdated" "1705400867"
+		}
+		"no_intro"
+		{
+			"buildid" "13305249"
+			"pwdrequired" "1"
+			"timeupdated" "1706556151"
+		}
+		"prerelease"
+		{
+			"buildid" "13224162"
+			"pwdrequired" "1"
+			"timeupdated" "1705747476"
+		}
+		"storage"
+		{
+			"buildid" "13209295"
+			"pwdrequired" "1"
+			"timeupdated" "1705592025"
+		}
+		"beta"
+		{
+			"buildid" "14758486"
+			"description" "unstable"
+			"timeupdated" "1718734604"
+		}
+		"devtest"
+		{
+			"buildid" "14429671"
+			"pwdrequired" "1"
+			"timeupdated" "1716217294"
+		}
+		"previous"
+		{
+			"buildid" "13968294"
+			"timeupdated" "1718175686"
+		}
+		"ratman"
+		{
+			"buildid" "14625500"
+			"pwdrequired" "1"
+			"timeupdated" "1717675803"
+		}
+		"ratman2"
+		{
+			"buildid" "14757390"
+			"pwdrequired" "1"
+			"timeupdated" "1718728010"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "24022026"
+"_sha" "7bbe62682da894472edfa996c9d316866b4abe03"
+"_size" "11196"
