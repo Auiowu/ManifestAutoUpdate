@@ -1,0 +1,1940 @@
+"appid" "1169040"
+"common"
+{
+	"name" "Necesse"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64"
+	"clienttga" "044e2e9e2cd4f51cdb1a5263b0b7c93534798f55"
+	"clienticon" "f77aa78f4e62d52e8197591062dedfc3c24ccf9d"
+	"icon" "f74fcfc959bc4359e442840ba11479051be03e13"
+	"linuxclienticon" "7671f4126751929ad91136e7218b243a7a1d2b43"
+	"clienticns" "1789428d7419d0d223bbf3d1f9f3ce41a1246bd3"
+	"logo" "dd1974ff2acc6d90585cea9c8d4c1101be5d641d"
+	"logo_small" "dd1974ff2acc6d90585cea9c8d4c1101be5d641d_thumb"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "奈斯启示录 Necesse"
+		"tchinese" "奈斯啟示錄 Necesse"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1670371200"
+		"tested_build_id" "9943085"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Necesse"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1712745320"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fair Games ApS"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fair Games ApS"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_15" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1576169762"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1169040"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "3859"
+		"3" "1695"
+		"4" "3810"
+		"5" "1702"
+		"6" "21"
+		"7" "122"
+		"8" "1643"
+		"9" "3834"
+		"10" "1685"
+		"11" "7332"
+		"12" "3843"
+		"13" "19"
+		"14" "3964"
+		"15" "4182"
+		"16" "4166"
+		"17" "492"
+		"18" "3871"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Fair Games ApS"
+	"publisher" "Fair Games ApS"
+	"homepage" "https://necessegame.com/"
+}
+"config"
+{
+	"installdir" "Necesse"
+	"steamcontrollertemplateindex" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Necesse.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "./jre/bin/java"
+			"arguments" "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xms512m -Xmx4G -jar Necesse.jar"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "jre/bin/javaw.exe"
+			"arguments" "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar Necesse.jar -lowmemory -musicstream"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "v0.22.1"
+			}
+			"description_loc"
+			{
+				"english" "Launch in low memory mode"
+			}
+			"description" "Launch in low memory mode"
+		}
+		"4"
+		{
+			"executable" "Necesse.app"
+			"workingdir" "Necesse.app/Contents/Resources"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "v0.21.29"
+			}
+		}
+		"5"
+		{
+			"executable" "Necesse.app/Contents/Resources/jre/bin/java"
+			"arguments" "-XstartOnFirstThread -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xms512m -Xmx4G -jar Necesse.jar"
+			"workingdir" "Necesse.app/Contents/Resources"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "v0.21.23"
+			}
+			"description_loc"
+			{
+				"english" "v0.21.23"
+			}
+			"description" "v0.21.23"
+		}
+		"7"
+		{
+			"executable" "Necesse.app/Contents/Resources/StartNatively.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "jre/bin/javaw.exe"
+			"arguments" "-Xms512m -Xmx4G -jar Necesse.jar"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "betafixes"
+			}
+			"description_loc"
+			{
+				"english" "without memory optimizations"
+			}
+			"description" "without memory optimizations"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3021993242"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+		"3022004665"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+		"3022007895"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+		"3022011601"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+		"3022016949"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+		"3022019367"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+		"3022029543"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"steamdecktouchscreen" "5"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,swedish,hungarian,czech,turkish,brazilian,ukrainian,latam"
+	"1169042"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3337850128276562600"
+				"size" "394869270"
+				"download" "275772304"
+			}
+			"v0.21.23"
+			{
+				"gid" "7467126851982166657"
+				"size" "342489282"
+				"download" "215715664"
+			}
+			"v0.21.24"
+			{
+				"gid" "565853001660228717"
+				"size" "343316175"
+				"download" "210201216"
+			}
+			"v0.21.25"
+			{
+				"gid" "7516698411344290416"
+				"size" "343904787"
+				"download" "215860576"
+			}
+			"v0.21.26"
+			{
+				"gid" "6064869266640571714"
+				"size" "345028678"
+				"download" "216913856"
+			}
+			"v0.21.27"
+			{
+				"gid" "1062370833556785666"
+				"size" "280446746"
+				"download" "189634400"
+			}
+			"v0.21.28"
+			{
+				"gid" "1532338568026231391"
+				"size" "281058142"
+				"download" "190023472"
+			}
+			"v0.21.29"
+			{
+				"gid" "8369222888660150946"
+				"size" "285829686"
+				"download" "194804288"
+			}
+			"v0.22.0"
+			{
+				"gid" "5028379763876315720"
+				"size" "316686698"
+				"download" "220199552"
+			}
+			"v0.22.1"
+			{
+				"gid" "7050164523757919228"
+				"size" "316882072"
+				"download" "220255664"
+			}
+			"v0.23.0"
+			{
+				"gid" "6010158888205658340"
+				"size" "370092801"
+				"download" "259103104"
+			}
+			"v0.23.1"
+			{
+				"gid" "3359461461288133584"
+				"size" "370331256"
+				"download" "253137168"
+			}
+			"v0.24.0"
+			{
+				"gid" "9102675691797492376"
+				"size" "383812480"
+				"download" "266292208"
+			}
+			"v0.24.1"
+			{
+				"gid" "237746413544246280"
+				"size" "384008724"
+				"download" "266466176"
+			}
+			"betafixes"
+			{
+				"gid" "3337850128276562600"
+				"size" "394869270"
+				"download" "275772304"
+			}
+			"v0.24.2"
+			{
+				"gid" "7235186863085177309"
+				"size" "384065506"
+				"download" "272607872"
+			}
+			"v0.25.0"
+			{
+				"gid" "1685423629196911070"
+				"size" "395131902"
+				"download" "276043008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"expo"
+			{
+				"gid" "E828F02B125C0DDBA61C6EC4ED6C31AB"
+				"size" "F9E453A2191E41FA04A4DED27B5C3EEE"
+				"download" "44AA90254A39F485E317B033C2BEC643"
+			}
+			"trailer"
+			{
+				"gid" "A54E1F35037121E60B583EF0ED312B86"
+				"size" "E4DE6D1F7F5E41DD9F7A57B31B0CD9DC"
+				"download" "F1D622BF0F74480D264C361060B58FE6"
+			}
+			"artbuild"
+			{
+				"gid" "A95E0DAE8C7A4D8823D22C768A589722"
+				"size" "564B094BA6D2D7A4880D01A0060F2B38"
+				"download" "E8F715852C2F9B6ECD85F35DE256ECDB"
+			}
+			"buildtest"
+			{
+				"gid" "A724941FE4D9A7C3981824FDD9ED467D"
+				"size" "8A81DB2C288EF51176F652DB743D6D74"
+				"download" "0B78CC546186F7451833583C43795DCC"
+			}
+			"buildtest2"
+			{
+				"gid" "B45CD196C92933A6D84BDEC989C5378A"
+				"size" "DB64D3190B5961950E22FECDC8E324E4"
+				"download" "ABE845296E587A4CEF570F74C68DA58F"
+			}
+		}
+	}
+	"1169043"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "529245487204932193"
+				"size" "409598088"
+				"download" "277631488"
+			}
+			"v0.21.23"
+			{
+				"gid" "1586739721671068601"
+				"size" "359106370"
+				"download" "219400912"
+			}
+			"v0.21.24"
+			{
+				"gid" "9025183928450140155"
+				"size" "359933263"
+				"download" "213886464"
+			}
+			"v0.21.25"
+			{
+				"gid" "7622065965681783603"
+				"size" "360521875"
+				"download" "219545824"
+			}
+			"v0.21.26"
+			{
+				"gid" "4932215919008717111"
+				"size" "361645766"
+				"download" "220599104"
+			}
+			"v0.21.27"
+			{
+				"gid" "2335197567089257309"
+				"size" "295175564"
+				"download" "191493584"
+			}
+			"v0.21.28"
+			{
+				"gid" "60213011502677396"
+				"size" "295786960"
+				"download" "185815648"
+			}
+			"v0.21.29"
+			{
+				"gid" "8942355674758997665"
+				"size" "300558504"
+				"download" "193641072"
+			}
+			"v0.22.0"
+			{
+				"gid" "5947138127811997466"
+				"size" "331415516"
+				"download" "220030592"
+			}
+			"v0.22.1"
+			{
+				"gid" "1717759638195028403"
+				"size" "331610890"
+				"download" "220087008"
+			}
+			"v0.23.0"
+			{
+				"gid" "2367724337973416848"
+				"size" "384821619"
+				"download" "263988144"
+			}
+			"v0.23.1"
+			{
+				"gid" "4045959049996154442"
+				"size" "385060074"
+				"download" "261091632"
+			}
+			"v0.24.0"
+			{
+				"gid" "768397575390336726"
+				"size" "398541298"
+				"download" "274249376"
+			}
+			"v0.24.1"
+			{
+				"gid" "2562969357861641611"
+				"size" "398737542"
+				"download" "274423776"
+			}
+			"betafixes"
+			{
+				"gid" "529245487204932193"
+				"size" "409598088"
+				"download" "277631488"
+			}
+			"v0.24.2"
+			{
+				"gid" "772024435179136260"
+				"size" "398794324"
+				"download" "268368880"
+			}
+			"v0.25.0"
+			{
+				"gid" "5536877428687879473"
+				"size" "409860720"
+				"download" "283997472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"expo"
+			{
+				"gid" "A39D6B44B4A54F117D132FD514CA4CDA"
+				"size" "07BCE158BB8A046FEB9A298DF6B0536A"
+				"download" "AD4AAD0109A57B82DA8580E898DE6C9B"
+			}
+			"trailer"
+			{
+				"gid" "E070D1373E80F398952389CA0AC4EB5B"
+				"size" "9273BF04A632F0825DC192B98A5618FE"
+				"download" "04750922D666BB4A255D12C3DF4A676E"
+			}
+			"artbuild"
+			{
+				"gid" "92E51DF5EF299496F332121DE04103A7"
+				"size" "33599C2BB0940E2EBCBC164281FDB3B8"
+				"download" "9EDAC0D33F85774E5B7DFB777B285791"
+			}
+			"buildtest"
+			{
+				"gid" "8AE424B27BBDDFB9D95520E5923391C8"
+				"size" "71068C1CEC3C22C0AED027E5807D3B36"
+				"download" "D7CB4E98785A6F5E4D999FABA37669A4"
+			}
+			"buildtest2"
+			{
+				"gid" "A8D2A4BEA035305866AC10232974B710"
+				"size" "7BBD211CBB94B1EAC1F99E108ED661DA"
+				"download" "DB7D7395CB46F41DD23A2ECAEC4E3715"
+			}
+		}
+	}
+	"1169044"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4258255933830278965"
+				"size" "415658014"
+				"download" "277912464"
+			}
+			"v0.21.23"
+			{
+				"gid" "6798656273683115627"
+				"size" "367997431"
+				"download" "214880256"
+			}
+			"v0.21.24"
+			{
+				"gid" "5416006317740396189"
+				"size" "368824296"
+				"download" "209365792"
+			}
+			"v0.21.25"
+			{
+				"gid" "987618074661325013"
+				"size" "369412908"
+				"download" "215025152"
+			}
+			"v0.21.26"
+			{
+				"gid" "4284358101106737597"
+				"size" "370536799"
+				"download" "216078432"
+			}
+			"v0.21.27"
+			{
+				"gid" "5723242964073316596"
+				"size" "301270583"
+				"download" "191790256"
+			}
+			"v0.21.28"
+			{
+				"gid" "6957215591912294207"
+				"size" "301881979"
+				"download" "191185120"
+			}
+			"v0.21.29"
+			{
+				"gid" "3721150496254640205"
+				"size" "306653523"
+				"download" "196960144"
+			}
+			"v0.22.0"
+			{
+				"gid" "8141820347750741733"
+				"size" "337510770"
+				"download" "226405728"
+			}
+			"v0.22.1"
+			{
+				"gid" "2419190883233445310"
+				"size" "337706144"
+				"download" "220383968"
+			}
+			"v0.23.0"
+			{
+				"gid" "3717529273839284847"
+				"size" "390881545"
+				"download" "264269104"
+			}
+			"v0.23.1"
+			{
+				"gid" "1651381318756350685"
+				"size" "391120000"
+				"download" "264399008"
+			}
+			"v0.24.0"
+			{
+				"gid" "7707693242361693472"
+				"size" "404601224"
+				"download" "274530352"
+			}
+			"v0.24.1"
+			{
+				"gid" "3152003163298750191"
+				"size" "404797468"
+				"download" "274704752"
+			}
+			"betafixes"
+			{
+				"gid" "4258255933830278965"
+				"size" "415658014"
+				"download" "277912464"
+			}
+			"v0.24.2"
+			{
+				"gid" "1182652691023592406"
+				"size" "404854250"
+				"download" "277770832"
+			}
+			"v0.25.0"
+			{
+				"gid" "8595982822867386259"
+				"size" "415920646"
+				"download" "288308688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"expo"
+			{
+				"gid" "EFD4F451C84BECBCE7A5FE2F2503C5EF"
+				"size" "93401B3A5FF6BE86E4D606D26F44581C"
+				"download" "AB3E3B50E6CCE535CC9B18E47D9C416F"
+			}
+			"trailer"
+			{
+				"gid" "9A61208EDE1775789D60DFECA3EB2412"
+				"size" "37757FCD96013C4A26FC0E0D2EAAAE34"
+				"download" "9750EF8884A8E1A3D1061B208C408E4F"
+			}
+			"artbuild"
+			{
+				"gid" "C52304CCAD3B518FE61FC7D66604B9DE"
+				"size" "F7068AC67877B53809C018973FF21F1D"
+				"download" "CCA54C1FE590099BFC2A92CED661B527"
+			}
+			"buildtest"
+			{
+				"gid" "BE1EE6204C6ABD3D07E73E0397B45685"
+				"size" "868CEFE3A9C145B07087B51F3242EA79"
+				"download" "1F94C76D7FE91984984AE41E66475878"
+			}
+			"buildtest2"
+			{
+				"gid" "17B4D5E05AA821A75F87B049056808FD"
+				"size" "88E8B99E17215C1DE80CEF9D6C12370E"
+				"download" "6AD1574BA9EE822C0A070D4FD0F88612"
+			}
+		}
+	}
+	"1169045"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2891078255944906996"
+				"size" "420402567"
+				"download" "279494512"
+			}
+			"v0.21.23"
+			{
+				"gid" "6404665697104459604"
+				"size" "398018760"
+				"download" "225766944"
+			}
+			"v0.21.24"
+			{
+				"gid" "1729947547154124555"
+				"size" "398845653"
+				"download" "220252496"
+			}
+			"v0.21.25"
+			{
+				"gid" "275807290734124620"
+				"size" "399434265"
+				"download" "225911856"
+			}
+			"v0.21.26"
+			{
+				"gid" "2673259856270548398"
+				"size" "400558156"
+				"download" "226965136"
+			}
+			"v0.21.27"
+			{
+				"gid" "1424456041500847358"
+				"size" "306015371"
+				"download" "193372576"
+			}
+			"v0.21.28"
+			{
+				"gid" "1507113401475947112"
+				"size" "306626767"
+				"download" "193761648"
+			}
+			"v0.21.29"
+			{
+				"gid" "4456379232614576509"
+				"size" "311398311"
+				"download" "198542464"
+			}
+			"v0.22.0"
+			{
+				"gid" "7520092953680503120"
+				"size" "342255323"
+				"download" "227987760"
+			}
+			"v0.22.1"
+			{
+				"gid" "2716546868107949625"
+				"size" "342450697"
+				"download" "227039184"
+			}
+			"v0.23.0"
+			{
+				"gid" "2937803640394032519"
+				"size" "395626098"
+				"download" "265851136"
+			}
+			"v0.23.1"
+			{
+				"gid" "2607258303043164994"
+				"size" "395864553"
+				"download" "265981040"
+			}
+			"v0.24.0"
+			{
+				"gid" "6882192066260199294"
+				"size" "409345777"
+				"download" "279134512"
+			}
+			"v0.24.1"
+			{
+				"gid" "8386902459587239005"
+				"size" "409542021"
+				"download" "276286784"
+			}
+			"betafixes"
+			{
+				"gid" "2891078255944906996"
+				"size" "420402567"
+				"download" "279494512"
+			}
+			"v0.24.2"
+			{
+				"gid" "4428324965517724725"
+				"size" "409598803"
+				"download" "276330064"
+			}
+			"v0.25.0"
+			{
+				"gid" "64807215368932983"
+				"size" "420665199"
+				"download" "285860480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"expo"
+			{
+				"gid" "5BA59188C0E5F1B7694CAE4C36B9B593"
+				"size" "85447391D94616AE427321844A3A25A2"
+				"download" "4DBD0C72008A105E93FE8032E9AB8C30"
+			}
+			"trailer"
+			{
+				"gid" "4385262A30680B425D64559980EB831B"
+				"size" "A34A28BFCA3CBCB5764929E4D1C883CA"
+				"download" "C16EFE7693898F0F58C503359DB513AA"
+			}
+			"artbuild"
+			{
+				"gid" "D46D7A87376E0766787F053CDF356496"
+				"size" "FA414587482EFE001D422439E35CF458"
+				"download" "649DBB635D89B3AA117622125794E8EC"
+			}
+			"buildtest"
+			{
+				"gid" "638D9C3F9BDD517906795BB2F56537F6"
+				"size" "1F6C81A9E83A877D0D51AC486EF015CE"
+				"download" "BE2AE95DDBD6D529183567D0012253E5"
+			}
+			"buildtest2"
+			{
+				"gid" "BE4EE2FE24D2BEFB655E76908884099E"
+				"size" "0CBED1409870C2AB65B46D02BDDC3CE3"
+				"download" "CCFF374155DCDCE7DCDFB66524B67C5E"
+			}
+		}
+	}
+	"workshopdepot" "1169040"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14758302"
+			"timeupdated" "1718733916"
+		}
+		"expo"
+		{
+			"buildid" "11335895"
+			"pwdrequired" "1"
+			"timeupdated" "1685256659"
+		}
+		"trailer"
+		{
+			"buildid" "11686933"
+			"pwdrequired" "1"
+			"timeupdated" "1689187274"
+		}
+		"v0.21.23"
+		{
+			"buildid" "9096788"
+			"description" "Older version"
+			"timeupdated" "1661180505"
+		}
+		"v0.21.24"
+		{
+			"buildid" "9363221"
+			"description" "Older version"
+			"timeupdated" "1664210618"
+		}
+		"v0.21.25"
+		{
+			"buildid" "9650339"
+			"description" "Older version"
+			"timeupdated" "1667840776"
+		}
+		"v0.21.26"
+		{
+			"buildid" "9973476"
+			"description" "Older version"
+			"timeupdated" "1671562140"
+		}
+		"v0.21.27"
+		{
+			"buildid" "10229868"
+			"description" "Older version"
+			"timeupdated" "1674414676"
+		}
+		"v0.21.28"
+		{
+			"buildid" "10560541"
+			"description" "Older version"
+			"timeupdated" "1678985815"
+		}
+		"v0.21.29"
+		{
+			"buildid" "11012271"
+			"description" "Older version"
+			"timeupdated" "1692543402"
+		}
+		"v0.22.0"
+		{
+			"buildid" "12012395"
+			"description" "Older version"
+			"timeupdated" "1693495371"
+		}
+		"v0.22.1"
+		{
+			"buildid" "12080883"
+			"description" "Older version"
+			"timeupdated" "1702316611"
+		}
+		"v0.23.0"
+		{
+			"buildid" "12963309"
+			"description" "Older version"
+			"timeupdated" "1703281069"
+		}
+		"v0.23.1"
+		{
+			"buildid" "13154952"
+			"description" "Older version"
+			"timeupdated" "1709574910"
+		}
+		"v0.24.0"
+		{
+			"buildid" "13700620"
+			"description" "Older version"
+			"timeupdated" "1710955489"
+		}
+		"v0.24.1"
+		{
+			"buildid" "13822355"
+			"description" "Older version"
+			"timeupdated" "1711560964"
+		}
+		"artbuild"
+		{
+			"buildid" "14715629"
+			"pwdrequired" "1"
+			"timeupdated" "1718351808"
+		}
+		"betafixes"
+		{
+			"buildid" "14758302"
+			"description" "Experimental fixes"
+			"timeupdated" "1718733884"
+		}
+		"buildtest"
+		{
+			"buildid" "14758302"
+			"pwdrequired" "1"
+			"timeupdated" "1718733147"
+		}
+		"buildtest2"
+		{
+			"buildid" "13872621"
+			"pwdrequired" "1"
+			"timeupdated" "1715345698"
+		}
+		"v0.24.2"
+		{
+			"buildid" "13872621"
+			"description" "Older version"
+			"timeupdated" "1716827058"
+		}
+		"v0.25.0"
+		{
+			"buildid" "14530827"
+			"description" "Older version"
+			"timeupdated" "1717082930"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Necesse/saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Necesse/saves"
+					"replace" "Necesse/saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Necesse/saves"
+					"replace" "Necesse/saves"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Cave"
+				"#biome_crystalhollow" "Crystal Hollow"
+				"#biome_deepcave" "{%biome%} Deep Cave"
+				"#biome_desert" "Desert"
+				"#biome_desertvillage" "Desert Village"
+				"#biome_dungeon" "Dungeon Entrance"
+				"#biome_extraction" "Extraction"
+				"#biome_forest" "Forest"
+				"#biome_forestvillage" "Forest Village"
+				"#biome_graveyard" "Graveyard"
+				"#biome_hunt" "Hunt"
+				"#biome_incursionextraction" "{%incursion%} Extraction"
+				"#biome_incursionhunt" "{%incursion%} Hunt"
+				"#biome_incursiontrial" "{%incursion%} Trial"
+				"#biome_moonarena" "Moon Arena"
+				"#biome_piratevillage" "Pirate Village"
+				"#biome_plains" "Plains"
+				"#biome_slimecave" "Slime Cave"
+				"#biome_snow" "Snow"
+				"#biome_snowvillage" "Snow Village"
+				"#biome_spidercastle" "Spider Castle"
+				"#biome_sunarena" "Sun Arena"
+				"#biome_surface" "{%biome%} Surface"
+				"#biome_swamp" "Swamp"
+				"#biome_temple" "Temple"
+				"#biome_trial" "Trial"
+				"#biome_trialroom" "Trial Room"
+				"#biome_unknown" "Unknown"
+				"#richpresence_atmainmenu" "At Main Menu"
+				"#richpresence_hostingfriends" "Hosting friends world - {%location%}"
+				"#richpresence_hostinginvite" "Hosting invite world - {%location%}"
+				"#richpresence_hostingopen" "Hosting open world - {%location%}"
+				"#richpresence_playingonserver" "Playing on a server - {%location%}"
+				"#richpresence_playingsingleplayer" "Singleplayer - {%location%}"
+				"#richpresence_playingwithfriends" "Playing with friends - {%location%}"
+				"#richpresence_unknownlocation" "Unknown location"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} 洞穴"
+				"#biome_crystalhollow" "水晶洞穴"
+				"#biome_deepcave" "{%biome%} 深层洞穴"
+				"#biome_desert" "沙漠"
+				"#biome_desertvillage" "沙漠村庄"
+				"#biome_dungeon" "地牢入口"
+				"#biome_extraction" "开采"
+				"#biome_forest" "森林"
+				"#biome_forestvillage" "森林村庄"
+				"#biome_graveyard" "墓园"
+				"#biome_hunt" "追捕"
+				"#biome_incursionextraction" "{%incursion%} 开采"
+				"#biome_incursionhunt" "{%incursion%} 追捕"
+				"#biome_incursiontrial" "{%incursion%} 试炼"
+				"#biome_moonarena" "月亮竞技场"
+				"#biome_piratevillage" "海盗村庄"
+				"#biome_plains" "平原"
+				"#biome_slimecave" "史莱姆洞穴"
+				"#biome_snow" "雪地"
+				"#biome_snowvillage" "雪地村庄"
+				"#biome_spidercastle" "蛛魔城堡"
+				"#biome_sunarena" "太阳竞技场"
+				"#biome_surface" "{%biome%} 地面"
+				"#biome_swamp" "沼泽"
+				"#biome_temple" "圣殿"
+				"#biome_trial" "试炼"
+				"#biome_trialroom" "试炼场"
+				"#biome_unknown" "未知"
+				"#richpresence_atmainmenu" "在主菜单"
+				"#richpresence_hostingfriends" "主持 仅限好友 世界 - {%location%}"
+				"#richpresence_hostinginvite" "主持 仅限邀请 世界 - {%location%}"
+				"#richpresence_hostingopen" "主持 公开 世界 - {%location%}"
+				"#richpresence_playingonserver" "在服务器上游玩 - {%location%}"
+				"#richpresence_playingsingleplayer" "单人游戏 - {%location%}"
+				"#richpresence_playingwithfriends" "与好友游玩 - {%location%}"
+				"#richpresence_unknownlocation" "未知区域"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%}洞穴"
+				"#biome_deepcave" "{%biome%}深洞"
+				"#biome_desert" "沙漠"
+				"#biome_desertvillage" "沙漠領地"
+				"#biome_dungeon" "地牢入口"
+				"#biome_extraction" "收集"
+				"#biome_forest" "森林"
+				"#biome_forestvillage" "森林領地"
+				"#biome_graveyard" "墓地"
+				"#biome_hunt" "擊殺"
+				"#biome_incursionextraction" "{%incursion%} 收集"
+				"#biome_incursionhunt" "{%incursion%} 擊殺"
+				"#biome_incursiontrial" "{%incursion%} 考驗"
+				"#biome_moonarena" "月亮競技場"
+				"#biome_piratevillage" "海盜領地"
+				"#biome_plains" "平原"
+				"#biome_slimecave" "史萊姆洞穴"
+				"#biome_snow" "雪"
+				"#biome_snowvillage" "冰雪領地"
+				"#biome_spidercastle" "蜘蛛城堡"
+				"#biome_sunarena" "太陽競技場"
+				"#biome_surface" "{%biome%}表面"
+				"#biome_swamp" "沼澤"
+				"#biome_temple" "神廟"
+				"#biome_trial" "考驗"
+				"#biome_trialroom" "試煉房間"
+				"#biome_unknown" "未知"
+				"#richpresence_atmainmenu" "主選單掛機仔"
+				"#richpresence_hostingfriends" "主持僅限好友世界 - {%location%}"
+				"#richpresence_hostinginvite" "主持僅限邀請世界 - {%location%}"
+				"#richpresence_hostingopen" "主持公開世界 - {%location%}"
+				"#richpresence_playingonserver" "在伺服器上遊玩 - {%location%}"
+				"#richpresence_playingsingleplayer" "單人世界 - {%location%}"
+				"#richpresence_playingwithfriends" "與好友遊玩 - {%location%}"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Пещера"
+				"#biome_crystalhollow" "Кристальная лощина"
+				"#biome_deepcave" "{%biome%} Глубинная Пещера"
+				"#biome_desert" "Пустыня"
+				"#biome_desertvillage" "Пустынная Деревня"
+				"#biome_dungeon" "Вход в Подземелье"
+				"#biome_extraction" "Добыча"
+				"#biome_forest" "Лес"
+				"#biome_forestvillage" "Лесная Деревня"
+				"#biome_graveyard" "Кладбище"
+				"#biome_hunt" "Охота"
+				"#biome_incursionextraction" "{%incursion%} Добыча"
+				"#biome_incursionhunt" "{%incursion%} Охота"
+				"#biome_incursiontrial" "{%incursion%} Испытание"
+				"#biome_moonarena" "Арена Луны"
+				"#biome_piratevillage" "Пиратская Деревня"
+				"#biome_plains" "Равнина"
+				"#biome_slimecave" "Слизневая Пещера"
+				"#biome_snow" "Снег"
+				"#biome_snowvillage" "Снежная Деревня"
+				"#biome_spidercastle" "Паучий Замок"
+				"#biome_sunarena" "Арена Солнца"
+				"#biome_surface" "{%biome%} Поверхность"
+				"#biome_swamp" "Болото"
+				"#biome_temple" "Храм"
+				"#biome_trial" "Испытание"
+				"#biome_trialroom" "Комната Испытаний"
+				"#biome_unknown" "Неизвестно"
+				"#richpresence_atmainmenu" "В главном меню"
+				"#richpresence_hostingfriends" "Хостинг друзей мира - {%location%}"
+				"#richpresence_hostinginvite" "Приглашение на хостинг - {%location%}"
+				"#richpresence_hostingopen" "Хостинг с открытым миром - {%location%}"
+				"#richpresence_playingonserver" "Игра на сервере- {%location%}"
+				"#richpresence_playingsingleplayer" "Один игрок - {%location%}"
+				"#richpresence_playingwithfriends" "Игра с друзьями - {%location%}"
+				"#richpresence_unknownlocation" "Неизвестная локация"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Caverna"
+				"#biome_crystalhollow" "Depressão de Cristal"
+				"#biome_deepcave" "{%biome%} Caverna Profunda"
+				"#biome_desert" "Deserto"
+				"#biome_desertvillage" "Vilarejo do Deserto"
+				"#biome_dungeon" "Entrada da Masmorra"
+				"#biome_extraction" "Extração"
+				"#biome_forest" "Floresta"
+				"#biome_forestvillage" "Vilarejo da Floresta"
+				"#biome_graveyard" "Cemitério"
+				"#biome_hunt" "Caçada"
+				"#biome_incursionextraction" "Extração em {%incursion%} "
+				"#biome_incursionhunt" "Caça em {%incursion%} "
+				"#biome_incursiontrial" "Provação em {%incursion%}"
+				"#biome_moonarena" "Arena Lunar"
+				"#biome_piratevillage" "Vilarejo dos Piratas"
+				"#biome_plains" "Planície"
+				"#biome_slimecave" "Caverna de Slime"
+				"#biome_snow" "Neve"
+				"#biome_snowvillage" "Vilarejo de Neve"
+				"#biome_spidercastle" "Castelo Aracnídeo"
+				"#biome_sunarena" "Arena Solar"
+				"#biome_surface" "{%biome%} Superfície"
+				"#biome_swamp" "Pântano"
+				"#biome_temple" "Templos"
+				"#biome_trial" "Provação"
+				"#biome_trialroom" "Sala da Provação"
+				"#biome_unknown" "Desconhecido"
+				"#richpresence_atmainmenu" "No menu principal"
+				"#richpresence_hostingfriends" "Hospedando mundo de amigo - {%location%}"
+				"#richpresence_hostinginvite" "Hospedando mundo com convite - {%location%}"
+				"#richpresence_hostingopen" "Hospedando mundo aberto - {%location%}"
+				"#richpresence_playingonserver" "Jogando em um servidor - {%location%}"
+				"#richpresence_playingwithfriends" "Jogando com amigos - {%location%}"
+				"#richpresence_unknownlocation" "Localização desconhecida"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#biome_cave" "Cueva del bioma de {%biome%}"
+				"#biome_crystalhollow" "Foso de cristal"
+				"#biome_deepcave" "Cueva profunda del bioma de {%biome%}"
+				"#biome_desert" "Desierto"
+				"#biome_desertvillage" "Aldea del desierto"
+				"#biome_dungeon" "Mazmorra"
+				"#biome_extraction" "Extracción"
+				"#biome_forest" "Bosque"
+				"#biome_forestvillage" "Aldea del bosque"
+				"#biome_graveyard" "Cementerio"
+				"#biome_hunt" "Cacería"
+				"#biome_incursionextraction" "Extracción en {%incursion%}"
+				"#biome_incursionhunt" "Cacería en {%incursion%}"
+				"#biome_incursiontrial" "Prueba en {%incursion%}"
+				"#biome_moonarena" "Arena Lunar"
+				"#biome_piratevillage" "Aldea pirata"
+				"#biome_plains" "Llanuras"
+				"#biome_slimecave" "Cueva de slime"
+				"#biome_snow" "Tundra"
+				"#biome_snowvillage" "Aldea de la tundra"
+				"#biome_spidercastle" "Castillo Arácnido"
+				"#biome_sunarena" "Arena Solar"
+				"#biome_surface" "Superficie del bioma de {%biome%}"
+				"#biome_swamp" "Pantano"
+				"#biome_temple" "Templo"
+				"#biome_trial" "Prueba"
+				"#biome_trialroom" "Sala de pruebas"
+				"#biome_unknown" "Desconocido"
+				"#richpresence_atmainmenu" "En el menú principal"
+				"#richpresence_hostingfriends" "Anfitrión en el mundo de un amigo - {%location%}"
+				"#richpresence_hostinginvite" "Anfitrión en un mundo invitado - {%location%}"
+				"#richpresence_hostingopen" "Anfitrión en un mundo abierto - {%location%}"
+				"#richpresence_playingonserver" "Jugando en un servidor - {%location%}"
+				"#richpresence_playingsingleplayer" "Un jugador - {%location%}"
+				"#richpresence_playingwithfriends" "Jugando con amigos - {%location%}"
+				"#richpresence_unknownlocation" "Ubicación desconocida"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Höhle"
+				"#biome_deepcave" "{%biome%} tiefe Höhle"
+				"#biome_desert" "Wüste"
+				"#biome_desertvillage" "Wüstendorf"
+				"#biome_dungeon" "Verlieseingang"
+				"#biome_forest" "Wald"
+				"#biome_forestvillage" "Walddorf"
+				"#biome_graveyard" "Friedhof"
+				"#biome_incursionextraction" "{%incursion%} Extraktion"
+				"#biome_incursionhunt" "{%incursion%} Jagd"
+				"#biome_piratevillage" "Piratendorf"
+				"#biome_plains" "Ebenen"
+				"#biome_slimecave" "Schleimhöhle"
+				"#biome_snow" "Schnee"
+				"#biome_snowvillage" "Schneedorf"
+				"#biome_spidercastle" "Spinnenburg"
+				"#biome_surface" "{%biome%} Oberfläche"
+				"#biome_swamp" "Sumpf"
+				"#biome_trialroom" "Prüfungsraum"
+				"#biome_unknown" "Unbekannt"
+				"#richpresence_atmainmenu" "Im Hauptmenü"
+				"#richpresence_hostingfriends" "Welt für Freunde hosten - {%location%}"
+				"#richpresence_hostinginvite" "Welt mit Einladung hosten - {%location%}"
+				"#richpresence_hostingopen" "Open-World hosten - {%location%}"
+				"#richpresence_playingonserver" "Auf einem Server spielen - {%location%}"
+				"#richpresence_playingsingleplayer" "Einzelspieler - {%location%}"
+				"#richpresence_playingwithfriends" "Mit Freunden spielen - {%location%}"
+				"#richpresence_unknownlocation" "Unbekannter Ort"
+			}
+		}
+		"czech"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Jeskyně"
+				"#biome_deepcave" "{%biome%} Hlubinná jeskyně"
+				"#biome_desert" "Poušť"
+				"#biome_desertvillage" "Pouštní vesnice"
+				"#biome_forest" "Příroda"
+				"#biome_forestvillage" "Lesní vesnice"
+				"#biome_graveyard" "Hřbitov"
+				"#biome_incursionextraction" "{%incursion%} Extrakce"
+				"#biome_incursionhunt" "{%incursion%} Lov"
+				"#biome_piratevillage" "Pirátská vesnice"
+				"#biome_plains" "Pláně"
+				"#biome_slimecave" "Slime jeskyně"
+				"#biome_snow" "Sníh"
+				"#biome_snowvillage" "Sněhová vesnice"
+				"#biome_spidercastle" "Pavoučí hrad"
+				"#biome_surface" "{%biome%} Povrch"
+				"#biome_swamp" "Bažina"
+				"#biome_temple" "Chrám"
+				"#biome_trialroom" "Zkušební místnost"
+				"#biome_unknown" "Neznámý"
+				"#richpresence_atmainmenu" "Na hlavním menu"
+				"#richpresence_hostingfriends" "Přátelé ve světě - {%location%}"
+				"#richpresence_hostinginvite" "Pozvánka do světa - {%location%}"
+				"#richpresence_hostingopen" "Veřejný svět - {%location%}"
+				"#richpresence_playingonserver" "Hra na serveru - {%location%}"
+				"#richpresence_playingsingleplayer" "Hra pro jednoho hráče - {%location%}"
+				"#richpresence_playingwithfriends" "Hra s přáteli - {%location%}"
+				"#richpresence_unknownlocation" "Neznámá lokace"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} 地下"
+				"#biome_crystalhollow" "クリスタルの窪地"
+				"#biome_deepcave" "{%biome%} 地下深部"
+				"#biome_desert" "砂漠"
+				"#biome_desertvillage" "砂漠の集落"
+				"#biome_dungeon" "ダンジョンの玄関"
+				"#biome_extraction" "採取"
+				"#biome_forest" "森"
+				"#biome_forestvillage" "森の集落"
+				"#biome_graveyard" "地下墓地"
+				"#biome_hunt" "狩り"
+				"#biome_incursionextraction" "{%incursion%} 採取"
+				"#biome_incursionhunt" "{%incursion%} 狩り"
+				"#biome_incursiontrial" "{%incursion%} 試練"
+				"#biome_moonarena" "月の闘技場"
+				"#biome_piratevillage" "海賊の基地"
+				"#biome_plains" "平地"
+				"#biome_slimecave" "スライムの地下空洞"
+				"#biome_snow" "雪原"
+				"#biome_snowvillage" "雪原の集落"
+				"#biome_spidercastle" "蜘蛛巣城"
+				"#biome_sunarena" "太陽の闘技場"
+				"#biome_surface" "{%biome%} 地上"
+				"#biome_swamp" "沼地"
+				"#biome_temple" "神殿"
+				"#biome_trial" "試練"
+				"#biome_trialroom" "修練場"
+				"#biome_unknown" "未知の場所"
+				"#richpresence_atmainmenu" "メインメニューの場合"
+				"#richpresence_hostingfriends" "フレンドのワールドをホスト中 - {%location%}"
+				"#richpresence_hostinginvite" "招待用のワールドをホスト中 - {%location%}"
+				"#richpresence_hostingopen" "公開ワールドをホスト中 - {%location%}"
+				"#richpresence_playingonserver" "サーバーでプレイ中 - {%location%}"
+				"#richpresence_playingsingleplayer" "シングルプレイヤー - {%location%}"
+				"#richpresence_playingwithfriends" "フレンドと一緒にプレイ中 - {%location%}"
+				"#richpresence_unknownlocation" "不明な場所"
+			}
+		}
+		"swedish"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Öken"
+				"#biome_desertvillage" "Ökenby"
+				"#biome_dungeon" "Dungeonentré"
+				"#biome_forest" "Skog"
+				"#biome_forestvillage" "Skogsby"
+				"#biome_piratevillage" "Piratby"
+				"#biome_plains" "Slätt"
+				"#biome_snow" "Snö"
+				"#biome_snowvillage" "Snöby"
+				"#biome_swamp" "Träsk"
+				"#biome_temple" "Tempel"
+				"#biome_unknown" "Okänd"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#biome_deepcave" "{%biome%} Abîme"
+				"#biome_desert" "Désert"
+				"#biome_desertvillage" "Village du désert"
+				"#biome_dungeon" "Entrée du donjon"
+				"#biome_forest" "Forêt"
+				"#biome_forestvillage" "Village de la forêt"
+				"#biome_graveyard" "Cimetière"
+				"#biome_hunt" "Chasse"
+				"#biome_incursionhunt" "{%incursion%} Chasse"
+				"#biome_incursiontrial" "{%incursion%} Essai"
+				"#biome_moonarena" "Arène Lunaire"
+				"#biome_piratevillage" "Village des Pirates"
+				"#biome_plains" "Plaines"
+				"#biome_slimecave" "Grotte de slime"
+				"#biome_snow" "Neige"
+				"#biome_snowvillage" "Village des neiges"
+				"#biome_spidercastle" "Château des araignées"
+				"#biome_sunarena" "Arène Solaire"
+				"#biome_swamp" "Marais"
+				"#biome_trial" "Essai"
+				"#biome_trialroom" "Salle d\'épreuve"
+				"#biome_unknown" "Inconnu"
+				"#richpresence_atmainmenu" "Au Menu Principal"
+				"#richpresence_hostingfriends" "Héberger un monde privé (amis uniquement) - {%location%}"
+				"#richpresence_hostinginvite" "Héberger un monde privé (sur invitation) - {%location%}"
+				"#richpresence_hostingopen" "Héberger un monde publique - {%location%}"
+				"#richpresence_playingonserver" "Jouer sur un serveur - {%location%}"
+				"#richpresence_playingsingleplayer" "Solo - {%location%}"
+				"#richpresence_playingwithfriends" "Jouer avec des amis - {%location%}"
+				"#richpresence_unknownlocation" "Localisation inconnu"
+			}
+		}
+		"hungarian"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Sivatag"
+				"#biome_desertvillage" "Sivatagi falu"
+				"#biome_dungeon" "Katakomba"
+				"#biome_forest" "Erdő"
+				"#biome_forestvillage" "Erdei falu"
+				"#biome_piratevillage" "Kalózfalu"
+				"#biome_plains" "Síkság"
+				"#biome_snow" "Hó"
+				"#biome_snowvillage" "Havas falu"
+				"#biome_swamp" "Mocsár"
+				"#biome_temple" "Templom"
+				"#biome_trialroom" "Próba terem"
+				"#biome_unknown" "Ismeretlen"
+			}
+		}
+		"turkish"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Çöl"
+				"#biome_desertvillage" "Çöl Köyü"
+				"#biome_dungeon" "Zindan Girişi"
+				"#biome_forest" "Orman"
+				"#biome_forestvillage" "Orman Köyü"
+				"#biome_graveyard" "Mezarlık"
+				"#biome_piratevillage" "Korsan Köyü"
+				"#biome_plains" "Ova"
+				"#biome_slimecave" "Balçık Mağarası"
+				"#biome_snow" "Kar"
+				"#biome_snowvillage" "Kar Köyü"
+				"#biome_spidercastle" "Örümcek Şatosu"
+				"#biome_swamp" "Bataklık"
+				"#biome_temple" "Tapınak"
+				"#biome_trialroom" "Deneme Odası"
+				"#biome_unknown" "Bilinmeyen"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Deserto"
+				"#biome_desertvillage" "Villaggio del deserto"
+				"#biome_dungeon" "Ingresso della prigione"
+				"#biome_forest" "Foresta"
+				"#biome_forestvillage" "Villaggio forestale"
+				"#biome_piratevillage" "Villaggio dei pirati"
+				"#biome_plains" "Pianure"
+				"#biome_snow" "La neve"
+				"#biome_snowvillage" "Villaggio della neve"
+				"#biome_swamp" "Palude"
+				"#biome_temple" "Tempio"
+				"#biome_unknown" "Sconosciuto"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} 동굴"
+				"#biome_crystalhollow" "크리스털 지대"
+				"#biome_deepcave" "{%biome%} 심층 동굴"
+				"#biome_desert" "사막"
+				"#biome_desertvillage" "사막 마을"
+				"#biome_dungeon" "던전 입구"
+				"#biome_extraction" "수집"
+				"#biome_forest" "숲"
+				"#biome_forestvillage" "숲 마을"
+				"#biome_graveyard" "공동묘지"
+				"#biome_hunt" "사냥"
+				"#biome_incursionextraction" "{%incursion%} / 수집"
+				"#biome_incursionhunt" "{%incursion%} / 사냥"
+				"#biome_incursiontrial" "{%incursion%} / 시련"
+				"#biome_moonarena" "달의 아레나"
+				"#biome_piratevillage" "해적 마을"
+				"#biome_plains" "평원"
+				"#biome_slimecave" "슬라임 동굴"
+				"#biome_snow" "설원"
+				"#biome_snowvillage" "설원 마을"
+				"#biome_spidercastle" "거미 왕국"
+				"#biome_sunarena" "태양의 아레나"
+				"#biome_surface" "{%biome%} 지상"
+				"#biome_swamp" "늪지대"
+				"#biome_temple" "사원"
+				"#biome_trial" "시련"
+				"#biome_trialroom" "시험의 방"
+				"#biome_unknown" "알 수 없음"
+				"#richpresence_atmainmenu" "메인 메뉴에서"
+				"#richpresence_hostingfriends" "친구 월드를 호스팅 - {%location%}"
+				"#richpresence_hostinginvite" "월드에 초대하여 호스팅 - {%location%}"
+				"#richpresence_hostingopen" "월드를 열어 호스팅 - {%location%}"
+				"#richpresence_playingonserver" "서버에서 플레이하기 - {%location%}"
+				"#richpresence_playingsingleplayer" "싱글 플레이어 - {%location%}"
+				"#richpresence_playingwithfriends" "친구와 같이 플레이하기 - {%location%}"
+				"#richpresence_unknownlocation" "알 수 없는 위치"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Jaskinia"
+				"#biome_crystalhollow" "Kryształowa Jama"
+				"#biome_deepcave" "{%biome%} Głębiny"
+				"#biome_desert" "Pustynia"
+				"#biome_desertvillage" "Pustynna Wioska"
+				"#biome_dungeon" "Wejście do Lochu"
+				"#biome_extraction" "Wydobycie"
+				"#biome_forest" "Las"
+				"#biome_forestvillage" "Osada Leśna"
+				"#biome_graveyard" "Cmentarzysko"
+				"#biome_hunt" "Polowanie"
+				"#biome_incursionextraction" "{%incursion%} Wydobycie"
+				"#biome_incursionhunt" "{%incursion%} Polowanie"
+				"#biome_incursiontrial" "{%incursion%} Próba"
+				"#biome_moonarena" "Księżycowa Arena"
+				"#biome_piratevillage" "Osada Piracka"
+				"#biome_plains" "Równiny"
+				"#biome_slimecave" "Śluzowa Jaskinia"
+				"#biome_snow" "Śnieżne Krainy"
+				"#biome_snowvillage" "Śnieżna Wioska"
+				"#biome_spidercastle" "Pajęczy Zamek"
+				"#biome_sunarena" "Słoneczna Arena"
+				"#biome_surface" "{%biome%} Powierzchnia"
+				"#biome_swamp" "Bagno"
+				"#biome_temple" "Świątynia"
+				"#biome_trial" "Próba"
+				"#biome_trialroom" "Pokój Próby"
+				"#biome_unknown" "Nieznany"
+				"#richpresence_atmainmenu" "W Menu Głównym"
+				"#richpresence_hostingfriends" "Hostuje świat ze znajomymi - {%location%}"
+				"#richpresence_hostinginvite" "Hostuje świat z zaproszeniami - {%location%}"
+				"#richpresence_hostingopen" "Hostuje otwarty świat - {%location%}"
+				"#richpresence_playingonserver" "Gra na serwerze - {%location%}"
+				"#richpresence_playingsingleplayer" "Gra jednoosobowa - {%location%}"
+				"#richpresence_playingwithfriends" "Gra ze znajomymi - {%location%}"
+				"#richpresence_unknownlocation" "Nieznana Lokacja"
+			}
+		}
+		"ukrainian"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Пустеля"
+				"#biome_desertvillage" "Пустельне містечко"
+				"#biome_dungeon" "Підземелля"
+				"#biome_forest" "Ліс"
+				"#biome_forestvillage" "Лісове містечко"
+				"#biome_graveyard" "Кладовище"
+				"#biome_piratevillage" "Піратське містечко"
+				"#biome_plains" "Рівнини"
+				"#biome_slimecave" "Слизові печери"
+				"#biome_snow" "Засніжений ліс"
+				"#biome_snowvillage" "Засніжене містечко"
+				"#biome_swamp" "Болото"
+				"#biome_temple" "Храм"
+				"#biome_trialroom" "Кімната випробувань"
+				"#biome_unknown" "Невідомо"
+			}
+		}
+		"thai"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} ถ้ำ"
+				"#biome_crystalhollow" "หลุมลึกคริสตัล"
+				"#biome_deepcave" "{%biome%} ถ้ำลึก"
+				"#biome_desert" "ทะเลทราบ"
+				"#biome_desertvillage" "หมู่บ้านทะเลทราย"
+				"#biome_dungeon" "ทางเข้าดันเจี้ยน"
+				"#biome_extraction" "สกัด"
+				"#biome_forest" "ป่า"
+				"#biome_forestvillage" "หมู่บ้านในป่า"
+				"#biome_graveyard" "สุสาน"
+				"#biome_hunt" "ล่า"
+				"#biome_incursionextraction" "{%incursion%} ภารกิจสกัดกั้น"
+				"#biome_incursionhunt" "{%incursion%} วันแห่งการล่า"
+				"#biome_incursiontrial" "{%incursion%} ทดลองภาคปฎิบัติ"
+				"#biome_moonarena" "อารีน่าดวงจันทร์"
+				"#biome_piratevillage" "หมู่บ้านโจรสลัด"
+				"#biome_plains" "ที่ราบ"
+				"#biome_slimecave" "ถ้ำสไลม์"
+				"#biome_snow" "หิมะ"
+				"#biome_snowvillage" "หมู่บ้านหิมะ"
+				"#biome_spidercastle" "ปราสาทแมงมุม"
+				"#biome_sunarena" "อารีน่าแสงตะวัน"
+				"#biome_surface" "{%biome%} พื้นผิวโลก"
+				"#biome_swamp" "ป่าชายเลน"
+				"#biome_temple" "วิหาร"
+				"#biome_trial" "ทดลอง"
+				"#biome_trialroom" "ห้องแห่งการทดสอบ"
+				"#biome_unknown" "ไม่ทราย"
+				"#richpresence_atmainmenu" "อยู่ที่ เมนูหลัก"
+				"#richpresence_hostingfriends" "โฮสติ้งโลก เพื่อน - {%location%}"
+				"#richpresence_hostinginvite" "โฮสติ้งโลก เชิญ - {%location%}"
+				"#richpresence_hostingopen" "โฮสติ้งโลก เปิด - {%location%}"
+				"#richpresence_playingonserver" "กำลังเล่นที่เซิฟเวอร์ - {%location%}"
+				"#richpresence_playingsingleplayer" "เล่นคนเดียว - {%location%}"
+				"#richpresence_playingwithfriends" "กำลังเล่นกับเพื่อน - {%location%}"
+				"#richpresence_unknownlocation" "ไม่ทราบ"
+			}
+		}
+		"indonesian"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Padang Pasir"
+				"#biome_desertvillage" "Desa Padang Pasir"
+				"#biome_forest" "Hutan"
+				"#biome_forestvillage" "Desa Hutan"
+				"#biome_piratevillage" "Desa Bajak Laut"
+				"#biome_snow" "Salju"
+				"#biome_snowvillage" "Desa Salju"
+				"#biome_swamp" "Rawa"
+				"#biome_temple" "Kuil"
+			}
+		}
+		"finnish"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Aavikko"
+				"#biome_desertvillage" "Aavikkokylä"
+				"#biome_dungeon" "Tyrmän sisäänkäynti"
+				"#biome_forest" "Metsä"
+				"#biome_forestvillage" "Metsäkylä"
+				"#biome_graveyard" "Hautausmaa"
+				"#biome_piratevillage" "Merirosvokylä"
+				"#biome_plains" "Tasanko"
+				"#biome_slimecave" "Limaluola"
+				"#biome_snow" "Taiga"
+				"#biome_snowvillage" "Taigakylä"
+				"#biome_swamp" "Suo"
+				"#biome_temple" "Temppeli"
+				"#biome_trialroom" "Koettelukammio"
+				"#biome_unknown" "Tuntematon"
+			}
+		}
+		"dutch"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Grot"
+				"#biome_deepcave" "{%biome%} Diepe Grot"
+				"#biome_desert" "Woestijn"
+				"#biome_desertvillage" "Woestijndorp"
+				"#biome_dungeon" "Dungeon Ingang"
+				"#biome_extraction" "Extractie"
+				"#biome_forest" "Bos"
+				"#biome_forestvillage" "Bosdorp"
+				"#biome_graveyard" "Begraafplaats"
+				"#biome_hunt" "Jacht"
+				"#biome_incursionhunt" "{%incursion%} Jacht"
+				"#biome_incursiontrial" "{%incursion%} Proef"
+				"#biome_moonarena" "Maan Arena"
+				"#biome_piratevillage" "Piratendorp"
+				"#biome_plains" "Vlaktes"
+				"#biome_slimecave" "Slijmgrot"
+				"#biome_snow" "Sneeuw"
+				"#biome_snowvillage" "Sneeuwdorp"
+				"#biome_spidercastle" "Spinnenkasteel"
+				"#biome_sunarena" "Zon Arena"
+				"#biome_surface" "{%biome%} Oppervlakte"
+				"#biome_swamp" "Moeras"
+				"#biome_temple" "Tempel"
+				"#biome_trial" "Proef"
+				"#biome_trialroom" "Proefkamer"
+				"#biome_unknown" "Onbekend"
+				"#richpresence_atmainmenu" "Bij het Hoofdmenu"
+				"#richpresence_unknownlocation" "Onbekende locatie"
+			}
+		}
+		"vietnamese"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Sa mạc"
+				"#biome_desertvillage" "Làng sa mạc"
+				"#biome_dungeon" "Cổng vào Ngục Tối"
+				"#biome_forest" "Rừng rậm"
+				"#biome_forestvillage" "Làng rừng rậm"
+				"#biome_piratevillage" "Làng hải tặc"
+				"#biome_plains" "Đồng bằng"
+				"#biome_snow" "Tuyết"
+				"#biome_snowvillage" "Làng tuyết"
+				"#biome_swamp" "Đầm lầy"
+				"#biome_temple" "Đền"
+				"#biome_unknown" "Không rõ"
+			}
+		}
+		"norwegian"
+		{
+			"tokens"
+			{
+				"#biome_desert" "Ørken"
+				"#biome_desertvillage" "Ørkenlandsby"
+				"#biome_dungeon" "Fangehullsinngang"
+				"#biome_forest" "Skog"
+				"#biome_forestvillage" "Skogslandsby"
+				"#biome_graveyard" "Gravgård"
+				"#biome_piratevillage" "Pirat Landsby"
+				"#biome_plains" "Slette"
+				"#biome_slimecave" "Slim Hule"
+				"#biome_snow" "Snø"
+				"#biome_snowvillage" "Snølandsby"
+				"#biome_swamp" "Sump"
+				"#biome_temple" "Tempel"
+				"#biome_trialroom" "Prøverom"
+				"#biome_unknown" "Ukjent"
+			}
+		}
+		"danish"
+		{
+			"tokens"
+			{
+				"#biome_cave" "{%biome%} Hule"
+				"#biome_deepcave" "{%biome%} Dyb hule"
+				"#biome_desert" "Ørken"
+				"#biome_desertvillage" "Ørkenlandsby"
+				"#biome_dungeon" "Hule"
+				"#biome_forest" "Skov"
+				"#biome_forestvillage" "Skovlandsby"
+				"#biome_graveyard" "Kirkegård"
+				"#biome_incursionextraction" "{%incursion%} Ekstraktion"
+				"#biome_incursionhunt" "{%incursion%} Jagt"
+				"#biome_piratevillage" "Piratlandsby"
+				"#biome_plains" "Sletter"
+				"#biome_slimecave" "Slimhule"
+				"#biome_snow" "Sne"
+				"#biome_snowvillage" "Snelandsby"
+				"#biome_spidercastle" "Edderkoppeborg"
+				"#biome_surface" "{%biome%} Overflade"
+				"#biome_swamp" "Sump"
+				"#biome_temple" "Tempel"
+				"#biome_trialroom" "Prøveværelse"
+				"#biome_unknown" "Ukendt"
+				"#richpresence_atmainmenu" "I hovedmenu"
+				"#richpresence_hostingfriends" "Er vært for venneverden - {%location%}"
+				"#richpresence_hostinginvite" "Er vært for invitationsverden - {%location%}"
+				"#richpresence_hostingopen" "Er vært for åben verden - {%location%}"
+				"#richpresence_playingonserver" "Spiller på en server - {%location%}"
+				"#richpresence_playingwithfriends" "Spiller med venner - {%location%}"
+				"#richpresence_unknownlocation" "Ukendt lokation"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24021885"
+"_sha" "c4cfe69ad2824074de9553e913eeea5b86c1a7ce"
+"_size" "54865"
