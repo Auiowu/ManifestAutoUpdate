@@ -1,0 +1,367 @@
+"appid" "1201230"
+"common"
+{
+	"name" "Immortal Life"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "2d46303f07c386b07a12f403df6e34a4b487f133"
+	"logo_small" "2d46303f07c386b07a12f403df6e34a4b487f133_thumb"
+	"icon" "cbc2c69607068097f5ce1a37bb5c6601fb52856d"
+	"clienttga" "922fbfea93f0ddb31284950aadeb74a08ea0a600"
+	"clienticon" "9f15aac65400087a8d9bcb895c99bc8933bcec86"
+	"name_localized"
+	{
+		"english" "Immortal Life"
+		"japanese" "仙郷物語"
+		"schinese" "一方灵田"
+		"tchinese" "一方靈田"
+		"sc_schinese" "一方灵田"
+	}
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704499200"
+		"tested_build_id" "12848594"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "一方灵田"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,ja,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.31085458243325"
+			"height_pct" "65.27777777777777"
+		}
+	}
+	"store_asset_mtime" "1705713874"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "YiFang Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2P Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "2P Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1705543196"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1201230"
+	"store_tags"
+	{
+		"0" "22602"
+		"1" "1702"
+		"2" "87918"
+		"3" "10235"
+		"4" "122"
+		"5" "15564"
+		"6" "5981"
+		"7" "4231"
+		"8" "1654"
+		"9" "3920"
+		"10" "599"
+		"11" "1742"
+		"12" "21"
+		"13" "4695"
+		"14" "19"
+		"15" "4252"
+		"16" "5984"
+		"17" "4182"
+		"18" "4474"
+		"19" "1643"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "YiFang Studio"
+	"publisher" "2P Games"
+}
+"config"
+{
+	"installdir" "ImmortalLife"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ImmortalLife.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1201231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6488006768216587797"
+				"size" "6355359316"
+				"download" "2701109504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"0.4.44demo"
+			{
+				"gid" "81896B985B555FC42A4B8CF3219A0BB1"
+				"size" "CB7345963980604E3E6EEFEC39B6FFD2"
+				"download" "2E246BB45F285DFBAEDBFFD2C7E196B4"
+			}
+			"console"
+			{
+				"gid" "889A309F013880CA057697D2521154F9"
+				"size" "8DEB592AD7AB4ACFF381734B0CC8011E"
+				"download" "E802768BF8A615DCF8A96A738CED8378"
+			}
+			"deck"
+			{
+				"gid" "CCA4CB1F56AC5238DDD3D2F82292307E"
+				"size" "A835A9D210FFA5019DECFFFEB1CACC1C"
+				"download" "05903CB759BD5B1BF93308FAE3F121F7"
+			}
+			"alpha"
+			{
+				"gid" "FE566BA48134A8291129B9FD0314F84A"
+				"size" "9276A2F7785490FA57ED84D369054BF3"
+				"download" "DB42A849AD0995B382EF792DD1685AC2"
+			}
+			"test"
+			{
+				"gid" "86E296527115E0DFD2B59B572D78C714"
+				"size" "625DE3444249D6BCF3B42F2A9FDBF9AF"
+				"download" "0737A39168C95DD8E7E85FD1000CA360"
+			}
+			"test2"
+			{
+				"gid" "C5A7B99CBBC52EE028465771CD32E5A8"
+				"size" "3B2F54195E4C6C210F78A6740C544A00"
+				"download" "B01848512D05CC40A81FDF558EBBF130"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14449858"
+			"timeupdated" "1716379351"
+		}
+		"0.4.44demo"
+		{
+			"buildid" "8956924"
+			"pwdrequired" "1"
+			"timeupdated" "1655470291"
+		}
+		"console"
+		{
+			"buildid" "9069902"
+			"pwdrequired" "1"
+			"timeupdated" "1657099328"
+		}
+		"deck"
+		{
+			"buildid" "13713142"
+			"pwdrequired" "1"
+			"timeupdated" "1710241851"
+		}
+		"alpha"
+		{
+			"buildid" "14517116"
+			"pwdrequired" "1"
+			"timeupdated" "1717037157"
+		}
+		"test"
+		{
+			"buildid" "14517116"
+			"pwdrequired" "1"
+			"timeupdated" "1717037144"
+		}
+		"test2"
+		{
+			"buildid" "14517116"
+			"pwdrequired" "1"
+			"timeupdated" "1716888291"
+			"sc_schinese" "test2"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "099df709a2e1c9d355be0eec91e5a92ddf2341c1"
+"_size" "7174"
