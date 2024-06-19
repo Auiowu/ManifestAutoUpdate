@@ -1,0 +1,270 @@
+"appid" "2670630"
+"common"
+{
+	"name" "Supermarket Simulator"
+	"type" "Game"
+	"icon" "b76ce5e747870bed95bf994f95103a3dd143d4da"
+	"clienticon" "65b340d6d247a9f8b5a4940b0ffde10a6f7e6f69"
+	"clienttga" "7647837177f52a688cc628b28876e67d187d6587"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1710288000"
+		"tested_build_id" "13569906"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.87580496780129"
+			"height_pct" "51.388888888888886"
+		}
+	}
+	"store_asset_mtime" "1708874875"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nokta Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Nokta Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708452890"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2670630"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4695"
+		"2" "12472"
+		"3" "4182"
+		"4" "3859"
+		"5" "9204"
+		"6" "4202"
+		"7" "3839"
+		"8" "10235"
+		"9" "1643"
+		"10" "4845"
+		"11" "3810"
+		"12" "4191"
+		"13" "8945"
+		"14" "597"
+		"15" "4175"
+		"16" "6276"
+		"17" "492"
+		"18" "493"
+		"19" "1644"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Nokta Games"
+	"publisher" "Nokta Games"
+}
+"config"
+{
+	"installdir" "Supermarket Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Supermarket Simulator.exe"
+		}
+	}
+}
+"depots"
+{
+	"2670631"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9060777053187218649"
+				"size" "4582493343"
+				"download" "1366451984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C9E1872A3CDC1DABF49D7ACF447253FB"
+				"size" "60AD043CFB1C08A94E2EEE03CD51649A"
+				"download" "C4A2CA3B7EE2B034670192ACBEEBA481"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13912503"
+			"timeupdated" "1711973254"
+		}
+		"beta"
+		{
+			"buildid" "13907770"
+			"pwdrequired" "1"
+			"timeupdated" "1711906511"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "400000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "\\Nokta Games\\Supermarket Simulator"
+			"pattern" "*.es3"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23933091"
+"_sha" "0a55684f23da1894695ce02007c51a77306ec170"
+"_size" "4577"
