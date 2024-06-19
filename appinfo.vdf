@@ -1,0 +1,561 @@
+"appid" "1623730"
+"common"
+{
+	"name" "Palworld"
+	"type" "Game"
+	"logo" "85efe96d002acd22778d9ba8b3d5706acf0a1a6e"
+	"logo_small" "85efe96d002acd22778d9ba8b3d5706acf0a1a6e_thumb"
+	"icon" "f5523077a8f4c923c2e8d8c17794b3319035fa73"
+	"clienticon" "22a20bdaa6d782f60caa45eb7b02fc2411dcd988"
+	"clienttga" "2032a63848f1ab00b518b7e984bd533c1ce0cf07"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "Palworld / パルワールド"
+		"schinese" "Palworld / 幻兽帕鲁"
+		"tchinese" "Palworld / 幻獸帕魯"
+		"koreana" "Palworld / 팰월드"
+	}
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1623730_eula_0"
+			"name" "Palworld EULA"
+			"url" "https://store.steampowered.com//eula/1623730_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1716940800"
+		"tested_build_id" "14092662"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "60.804567880524445"
+			"height_pct" "96.24501290776814"
+		}
+	}
+	"store_asset_mtime" "1707904284"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pocketpair"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pocketpair"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1705651169"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1623730"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "3859"
+		"2" "1662"
+		"3" "916648"
+		"4" "1100689"
+		"5" "1702"
+		"6" "1685"
+		"7" "21"
+		"8" "3810"
+		"9" "3814"
+		"10" "255534"
+		"11" "19"
+		"12" "493"
+		"13" "122"
+		"14" "4085"
+		"15" "6730"
+		"16" "4191"
+		"17" "492"
+		"18" "353880"
+		"19" "1646"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Pocketpair"
+	"publisher" "Pocketpair"
+	"homepage" "https://www.pocketpair.jp/palworld"
+}
+"config"
+{
+	"installdir" "Palworld"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Palworld.exe"
+			"type" "default"
+			"config"
+			{
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play Palworld"
+				"japanese" "パルワールド / Palworldをプレイ"
+			}
+			"description" "Play Palworld"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "3"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1623731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2874546306810319156"
+				"size" "20857424076"
+				"download" "16853309120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "BB049BD30D86A55C9831220C2D225C34"
+				"size" "B96F40FE32733830F39ABE167F1A88C3"
+				"download" "63A9CD88D5A82259A478D82D81AF0503"
+			}
+			"v0.3_for_influencer"
+			{
+				"gid" "C9609321A2D947FD9AEBE92E5D360903"
+				"size" "3039B48257EFE5F89A18943C96AB8A7F"
+				"download" "ADDFA85DD95F0E802D8219091F6D3B44"
+			}
+			"microsoft"
+			{
+				"gid" "77BCE3D514F1D77F6D50FFCD7C68B6F8"
+				"size" "83674E00D00E52E8015B78FDFF4550C8"
+				"download" "31F73F723743D65632BA60668A747196"
+			}
+			"external_shipping"
+			{
+				"gid" "5D9682EF5873AB7A2E267E5EFC8532FE"
+				"size" "7422B1C4D7495F57DD8CB6E768069E15"
+				"download" "5B5E3A249CF8A2C18184EAD3ECB946E0"
+			}
+			"main_development"
+			{
+				"gid" "7747A348B8CDC0EE6356ED3102FDAF22"
+				"size" "25B2143866B161E1EF8ED71F0BADA145"
+				"download" "199925D14A17475E02BDA23F02716CB3"
+			}
+			"main_shipping"
+			{
+				"gid" "4A77CE9EAB1383A2A28EEAE1CADCADBD"
+				"size" "A03CC904DE433547CD5BA98C41BB8C6D"
+				"download" "C17EC89A0E3BF429FAF865F4A8F27BCE"
+			}
+			"master_development"
+			{
+				"gid" "BAB08A07D56B4CBBDE83FA101400F2BE"
+				"size" "94151B630700205D42AB5FFDA5ADDB19"
+				"download" "5807EB60FACC8CEABC7E94F3B056C775"
+			}
+			"master_shipping"
+			{
+				"gid" "6320A1FB43C6588F5879A8D37777FAC8"
+				"size" "E47EBBA85D01F893335DBE3F7DD7EBFD"
+				"download" "DD68E0F6CF086A8C306928C75E44853A"
+			}
+			"network_development"
+			{
+				"gid" "E23DBABBE903C62B5F4AA0A9B02551B6"
+				"size" "DE5266EF3B020EC6CEC310EDE8F1C913"
+				"download" "38202599D83EA0806B432CC6967AE364"
+			}
+			"network_shipping"
+			{
+				"gid" "1A875FE9F5D122093F9C96CEDD077FD5"
+				"size" "A36AF4949AD90BA462125DBF73572288"
+				"download" "7D01A6B4793AFFC33F76C3B057BC2F7B"
+			}
+			"network2_development"
+			{
+				"gid" "5B678AD07BB9B0F20075307B21DC8E0B"
+				"size" "3EBD04A182E7A96DBBEDAA263D394F87"
+				"download" "CAC9526CCD3FBEDE253CD51564459EA6"
+			}
+			"private_development"
+			{
+				"gid" "4BF89519098697F34FDF0729A291A4B8"
+				"size" "5642F757FFCA4CC3572F655CEE347361"
+				"download" "739CEC8CA75870CC0749FC58ED42FF3E"
+			}
+			"private_shipping"
+			{
+				"gid" "454051B04A83344B706059D415455696"
+				"size" "1A3BEF7396FF9336706E5E7D9BFD3884"
+				"download" "D736029257F9CB5C61B5C82EE6A2C4DB"
+			}
+			"qa_development"
+			{
+				"gid" "69534D4AEE722FF97717AC6D53DF1177"
+				"size" "46EAE845A022229D795BFA51AC411D1D"
+				"download" "BA3C2F66B7CAA8D072F6EE911C9E6E6F"
+			}
+			"qa_shipping"
+			{
+				"gid" "1D09D1050D93FCAD0AF0D72CDA27111D"
+				"size" "A1877F840B0D5F3AF5E7B81F0F647EDC"
+				"download" "1A909290E64B5C574AD794D400D7B8B5"
+			}
+			"v0.1.5"
+			{
+				"gid" "3E576E347BA0E76848B74ED02A4A6385"
+				"size" "F84303D642BC9DFEBC4B44AB584C8573"
+				"download" "87D582891D9F3E45DB5BF51F9C89627B"
+			}
+			"v0.1.5_development"
+			{
+				"gid" "7FB3F66EB6D1B242C4EBF0F803D41289"
+				"size" "C142B82345AD4E1CA3AF8AD8D95AC862"
+				"download" "1B7C0B1829D9B8AEE107D56B94FD84C0"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14326303"
+			"timeupdated" "1715659007"
+		}
+		"experimental"
+		{
+			"buildid" "14743914"
+			"pwdrequired" "1"
+			"timeupdated" "1718766791"
+		}
+		"v0.3_for_influencer"
+		{
+			"buildid" "14743914"
+			"pwdrequired" "1"
+			"timeupdated" "1718780251"
+		}
+		"microsoft"
+		{
+			"buildid" "13908495"
+			"pwdrequired" "1"
+			"timeupdated" "1711945133"
+		}
+		"external_shipping"
+		{
+			"buildid" "14177342"
+			"pwdrequired" "1"
+			"timeupdated" "1714104625"
+		}
+		"main_development"
+		{
+			"buildid" "14767990"
+			"pwdrequired" "1"
+			"timeupdated" "1718799977"
+		}
+		"main_shipping"
+		{
+			"buildid" "14768021"
+			"pwdrequired" "1"
+			"timeupdated" "1718800138"
+		}
+		"master_development"
+		{
+			"buildid" "13197643"
+			"pwdrequired" "1"
+			"timeupdated" "1716799699"
+		}
+		"master_shipping"
+		{
+			"buildid" "13146942"
+			"pwdrequired" "1"
+			"timeupdated" "1704980470"
+		}
+		"network_development"
+		{
+			"buildid" "14311158"
+			"pwdrequired" "1"
+			"timeupdated" "1715227521"
+		}
+		"network_shipping"
+		{
+			"buildid" "13162981"
+			"pwdrequired" "1"
+			"timeupdated" "1705119048"
+		}
+		"network2_development"
+		{
+			"buildid" "14752665"
+			"pwdrequired" "1"
+			"timeupdated" "1718702290"
+		}
+		"private_development"
+		{
+			"buildid" "14744423"
+			"pwdrequired" "1"
+			"timeupdated" "1718640853"
+		}
+		"private_shipping"
+		{
+			"buildid" "14743914"
+			"pwdrequired" "1"
+			"timeupdated" "1718637947"
+		}
+		"qa_development"
+		{
+			"buildid" "14326076"
+			"pwdrequired" "1"
+			"timeupdated" "1718267279"
+		}
+		"qa_shipping"
+		{
+			"buildid" "14326303"
+			"pwdrequired" "1"
+			"timeupdated" "1716793789"
+		}
+		"v0.1.5"
+		{
+			"buildid" "13585486"
+			"pwdrequired" "1"
+			"timeupdated" "1712821027"
+		}
+		"v0.1.5_development"
+		{
+			"buildid" "13585557"
+			"pwdrequired" "1"
+			"timeupdated" "1712820996"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Pal/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24033603"
+"_sha" "a4f275e1b2ca199f867eeb7b45607a6fc89d40cc"
+"_size" "11541"
