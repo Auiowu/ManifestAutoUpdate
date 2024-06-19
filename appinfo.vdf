@@ -1,0 +1,346 @@
+"appid" "1401590"
+"common"
+{
+	"name" "Disney Dreamlight Valley"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "01281ed300d1b356ec613e89b371f18f17327b23"
+	"clienttga" "d4a8b9ba442ffe4168c0f899647484212c1c9260"
+	"clienticon" "cab412e267f6448337d5fc0bc2d099ca906ab552"
+	"name_localized"
+	{
+		"schinese" "迪士尼梦幻星谷"
+		"tchinese" "迪士尼夢光谷"
+		"japanese" "ディズニー ドリームライトバレー"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1401590_eula_0"
+			"name" "Disney Dreamlight Valley EULA"
+			"url" "https://store.steampowered.com//eula/1401590_eula_0"
+			"version" "3"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1669680000"
+		"tested_build_id" "9963574"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.92585600274609"
+			"height_pct" "68.02982928309461"
+		}
+	}
+	"store_asset_mtime" "1708619271"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gameloft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gameloft"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1701785117"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1401590"
+	"store_tags"
+	{
+		"0" "1654"
+		"1" "10235"
+		"2" "21"
+		"3" "4747"
+		"4" "3834"
+		"5" "599"
+		"6" "4182"
+		"7" "3810"
+		"8" "1684"
+		"9" "597"
+		"10" "9204"
+		"11" "1742"
+		"12" "3920"
+		"13" "5350"
+		"14" "87918"
+		"15" "15564"
+		"16" "1702"
+		"17" "4057"
+		"18" "4191"
+		"19" "4486"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Gameloft"
+	"publisher" "Gameloft"
+	"homepage" "http://www.disneydreamlightvalley.com/"
+	"listofdlc" "2061640,2061641,2632050,2632060"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Disney Dreamlight Valley"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ddv.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1401591"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "116908901216927411"
+				"size" "13213973678"
+				"download" "11160591408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "E3A3BBCBDA9798FA07FE8A416B267160"
+				"size" "CD727CE95CA0C393B4984CA1D7F8DC48"
+				"download" "2FA184CDDF24130A77F1751DE41D83BE"
+			}
+			"latest-qa-build"
+			{
+				"gid" "17E27657BA8871F8DFFF5F28711931CC"
+				"size" "A46695B542F291926A0972444165C586"
+				"download" "ADA35E694671B98D94A974D2EBBCE352"
+			}
+			"qa-certification-branch"
+			{
+				"gid" "333F5251BF0EDE4329F452FB7EADA6EC"
+				"size" "68B0E89A2DE7E1F7FB31FC41AE50572D"
+				"download" "96E1ACA7C73B4DBD393627451EB2A4E1"
+			}
+			"qa-compat-branch"
+			{
+				"gid" "385E07A344C048D34952F9023981AA47"
+				"size" "FFBCBC0B4E106699F06FF6C9C956D7E0"
+				"download" "95DC24FB96FE5084D67E1E17563033DA"
+			}
+			"testing"
+			{
+				"gid" "FCC648AFC10BC119EAD5411772A7BCEB"
+				"size" "D3339A1DCD51DAD5749A73530F710FD5"
+				"download" "A327C3B32DD9E7857C0E490F84533269"
+			}
+		}
+	}
+	"2086000"
+	{
+		"dlcappid" "2086000"
+	}
+	"1401592"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14284253"
+			"timeupdated" "1715608918"
+		}
+		"develop"
+		{
+			"buildid" "14764233"
+			"pwdrequired" "1"
+			"timeupdated" "1718777620"
+		}
+		"latest-qa-build"
+		{
+			"buildid" "14451024"
+			"pwdrequired" "1"
+			"timeupdated" "1716359392"
+		}
+		"qa-certification-branch"
+		{
+			"buildid" "14712480"
+			"pwdrequired" "1"
+			"timeupdated" "1718325704"
+		}
+		"qa-compat-branch"
+		{
+			"buildid" "14256179"
+			"pwdrequired" "1"
+			"timeupdated" "1714744127"
+		}
+		"testing"
+		{
+			"buildid" "14669444"
+			"pwdrequired" "1"
+			"timeupdated" "1718053026"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24028915"
+"_sha" "c55f0581a6f9e3b18a4396a234213ff7e3b1fe80"
+"_size" "6395"
