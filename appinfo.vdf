@@ -1,0 +1,502 @@
+"appid" "1054490"
+"common"
+{
+	"name" "Wingspan"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "11b54fc54ae3bc924381263d30b837f3713e348e"
+	"logo_small" "11b54fc54ae3bc924381263d30b837f3713e348e_thumb"
+	"icon" "f772edbe6cf20601bbf0d54ffb5fd7bddea3f10d"
+	"clienticon" "6784453259142f10205be38a78004e854fc2fa08"
+	"clienttga" "180c06bbc142966d12cd8b2dfcf7ca0deb2cf7df"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"polish" " WINGSPAN (NA SKRZYDŁACH)"
+		"german" "WINGSPAN (FLÜGELSCHLAG)"
+		"french" "WINGSPAN (À TIRE D\'AILES)"
+		"spanish" "WINGSPAN"
+		"english" "Wingspan"
+		"brazilian" "WINGSPAN"
+		"japanese" "WINGSPAN (ウイングスパン)"
+		"russian" "WINGSPAN (КРЫЛЬЯ)"
+		"schinese" "WINGSPAN (展翅翱翔)"
+		"czech" "WINGSPAN (NA KŘÍDLECH)"
+		"hungarian" "WINGSPAN (FESZTÁV)"
+		"italian" " WINGSPAN"
+		"koreana" "WINGSPAN (윙스팬)"
+		"ukrainian" "Wingspan (Крила)"
+	}
+	"clienticns" "bd8ccee5c1c759c3f6b1fe93a1eef1473eee0cc6"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1651104000"
+		"tested_build_id" "0"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wingspan"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"czech" "capsule_231x87_czech.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"hungarian" "capsule_231x87_hungarian.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"thai" "capsule_231x87_thai.jpg"
+		"ukrainian" "capsule_231x87_ukrainian.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+		"schinese" "header_schinese.jpg"
+		"czech" "header_czech.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"hungarian" "header_hungarian.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"russian" "header_russian.jpg"
+		"thai" "header_thai.jpg"
+		"ukrainian" "header_ukrainian.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,cs,fr,de,hu,ja,ko,pl,ru,uk"
+		"library_hero" "en,zh-cn,cs,uk"
+		"library_logo" "en,zh-cn,cs,fr,de,hu,ja,ko,pl,ru,uk"
+		"library_header" "uk,en,zh-cn,cs,de,fr,hu,pl,ko,ru,ja,th,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708522892"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Monster Couch"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Monster Couch"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Stonemaier Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "indienova"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Monster Couch"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_49" "1"
+		"category_25" "1"
+		"category_32" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1600357940"
+	"metacritic_score" "84"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wingspan\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1054490"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "1770"
+		"2" "1666"
+		"3" "1654"
+		"4" "9"
+		"5" "552282"
+		"6" "597"
+		"7" "30358"
+		"8" "1741"
+		"9" "4726"
+		"10" "17389"
+		"11" "1775"
+		"12" "4182"
+		"13" "8945"
+		"14" "4695"
+		"15" "7368"
+		"16" "3871"
+		"17" "1685"
+		"18" "3841"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Monster Couch"
+	"publisher" "Monster Couch"
+	"homepage" "https://www.monstercouch.com/wingspan/"
+	"listofdlc" "1741470,1816700,1962870,2924770"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wingspan"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wingspan.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Wingspan.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertemplateindex" "4"
+	"uselaunchcommandline" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2339263977"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1054491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1327803082559703411"
+				"size" "1741878217"
+				"download" "1352709504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"archive"
+			{
+				"gid" "5DCCD434EBC9B2DE916FFE1FB5542031"
+				"size" "0F1C9BD11BD2F6C0CACEA163662AEEE9"
+				"download" "AB39E277B248AC9CD446F2329166F3EE"
+			}
+			"frogmouth"
+			{
+				"gid" "20DCEEBE1B5FC68342121CE9522A7278"
+				"size" "5E05FA551AF18D546764E00CA592B0ED"
+				"download" "C72DAEE6A9DAFCED5628BC4EC05F51B4"
+			}
+			"media_preview"
+			{
+				"gid" "E1EB723CAC9262360C07A34FE2C81376"
+				"size" "9EDC8CF409994771C2370AB7BD75B59A"
+				"download" "9E4B57C8687D7FD4E87D56D943D5F822"
+			}
+			"develop"
+			{
+				"gid" "2CC6AB9E51BF3F49CF8A9E71594B62F9"
+				"size" "497A0538730A5D262008DD718F2FE465"
+				"download" "2ABD66BDA71A898EE8E8675F3D2FF7EF"
+			}
+			"main"
+			{
+				"gid" "0150DB21C92CEBEA1E7CB29F0E5966FE"
+				"size" "EF5D000FB135D7A553F4AAB0CD9A295F"
+				"download" "F2060A2D4AE90C919198D3193B71D6AE"
+			}
+			"prototyping"
+			{
+				"gid" "A970F1C78C64E9E4B82D3432F2609231"
+				"size" "70758E433DAC8D79296C07DFF7A6840E"
+				"download" "DF527AB9CAACDD0B781691EDDB6518CA"
+			}
+		}
+	}
+	"1054492"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2133071904782164213"
+				"size" "1863362343"
+				"download" "1380064704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"archive"
+			{
+				"gid" "EE065994529D83B9E25A7A2170905EF6"
+				"size" "067951212CC3B68BA80B66B3B0607B47"
+				"download" "8255E2AC46D37E1E5DB07983612BC92D"
+			}
+			"frogmouth"
+			{
+				"gid" "412465B63F13690BC1EBEB23D775F838"
+				"size" "A8D01378269D3E299466D39A27CF1A88"
+				"download" "7842CEA352476CCA43993B8C2CD9623B"
+			}
+			"media_preview"
+			{
+				"gid" "CBD3D21D90738B554580533A0151C285"
+				"size" "D606EB3F31BA4BA98AC68F59425BB51C"
+				"download" "9767AD6A29CD58ADF2710C26D988F2B8"
+			}
+			"develop"
+			{
+				"gid" "B76700B81E735DE261885B37C371931C"
+				"size" "4FC407E80292BB8E217040371F18A268"
+				"download" "592C6E260A388DC8469C9C315999848C"
+			}
+			"main"
+			{
+				"gid" "42193BE8E78330F37A0EE55A917200F7"
+				"size" "FBC1C2383AB3A7D243731CCFE0D3D25F"
+				"download" "0B7E6D3AC5C5169FC77D20343B5F19DA"
+			}
+			"prototyping"
+			{
+				"gid" "4128576C29E948D037CB00D0577DFBEF"
+				"size" "CC9754EFCE038923C5AD3A3E6DD28068"
+				"download" "823C93779BD174C659C5B4A6E38B2F91"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14390379"
+			"timeupdated" "1716191932"
+		}
+		"archive"
+		{
+			"buildid" "13532262"
+			"pwdrequired" "1"
+			"timeupdated" "1711704718"
+		}
+		"frogmouth"
+		{
+			"buildid" "12425301"
+			"pwdrequired" "1"
+			"timeupdated" "1697123940"
+		}
+		"media_preview"
+		{
+			"buildid" "13432002"
+			"pwdrequired" "1"
+			"timeupdated" "1707748490"
+		}
+		"develop"
+		{
+			"buildid" "14753795"
+			"pwdrequired" "1"
+			"timeupdated" "1718708426"
+		}
+		"main"
+		{
+			"buildid" "14517542"
+			"pwdrequired" "1"
+			"timeupdated" "1716890418"
+		}
+		"prototyping"
+		{
+			"buildid" "14752291"
+			"pwdrequired" "1"
+			"timeupdated" "1718699840"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "5000"
+}
+"_missing_token" "False"
+"_change_number" "24015816"
+"_sha" "88c203d550ec3322ba028762bd66a64a31d232f3"
+"_size" "10464"
