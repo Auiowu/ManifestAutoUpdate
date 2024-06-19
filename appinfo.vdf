@@ -1,0 +1,237 @@
+"appid" "1963720"
+"common"
+{
+	"name" "Core Keeper Dedicated Server"
+	"type" "Tool"
+	"parent" "1621690"
+	"icon" "5ac0dd5629c376aac018bce19309de956750f60a"
+	"clienttga" "06b1a17e606075f789d5be82da4f2f1383ce8c0b"
+	"clienticon" "61ad6cf2936a000a8f004cef2d4b790e76407538"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1963720"
+}
+"config"
+{
+	"installdir" "Core Keeper Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "launch.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "README.txt"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "_readme.sh"
+			"type" "manual"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1963721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1249893867347148829"
+				"size" "357469410"
+				"download" "107963664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "3A0CD84EF981E81D0EB0380A26BA2F68"
+				"size" "1327BC5E517AFD851E28FD175A775951"
+				"download" "C8D3EDAB40318035A7AD164456514D50"
+			}
+			"testing"
+			{
+				"gid" "45A910FC533424425802AFCC4F67D730"
+				"size" "CD8F720E113DFBF31601877C6658A2D2"
+				"download" "45AC0C00513A7A9ED08C7A100FA59063"
+			}
+			"testing2"
+			{
+				"gid" "B31925D13CDA6A82B8AADBAC4301A391"
+				"size" "ABC0EE0EB0017BED2672311E3B781DF2"
+				"download" "3073769BB479EF4CDEE3F3C2ED85F30C"
+			}
+			"trailer"
+			{
+				"gid" "14398FDFD3A158A212701BAABBC207D2"
+				"size" "1644AFD1DEF2F732BFA8FF6042637D9B"
+				"download" "D09F7C56C6649070F26C9D4B9557275B"
+			}
+		}
+	}
+	"1963722"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1155473003232940142"
+				"size" "399059330"
+				"download" "107503008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "E59078565387B9724EE2A7DEDB2125A8"
+				"size" "5C3D9F51935287755EFB154DED95D257"
+				"download" "19CDE476FECD4E905609A46A683B1906"
+			}
+			"testing"
+			{
+				"gid" "BA1D97A6D46A9E969B40723DC5145223"
+				"size" "C38F6449F7E4534FB13A7A2B3CD60B1D"
+				"download" "9AEE25DA6C6F726FC1EFE3029C8ED771"
+			}
+			"testing2"
+			{
+				"gid" "257CE4FB018866CFAD034AC55A5437F1"
+				"size" "9BB1D71E1E69942B04FBFDF2D284BE17"
+				"download" "F5DB2C5E46175DC95B98882C23CFE2CB"
+			}
+			"trailer"
+			{
+				"gid" "DF5A32899F2DB472EE762D676C8E3D3F"
+				"size" "56D015A76C397F144B3BC65A81706FF3"
+				"download" "A64F80ECE3DAB193EF87C996862D71B5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14614498"
+			"timeupdated" "1717602596"
+		}
+		"developer"
+		{
+			"buildid" "14659027"
+			"pwdrequired" "1"
+			"timeupdated" "1718001698"
+		}
+		"testing"
+		{
+			"buildid" "14748052"
+			"pwdrequired" "1"
+			"timeupdated" "1718693478"
+		}
+		"testing2"
+		{
+			"buildid" "14751887"
+			"pwdrequired" "1"
+			"timeupdated" "1718698084"
+		}
+		"trailer"
+		{
+			"buildid" "14374097"
+			"pwdrequired" "1"
+			"timeupdated" "1715772124"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24013563"
+"_sha" "9de3e7e6e1fba2863685751a75ac30f8e695193b"
+"_size" "4051"
