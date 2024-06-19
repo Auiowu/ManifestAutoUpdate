@@ -1,0 +1,260 @@
+"appid" "2015620"
+"common"
+{
+	"name" "Valkyrie of Phantasm"
+	"type" "Game"
+	"name_localized"
+	{
+		"japanese" "幻想のヴァルキューレ"
+		"schinese" "幻想女武神"
+	}
+	"icon" "6040d96878d9d103d6332102282ba8c1bf2d8963"
+	"clienttga" "5151c59e18a496be00490b16b3e58ce73e31313e"
+	"clienticon" "8349980f9b44ac503ce5473fe7a0285c0914ee85"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1670889600"
+		"tested_build_id" "9792075"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "ja,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "ja,zh-cn,en"
+		"library_header" "ja,zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "62.83547257876313"
+			"height_pct" "52.65970078366183"
+		}
+	}
+	"store_asset_mtime" "1715742247"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "AREAZERO"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PLAYISM"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PLAYISM"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_18" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666478754"
+	"community_hub_visible" "1"
+	"gameid" "2015620"
+	"store_tags"
+	{
+		"0" "180368"
+		"1" "6506"
+		"2" "3955"
+		"3" "3814"
+		"4" "19"
+		"5" "1775"
+		"6" "4085"
+		"7" "7208"
+		"8" "3859"
+		"9" "4182"
+		"10" "4726"
+		"11" "4191"
+		"12" "492"
+		"13" "493"
+		"14" "1684"
+		"15" "1685"
+		"16" "15045"
+		"17" "1774"
+		"18" "4434"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "AREAZERO"
+	"publisher" "PLAYISM"
+	"homepage" "https://areazero-campaign.com/vop"
+}
+"config"
+{
+	"installdir" "Valkyrie of Phantasm"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VOP.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2015621"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4894462155448975432"
+				"size" "2009357529"
+				"download" "1540952912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"older"
+			{
+				"gid" "E7FF7EFA465ECFB5F13506A02DC0A299"
+				"size" "A36A262257C5652E7A33B0B9AEE89268"
+				"download" "1AEEE13452ED442DDA219C76CED2D33C"
+			}
+			"beta"
+			{
+				"gid" "B788D7E38BBA27D62D41B810E8B6D603"
+				"size" "E1159D56C0323F1342204BCFAEC5E03E"
+				"download" "418DF27729C35BCE0C4344EC9BC30F6E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14646168"
+			"timeupdated" "1718076050"
+		}
+		"older"
+		{
+			"buildid" "11880714"
+			"pwdrequired" "1"
+			"timeupdated" "1705039998"
+		}
+		"beta"
+		{
+			"buildid" "14646168"
+			"pwdrequired" "1"
+			"timeupdated" "1717983849"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23916649"
+"_sha" "a77a80673c504107fb303974726f7e30e928048c"
+"_size" "4939"
