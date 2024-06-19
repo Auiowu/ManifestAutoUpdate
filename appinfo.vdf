@@ -1,0 +1,611 @@
+"appid" "1331550"
+"common"
+{
+	"name" "Big Ambitions"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"logo" "bee631995a0ffb11c1111cf3176508679fce4140"
+	"logo_small" "bee631995a0ffb11c1111cf3176508679fce4140_thumb"
+	"icon" "3f1e9ad783368a79dca8bf77fa405c627c10cf9f"
+	"clienticon" "fa84f33ca3546147c61246e23678869532f76268"
+	"clienttga" "73ff47c557bb5b8fba69e85908a537ade8d93686"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1680134400"
+		"tested_build_id" "10771170"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "54.53488372093021"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1699963048"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hovgaard Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hovgaard Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1678471239"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1331550"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "4695"
+		"2" "599"
+		"3" "4845"
+		"4" "10235"
+		"5" "3810"
+		"6" "4182"
+		"7" "16689"
+		"8" "9204"
+		"9" "6276"
+		"10" "8945"
+		"11" "4191"
+		"12" "4791"
+		"13" "1697"
+		"14" "122"
+		"15" "1695"
+		"16" "5673"
+		"17" "4252"
+		"18" "4474"
+		"19" "5851"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Hovgaard Games"
+	"publisher" "Hovgaard Games"
+	"homepage" "https://www.bigambitionsgame.com"
+}
+"config"
+{
+	"installdir" "Big Ambitions"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Big Ambitions.exe"
+			"arguments" "-useSteam"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Big Ambitions.app"
+			"arguments" "-useSteam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1331551"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5171101552167564390"
+				"size" "6405911414"
+				"download" "2073100304"
+			}
+			"ea-01"
+			{
+				"gid" "4129820706453058596"
+				"size" "8062732063"
+				"download" "2376132848"
+			}
+			"ea-02"
+			{
+				"gid" "5273303649786047501"
+				"size" "8406471777"
+				"download" "2498815456"
+			}
+			"ea-03"
+			{
+				"gid" "2980038894593897199"
+				"size" "9494288795"
+				"download" "2810604752"
+			}
+			"ea-04"
+			{
+				"gid" "8370029071978908504"
+				"size" "5179839419"
+				"download" "1580323216"
+			}
+			"macos"
+			{
+				"gid" "7795804594347860038"
+				"size" "6623783951"
+				"download" "2154368496"
+			}
+			"macos-boot-test"
+			{
+				"gid" "3449360086022003541"
+				"size" "6407366214"
+				"download" "2073336912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-master"
+			{
+				"gid" "3D9C8765160514EF87A7E365F3CEA5B8"
+				"size" "1A1E3293C79156B1C601ECA07F15411F"
+				"download" "D197FFBD0D40829AFAAC373BE2EF505B"
+			}
+			"testers"
+			{
+				"gid" "2F47C61024408D0360F4013AABDFD475"
+				"size" "F2C0C274F0145E2D10B9208792A7A503"
+				"download" "27FEC0E1982532A05C26F548115B076E"
+			}
+			"unstable"
+			{
+				"gid" "77F0457FF31A66A70D1CD4BCE02FAB9C"
+				"size" "EDC80124D73BBDE30BDAD42DEE2417DC"
+				"download" "EECD9EA57095EF17FC610FEF7BB1E318"
+			}
+		}
+	}
+	"1331552"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "117969230075386776"
+				"size" "5927580009"
+				"download" "1806708576"
+			}
+			"ea-01"
+			{
+				"gid" "2041938828473515245"
+				"size" "7644130795"
+				"download" "2158287888"
+			}
+			"ea-02"
+			{
+				"gid" "8577552826167300402"
+				"size" "7940309115"
+				"download" "2245127232"
+			}
+			"ea-03"
+			{
+				"gid" "286266066242240114"
+				"size" "9054746453"
+				"download" "2574092512"
+			}
+			"ea-04"
+			{
+				"gid" "989477718683203228"
+				"size" "5009692679"
+				"download" "1505016672"
+			}
+			"macos"
+			{
+				"gid" "1058676109198746298"
+				"size" "6041645570"
+				"download" "1829748144"
+			}
+			"macos-boot-test"
+			{
+				"gid" "2924447907129289815"
+				"size" "5927590853"
+				"download" "1806713184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-master"
+			{
+				"gid" "51827003D36587B29C33EC8A8F64FBAE"
+				"size" "3D40E60D6B6CE008F8A76CF86DA6E62C"
+				"download" "E5BD1A4FD4E231F776D5E085A95DE5BA"
+			}
+			"testers"
+			{
+				"gid" "A362357A9B92ADD6EE7F5C560CFEE0CD"
+				"size" "C5FF75938D30AA07C89943B811E10C2D"
+				"download" "9779C0D6DF3BD152ECAD00C79D3F6CE0"
+			}
+			"unstable"
+			{
+				"gid" "092B37FE8B5CDB790903FEDB35CD0728"
+				"size" "67F80240B8604DBD3A96A13717432729"
+				"download" "5F5EA5EB47E9D01E188FD54030E174C3"
+			}
+		}
+	}
+	"2254190"
+	{
+		"dlcappid" "2254190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-01"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-02"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-03"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-04"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"macos"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+			"macos-boot-test"
+			{
+				"gid" "131293730837976135"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-master"
+			{
+				"gid" "67C46A8B0E83740D584277A24F855CA4"
+				"size" "CC87E4C77758471E70785545072D87A9"
+				"download" "CC87E4C77758471E70785545072D87A9"
+			}
+			"testers"
+			{
+				"gid" "141FC454858202081D5C9D1999606DDD"
+				"size" "A15205941228E61FBE6721B81C230500"
+				"download" "A15205941228E61FBE6721B81C230500"
+			}
+			"unstable"
+			{
+				"gid" "4FA325CC5A7FC569808269C7B50F53DD"
+				"size" "9D6939F37C3FC8BD703BB8E2D9FAA22A"
+				"download" "9D6939F37C3FC8BD703BB8E2D9FAA22A"
+			}
+		}
+	}
+	"2254191"
+	{
+		"dlcappid" "2254191"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-01"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-02"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-03"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"ea-04"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"macos"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+			"macos-boot-test"
+			{
+				"gid" "4858057309773360011"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal-master"
+			{
+				"gid" "8A32D75B77F8EA8F7EBFD1F1557E4C91"
+				"size" "CC87E4C77758471E70785545072D87A9"
+				"download" "CC87E4C77758471E70785545072D87A9"
+			}
+			"testers"
+			{
+				"gid" "3E462FD0DC231D3AD2EA884CF9F3E93F"
+				"size" "A15205941228E61FBE6721B81C230500"
+				"download" "A15205941228E61FBE6721B81C230500"
+			}
+			"unstable"
+			{
+				"gid" "F51339FD537C966D4C69E43055EE7C7A"
+				"size" "9D6939F37C3FC8BD703BB8E2D9FAA22A"
+				"download" "9D6939F37C3FC8BD703BB8E2D9FAA22A"
+			}
+		}
+	}
+	"workshopdepot" "1331550"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14679089"
+			"timeupdated" "1718123380"
+		}
+		"ea-01"
+		{
+			"buildid" "11038881"
+			"description" "EA 0.1 (Old version)"
+			"timeupdated" "1685432860"
+		}
+		"ea-02"
+		{
+			"buildid" "11616475"
+			"description" "EA 0.2 (Old version)"
+			"timeupdated" "1693396988"
+		}
+		"ea-03"
+		{
+			"buildid" "12566959"
+			"description" "EA 0.3 (Old version)"
+			"timeupdated" "1702499994"
+		}
+		"ea-04"
+		{
+			"buildid" "13382788"
+			"description" "EA 0.4 (Old version)"
+			"timeupdated" "1711360056"
+		}
+		"internal-master"
+		{
+			"buildid" "14751523"
+			"pwdrequired" "1"
+			"timeupdated" "1718695273"
+		}
+		"macos"
+		{
+			"buildid" "14587766"
+			"description" "Rollback for MacOS users"
+			"timeupdated" "1717483293"
+		}
+		"macos-boot-test"
+		{
+			"buildid" "14751523"
+			"description" "Don\'t use this unless asked to :-)"
+			"timeupdated" "1718725535"
+		}
+		"testers"
+		{
+			"buildid" "14744069"
+			"pwdrequired" "1"
+			"timeupdated" "1718670938"
+		}
+		"unstable"
+		{
+			"buildid" "14762733"
+			"pwdrequired" "1"
+			"timeupdated" "1718764969"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5073741824"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Hovgaard Games/Big Ambitions/SaveGames"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Hovgaard Games/Big Ambitions/SaveGames"
+					"replace" ".config/unity3d/Hovgaard Games/Big Ambitions/SaveGames"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Hovgaard Games/Big Ambitions/SaveGames"
+					"replace" "com.Hovgaard-Games.Big-Ambitions/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24027116"
+"_sha" "7b2256368bfa7499bd8a594d68570e1da9be2642"
+"_size" "11283"
