@@ -1,0 +1,412 @@
+"appid" "2386310"
+"common"
+{
+	"name" "Ultros"
+	"type" "Game"
+	"icon" "83a0a66cab7390dbe612508143f274b5c9903454"
+	"clienticon" "61145d434e1703fc555f5fadf85daa029f5c1029"
+	"clienttga" "e18f51ed62bb48a474d2567e7fd0f07ad669c537"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "奥特罗斯 Ultros"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1706832000"
+		"tested_build_id" "13312373"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Ultros"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "42.60290768961289"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709127216"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hadoque"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kepler Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Ultros"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1707811197"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/ultros\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2386310"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "21"
+		"2" "1625"
+		"3" "3942"
+		"4" "5379"
+		"5" "7208"
+		"6" "19"
+		"7" "3834"
+		"8" "4182"
+		"9" "1714"
+		"10" "3871"
+		"11" "4305"
+		"12" "6815"
+		"13" "3959"
+		"14" "922563"
+		"15" "4252"
+		"16" "7948"
+		"17" "4166"
+		"18" "5716"
+		"19" "3993"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Hadoque"
+	"publisher" "Kepler Interactive"
+	"homepage" "http://www.ultrosgame.com"
+	"listofdlc" "2649730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ultros"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ultros.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Ultros.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"2386311"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "982178217177665512"
+				"size" "6307111444"
+				"download" "2872911488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"speedruntesting"
+			{
+				"gid" "D94D8F114FACB5DB22ADD99E2BC3126F"
+				"size" "31482C2C280FA966E6AD43D335C1595D"
+				"download" "6EE1693DA4A55BAA46A73A23164C0E0B"
+			}
+			"testenvironment"
+			{
+				"gid" "6990CFEAEACF7F7FDE0D607B8E3D07DE"
+				"size" "38D032E38D9C211EACEEACA93EA351F6"
+				"download" "992DFE9B3508C6906D608765C4A6D37C"
+			}
+			"testenvironment2"
+			{
+				"gid" "80E170DF5566962433471C40843BBB37"
+				"size" "119B722AC8452E35B1E670A94F58706A"
+				"download" "86E5BFD3E486005E110D5C6380194E75"
+			}
+		}
+	}
+	"2386312"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9112801394277014784"
+				"size" "5444116675"
+				"download" "1909685152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"speedruntesting"
+			{
+				"gid" "8C1A7CB9FBDAEF4D69D197F01F2A6FE8"
+				"size" "5F7C0B52FFAC62998CBEA6CC5560A2ED"
+				"download" "6FD3136764FD8CCB8D4737A642503654"
+			}
+			"testenvironment"
+			{
+				"gid" "937351300666EE71503B06FA9FA35B01"
+				"size" "A6399DBD639E9FAFF4C1ED35D1ABADBC"
+				"download" "8BBCE165F908BBE655012B4C38AC1929"
+			}
+			"testenvironment2"
+			{
+				"gid" "EB854092B78CFFCF2C039410D3329A1A"
+				"size" "4895F7757C1F1C581767BE71572EE592"
+				"download" "89A52A4B56E90DEBE47496622454CA1D"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13960204"
+			"timeupdated" "1712306079"
+		}
+		"speedruntesting"
+		{
+			"buildid" "13784996"
+			"pwdrequired" "1"
+			"timeupdated" "1710848478"
+		}
+		"testenvironment"
+		{
+			"buildid" "13960204"
+			"pwdrequired" "1"
+			"timeupdated" "1712305791"
+		}
+		"testenvironment2"
+		{
+			"buildid" "13934854"
+			"pwdrequired" "1"
+			"timeupdated" "1712142787"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "20"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Hadoque\\Ultros\\SaveGames"
+					"replace" "Hadoque/Ultros/SaveGames"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Hadoque\\Ultros\\SaveGames"
+					"replace" ".config/unity3d/Hadoque/Ultros/SaveGames"
+				}
+			}
+		}
+	}
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Hadoque\\Ultros\\SaveGames"
+			"pattern" "*.meta"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Hadoque\\Ultros\\SaveGames"
+			"pattern" "*.data"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23974086"
+"_sha" "f74687301b3173d2f84e1028bd1a5d5fe69beef5"
+"_size" "7462"
