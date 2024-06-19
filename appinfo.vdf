@@ -1,0 +1,500 @@
+"appid" "2394010"
+"common"
+{
+	"name" "Palworld Dedicated Server"
+	"type" "Tool"
+	"parent" "1623730"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "606e637a2f0610f3805893e917c0e22d1d043ba6"
+	"clienttga" "2032a63848f1ab00b518b7e984bd533c1ce0cf07"
+	"clienticon" "22a20bdaa6d782f60caa45eb7b02fc2411dcd988"
+	"linuxclienticon" "d26e2c064a36a71a1ae404a0fc9bef6c2182f611"
+	"associations"
+	{
+	}
+	"gameid" "2394010"
+}
+"extended"
+{
+	"gamedir" "Palworld"
+	"serverbrowsername" "Palworld"
+}
+"config"
+{
+	"installdir" "PalServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PalServer.exe"
+			"arguments" "-useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "PalServer.sh"
+			"arguments" "EpicApp=PalServer -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "PalServer.exe"
+			"arguments" "-publiclobby -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby"
+			"description_loc"
+			{
+				"english" "Open and start as a community server"
+			}
+			"description" "Open and start as a community server"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2394011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7114502318969142802"
+				"size" "2609461535"
+				"download" "1803996544"
+			}
+			"insiderprogram"
+			{
+				"gid" "7480388920093191396"
+				"size" "2609516823"
+				"download" "1803509104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "7DEDCFFFEF3E99E052A14669C10AB60C"
+				"size" "4C90C0A6C3DCC88412F99555300F03AC"
+				"download" "92083AC8088D9A01DFE9413379291585"
+			}
+			"v0.3_for_influencer"
+			{
+				"gid" "6EFAF2615FD1051E0EF3A31CC0D15AB9"
+				"size" "C3E247535C3551EC51E347AAA9AB62F5"
+				"download" "25191F549092B9184BD79F369AA0A7AF"
+			}
+			"insider_test"
+			{
+				"gid" "3BB9DA4ADE63C7DD441446DD2D1C6FD1"
+				"size" "35939BB679DCBB98AFEEE68323459E89"
+				"download" "9AAACB43AC8BC374D315EDC5E9801AF7"
+			}
+			"main_development"
+			{
+				"gid" "FA0C82073142C9482FB3239AE66D812B"
+				"size" "701793AB287B1DA74EA9A508AD0E0D94"
+				"download" "791749654CE0C0B3B3CD968B6AE09261"
+			}
+			"main_shipping"
+			{
+				"gid" "BEF71FE256948EB835498FB13FA1E46E"
+				"size" "39A7168A483FE859DF06BE317165C2AE"
+				"download" "3544FFDA1DC5D85B7A80065863977992"
+			}
+			"main_test"
+			{
+				"gid" "C768EFC5FC05C00D71FDF03ED491333C"
+				"size" "3262F2E1676E3C0D7E8A98B214B00FD6"
+				"download" "D40A9292781E4BB00BC99E5A5DB19DFC"
+			}
+			"network_development"
+			{
+				"gid" "2338407EB8ACAD99DA90CE5F4A0F86F3"
+				"size" "41D370410D056EAEED1A127F0F8823E3"
+				"download" "DBE5538D1DEA6D0C10EE0054614FBB57"
+			}
+			"network2_development"
+			{
+				"gid" "AD54173F6FB832883A705C1D56F59F5A"
+				"size" "D398DA85819C113EA1D9987023835EED"
+				"download" "09BF1E9290772351A71AC4198E007366"
+			}
+			"private_development"
+			{
+				"gid" "9665716650F8369B4EBCA0B0EAC22527"
+				"size" "99821B5A0FA97747710F315C64476317"
+				"download" "1EE971CCEC4904B1220D538F976702BD"
+			}
+			"private_shipping"
+			{
+				"gid" "AF2AD1DCB7AE15A4B5236FEF605B2850"
+				"size" "7CCB1C4316CC2C7CC5D65FF6D6E81F67"
+				"download" "2BB8F6524A1A1048F655939E02491CFC"
+			}
+			"private_test"
+			{
+				"gid" "11EC1B8959F74F766FD12E684C68D1BD"
+				"size" "B079BE7AAFFC112308CE80B82AF522CD"
+				"download" "97DCA02A0D066D91C809EAF9F9FCFCCD"
+			}
+			"qa_development"
+			{
+				"gid" "C26AB4F4CE73484299A5B7253FC7CEB4"
+				"size" "84D1083E3205961BD8D8D7E577693C6A"
+				"download" "1DDF3DC35E81839F440BC18F70E142B8"
+			}
+			"qa_shipping"
+			{
+				"gid" "033D16CA343480EA7D44B2CBC289290C"
+				"size" "079AA9281E1BB72E7F00B66A86832826"
+				"download" "ADAD9B559A51ADFA6385A2A319AE3B8A"
+			}
+			"qa_test"
+			{
+				"gid" "4FA6EEA7176D5497935E8DAC6DC8521D"
+				"size" "3D5A6671D63CF35AE677F4960666DD52"
+				"download" "BBD773C3CBB007BF410823A4A479812C"
+			}
+			"v0.1.5"
+			{
+				"gid" "BB01BF41545A6289CABDD57E1C69477D"
+				"size" "48720A2036E067E84366543A8853D47A"
+				"download" "D22FB5C937F31BC41983BE5AC6E6FF8D"
+			}
+			"v0.1.5_development"
+			{
+				"gid" "E0179C03BB8DE41890C7C1A6EBF7683E"
+				"size" "A9E0D4A035BD58B74F6626916C142D29"
+				"download" "18810ECB670A52BC6487E5600F517803"
+			}
+			"microsoft"
+			{
+				"gid" "5D4E8D32A916117EAEC3A9DBF5FF2560"
+				"size" "0976B38454B58CEEB66AA56304B3D00C"
+				"download" "BEC953C4812CBDEEE8C26CCB8F364EEA"
+			}
+		}
+	}
+	"2394012"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3872500952532478729"
+				"size" "2164121688"
+				"download" "1698746240"
+			}
+			"insiderprogram"
+			{
+				"gid" "7403994830391361008"
+				"size" "2164247019"
+				"download" "1698752752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "73EBF759A72059512F3712FEA454CC55"
+				"size" "C6C04B8FA1C2B0B268968A863831DE6B"
+				"download" "24785EDC9F38A0BCF8AF6493E0CE75AB"
+			}
+			"v0.3_for_influencer"
+			{
+				"gid" "3BE99D673697A4CF34FED8C25D63CAB8"
+				"size" "3382015A1BBF414D396BAC2DDBA6CF30"
+				"download" "B090EA99D6437F02C5C063FC5B8F1696"
+			}
+			"insider_test"
+			{
+				"gid" "2D0320F0364EB856F297A4C7F5CFB8E8"
+				"size" "97D3601E2F6BCF75AAF9FF6CE64943BC"
+				"download" "032EA621101256826D86465A2563CF2C"
+			}
+			"main_development"
+			{
+				"gid" "C5535E52D53D3A9CE49CA5E7F5B3E407"
+				"size" "8AF608AE68A9EC80DF5D4B4076DB2203"
+				"download" "CECCFE0151E93F65EA2E04B37A7C3D01"
+			}
+			"main_shipping"
+			{
+				"gid" "E3A4D00C57B82F94B25006AC9E36E9AC"
+				"size" "D99052EB063F6827261417E626F2ECA4"
+				"download" "83B6B49A9C568CB39557C6EA35B2401E"
+			}
+			"main_test"
+			{
+				"gid" "A1164225D9410EE66753E179975BEECC"
+				"size" "8C2E2765B3F15CD37703BC39C210DB3C"
+				"download" "E41B885E0E8F51BF6112F97AF94DFDD5"
+			}
+			"network_development"
+			{
+				"gid" "7FC8DBE18D6AEF152D693CC4670B7F1E"
+				"size" "2742B9E653410016DDFCBDD07CD2E7B3"
+				"download" "FF1F323C8F112AF996FC2390B8015C65"
+			}
+			"network2_development"
+			{
+				"gid" "B90F04B6BEADB4C768BCE2DC40A212B4"
+				"size" "378D5860C2FC7AA586E146CA9834B3E6"
+				"download" "8C8FBB2235428AF04119CDDF3D5D8049"
+			}
+			"private_development"
+			{
+				"gid" "3B01320CAABE3911FCDC4872F6C58E2E"
+				"size" "B87BF509D43A25CBEFE2D14D52954F7A"
+				"download" "2909315A37558F283F53818D89BF0E63"
+			}
+			"private_shipping"
+			{
+				"gid" "CA847F0A207FCB967CEDCDC1CFB717DF"
+				"size" "24B4335AC06D01E7F601747588060DF8"
+				"download" "2DCA094CE3A9F5A6D0B85C6D0F515010"
+			}
+			"private_test"
+			{
+				"gid" "FD73BBAD99FF0397336A21DEDC65B080"
+				"size" "013F58407DB520B5F50E008CEC825B4C"
+				"download" "BF36363AB8F6B2BCB384CD0E055635A5"
+			}
+			"qa_development"
+			{
+				"gid" "E9D5C9F16E8EB9AEB2FDD6987BDDE0B4"
+				"size" "47EDB1244A0982A8D7E3A2928C04F14E"
+				"download" "1D0D20512CBDCC0B180E4F3205F276BC"
+			}
+			"qa_shipping"
+			{
+				"gid" "769DA22CFB3656F1395B98B9213CF756"
+				"size" "C0C6B336AC4CAADB0612C0795B0B8BBE"
+				"download" "B183FB310834AD074B9A3E1D5DB21D7B"
+			}
+			"qa_test"
+			{
+				"gid" "8ED372EE2B84DB361561EBB6C5ED35AF"
+				"size" "103A73CA89295C0A46563FFD4AE9DA0C"
+				"download" "57C6D3EE16B08BB0688FEC9BBCE8F58E"
+			}
+			"v0.1.5"
+			{
+				"gid" "547675EE9133084F43A8F279A16723ED"
+				"size" "48B89FC33BC9DBC1B945BEABF48A1A35"
+				"download" "1C90437ED8FFE3B425D94AD0E27A64E7"
+			}
+			"v0.1.5_development"
+			{
+				"gid" "B64F42459FCC784E06A798734DD62505"
+				"size" "B149F3922FE1E6543DD0F215FCD87C72"
+				"download" "FD1F88517E2332D71CDAD4EC32375B98"
+			}
+			"microsoft"
+			{
+				"gid" "F8DFF6E3A763E1A4207F16B4FF779722"
+				"size" "4A2A1306C1BC55DCC7932F7072963E9A"
+				"download" "E29438E25D6B42E64317BF192509ED92"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14342103"
+			"timeupdated" "1715659149"
+		}
+		"experimental"
+		{
+			"buildid" "14744378"
+			"pwdrequired" "1"
+			"timeupdated" "1718766817"
+		}
+		"insiderprogram"
+		{
+			"buildid" "14478441"
+			"description" "Xbox Insider Program"
+			"timeupdated" "1716530926"
+		}
+		"v0.3_for_influencer"
+		{
+			"buildid" "14744378"
+			"pwdrequired" "1"
+			"timeupdated" "1718780276"
+		}
+		"insider_test"
+		{
+			"buildid" "14397876"
+			"pwdrequired" "1"
+			"timeupdated" "1715916412"
+		}
+		"main_development"
+		{
+			"buildid" "14767789"
+			"pwdrequired" "1"
+			"timeupdated" "1718799024"
+		}
+		"main_shipping"
+		{
+			"buildid" "14767811"
+			"pwdrequired" "1"
+			"timeupdated" "1718799123"
+		}
+		"main_test"
+		{
+			"buildid" "13837870"
+			"pwdrequired" "1"
+			"timeupdated" "1711310483"
+		}
+		"network_development"
+		{
+			"buildid" "14311397"
+			"pwdrequired" "1"
+			"timeupdated" "1715230085"
+		}
+		"network2_development"
+		{
+			"buildid" "14753004"
+			"pwdrequired" "1"
+			"timeupdated" "1718704378"
+		}
+		"private_development"
+		{
+			"buildid" "14743913"
+			"pwdrequired" "1"
+			"timeupdated" "1718637944"
+		}
+		"private_shipping"
+		{
+			"buildid" "14744378"
+			"pwdrequired" "1"
+			"timeupdated" "1718640624"
+		}
+		"private_test"
+		{
+			"buildid" "13819990"
+			"pwdrequired" "1"
+			"timeupdated" "1711097221"
+		}
+		"qa_development"
+		{
+			"buildid" "14326151"
+			"pwdrequired" "1"
+			"timeupdated" "1716794954"
+		}
+		"qa_shipping"
+		{
+			"buildid" "14342103"
+			"pwdrequired" "1"
+			"timeupdated" "1716794124"
+		}
+		"qa_test"
+		{
+			"buildid" "13585476"
+			"pwdrequired" "1"
+			"timeupdated" "1709607431"
+		}
+		"v0.1.5"
+		{
+			"buildid" "13585476"
+			"pwdrequired" "1"
+			"timeupdated" "1712824489"
+		}
+		"v0.1.5_development"
+		{
+			"buildid" "13585483"
+			"pwdrequired" "1"
+			"timeupdated" "1713420066"
+		}
+		"microsoft"
+		{
+			"buildid" "13908460"
+			"pwdrequired" "1"
+			"timeupdated" "1711945147"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24033358"
+"_sha" "6eb1171bd3e1e9c259feb6439ec97c4759b00aa5"
+"_size" "11145"
