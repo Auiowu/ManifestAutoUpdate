@@ -1,0 +1,340 @@
+"appid" "1614550"
+"common"
+{
+	"name" "Astro Colony"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "d30f7e35e4ae042a2238fd16d880cdde0b5cc367"
+	"clienttga" "a07f105c0539b7601b8290aff7a1f76cc53bd918"
+	"icon" "2bafb996ad4ef42197a4aa4a86995202c885629d"
+	"logo" "26bb30444dc785e44a5cbc60897896b71832524c"
+	"logo_small" "26bb30444dc785e44a5cbc60897896b71832524c_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1669161600"
+		"tested_build_id" "9984649"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "58.431364187692935"
+			"height_pct" "44.712179081242226"
+		}
+	}
+	"store_asset_mtime" "1715530829"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Terad Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Terad Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+		"5" "2"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_16" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1667840342"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1614550"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "1643"
+		"2" "493"
+		"3" "255534"
+		"4" "1755"
+		"5" "599"
+		"6" "8945"
+		"7" "9"
+		"8" "3859"
+		"9" "220585"
+		"10" "492"
+		"11" "19"
+		"12" "21"
+		"13" "597"
+		"14" "3810"
+		"15" "1695"
+		"16" "16598"
+		"17" "1702"
+		"18" "3839"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"gamedir" "AstroColony"
+	"serverbrowsername" "AstroColony"
+	"developer" "Terad Games"
+	"publisher" "Terad Games"
+	"homepage" "https://AstroColony.com"
+}
+"config"
+{
+	"installdir" "Astro Colony"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AstroColony.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1614550"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1614551"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7248933095851168516"
+				"size" "3486698280"
+				"download" "3328152800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"architectureupdate"
+			{
+				"gid" "EB0177E24C8E15EB17F62D1AE6D9DD68"
+				"size" "3699A6CC42D21AF2E3A25A515B6BABC7"
+				"download" "587A4A4AE41AC92379BCD1989E7B9C75"
+			}
+			"beta"
+			{
+				"gid" "223E44288D119483D662808DE8AE89B1"
+				"size" "1847EBA9B8D3FD49F034B32B861861A5"
+				"download" "90D9EE4027818154DEE17D4FC76B827F"
+			}
+			"mptest"
+			{
+				"gid" "1CFAB7B685947A8C8E05C436CE60962C"
+				"size" "F9F216F933A5745033E1023D6EAF7B78"
+				"download" "3D110974EB041367BE05C7BE036C315E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14761792"
+			"timeupdated" "1718757534"
+		}
+		"architectureupdate"
+		{
+			"buildid" "11397207"
+			"pwdrequired" "1"
+			"timeupdated" "1685980232"
+		}
+		"beta"
+		{
+			"buildid" "12469312"
+			"pwdrequired" "1"
+			"timeupdated" "1697614434"
+		}
+		"mptest"
+		{
+			"buildid" "14761792"
+			"pwdrequired" "1"
+			"timeupdated" "1718757385"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "AstroColony/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24025981"
+"_sha" "e91d7f726754b20d487b87e585ab584cef7ff2a4"
+"_size" "6078"
