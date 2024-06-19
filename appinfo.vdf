@@ -1,0 +1,373 @@
+"appid" "326880"
+"common"
+{
+	"name" "Space Engineers - Mod SDK"
+	"type" "Tool"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "326880"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SpaceEngineersModSDK"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OpenFolder.bat"
+			"arguments" "."
+			"type" "default"
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "Tools\\VRageEditor\\VisualScripting.bat"
+			"workingdir" "Tools\\VRageEditor\\"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Visual Scripting Editor"
+			}
+			"description" "Visual Scripting Editor"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"326881"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1190168759529086465"
+				"size" "14681705206"
+				"download" "2271689792"
+			}
+			"1.187"
+			{
+				"gid" "6929378604341603338"
+				"size" "4928721971"
+				"download" "611090544"
+			}
+			"1.188"
+			{
+				"gid" "6532262230190541448"
+				"size" "4931252505"
+				"download" "611356416"
+			}
+			"1.189"
+			{
+				"gid" "6415790214833651286"
+				"size" "3587425041"
+				"download" "576457456"
+			}
+			"1.190"
+			{
+				"gid" "3595788721218540170"
+				"size" "3616446233"
+				"download" "577561440"
+			}
+			"1.191"
+			{
+				"gid" "3242983489837100250"
+				"size" "3711449969"
+				"download" "582657760"
+			}
+			"1.192"
+			{
+				"gid" "9191239363327340423"
+				"size" "4103709991"
+				"download" "677343824"
+			}
+			"1.193"
+			{
+				"gid" "3683812197613439241"
+				"size" "4207537866"
+				"download" "688304416"
+			}
+			"1.194"
+			{
+				"gid" "1110411200374150917"
+				"size" "4500574341"
+				"download" "730036528"
+			}
+			"1.195"
+			{
+				"gid" "9210177283705844003"
+				"size" "4626974516"
+				"download" "750916208"
+			}
+			"1.196"
+			{
+				"gid" "6206200478626694933"
+				"size" "4721490442"
+				"download" "758687568"
+			}
+			"1.197"
+			{
+				"gid" "2782116712174131182"
+				"size" "4875693500"
+				"download" "774861200"
+			}
+			"1.198"
+			{
+				"gid" "6939445447499717616"
+				"size" "6880037574"
+				"download" "1327690768"
+			}
+			"1.199"
+			{
+				"gid" "8876101766576744590"
+				"size" "7291683899"
+				"download" "1435579216"
+			}
+			"1.200"
+			{
+				"gid" "3009997979148471335"
+				"size" "7948221269"
+				"download" "1585571424"
+			}
+			"1.201"
+			{
+				"gid" "4572001169146859977"
+				"size" "8199642012"
+				"download" "1572069248"
+			}
+			"1.202"
+			{
+				"gid" "250193964106508361"
+				"size" "10039249203"
+				"download" "1767448272"
+			}
+			"1.203.6"
+			{
+				"gid" "2503104295450083201"
+				"size" "13355554886"
+				"download" "2126052176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "221811FD2B8CD664C3208946E1CF9322"
+				"size" "6B9778282DCA7C3766E66F05B762E0F2"
+				"download" "9080226E437084D5F0BAEE9440557959"
+			}
+			"playtest"
+			{
+				"gid" "35C5C2D4E849F9C11392AF15505385A0"
+				"size" "16A26E142B803053C3960F90E1C0F960"
+				"download" "BDA0A7A2D70840B683FD0251427D2C7C"
+			}
+			"stableready"
+			{
+				"gid" "E71586A29308BD7E42AE67EBA1446350"
+				"size" "2D8AC41DAFD9DC073D7271242305663E"
+				"download" "11E737DCE04966BBF486549D3018AF90"
+			}
+			"steamctg"
+			{
+				"gid" "5B2839DE66E1311F9490C1781F241C31"
+				"size" "A584188F480BD39575D10275C281D5E7"
+				"download" "4CAD80C8A26D4B9A3FC87436E1ADAD73"
+			}
+			"test"
+			{
+				"gid" "F821088AADB81A92F9498E73386CD529"
+				"size" "398E9BDC2C16696282CD5CA0819EB985"
+				"download" "97A44EC662AFE183BC93ABBC2B97E845"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14455810"
+			"timeupdated" "1716476650"
+		}
+		"1.187"
+		{
+			"buildid" "3165393"
+			"timeupdated" "1540306337"
+		}
+		"1.188"
+		{
+			"buildid" "3398120"
+			"timeupdated" "1551349910"
+		}
+		"1.189"
+		{
+			"buildid" "3664477"
+			"description" "Major Overhaul of Survival, Ladders, Leaving Early Access"
+			"timeupdated" "1554741751"
+		}
+		"1.190"
+		{
+			"buildid" "3777958"
+			"description" "Customizable LCD Screens, Replay Tool & Decorative Pack!"
+			"timeupdated" "1559835747"
+		}
+		"1.191"
+		{
+			"buildid" "4026313"
+			"description" "Build Planner, Small Grid Cryo Pod and Style Pack!"
+			"timeupdated" "1566474190"
+		}
+		"1.192"
+		{
+			"buildid" "4253404"
+			"description" "Economy"
+			"timeupdated" "1571919583"
+		}
+		"1.193"
+		{
+			"buildid" "4521875"
+			"description" "6th Anniversary & Decorative Pack II"
+			"timeupdated" "1584640766"
+		}
+		"1.194"
+		{
+			"buildid" "4999960"
+			"description" "Frostbite"
+			"timeupdated" "1593077648"
+		}
+		"1.195"
+		{
+			"buildid" "5282707"
+			"description" "Sparks of the Future"
+			"timeupdated" "1596743632"
+		}
+		"1.196"
+		{
+			"buildid" "5837686"
+			"description" "Server Optimizations"
+			"timeupdated" "1606327480"
+		}
+		"1.197"
+		{
+			"buildid" "6388151"
+			"description" "Wasteland"
+			"timeupdated" "1619014741"
+		}
+		"1.198"
+		{
+			"buildid" "6776691"
+			"description" "Warfare 1"
+			"timeupdated" "1627065077"
+		}
+		"1.199"
+		{
+			"buildid" "7247619"
+			"description" "Heavy Industry"
+			"timeupdated" "1643920895"
+		}
+		"1.200"
+		{
+			"buildid" "8347487"
+			"description" "Warfare 2"
+			"timeupdated" "1651166614"
+		}
+		"1.201"
+		{
+			"buildid" "10548915"
+			"description" "Most Wanted"
+			"timeupdated" "1681427804"
+		}
+		"1.202"
+		{
+			"buildid" "11612218"
+			"description" "Automatons"
+			"timeupdated" "1693563047"
+		}
+		"publictest"
+		{
+			"buildid" "10558362"
+			"pwdrequired" "1"
+			"timeupdated" "1676471058"
+		}
+		"1.203.6"
+		{
+			"buildid" "13198073"
+			"description" "Warfare Evolution"
+			"timeupdated" "1715618753"
+		}
+		"playtest"
+		{
+			"buildid" "14466726"
+			"pwdrequired" "1"
+			"timeupdated" "1716458552"
+		}
+		"stableready"
+		{
+			"buildid" "14455810"
+			"pwdrequired" "1"
+			"timeupdated" "1716385953"
+		}
+		"steamctg"
+		{
+			"buildid" "14720577"
+			"pwdrequired" "1"
+			"timeupdated" "1718378700"
+		}
+		"test"
+		{
+			"buildid" "14455810"
+			"pwdrequired" "1"
+			"timeupdated" "1716385728"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23975193"
+"_sha" "27765a6621eb63d08a5506cad17e4fe07054f87e"
+"_size" "6868"
