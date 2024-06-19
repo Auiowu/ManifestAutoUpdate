@@ -1,0 +1,366 @@
+"appid" "1084020"
+"common"
+{
+	"name" "TheoTown"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "efefa913c0080860913a5670103f6c169324602f"
+	"logo_small" "efefa913c0080860913a5670103f6c169324602f_thumb"
+	"icon" "1ec8fedcd81aef5a4ab5be84cbf2f3d00c5b197c"
+	"clienttga" "718d5c770f5a79fb357ec75a744c3dfc6cd75e75"
+	"linuxclienticon" "5dc7bedaf070acdec05dc9d09d69e2adaf0899cd"
+	"clienticon" "8054ee01327d264b3de764854e55b5712cbdfae5"
+	"clienticns" "bdfcfa0d7b2f1f5b6566a7f9d0708239479a0bb5"
+	"osextended" "macos64,macosapplesilicon"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "74.97136311569301"
+			"height_pct" "39.11053743252757"
+		}
+	}
+	"store_asset_mtime" "1694256305"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lobby Divinus"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "blueflower"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1559737500"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1084020"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4328"
+		"2" "3964"
+		"3" "492"
+		"4" "9"
+		"5" "3810"
+		"6" "1643"
+		"7" "597"
+		"8" "12472"
+		"9" "21"
+		"10" "1669"
+		"11" "3859"
+		"12" "4004"
+		"13" "3871"
+		"14" "5851"
+		"15" "10235"
+		"16" "1100687"
+		"17" "3834"
+		"18" "4975"
+		"19" "26921"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "Lobby Divinus"
+	"publisher" "blueflower"
+	"homepage" "https://theotown.com/"
+}
+"config"
+{
+	"installdir" "TheoTown"
+	"steamcontrollertemplateindex" "6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheoTown.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "TheoTown32"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"2"
+		{
+			"executable" "TheoTown64"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "TheoTown"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1084021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7279796232319880857"
+				"size" "226389646"
+				"download" "146638016"
+			}
+			"beta"
+			{
+				"gid" "7279796232319880857"
+				"size" "226389646"
+				"download" "146638016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F3B7B9DCC1F4E2020F24357C002549E7"
+				"size" "1B4E469B35786650453D24EBD50C06FF"
+				"download" "1AF964BF8A61EEF1BB30EA28DE199E2A"
+			}
+		}
+	}
+	"1084022"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1373008421799221158"
+				"size" "249321996"
+				"download" "149579152"
+			}
+			"beta"
+			{
+				"gid" "1373008421799221158"
+				"size" "249321996"
+				"download" "149579152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4207ECAFDC2DA30896BE6A4880AD297F"
+				"size" "37E595180B47DB88020ECCA5540DEF15"
+				"download" "42837109C7436DFFA5E80433A92D5C3A"
+			}
+		}
+	}
+	"1084023"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4125788585156726761"
+				"size" "121380975"
+				"download" "120567232"
+			}
+			"beta"
+			{
+				"gid" "4125788585156726761"
+				"size" "121380975"
+				"download" "120567232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F0D0E91323B8EA4B7F71CB2238188E4F"
+				"size" "ABEE455D68A098FA9B4BA602425BA3EC"
+				"download" "B64818D3FAC8E92E3F88B309C0A960D7"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14504688"
+			"timeupdated" "1716798374"
+		}
+		"alpha"
+		{
+			"buildid" "14504688"
+			"pwdrequired" "1"
+			"timeupdated" "1716798117"
+		}
+		"beta"
+		{
+			"buildid" "14504688"
+			"description" "Branch for testing new features"
+			"timeupdated" "1716798137"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "../TheoTown/maps"
+			"pattern" "*.city"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "../TheoTown/regions"
+			"pattern" "*.city|*.json"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23986394"
+"_sha" "fd471c07dc933ed027fc2b341f95ff8b61b760f2"
+"_size" "5802"
