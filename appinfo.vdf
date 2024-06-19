@@ -1,0 +1,1097 @@
+"appid" "244850"
+"common"
+{
+	"name" "Space Engineers"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"icon" "f9856a90000d88e9a89441a7381fe9877e91eaca"
+	"clienticon" "c660a58510d328f0d5afdbda414fc86df9ca748f"
+	"clienttga" "c95e8667c212cdd44ee5fa6033d4074c1990f7a6"
+	"logo" "115f18763462ece5478d6096b22fd2f1faca0788"
+	"logo_small" "115f18763462ece5478d6096b22fd2f1faca0788_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "244850_eula_1"
+			"name" "Space Engineers EULA"
+			"url" "https://store.steampowered.com//eula/244850_eula_1"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1669075200"
+		"tested_build_id" "9745208"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "Space Engineers®"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43"
+			"height_pct" "44"
+		}
+	}
+	"store_asset_mtime" "1715629228"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Keen Software House"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Keen Software House"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Keen Software House"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1551376740"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "244850"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "3810"
+		"2" "1643"
+		"3" "1100689"
+		"4" "3859"
+		"5" "1662"
+		"6" "599"
+		"7" "1695"
+		"8" "3968"
+		"9" "1702"
+		"10" "5363"
+		"11" "1685"
+		"12" "4295"
+		"13" "492"
+		"14" "3942"
+		"15" "4182"
+		"16" "19"
+		"17" "9"
+		"18" "21"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "88"
+}
+"extended"
+{
+	"gamedir" "Space Engineers"
+	"serverbrowsername" "Space Engineers"
+	"noservers" "0"
+	"developer" "Keen Software House"
+	"publisher" "Keen Software House"
+	"homepage" "http://www.SpaceEngineersGame.com"
+	"listofdlc" "573160,573900,1049790,1084680,1135960,1167910,1241550,1307680,1374610,1475830,1676100,1783760,1958640,2504720,2569770,2914120"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SpaceEngineers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin\\SpaceEngineers.exe"
+			"description" "Launch"
+			"workingdir" "Bin"
+			"config"
+			{
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "Bin64\\SpaceEngineers.exe"
+			"workingdir" "Bin64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"2"
+		{
+			"executable" "DeluxeDLC\\FirstRelease\\FirstRelease\\SpaceEngineers.exe"
+			"workingdir" "DeluxeDLC\\FirstRelease\\FirstRelease"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "573160"
+			}
+			"description_loc"
+			{
+				"english" "First Release"
+			}
+			"description" "First Release"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "244850"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"573161"
+	{
+		"dlcappid" "573161"
+	}
+	"244851"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4721014099640614292"
+				"size" "39130607305"
+				"download" "14805336176"
+			}
+			"1.187"
+			{
+				"gid" "6229581861840607069"
+				"size" "15591422368"
+				"download" "5914198576"
+			}
+			"1.188"
+			{
+				"gid" "8511736107424905276"
+				"size" "15624679592"
+				"download" "5980038800"
+			}
+			"1.189"
+			{
+				"gid" "2724627794602434305"
+				"size" "16573648349"
+				"download" "6653316400"
+			}
+			"1.190"
+			{
+				"gid" "8031116995260735366"
+				"size" "16672441231"
+				"download" "6729285792"
+			}
+			"1.191"
+			{
+				"gid" "93593403483176922"
+				"size" "17564720826"
+				"download" "6972624080"
+			}
+			"1.192"
+			{
+				"gid" "4172368030099354119"
+				"size" "22242952540"
+				"download" "8462189072"
+			}
+			"1.193"
+			{
+				"gid" "2973231039616925241"
+				"size" "24849966905"
+				"download" "9460525312"
+			}
+			"1.194"
+			{
+				"gid" "1104921973279212808"
+				"size" "26469283322"
+				"download" "10216178880"
+			}
+			"1.195"
+			{
+				"gid" "2070070505774708176"
+				"size" "28207352947"
+				"download" "10466260384"
+			}
+			"1.196"
+			{
+				"gid" "3968724526687730893"
+				"size" "28422546035"
+				"download" "10484511664"
+			}
+			"1.197"
+			{
+				"gid" "2797028208869933784"
+				"size" "32451467280"
+				"download" "12153486704"
+			}
+			"1.198"
+			{
+				"gid" "169893510110763244"
+				"size" "32940614460"
+				"download" "12308174928"
+			}
+			"1.199"
+			{
+				"gid" "1672615433718191285"
+				"size" "34491314888"
+				"download" "13273393520"
+			}
+			"1.200"
+			{
+				"gid" "6850907279433369396"
+				"size" "35422665717"
+				"download" "13453999520"
+			}
+			"1.201"
+			{
+				"gid" "8695278259216111146"
+				"size" "36619620802"
+				"download" "13869240816"
+			}
+			"1.202"
+			{
+				"gid" "1140190015797558549"
+				"size" "37343235817"
+				"download" "14031777216"
+			}
+			"dx9-32bit"
+			{
+				"gid" "1666255922824165522"
+				"size" "9080896473"
+				"download" "3672464768"
+			}
+			"1.203.6"
+			{
+				"gid" "2351320145791370205"
+				"size" "38924924029"
+				"download" "14735440112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"first_release"
+			{
+				"gid" "9E67AFB2D2341606BD9F89DAC7F4AA1E"
+				"size" "B89482B598899E42B425D32A179B6C98"
+				"download" "22D69524925BF3E112B8A417841EBB5F"
+			}
+			"publictest"
+			{
+				"gid" "69A95469BE4674361869DFA92E0893A8"
+				"size" "7F6C72527EBFC89D63CA307D44EE0BB9"
+				"download" "08AB91223B427FE32F080ECD5724A781"
+			}
+			"playtest"
+			{
+				"gid" "CD622D21983C3C10D3B257D704CF075A"
+				"size" "9D8F4C8E433EF7794F9359A92AA898AE"
+				"download" "63DEDDAFB384489B42E65A354B51B2BE"
+			}
+			"stableready"
+			{
+				"gid" "BA439661F20C830E187537F0209BC8C8"
+				"size" "F720E5F093D3AEABBA7AF4618B014E53"
+				"download" "6CB3A446C4A8BBBE29E119BE94DD94E2"
+			}
+			"steamctg"
+			{
+				"gid" "24F97DFE006B9B4CC35D3BA3884AC26E"
+				"size" "A563A54F42F76C7A012B8BC214D9DF65"
+				"download" "15E816F68BFC7B1CC88DEC6F6F485351"
+			}
+			"test"
+			{
+				"gid" "65EA0E57F958900B37209288B6FA29E4"
+				"size" "84894C730FBF4302760E3C7119BA728A"
+				"download" "F14039816FA55FC43CC18E22EF2F85F7"
+			}
+		}
+	}
+	"573160"
+	{
+		"dlcappid" "573160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9117099559520858982"
+				"size" "3145619371"
+				"download" "2434145200"
+			}
+			"1.187"
+			{
+				"gid" "7337315736519019237"
+				"size" "2919540556"
+				"download" "2235649600"
+			}
+			"1.188"
+			{
+				"gid" "7337315736519019237"
+				"size" "2919540556"
+				"download" "2235649600"
+			}
+			"1.189"
+			{
+				"gid" "7337315736519019237"
+				"size" "2919540556"
+				"download" "2235649600"
+			}
+			"1.190"
+			{
+				"gid" "7337315736519019237"
+				"size" "2919540556"
+				"download" "2235649600"
+			}
+			"1.191"
+			{
+				"gid" "1275670452656333718"
+				"size" "3047688595"
+				"download" "2348535280"
+			}
+			"1.192"
+			{
+				"gid" "6276778372825961517"
+				"size" "3137165026"
+				"download" "2426246832"
+			}
+			"1.193"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.194"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.195"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.196"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.197"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.198"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.199"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.200"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.201"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.202"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+			"1.203.6"
+			{
+				"gid" "6259215023678162597"
+				"size" "3144352413"
+				"download" "2432983632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "062B7182F11F263A1EC5B6BAEE381837"
+				"size" "DB2F9861BBE706EEFCE8F338978E845A"
+				"download" "5782399433812538F96444B62F8C79C6"
+			}
+			"playtest"
+			{
+				"gid" "E1664EE10759320179333C52A8629EF9"
+				"size" "7E63B52049D5AB9A5175EAB8783177A0"
+				"download" "B43F88D94BE918DFAF9153E7F17DE290"
+			}
+			"stableready"
+			{
+				"gid" "A6CFC94989D91CA180D4111EF24A3ECF"
+				"size" "A2F99A2A63699966C27F87B081E43BC7"
+				"download" "2B6A93321FD8AB2A64829B8170B9E4C7"
+			}
+			"steamctg"
+			{
+				"gid" "2E27339036532204AC9BF75D5719A479"
+				"size" "83F1F1D6204B90D0612C9DCC746988B1"
+				"download" "6A88D55819A6139DDCBEFA3068848168"
+			}
+			"test"
+			{
+				"gid" "DD378DC3E60E13B6E756E6E1D35B94FA"
+				"size" "D4F840292B5C4AF7E085FF29C9513297"
+				"download" "E5C3CDFC8CD82E2D1B6353A3D45D1ADA"
+			}
+		}
+	}
+	"573900"
+	{
+		"dlcappid" "573900"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.187"
+			{
+				"gid" "2038154678640562523"
+				"size" "639955449"
+				"download" "306523168"
+			}
+			"1.188"
+			{
+				"gid" "2038154678640562523"
+				"size" "639955449"
+				"download" "306523168"
+			}
+			"1.189"
+			{
+				"gid" "2038154678640562523"
+				"size" "639955449"
+				"download" "306523168"
+			}
+			"1.190"
+			{
+				"gid" "2038154678640562523"
+				"size" "639955449"
+				"download" "306523168"
+			}
+			"1.191"
+			{
+				"gid" "5931750912486508311"
+				"size" "0"
+				"download" "0"
+			}
+			"1.192"
+			{
+				"gid" "5931750912486508311"
+				"size" "0"
+				"download" "0"
+			}
+			"1.193"
+			{
+				"gid" "5931750912486508311"
+				"size" "0"
+				"download" "0"
+			}
+			"1.194"
+			{
+				"gid" "5931750912486508311"
+				"size" "0"
+				"download" "0"
+			}
+			"1.195"
+			{
+				"gid" "5931750912486508311"
+				"size" "0"
+				"download" "0"
+			}
+			"1.196"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.197"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.198"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.199"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.200"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.201"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.202"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+			"1.203.6"
+			{
+				"gid" "272427715373238919"
+				"size" "639955408"
+				"download" "306523072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "1027C6D11F523F8867266BDD9DEE868A"
+				"size" "9D5F6B62AC7ED7DC1561C0A57B0E95B1"
+				"download" "679CC147982478DE6EBC35E677BB39F6"
+			}
+			"playtest"
+			{
+				"gid" "6F4DABD1D88011335031E000CC64BB38"
+				"size" "4A5586517571A6B2C1A670BAF37BD5B2"
+				"download" "435545C485EF5F62B4F54444DE82D64D"
+			}
+			"stableready"
+			{
+				"gid" "8EED206C518417FE1FF2E1BAE2940122"
+				"size" "4FC88203B100730F087363C277331901"
+				"download" "CA9BDB8F27223FBFA189F012E9DFC8E5"
+			}
+			"steamctg"
+			{
+				"gid" "9C69F875F5841D2966A35BA558C64C82"
+				"size" "80F38400AB7DAEC847DD32A1A5601251"
+				"download" "03BDC90B06E435E1184D0D4E10155BA8"
+			}
+			"test"
+			{
+				"gid" "E689A33CC4FE0B1AB1D5EC0C733C985E"
+				"size" "75B2801FC992639EB616736F5A19A08B"
+				"download" "A6C47B1B1D306B02C5A270F8276619F8"
+			}
+		}
+	}
+	"1241550"
+	{
+		"dlcappid" "1241550"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4456424755348968553"
+				"size" "98425605"
+				"download" "8560608"
+			}
+			"1.194"
+			{
+				"gid" "1802551257768688193"
+				"size" "50218800"
+				"download" "6609968"
+			}
+			"1.195"
+			{
+				"gid" "2127809737435451399"
+				"size" "49945526"
+				"download" "6451104"
+			}
+			"1.196"
+			{
+				"gid" "2127809737435451399"
+				"size" "49945526"
+				"download" "6451104"
+			}
+			"1.197"
+			{
+				"gid" "4125470098149454218"
+				"size" "98024035"
+				"download" "8386432"
+			}
+			"1.198"
+			{
+				"gid" "4125470098149454218"
+				"size" "98024035"
+				"download" "8386432"
+			}
+			"1.199"
+			{
+				"gid" "6397828157571407681"
+				"size" "98034100"
+				"download" "8391024"
+			}
+			"1.200"
+			{
+				"gid" "268029268196687645"
+				"size" "98035297"
+				"download" "8394144"
+			}
+			"1.201"
+			{
+				"gid" "7807403889397607929"
+				"size" "98035505"
+				"download" "8394240"
+			}
+			"1.202"
+			{
+				"gid" "7249405337490739036"
+				"size" "98424588"
+				"download" "8560208"
+			}
+			"1.203.6"
+			{
+				"gid" "7249405337490739036"
+				"size" "98424588"
+				"download" "8560208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "E890DA9DEB5773F710E30452FF94A9EF"
+				"size" "0496001D1998812A763673D3796D34EA"
+				"download" "7D813663D8C2C836CF2076714B5FD30B"
+			}
+			"playtest"
+			{
+				"gid" "A6595CD434CB6585BDC0D2AB39C3E6A0"
+				"size" "ADE0A77DCCAC231C24494416F64B6C03"
+				"download" "C4B8941920F6D6C71418133975E6C42B"
+			}
+			"stableready"
+			{
+				"gid" "DD3AB1C0BE0AE2676A70BF7087A419FF"
+				"size" "F8D0CF248B7EE252FDDDB9354AABCD91"
+				"download" "198E0F45DC6E9C26DDED4FA7FBF9C841"
+			}
+			"steamctg"
+			{
+				"gid" "2068DBAEBC55509B5D80170ADE669F32"
+				"size" "EAE505FF09FCE2F6255E7C64779E3A7E"
+				"download" "CB5878277273E7CCD43342F17A0DB5BC"
+			}
+			"test"
+			{
+				"gid" "EA9FFD20C4BD854E0AE8C00FFA1E1E33"
+				"size" "47A0C7DCEFCB0869B5588A32A741F801"
+				"download" "21651966ACAAEB520F154CC2AA7A6994"
+			}
+		}
+	}
+	"2914120"
+	{
+		"dlcappid" "2914120"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1446330324262813569"
+				"size" "408865836"
+				"download" "388479472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"playtest"
+			{
+				"gid" "E9A5A7C139C65581BB1F5CBF4548B932"
+				"size" "BF162B62A30C854CB7743758E2A13831"
+				"download" "F4A23F4A3B0408462F657993199E3580"
+			}
+			"stableready"
+			{
+				"gid" "C3332EA363FAF07D3B2C698CAB40C32A"
+				"size" "5ABE0681A8730925472888BC5C848E2F"
+				"download" "D8152106FE573B52478768165A011B18"
+			}
+			"steamctg"
+			{
+				"gid" "106F4CE410CFF05F22BC0E364B7760D5"
+				"size" "84FE7C630E551A367C891010706FA70D"
+				"download" "F832DCAE0C03F48D9ABCC218B012D938"
+			}
+			"test"
+			{
+				"gid" "36C9BE56C1A2873BCF353AE99D002B89"
+				"size" "908BEF8256F4FF04147AAE6905953CDE"
+				"download" "B15B6639461E7601D3A890751FAD9F10"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14430725"
+			"timeupdated" "1716476572"
+		}
+		"1.187"
+		{
+			"buildid" "3165383"
+			"description" "Major Overhaul of Multiplayer"
+			"timeupdated" "1540306322"
+		}
+		"1.188"
+		{
+			"buildid" "3398114"
+			"description" "Airtightness, In-game Help, Relative Dampening"
+			"timeupdated" "1551349907"
+		}
+		"1.189"
+		{
+			"buildid" "3664466"
+			"description" "Major Overhaul of Survival, Ladders, Leaving Early Access"
+			"timeupdated" "1554741748"
+		}
+		"1.190"
+		{
+			"buildid" "3777950"
+			"description" "Customizable LCD Screens, Replay Tool & Decorative Pack!"
+			"timeupdated" "1559835741"
+		}
+		"1.191"
+		{
+			"buildid" "4026299"
+			"description" "Build Planner, Small Grid Cryo Pod and Style Pack!"
+			"timeupdated" "1566474186"
+		}
+		"1.192"
+		{
+			"buildid" "4253398"
+			"description" "Economy"
+			"timeupdated" "1571919581"
+		}
+		"1.193"
+		{
+			"buildid" "4521868"
+			"description" "6th Anniversary & Decorative Pack II"
+			"timeupdated" "1584640764"
+		}
+		"1.194"
+		{
+			"buildid" "4999952"
+			"description" "Frostbite"
+			"timeupdated" "1593077521"
+		}
+		"1.195"
+		{
+			"buildid" "5282698"
+			"description" "Sparks of the Future"
+			"timeupdated" "1596743378"
+		}
+		"1.196"
+		{
+			"buildid" "5837679"
+			"description" "Server Optimizations"
+			"timeupdated" "1606327475"
+		}
+		"1.197"
+		{
+			"buildid" "6388146"
+			"description" "Wasteland"
+			"timeupdated" "1619014736"
+		}
+		"1.198"
+		{
+			"buildid" "6776683"
+			"description" "Warfare 1"
+			"timeupdated" "1627065290"
+		}
+		"1.199"
+		{
+			"buildid" "7247604"
+			"description" "Heavy Industry"
+			"timeupdated" "1643920751"
+		}
+		"1.200"
+		{
+			"buildid" "8347476"
+			"description" "Warfare 2"
+			"timeupdated" "1651166401"
+		}
+		"1.201"
+		{
+			"buildid" "10548906"
+			"description" "Most Wanted"
+			"timeupdated" "1681427595"
+		}
+		"1.202"
+		{
+			"buildid" "11612210"
+			"description" "Automatons"
+			"timeupdated" "1693563000"
+		}
+		"dx9-32bit"
+		{
+			"buildid" "1150724"
+			"description" "compatibility branch for dx9 and 32 bit"
+			"timeupdated" "1464358253"
+		}
+		"first_release"
+		{
+			"buildid" "132500"
+			"pwdrequired" "1"
+		}
+		"publictest"
+		{
+			"buildid" "10558349"
+			"pwdrequired" "1"
+			"timeupdated" "1676470928"
+		}
+		"1.203.6"
+		{
+			"buildid" "13198058"
+			"description" "Warfare Evolution"
+			"timeupdated" "1715618651"
+		}
+		"playtest"
+		{
+			"buildid" "14466664"
+			"pwdrequired" "1"
+			"timeupdated" "1716458341"
+		}
+		"stableready"
+		{
+			"buildid" "14430725"
+			"pwdrequired" "1"
+			"timeupdated" "1716223592"
+		}
+		"steamctg"
+		{
+			"buildid" "14720497"
+			"pwdrequired" "1"
+			"timeupdated" "1718378308"
+		}
+		"test"
+		{
+			"buildid" "14455756"
+			"pwdrequired" "1"
+			"timeupdated" "1716385513"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "400000000"
+	"maxnumfiles" "400"
+}
+"_missing_token" "False"
+"_change_number" "23975086"
+"_sha" "5e1e3bea7120c0503b54097cd1346ff0a5b2524f"
+"_size" "21253"
