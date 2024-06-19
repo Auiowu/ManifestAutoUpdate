@@ -1,0 +1,279 @@
+"appid" "1397130"
+"common"
+{
+	"name" "Primateria"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "dc3d656c3766a469f877540903bf973aec37cc3c"
+	"clienticon" "53156037b291eeefb2c9a707b52ea684655f5f40"
+	"clienttga" "22c68ead9bfd60bb37759dce991e6a5bd2a8dcdf"
+	"logo" "e1e050e5d22cb458d3f2591d838cbae756bfefa3"
+	"logo_small" "e1e050e5d22cb458d3f2591d838cbae756bfefa3_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1397130_eula_0"
+			"name" "Primateria EULA"
+			"url" "https://store.steampowered.com//eula/1397130_eula_0"
+			"version" "5"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "未元物质 Primateria"
+		"tchinese" "未元物質 Primateria"
+	}
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"brazilian" "1"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1704761918"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Yfrit Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Surefire.Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1704762500"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1397130"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "1720"
+		"2" "3959"
+		"3" "3834"
+		"4" "1666"
+		"5" "9"
+		"6" "1716"
+		"7" "3871"
+		"8" "3854"
+		"9" "6426"
+		"10" "32322"
+		"11" "4305"
+		"12" "6815"
+		"13" "1684"
+		"14" "4057"
+		"15" "6276"
+		"16" "4182"
+		"17" "492"
+		"18" "1741"
+		"19" "4172"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Yfrit Games"
+	"publisher" "Surefire.Games"
+	"homepage" "https://yfrit.com"
+}
+"config"
+{
+	"installdir" "Primateria"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PrimateriaUE.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1397131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8700786826721818446"
+				"size" "2282510042"
+				"download" "1032811664"
+			}
+			"playtest"
+			{
+				"gid" "8700786826721818446"
+				"size" "2282510042"
+				"download" "1032811664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dailydeck"
+			{
+				"gid" "D38E419AE7B6C8E0C0D2DC0D38741C1A"
+				"size" "EE9C524DDA88B0CEAF6A94B4F09949CE"
+				"download" "A1A057E9823D6575FED6EDC8AAABAEC6"
+			}
+			"development"
+			{
+				"gid" "38F8778C6459DBA4462EDA6C1FAE86E7"
+				"size" "E506B2B72682DBD0D5D86B1362BFD6E0"
+				"download" "ACE36FD9D863C0796C2E9F4A33B6DCF2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14488748"
+			"timeupdated" "1718070547"
+		}
+		"dailydeck"
+		{
+			"buildid" "14710859"
+			"pwdrequired" "1"
+			"timeupdated" "1718314952"
+		}
+		"development"
+		{
+			"buildid" "14699980"
+			"pwdrequired" "1"
+			"timeupdated" "1718247408"
+		}
+		"playtest"
+		{
+			"buildid" "14488748"
+			"description" "Playtest branch with preview changes for players."
+			"timeupdated" "1716596122"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "PrimateriaUE/Saved/SaveGames"
+			"pattern" "default.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23966959"
+"_sha" "e6ae062787b3d996cfb48266a7cd9268ba8fb2e9"
+"_size" "4650"
