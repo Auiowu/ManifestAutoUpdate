@@ -1,0 +1,3921 @@
+"appid" "392160"
+"common"
+{
+	"name" "X4: Foundations"
+	"type" "Game"
+	"logo" "fa88749b0d10d9ab0485bbee82f997ee90d5b7a7"
+	"logo_small" "fa88749b0d10d9ab0485bbee82f997ee90d5b7a7_thumb"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"clienticon" "f4a8620b493e033e06f5c89dc136626c356a1f72"
+	"clienttga" "b5000e3c85f48b60f83e7713ebf715f90fb90059"
+	"icon" "89022109a84c57ed7e329933e42c1153e06c1096"
+	"releasestate" "released"
+	"sortas" "X4"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1713398400"
+		"tested_build_id" "14023359"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "X4 Foundations"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1712124089"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Egosoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Egosoft"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "X"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1543587106"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "392160"
+	"store_tags"
+	{
+		"0" "16598"
+		"1" "3810"
+		"2" "15045"
+		"3" "599"
+		"4" "4695"
+		"5" "4202"
+		"6" "4845"
+		"7" "3834"
+		"8" "1755"
+		"9" "7332"
+		"10" "9"
+		"11" "3839"
+		"12" "4191"
+		"13" "1695"
+		"14" "4364"
+		"15" "5125"
+		"16" "12472"
+		"17" "1643"
+		"18" "4182"
+		"19" "3934"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Egosoft"
+	"publisher" "Egosoft"
+	"homepage" "https://www.x4foundations.com"
+	"listofdlc" "942190,986330,1133000,1288460,1701060,1990040,2375830,2700340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "X4 Foundations"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "X4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "testandlaunch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65529"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"392161"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+			"3.20"
+			{
+				"gid" "732504018695845011"
+				"size" "12410130841"
+				"download" "10675288480"
+			}
+			"3.30"
+			{
+				"gid" "732504018695845011"
+				"size" "12410130841"
+				"download" "10675288480"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "732504018695845011"
+				"size" "12410130841"
+				"download" "10675288480"
+			}
+			"4.00"
+			{
+				"gid" "7749781016097074244"
+				"size" "13484124169"
+				"download" "11648909120"
+			}
+			"4.10"
+			{
+				"gid" "7749781016097074244"
+				"size" "13484124169"
+				"download" "11648909120"
+			}
+			"4.20"
+			{
+				"gid" "7749781016097074244"
+				"size" "13484124169"
+				"download" "11648909120"
+			}
+			"5.00"
+			{
+				"gid" "4548104928650908005"
+				"size" "14431226885"
+				"download" "12500746000"
+			}
+			"5.10"
+			{
+				"gid" "4548104928650908005"
+				"size" "14431226885"
+				"download" "12500746000"
+			}
+			"6.00"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+			"6.10"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+			"6.20"
+			{
+				"gid" "782589745216201058"
+				"size" "15727408473"
+				"download" "13665346272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "AFA177BFC49B05D0822D63632946B517"
+				"size" "3D8697B15EBF89CA243CD2F5BBE1B2D2"
+				"download" "D4F0F32644BD24D8FF631D48AEC6634A"
+			}
+			"cheats"
+			{
+				"gid" "8B53076D4A6904DB6B491F0A4F6091F4"
+				"size" "832D7EEBB0B22C07485874A717E0FCBE"
+				"download" "267E5B3F49D42A0C90771DA4C87EFBA4"
+			}
+			"nightly"
+			{
+				"gid" "4B6431980286837F811FEA21923A705A"
+				"size" "76289B82A5E490AC13AC19AC9B9BB926"
+				"download" "566064AC81CADE0458A03F14705BF999"
+			}
+			"nightly_cheat"
+			{
+				"gid" "026E9066291B0E7F293167D423E40848"
+				"size" "5EE077D25FB1D67F764640A07BB3C749"
+				"download" "4B0DB36E3DE36D48DAADAF3A5CA61B99"
+			}
+			"private_beta"
+			{
+				"gid" "A42DD140014F99F0F34C524ABAA99559"
+				"size" "7594491B6086F5309520A85B2851C93E"
+				"download" "172EC642B1DCDC8071D440FFFE23E460"
+			}
+			"private_beta2"
+			{
+				"gid" "C0373557D83B4DC7C034259B416B5BA0"
+				"size" "A2CD073A7DF3D7BF62DC370856BB2209"
+				"download" "478FE249A006F8FDFC95629C7922CB55"
+			}
+			"private_beta4"
+			{
+				"gid" "736295E58CC34F14C1272AF2F83C2B80"
+				"size" "B7511BD3D660AD7933557D2E07353574"
+				"download" "22B8036ECF6E3CDF2091D7C0BC251142"
+			}
+			"public_beta"
+			{
+				"gid" "4F66C5E40E3CCB15D1283182218E5CDC"
+				"size" "19A9DB7D5C56B45F3D7C9D895688CA35"
+				"download" "4383BE62F857C0E9BCBF412DEDE211EB"
+			}
+		}
+	}
+	"392162"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1495501401436945727"
+				"size" "5771987503"
+				"download" "4514746320"
+			}
+			"3.20"
+			{
+				"gid" "7409557247251569467"
+				"size" "2634876059"
+				"download" "2109098080"
+			}
+			"3.30"
+			{
+				"gid" "2989307095099964585"
+				"size" "2674328465"
+				"download" "2145859568"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "8808259699697271773"
+				"size" "2674543789"
+				"download" "2145995776"
+			}
+			"4.00"
+			{
+				"gid" "8954930995869930133"
+				"size" "2844413608"
+				"download" "2292318432"
+			}
+			"4.10"
+			{
+				"gid" "3214540072332563773"
+				"size" "3452536406"
+				"download" "2853747680"
+			}
+			"4.20"
+			{
+				"gid" "9005421327147843260"
+				"size" "3452644616"
+				"download" "2853820176"
+			}
+			"5.00"
+			{
+				"gid" "4303831949711110603"
+				"size" "3992149235"
+				"download" "3343325984"
+			}
+			"5.10"
+			{
+				"gid" "8407823400278880088"
+				"size" "4014210421"
+				"download" "3362565200"
+			}
+			"6.00"
+			{
+				"gid" "5576034909347403004"
+				"size" "5733461465"
+				"download" "4505372032"
+			}
+			"6.10"
+			{
+				"gid" "6306160191863694185"
+				"size" "5739002533"
+				"download" "4506236784"
+			}
+			"6.20"
+			{
+				"gid" "1495501401436945727"
+				"size" "5771987503"
+				"download" "4514746320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "94D01115B83B4C848D5731B34563038C"
+				"size" "C05C8D40F2B8E76A748D8A81505CCBEA"
+				"download" "CEF52342DAD99133D12A725D4BFABD9B"
+			}
+			"cheats"
+			{
+				"gid" "52FB617CD248921A4BC657364C936045"
+				"size" "4EB36BA59D4D6CA94A5BC2D924D9C738"
+				"download" "BB7913002D9817943C1EF1A3CD52DED0"
+			}
+			"nightly"
+			{
+				"gid" "793F61D1839656D508076C074441A062"
+				"size" "506EFA6366387A207D597C3E9DBDC96B"
+				"download" "E030281E6F33C4E0349668A772B453E8"
+			}
+			"nightly_cheat"
+			{
+				"gid" "610779D5C259A8D0465F8B8B97D11110"
+				"size" "910461819CC7ADDDCF30EE0202EA0E3C"
+				"download" "8F7DEC678DBEE409D7B4DB66A85D9D41"
+			}
+			"private_beta"
+			{
+				"gid" "7732E3F78F5715B062EA6D757EEA81FF"
+				"size" "7D343001EFD7504C4FFD63FA4BEB047C"
+				"download" "61A6405290DF1B6AC358DFA29E1C9927"
+			}
+			"private_beta2"
+			{
+				"gid" "6FB351A797AB455D68D31B08FC3569B2"
+				"size" "436325B7EB082C31C6AC202B0FD36DDE"
+				"download" "74E24CEDCC49BAE97CE13C2287701B26"
+			}
+			"private_beta4"
+			{
+				"gid" "E7B33390C97DD14BADE7955DFF3FAE4C"
+				"size" "0D9D7FAA7BF9D12887EC5A7473E7A33E"
+				"download" "CC092DF7902406D08C81533F5B49D7E3"
+			}
+			"public_beta"
+			{
+				"gid" "EBCF3FCDF15231758E94A49E694EDE36"
+				"size" "40D24B8DF5BC636CD063FC48DE5B815F"
+				"download" "AFDCD9FA3D714C627E99CA9EF4685EC1"
+			}
+		}
+	}
+	"392163"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "852157824919486279"
+				"size" "56389159"
+				"download" "17631472"
+			}
+			"3.20"
+			{
+				"gid" "7427314969949163515"
+				"size" "51691783"
+				"download" "15452208"
+			}
+			"3.30"
+			{
+				"gid" "3062541915379702455"
+				"size" "51948807"
+				"download" "15507712"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3696069945477276001"
+				"size" "51796231"
+				"download" "15478304"
+			}
+			"4.00"
+			{
+				"gid" "3137387331173592085"
+				"size" "46350447"
+				"download" "15041296"
+			}
+			"4.10"
+			{
+				"gid" "5639959482569403363"
+				"size" "49525903"
+				"download" "15562016"
+			}
+			"4.20"
+			{
+				"gid" "1490407767745404000"
+				"size" "49536655"
+				"download" "15576496"
+			}
+			"5.00"
+			{
+				"gid" "2337331935661761526"
+				"size" "52415519"
+				"download" "16369488"
+			}
+			"5.10"
+			{
+				"gid" "4212241281893264961"
+				"size" "52880423"
+				"download" "16590832"
+			}
+			"6.00"
+			{
+				"gid" "2480118633777097048"
+				"size" "56214055"
+				"download" "17566832"
+			}
+			"6.10"
+			{
+				"gid" "4678941283331703497"
+				"size" "56330791"
+				"download" "17605184"
+			}
+			"6.20"
+			{
+				"gid" "852157824919486279"
+				"size" "56389159"
+				"download" "17631472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "934D669E54FE46EED6533BDA324E4B27"
+				"size" "6E31DDE5974476C5E0F9C263A7D1D365"
+				"download" "2A3122960754727DBFFE9F948582AE46"
+			}
+			"cheats"
+			{
+				"gid" "918F22F27D2C04E215798484BFC98B59"
+				"size" "B9F6AAF9E8D088E28A7E2BD525C05FA0"
+				"download" "8C5B7ED7E53DD582CAA09F9653BAFD1B"
+			}
+			"nightly"
+			{
+				"gid" "E40FB48C2324C8F9C467AB45869BBFA9"
+				"size" "1F5B34C498017AEA001524371FCF2368"
+				"download" "18472C90D385F12FBF48964692066C46"
+			}
+			"nightly_cheat"
+			{
+				"gid" "15B89E575FDD230E8C3D687F9777FB2C"
+				"size" "226A5940E3DCFF0C3D5E754519D67BEE"
+				"download" "F3CC764F02B1370D5F9E7A2AA824B8C8"
+			}
+			"private_beta"
+			{
+				"gid" "DBFECABF72E8E95074A9D1420202A2CC"
+				"size" "4BD100A7F79D4EB7DD9E081B1EA8E41C"
+				"download" "328D1C144AFB3D6C543E7EEC572A3244"
+			}
+			"private_beta2"
+			{
+				"gid" "D64C8425AF52DFC9D8C2828E406FED5B"
+				"size" "7C32EFFCFDB192FBF796DF9BB32944FB"
+				"download" "8063A715EE3A665A50541A9998F35AAA"
+			}
+			"private_beta4"
+			{
+				"gid" "4FDB722E4C8495CDDC9CE2C7EF062288"
+				"size" "CC54CBE6DAB61084EEC4EA17CC01FE8D"
+				"download" "4B9776E9A7B58979D12B60619412DB06"
+			}
+			"public_beta"
+			{
+				"gid" "8DECDAF527915F45068EE0E7466CECC0"
+				"size" "70C4C78D33E00FF594508DDE629F9024"
+				"download" "7F32D121B19A536BF88D4150E22379FC"
+			}
+		}
+	}
+	"392164"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4765486513436154900"
+				"size" "91230221"
+				"download" "25439360"
+			}
+			"3.20"
+			{
+				"gid" "4873650234638816919"
+				"size" "63405758"
+				"download" "18117168"
+			}
+			"3.30"
+			{
+				"gid" "2315706200185636190"
+				"size" "63610558"
+				"download" "18169008"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "4928699691794895433"
+				"size" "63676294"
+				"download" "18200320"
+			}
+			"4.00"
+			{
+				"gid" "3109068069396817762"
+				"size" "66036609"
+				"download" "18777232"
+			}
+			"4.10"
+			{
+				"gid" "3652631806276168943"
+				"size" "67876673"
+				"download" "19034176"
+			}
+			"4.20"
+			{
+				"gid" "2169428814536507996"
+				"size" "67884865"
+				"download" "19033584"
+			}
+			"5.00"
+			{
+				"gid" "2338603116947961146"
+				"size" "68790176"
+				"download" "19253520"
+			}
+			"5.10"
+			{
+				"gid" "4676704564155622122"
+				"size" "69433568"
+				"download" "19487632"
+			}
+			"6.00"
+			{
+				"gid" "4489364134700057720"
+				"size" "91013037"
+				"download" "25362176"
+			}
+			"6.10"
+			{
+				"gid" "1027400761808409080"
+				"size" "91131885"
+				"download" "25412464"
+			}
+			"6.20"
+			{
+				"gid" "4765486513436154900"
+				"size" "91230221"
+				"download" "25439360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "1140C5FC35BCE12C06863A1485A2BAA6"
+				"size" "FFD22F9F559056A94F02281B2BAFCBA0"
+				"download" "531FE5685569563ABE9917696700FD25"
+			}
+			"cheats"
+			{
+				"gid" "13AF613384FE3007E66842E082C9B8F7"
+				"size" "4B491A2CC33BA78DF599868C0F973DD5"
+				"download" "EB176F9D1ABEB38B6952293AF8908768"
+			}
+			"nightly"
+			{
+				"gid" "652BC45D5BCD43EAE003BE2B9FB1A2BA"
+				"size" "6F5A30A3E7C042D67600AA3FA1A1C8AE"
+				"download" "D80A4E67FF766A76F91BD3C3303E7055"
+			}
+			"nightly_cheat"
+			{
+				"gid" "DD8BED9FD24A8ED996DD7FA2EBCBF0CD"
+				"size" "1F334369840A4FB69BB890F5924D716E"
+				"download" "C5C531218317B07F6948A04F7C2102E7"
+			}
+			"private_beta"
+			{
+				"gid" "CCE4185C718A7AFF7EC2B20296C989C5"
+				"size" "A63241FCBFE80D98EA9D46960F6E7809"
+				"download" "B25AE2CF57F33FE50A7582B4E0591223"
+			}
+			"private_beta2"
+			{
+				"gid" "93A8855F3AD49F956051BD2CC0F75D74"
+				"size" "609A9F2EA2478701E3C467F668B40EFA"
+				"download" "505B9A0FFFB70F38D4577EB2FB13E4D8"
+			}
+			"private_beta4"
+			{
+				"gid" "A56B32834240A0A77A91F31005699ED7"
+				"size" "57478E6AA59FA738FE741AB354224B8A"
+				"download" "4EE2FF8EBE8EBE38A5D88CDD2074DEE6"
+			}
+			"public_beta"
+			{
+				"gid" "F46915C2820BA3FA6F325F75F43E9405"
+				"size" "50F6F7BB676B7A9996770D229672FE77"
+				"download" "C167DDA76D0061CDC04C578DAE321350"
+			}
+		}
+	}
+	"392166"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"3.20"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"4.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"4.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"4.20"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"5.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"5.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"6.00"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"6.10"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+			"6.20"
+			{
+				"gid" "1428443897261327369"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "1C80BFD0350114EB69BCD0F8ADC8AC78"
+				"size" "616996F7A0A0FFC72B7134A1C6AA9E97"
+				"download" "D871036DF93C2510C66D2549F796566D"
+			}
+			"cheats"
+			{
+				"gid" "E470F277E46A1F8150D1B7F44FF760D5"
+				"size" "7A12C2C169652A3F06FC99C6636D7CAD"
+				"download" "8E04417DAB3D64060CF60B4F670CF65D"
+			}
+			"nightly"
+			{
+				"gid" "54FFE215D2A1D2CF16BA3290642FBDBF"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "693A6B346F6746EACF2F312ED7C326B4"
+				"size" "D81D582A112070CCB2ABC96B33DB609B"
+				"download" "64E3123BA0FB38AB1FD72FFD0478EE92"
+			}
+			"private_beta"
+			{
+				"gid" "E9E2DA2C5ED4210499BAE61D48F9F2B4"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "C7B7D71E76D971C048E4958F0AF0E532"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "BF0608F3CFF305B3F151C8952672545F"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "0ADC61C4C3E489295DAB9AA6F1F41955"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"392167"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "8438881501429417845"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "D08002391FEC0EBB46BBCC4F981E6C6D"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "B749F3894DAB4A5A98C1D41A17DD422D"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "76F7D97D71E5245746DEC5F510E03F59"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "7F19FA275878D015BD140F0B4D5BF20E"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "2EADE137A4E77EA894AAE3E280872F40"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "9E5526DD4D84687C0285FF50C1F8C7C4"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "9FFA549F7014C8FABB1CA870B23F4B7A"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "D423EB201495B4615DB324BBE0037B65"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"392168"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+			"3.20"
+			{
+				"gid" "3796211445141616673"
+				"size" "1659754242"
+				"download" "1275612240"
+			}
+			"3.30"
+			{
+				"gid" "3796211445141616673"
+				"size" "1659754242"
+				"download" "1275612240"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3796211445141616673"
+				"size" "1659754242"
+				"download" "1275612240"
+			}
+			"4.00"
+			{
+				"gid" "7876913120168861247"
+				"size" "1957860825"
+				"download" "1524502352"
+			}
+			"4.10"
+			{
+				"gid" "7876913120168861247"
+				"size" "1957860825"
+				"download" "1524502352"
+			}
+			"4.20"
+			{
+				"gid" "7876913120168861247"
+				"size" "1957860825"
+				"download" "1524502352"
+			}
+			"5.00"
+			{
+				"gid" "2501580065090801663"
+				"size" "2260466362"
+				"download" "1770012464"
+			}
+			"5.10"
+			{
+				"gid" "8906367599589024272"
+				"size" "2274993439"
+				"download" "1783019584"
+			}
+			"6.00"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+			"6.10"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+			"6.20"
+			{
+				"gid" "3819202370162427197"
+				"size" "2642837200"
+				"download" "2080720576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "5984ABA6384A044972FA2EBB901D9E0C"
+				"size" "618342BF2E81B07D239BC58BD642F4C1"
+				"download" "B9206EF87A638E7F832C157A41F8B84D"
+			}
+			"cheats"
+			{
+				"gid" "D071D9A9EABF672E003B56050DA10151"
+				"size" "8C985552261B774E9ABBF91F0587A7C8"
+				"download" "3826590E261BE5F969844BB4AF4E196E"
+			}
+			"nightly"
+			{
+				"gid" "0A000D77528634D8A0D2870472380CAE"
+				"size" "6FE78F4192C28973C5B6A65917BB0BCC"
+				"download" "ADCE4451E4B0781E656DC5DB3DAFAB2F"
+			}
+			"nightly_cheat"
+			{
+				"gid" "4A1CF1FA641B7AAB7448CE9C85DEFEF3"
+				"size" "A69B868A116882AF6D18047C487BA36F"
+				"download" "E679C7126FA5C20EA92F44FAE475B876"
+			}
+			"private_beta"
+			{
+				"gid" "6DD5A0EA4543EAADA49FBD9F51C6746B"
+				"size" "44B3E4F5BDDAB93AFCA702787044A931"
+				"download" "C04BCB4C7BBB14E0C6A84B7CC9585DBD"
+			}
+			"private_beta2"
+			{
+				"gid" "F7B4BB6A7795A31809A9D4E009BE2959"
+				"size" "ED35E760C44D8D8B2E1BBF5FE4A03FF1"
+				"download" "FC0EFF675F95A3897BD01C3B3A341045"
+			}
+			"private_beta4"
+			{
+				"gid" "D593E4C987C457516820505C2F33F5C6"
+				"size" "0118A266A8DE8D3D16BC89D8A4295165"
+				"download" "B1E098D1AFEBC52897D030A79D085588"
+			}
+			"public_beta"
+			{
+				"gid" "3400B1041B467C838AC52DA76CD46EC6"
+				"size" "35899C4DD5B8838A376389EB7F93D95E"
+				"download" "2E564C086280E26AC44659E5113E2CC8"
+			}
+		}
+	}
+	"392169"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "7474697231672727401"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "74377044B1C530570E8CE85E350DF384"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "CAC29B2F7D14DEB92ED56E8BB1C04AC5"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "FF8B08DA6AF31B15A58473B8557FFDCF"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "C90D3EC295793CBD4D6C616A128C9732"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "6D783B5F71F80A63AFBB6DD6D5E1E82F"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "7B9472EF4DFD7EB682539BD1331A4F9E"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "1759F63511715B7D37900B13F430BAE5"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "EA8997496762148E31658067618EF70B"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942191"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3282203846324163468"
+				"size" "2810345789"
+				"download" "2268932304"
+			}
+			"3.20"
+			{
+				"gid" "3726806264768242835"
+				"size" "1889550543"
+				"download" "1491268640"
+			}
+			"3.30"
+			{
+				"gid" "3726806264768242835"
+				"size" "1889550543"
+				"download" "1491268640"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3726806264768242835"
+				"size" "1889550543"
+				"download" "1491268640"
+			}
+			"4.00"
+			{
+				"gid" "8468677783584286747"
+				"size" "2220994044"
+				"download" "1773314304"
+			}
+			"4.10"
+			{
+				"gid" "8468677783584286747"
+				"size" "2220994044"
+				"download" "1773314304"
+			}
+			"4.20"
+			{
+				"gid" "8468677783584286747"
+				"size" "2220994044"
+				"download" "1773314304"
+			}
+			"5.00"
+			{
+				"gid" "1665581600956610140"
+				"size" "2215964209"
+				"download" "1768545680"
+			}
+			"5.10"
+			{
+				"gid" "1862306509913349339"
+				"size" "2557891794"
+				"download" "2056579216"
+			}
+			"6.00"
+			{
+				"gid" "1862306509913349339"
+				"size" "2557891794"
+				"download" "2056579216"
+			}
+			"6.10"
+			{
+				"gid" "1862306509913349339"
+				"size" "2557891794"
+				"download" "2056579216"
+			}
+			"6.20"
+			{
+				"gid" "3282203846324163468"
+				"size" "2810345789"
+				"download" "2268932304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "1EDE36A6B73C86789FD4EDD947379433"
+				"size" "215A9E4C4D0988A7448309BF5AA7FBF8"
+				"download" "F9EEC7DFA181A73185004F89B901B9F1"
+			}
+			"cheats"
+			{
+				"gid" "20EF1CD02F05C9E85AE1F2493EFC98F7"
+				"size" "5F6E037163D5EB8B0DDB2F032D778738"
+				"download" "74C18E4FDA6CB3D22C8635312202656C"
+			}
+			"nightly"
+			{
+				"gid" "2AA7F46BF74A3C5DF7533BB7AE389A6B"
+				"size" "D32025996FB61F9C2774BCB137AFD25C"
+				"download" "F0B7AE8B56B292BB3AC38B5080950A87"
+			}
+			"nightly_cheat"
+			{
+				"gid" "1AA46D391D89DE882373FABDE24319B5"
+				"size" "1BBB3E0488297922CADA8D76AC5B139B"
+				"download" "444480D781629F296A459976A8F7D951"
+			}
+			"private_beta"
+			{
+				"gid" "2CF8A06626D1AB65084FA16D688CD844"
+				"size" "8BE46ADEEA11F0B114B5E42332C7C294"
+				"download" "6D8EF90687187EB97DBF2A28FCCCD627"
+			}
+			"private_beta2"
+			{
+				"gid" "B1EC6A0C03125D2BE9CDD8337FC65B9B"
+				"size" "45410729DFEB1704663726726AA61651"
+				"download" "38170E9B7011DC5EA5735184E7501BE8"
+			}
+			"private_beta4"
+			{
+				"gid" "F8FBE484A87DBEF8B6D2331FC265EC80"
+				"size" "BA71EC3BEF2BDED69705B40BC18C89F4"
+				"download" "6A82CBB6AC69B558E33DA8CD93FA67D1"
+			}
+			"public_beta"
+			{
+				"gid" "EA1FCB9866B4A57946C08943A59B7E7B"
+				"size" "48004A847E9B7D5698232B8DB3B9C38A"
+				"download" "E76F9EBBB9297567667A2C7EB11AA043"
+			}
+		}
+	}
+	"942192"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "2184735555500823524"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "ABB4E70439981107C0FF7B1121BC004B"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "F50EEBFF02FD07F93E5EDBE7401E8447"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "F981818E683F2A158E96B7F59910CE5B"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "82C6EE3F4547F16F5931249A3E01CE16"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "385462E3F5450DF0F87DCBAA8D0D1795"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "0131361BD9B6B7DD02742C2E7B12B10F"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "4B958510F5D27DCBFB0C0CD9137E7542"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "EE3B068B09AAA9DFF759601299065367"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"392165"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "1334542879077805683"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "A0F7E9C31F28631FDD732CC1CB8B8F64"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "4272D62553A6D369F977096B7AA7B81F"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "4C97512AE0854DBE70462A7D6999F0D4"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "033CD669122559108A818EE6D2835B7C"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "2345D92211F3331F7C8FA8FAED688CF3"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "339D3294D90D9DE9D41E5D612DAEE986"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "3E320DFB942AE607D5B7621A697EF4E7"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "7DE750BA909CBB8CA59A5208FCF6EAAB"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942193"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "963441056274287689"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "65784B301F601B87BDAD763325B07426"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "EE1C00EABED70AF7F855BBEF8A7C072C"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "3469741A35725361C92B211A30F12AF5"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "A7C424B6D887152606845FBDF2AF752A"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "B3ACFFC0E460F117CAD3906206B71A7F"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "B1BAACC2C711F81222EC71FCE1A7978F"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "8B5A30C20D18ECD531C1AFFF6FFD3684"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "7A5A1DAD695BC4364CFCFC6B1C4FC8C0"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942194"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "9062583292843475231"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "44E232B657D6FA97D60C55F98D610167"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "BF10238356206A0C651B09A6B4FD9EFB"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "3427F24A0991352746F78BADAFBC327E"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "61089A7BED39AE2ED6399F95FE896785"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "4635948D80E45E2BDF6727AA83F133BA"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "8FA82FA0BD8C1A79C8177ACA22CFFDE6"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "A9624B8A10B07638EF83904364E2F5EA"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "43CD96F5BE744F81ACE45E0E7F5DF245"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942195"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "1336734153095223615"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "789FCCC3B6FB4850FFC75735A42283EA"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "402FB826F07ABA6735616234E1A72280"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "7BADDBB0A1A39B6ACCDCD05A7D1DA76A"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "48FD255BE1AA957279F32629BF63CB02"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "F6E50B89676A586C963288A9217B9EF4"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "BFA5E523254CB1E7E5CAF05965047E28"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "87993445B466292501081EB41533B894"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "EFDDBDF9EA8691CCBCFEDFCAD2C5F258"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942196"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "8424650925559839944"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "EC40A85370CA5BF3FE38A1DE2E519D24"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "E191A0478912E5E5CE296015E76E9B09"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "86A302FC7DEF87C98337466544CED6E9"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "4A251947CC8CA86FF3BC956ABD00C3E9"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "6591EDAC5D62CE9D758CCDEDD9F53EDE"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "4B59454CD7E741FE3E1C3FF9994B305B"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "E867B06E8EB2482D8FF3B4E8DC08BF5E"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "6ABF08672D963C1E30BFEF83BD55C684"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942197"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"3.20"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"4.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "3979290990888571350"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "D886BD9D90F50890856F5DE3FD7A36C7"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "C252E5082EC57605C88000B74EF5561A"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "BC74C134FB017C8564793120ACB356A2"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "913698621EA9185505BCB906B0DAC6E5"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "12B6AB0323324BB6C67EFCBDE7997782"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "5E09162929A52B7D33CEC8100D86CCFD"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "920416E9DE1CD83CE40A0E9BBA8B24FC"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "660D379F79C777910820561559812CA0"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942199"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"4.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"4.20"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"5.00"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"5.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"6.00"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"6.10"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "5844911264921319671"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "3A9A88C5F232FC1F2EA88F814849A5A0"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "0BD15F662EC7CCB5E9F9885244F469EC"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "D87DDBA25FB02220854D4CBC3B370102"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "11FB1C127AADCD1383B77D6A0FB970CD"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "6C8E2321A0CBD615675994F235F7D8D1"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "8C7686619ECFA9D3012FBAD5F50BBB9F"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "D5E62327AFD69FADDC71A802AF122890"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "0C3956EB72B9F75B9A93FF03AC92325B"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"986331"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3187015206047810031"
+				"size" "4"
+				"download" "48"
+			}
+			"6.20"
+			{
+				"gid" "3187015206047810031"
+				"size" "4"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "7B85E71F3BC90C2E07C38B756C7906A8"
+				"size" "5C892CB98F8FD2A4C45F7306548DB0B3"
+				"download" "B0DA6BCF0EFE46010768A8275AA00595"
+			}
+			"cheats"
+			{
+				"gid" "E34ADFA85890DFC976C2B8E67F55BAC3"
+				"size" "1132204742BF0884EA5BC2181130FEB1"
+				"download" "405F44C970614336AACDEA414906949C"
+			}
+			"nightly"
+			{
+				"gid" "FC6B743DB9CEA8E13BD9409F4AF29C3E"
+				"size" "A0B3E6C2D2405D0120277D461AA60234"
+				"download" "8B0362BA9F6D41C768FB5276A0927F6C"
+			}
+			"nightly_cheat"
+			{
+				"gid" "624EF56E45290691F5B311B2307EEF5B"
+				"size" "F22636B12DECCE615859F831F9B95881"
+				"download" "EF56E4BEF2E13B5E409258575C01D677"
+			}
+			"private_beta"
+			{
+				"gid" "3AD5F913CCE87E3062012A73EF747977"
+				"size" "914C14E8A9D92143648E333B59310B6E"
+				"download" "70126FA2E6EF877197848FEA1A7B3423"
+			}
+			"private_beta2"
+			{
+				"gid" "6143EBA722BC4066DE70B27504F78C31"
+				"size" "C523B8DB7E0CB77E816AD912D3388312"
+				"download" "662D3202D4710F3200D1AE579BEDE607"
+			}
+			"private_beta4"
+			{
+				"gid" "6A15281F4A88CDAA7AE2B33C84CC8170"
+				"size" "28BEE3B6DB128672D436BACDF9A5A9A0"
+				"download" "EBBED2E5E4C3F1803B1BFA7BC47CA212"
+			}
+			"public_beta"
+			{
+				"gid" "F6391968488AC754BC9C6367CEAF6476"
+				"size" "78E0294D268FE6EE3FDE1B1330975AC7"
+				"download" "4E922F5D446B2B3BCAEAE6E9500F94B4"
+			}
+		}
+	}
+	"942190"
+	{
+		"dlcappid" "942190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"3.20"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"3.30"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"4.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"4.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"4.20"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"5.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"5.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"6.00"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"6.10"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+			"6.20"
+			{
+				"gid" "3352622177082382335"
+				"size" "610109615"
+				"download" "604278704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "B15C5232DED9A9F86588394CF7A089EC"
+				"size" "5A50AB0855E21BA9889D780436307CC5"
+				"download" "2EBFA9A42339C8F3637F109CAAFD6E35"
+			}
+			"cheats"
+			{
+				"gid" "5D983D46DEA27A8F0C79167D604FC7F0"
+				"size" "CFFC8A34376F3E49B19A00BA07082FB7"
+				"download" "8443F689F070229E3BD3E48BFD227557"
+			}
+			"nightly"
+			{
+				"gid" "69E2063D77013C41C89567F48A7865D8"
+				"size" "98C652750348B107E7A1DD20A5703A5A"
+				"download" "813EC3C0024ECF71E45C85703BC3B992"
+			}
+			"nightly_cheat"
+			{
+				"gid" "4CE4D5BE8793A40B04AFDBB67099E5C7"
+				"size" "D76C6A2A6CBCDF1D88AED1FE87457164"
+				"download" "56A9CACBE02A45D3A6A2A2B5E701D625"
+			}
+			"private_beta"
+			{
+				"gid" "31A01B39B9D3802C81DBE2C0BCC94445"
+				"size" "ECE5671B5A795B4DBE593023BA1B1E3F"
+				"download" "5A814DC7DB0FAE910A550091229CB26C"
+			}
+			"private_beta2"
+			{
+				"gid" "5E00992A65E65C980BD1298AC9FE4F62"
+				"size" "9DF9B6C6DDD0B435F2DBB3A936314E48"
+				"download" "0B03529B89461C161E44F8A919BAAFEA"
+			}
+			"private_beta4"
+			{
+				"gid" "FD2C388AE9C4A1AE37922BE26A0B24FC"
+				"size" "0AF66DD864D7A82F9A19D6D9C620ECB5"
+				"download" "733A1CBA5940249403E8FB320BD76913"
+			}
+			"public_beta"
+			{
+				"gid" "9D743054AD3C5EA2EB796913171DDE13"
+				"size" "E676261B3F4AD4C65793C61D0900A951"
+				"download" "094A6CE8B840C60EBAA25E789429F8A3"
+			}
+		}
+	}
+	"2375830"
+	{
+		"dlcappid" "2375830"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"3.20"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"3.30"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"4.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"4.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"4.20"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"5.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"5.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"6.00"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"6.10"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+			"6.20"
+			{
+				"gid" "4286061868342360493"
+				"size" "403138353"
+				"download" "407534912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "35999F886FF5F5F7E1EDA68AC146AC95"
+				"size" "5A6AA5B2A282C8B5306E94D352BBBC60"
+				"download" "091050616C591FF7621B3BA8871E3499"
+			}
+			"cheats"
+			{
+				"gid" "A0A999085804CF8B8F365A3848B568D3"
+				"size" "33EAE8060354E08E8E3DFB0BE89F7935"
+				"download" "E2BFFE825CA187EEFCA214BFA4308F39"
+			}
+			"nightly"
+			{
+				"gid" "A9739031D5B6F7138D7EEA8B2FE40020"
+				"size" "2AEC5151F3B9F4827AB2D1CDE6961431"
+				"download" "CDA57C831EA607293C85691E341D14C0"
+			}
+			"nightly_cheat"
+			{
+				"gid" "9D666D41BCED7E6609B1A65BCDBE6A21"
+				"size" "7F832BAAE98632CAA3385C062E31524C"
+				"download" "A2FA82669EF971B696B5B6AFA071C3AD"
+			}
+			"private_beta"
+			{
+				"gid" "37B16C0321B0FD8222DF910F303B297B"
+				"size" "78EEB5ECB3C54314C2BF46AAB7DC4170"
+				"download" "08E10DDFA30A525F6F5D63E010A33AE4"
+			}
+			"private_beta2"
+			{
+				"gid" "E6E99FC11B55BC1A557685CAC2B9C4DE"
+				"size" "0AAFB8B7A1D20A79BB9881A9C57F841B"
+				"download" "71546C8914144961FE477ED4726B55E8"
+			}
+			"private_beta4"
+			{
+				"gid" "2A7CBCBFAABCA5B70E2A4A8D08A27601"
+				"size" "314AA3DDDF6BF2A0D5572EB135733399"
+				"download" "A493A99E3A33BAD19B9A440E417B3D04"
+			}
+			"public_beta"
+			{
+				"gid" "D89F0F56C8A3D82EADA26CE15BE0473B"
+				"size" "D47D1AE880EA042D020E96B28EC0F6DA"
+				"download" "127AFB54246A8B51F507269A6DF4A857"
+			}
+		}
+	}
+	"1133000"
+	{
+		"dlcappid" "1133000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "554470210740010562"
+				"size" "1174287683"
+				"download" "997654000"
+			}
+			"3.20"
+			{
+				"gid" "4794589127005993189"
+				"size" "1021946298"
+				"download" "925023840"
+			}
+			"3.30"
+			{
+				"gid" "900974133192237455"
+				"size" "1025784788"
+				"download" "926332464"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "3645471190569572638"
+				"size" "1025786478"
+				"download" "926333856"
+			}
+			"4.00"
+			{
+				"gid" "3645653442738721974"
+				"size" "1036023970"
+				"download" "936801696"
+			}
+			"4.10"
+			{
+				"gid" "6248715768029226389"
+				"size" "1039321763"
+				"download" "939195968"
+			}
+			"4.20"
+			{
+				"gid" "1265674919568210855"
+				"size" "1039328227"
+				"download" "939199776"
+			}
+			"5.00"
+			{
+				"gid" "4896817324434259511"
+				"size" "1032263678"
+				"download" "933662736"
+			}
+			"5.10"
+			{
+				"gid" "4240255618866854206"
+				"size" "1032336498"
+				"download" "933724080"
+			}
+			"6.00"
+			{
+				"gid" "472321277787263097"
+				"size" "1174269181"
+				"download" "997648256"
+			}
+			"6.10"
+			{
+				"gid" "5872133100783736829"
+				"size" "1174269181"
+				"download" "997648256"
+			}
+			"6.20"
+			{
+				"gid" "554470210740010562"
+				"size" "1174287683"
+				"download" "997654000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "8AABC911CCDB7EDED098BFF32B16ABEB"
+				"size" "FE8078D4DD921AA1B74DED5B8A7DC254"
+				"download" "6F086124B3EC52B03A5E33E8EEA82BDA"
+			}
+			"cheats"
+			{
+				"gid" "56BB7447732E43D31BA493965D042C49"
+				"size" "76786B83050C9C1C6B7D1C4B3A858A38"
+				"download" "B54A11ED2B420C5610E662E5E5E17788"
+			}
+			"nightly"
+			{
+				"gid" "77FB21033B7CBA1F8BCE83233C3522F2"
+				"size" "D2E848C0DBE6AAC051FCBFE7426239AF"
+				"download" "2703AAFEF66A8DB7B3C61929D65E1DAA"
+			}
+			"nightly_cheat"
+			{
+				"gid" "D47304FB037324D4993EE860836C7B0C"
+				"size" "DF638550D371C3D7F7F04BB17E988CCB"
+				"download" "88A1ECB0A1F876D10B50B438AA763858"
+			}
+			"private_beta"
+			{
+				"gid" "27050A53A426D75389870ECF7F4D58BB"
+				"size" "92D6AD11D95177FD39AA14ADE3978BC2"
+				"download" "E318B18D3F9F30FA8B24E735FE1249DB"
+			}
+			"private_beta2"
+			{
+				"gid" "D1C4A21922D71DE6C6D081559F6CFB12"
+				"size" "42BF29BB801FEAB3A0F046BCCF14DB80"
+				"download" "FC31DC3BC69358210C380FB671E9B688"
+			}
+			"private_beta4"
+			{
+				"gid" "9EB49D52D2288087E7E6F68BA8F9F0C6"
+				"size" "8700D475EB35D70FA5E0B65AAD28B636"
+				"download" "9E4C42895F01BE05631F2354323FB4BC"
+			}
+			"public_beta"
+			{
+				"gid" "4670BBDC06D4A6F5C6337E0C7E4E1CF2"
+				"size" "66496BACD4CB9FAAF5EEA979EC1B4604"
+				"download" "ED12DFDDB13174A310F8657DC59788FC"
+			}
+		}
+	}
+	"1288460"
+	{
+		"dlcappid" "1288460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6047778819669763938"
+				"size" "2276214637"
+				"download" "1977216704"
+			}
+			"4.00"
+			{
+				"gid" "6283808386275625781"
+				"size" "2038498192"
+				"download" "1870109504"
+			}
+			"4.10"
+			{
+				"gid" "3017340153034276597"
+				"size" "2003957589"
+				"download" "1848062896"
+			}
+			"4.20"
+			{
+				"gid" "8548562941539841512"
+				"size" "2003972423"
+				"download" "1848069376"
+			}
+			"5.00"
+			{
+				"gid" "50381488715069346"
+				"size" "2039731529"
+				"download" "1872403328"
+			}
+			"5.10"
+			{
+				"gid" "7325640223401037839"
+				"size" "2041980754"
+				"download" "1874569552"
+			}
+			"6.00"
+			{
+				"gid" "451531395759730183"
+				"size" "2276213985"
+				"download" "1977300144"
+			}
+			"6.10"
+			{
+				"gid" "3304332101717601215"
+				"size" "2276213985"
+				"download" "1977300128"
+			}
+			"6.20"
+			{
+				"gid" "6047778819669763938"
+				"size" "2276214637"
+				"download" "1977216704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "2570DE0EC92CDDFFD1FE8D9F44051B41"
+				"size" "5DCA8B1467D88117053D556022F15E0D"
+				"download" "99CEE6CAFBE15ACCAAD7C803DD1F406F"
+			}
+			"cheats"
+			{
+				"gid" "DA598C9D6EE8F14D10EAA04C5E097E26"
+				"size" "1503AD2EBBAF16B09BFBAFDA39857515"
+				"download" "28C04D1CB41575F86E80429FED63963E"
+			}
+			"nightly"
+			{
+				"gid" "92419AB575DAA5106DCE6DC822CA5BCD"
+				"size" "BE017D3B9B77E66CD8F778093129B1C5"
+				"download" "E88F54B1A731E8C046AEF811FBB6A463"
+			}
+			"nightly_cheat"
+			{
+				"gid" "D06C6F5043D116A46D43AF364A5BCDB6"
+				"size" "B9A919074C7806BDA6931E7DD3141ABC"
+				"download" "9B2E9A6DF457B1A96F60D2BBD40F23A5"
+			}
+			"private_beta"
+			{
+				"gid" "BAE23845A2BA94ADA926335CB729E277"
+				"size" "D63B977652E716A262440CBDE0F75E21"
+				"download" "04B779B82389389E8392E1295AFFECCC"
+			}
+			"private_beta2"
+			{
+				"gid" "9D5A5C5CD1D70B561A861AA2A0CBB470"
+				"size" "C22A7AA82A0AB8C20680DA7DBF717F03"
+				"download" "0355BF318CCB287FFC739F0EE55CD539"
+			}
+			"private_beta4"
+			{
+				"gid" "E57EE3190D4A2DA7532C36980480E772"
+				"size" "D3C9505CE96AF7F84A4B89F14C9FB7AE"
+				"download" "404BDFD401B1076AD8DA95DBE18FE8EC"
+			}
+			"public_beta"
+			{
+				"gid" "D2424FC6C776F507F328057EDA771A0A"
+				"size" "FAB6E98D4537BC0577CC2768A44ABF00"
+				"download" "85C9CCBC08D217F0AA800FBE142AD069"
+			}
+		}
+	}
+	"1701060"
+	{
+		"dlcappid" "1701060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4988204702636752409"
+				"size" "1291903131"
+				"download" "1033493840"
+			}
+			"4.20"
+			{
+				"gid" "5588775125384654959"
+				"size" "0"
+				"download" "0"
+			}
+			"5.00"
+			{
+				"gid" "4383813745192012285"
+				"size" "1091146054"
+				"download" "948511120"
+			}
+			"5.10"
+			{
+				"gid" "267142070415913950"
+				"size" "1075807037"
+				"download" "933972752"
+			}
+			"6.00"
+			{
+				"gid" "7881212533147033596"
+				"size" "1291864274"
+				"download" "1033487408"
+			}
+			"6.10"
+			{
+				"gid" "4362664184660220230"
+				"size" "1291864274"
+				"download" "1033487408"
+			}
+			"6.20"
+			{
+				"gid" "4988204702636752409"
+				"size" "1291903131"
+				"download" "1033493840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "3426E00CB1425AF5A7D89C32B5B82955"
+				"size" "4B4D49D6F49A5B8DB4C4B38D50085D3D"
+				"download" "E7965A5A2878FF6958471BFBD53FDB68"
+			}
+			"cheats"
+			{
+				"gid" "5FB6C0F5B0827DD4D6211D0044EC52B3"
+				"size" "AF163B485F3D356DA3319C3DFD7DE96C"
+				"download" "7BD6C62E9FC50BF0D4875A9118F66210"
+			}
+			"nightly"
+			{
+				"gid" "C8B7A398E9EBBBD2308E5601AA620200"
+				"size" "15DA66A75E96869BF6ED780756E3DEC7"
+				"download" "5753633ACAB0C9A65D56C2CAFB8EE0C6"
+			}
+			"nightly_cheat"
+			{
+				"gid" "DA77C75F671DBB2780F990914B6BAFF1"
+				"size" "208D66B71DB94097237BBF43AD7D6A39"
+				"download" "C05881B8791B09868A6DE4BC881651A6"
+			}
+			"private_beta"
+			{
+				"gid" "661D0EAA60DD144308DE7E8F7537CA15"
+				"size" "8B765B4B92A8DD61DB06B09FBE6F91C5"
+				"download" "4275727F21F929FA472BC3CDDD47A7CA"
+			}
+			"private_beta2"
+			{
+				"gid" "CE794C51AC4A9A0D8D762D4E6252F508"
+				"size" "B49400D934EA997035C14F89FE193E4C"
+				"download" "23F1017107EC51F2549367D5D15B0C32"
+			}
+			"private_beta4"
+			{
+				"gid" "E94EBA0B50B1B30E6C8B9D0638EFEB0A"
+				"size" "5EE875B76FAAFBBBB0133F1CE78E33B9"
+				"download" "D2040B73B2C420558AFD072D6E03B7C5"
+			}
+			"public_beta"
+			{
+				"gid" "75B46904D32874144491E7002AA6FC13"
+				"size" "61387E66122BAE11D636EEEF12D5DCC4"
+				"download" "9DA48556471DA6972880AA5CDDF7C129"
+			}
+		}
+	}
+	"1990040"
+	{
+		"dlcappid" "1990040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "772370411167813635"
+				"size" "2120136468"
+				"download" "1782411568"
+			}
+			"5.10"
+			{
+				"gid" "6691725268287215270"
+				"size" "0"
+				"download" "0"
+			}
+			"6.00"
+			{
+				"gid" "4296435336825151368"
+				"size" "2120072774"
+				"download" "1782409424"
+			}
+			"6.10"
+			{
+				"gid" "6190667378939684882"
+				"size" "2120072774"
+				"download" "1782409424"
+			}
+			"6.20"
+			{
+				"gid" "772370411167813635"
+				"size" "2120136468"
+				"download" "1782411568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "3FB9474B31C94EBDE3B9A5DE6645C9D1"
+				"size" "017E8722D5A0A8B40594D771AD9C6103"
+				"download" "70CBD7E3448AC73BB3A8BA32D772EB68"
+			}
+			"cheats"
+			{
+				"gid" "5313D39538191CF7053AB65342E8C9B4"
+				"size" "A281ABFF795276856811E0355ECCF3A0"
+				"download" "91D665CF9C37C1093DC76E70F362CF81"
+			}
+			"nightly"
+			{
+				"gid" "46BEDFE8EFB87AB3C93D0F291323AF19"
+				"size" "EE4F1B0FFB264634DF65D77DE82B85A0"
+				"download" "59F98ACD37F18CEB583F3A8F4BD942A3"
+			}
+			"nightly_cheat"
+			{
+				"gid" "614809268A939F9B2A94D84806072AC3"
+				"size" "3523477D24A8E8FA401D8C9F16032FD1"
+				"download" "621BA2ACC1136B33FEC2CCC190B85ACA"
+			}
+			"private_beta"
+			{
+				"gid" "4BC77BB0A862CBEBD08AAAA28CEF6F4C"
+				"size" "4155A9407631CC1E542B282DF07887D7"
+				"download" "B423A24382DB9B996C738D73743A605C"
+			}
+			"private_beta2"
+			{
+				"gid" "FC8B52BFCC3C30C797EF12A342CC495B"
+				"size" "A54B67E5A867FC4AC84B309F4A1F4EF9"
+				"download" "E65414151823D724F11C91491CA605AE"
+			}
+			"private_beta4"
+			{
+				"gid" "1E79E92F5C774E5C46B0CAA6BEE7ECC9"
+				"size" "039A20AEDC68ED57C3E8F9C7A03F6982"
+				"download" "7EC5139545BA84070585F91D44EFDEA6"
+			}
+			"public_beta"
+			{
+				"gid" "7CBC972D81C8DEC80C09DE8A1D13CF34"
+				"size" "444FFA8AD01513E8A79BA6C2F985ABB5"
+				"download" "AC800139AC36C85E6588F063FD813598"
+			}
+		}
+	}
+	"2700340"
+	{
+		"dlcappid" "2700340"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3913965664811672836"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cheats"
+			{
+				"gid" "7302F19124AB0FEA49246F5B8E09D1DB"
+				"size" "10701B8AF0DD65D8E0A77ACDC3CFE711"
+				"download" "B3BE979983EC3466F5CFCA2DB9BF7B1F"
+			}
+			"nightly"
+			{
+				"gid" "AA9604585815B12F65CA0E8F31952E36"
+				"size" "126FBDF6BDD9C7A5B9A39125379255ED"
+				"download" "444B4FE15AD6400281B6EB7AEFD1AD47"
+			}
+			"nightly_cheat"
+			{
+				"gid" "4F98255E78AB34EB201A91EEDC0F6CF7"
+				"size" "19CC4285290F2FF16016202117C8BB64"
+				"download" "FEF5A6A00FBA4D8751E3FA0AE3A7E187"
+			}
+			"private_beta"
+			{
+				"gid" "C42717181D2C451A7D15A3071B5DC63B"
+				"size" "97D228FFC35303866F9241835F80145C"
+				"download" "81DC7EAEBFFC528E11756D61172E959A"
+			}
+			"private_beta2"
+			{
+				"gid" "34E9D1BA02ED7245AFFF46652C9F63E7"
+				"size" "2E0284883B85506923DBB82FB3EB0227"
+				"download" "DF8F182E675042753D7F4A0451CB6C5F"
+			}
+			"private_beta4"
+			{
+				"gid" "674D76BF7CC5F04ED20D429BF96BCA16"
+				"size" "7107941B78688DE492C50822E5914F22"
+				"download" "728582DF59DEFB79FC8D8B4CBAC60F1F"
+			}
+			"public_beta"
+			{
+				"gid" "3B5ECE661C857EF38F0766367D5958E3"
+				"size" "633978D5B774775441C1F7679D47FEA1"
+				"download" "BE0E9CDBC222C1ED96E4971F77C8E009"
+			}
+		}
+	}
+	"942198"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"3.20"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"3.30_hotfix"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"4.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"4.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"4.20"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"5.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"5.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"6.00"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"6.10"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+			"6.20"
+			{
+				"gid" "5742520538671173936"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta3"
+			{
+				"gid" "7DA6523A192BC51A3629C8B8513A8E08"
+				"size" "DC6B320C390BB75794E276091FE24041"
+				"download" "DC6B320C390BB75794E276091FE24041"
+			}
+			"cheats"
+			{
+				"gid" "D90A87CEF21AF2674CC849E8DCBDE83A"
+				"size" "7964CD9F6AE37D788A6D93E73B69DB05"
+				"download" "7964CD9F6AE37D788A6D93E73B69DB05"
+			}
+			"nightly"
+			{
+				"gid" "3EF4E04825DDEEB11C68763C4C214780"
+				"size" "A210F95F4F049CE385333DE6484F3489"
+				"download" "A210F95F4F049CE385333DE6484F3489"
+			}
+			"nightly_cheat"
+			{
+				"gid" "3A2CD8A109D60E23E3F28D19D348914C"
+				"size" "F78BFB8F540349350B05AA5B992F231F"
+				"download" "F78BFB8F540349350B05AA5B992F231F"
+			}
+			"private_beta"
+			{
+				"gid" "F3DC074D9270E36BA34BCAFBA8061715"
+				"size" "358FD9B6B3AA42758CC245C68CD25DBC"
+				"download" "358FD9B6B3AA42758CC245C68CD25DBC"
+			}
+			"private_beta2"
+			{
+				"gid" "FCE0B777910956BC6180B20B7AC2A1BC"
+				"size" "684EEEE8A79F47B3ECBE258FE6323944"
+				"download" "684EEEE8A79F47B3ECBE258FE6323944"
+			}
+			"private_beta4"
+			{
+				"gid" "695F595FDB9ED0EDCA29F0C97B5232CC"
+				"size" "5334F5E08E4014736D9D309FEA890956"
+				"download" "5334F5E08E4014736D9D309FEA890956"
+			}
+			"public_beta"
+			{
+				"gid" "194846EE4A82FC900F6644B5273E5668"
+				"size" "E59EAF817E4EAE98C59106CE0D32B245"
+				"download" "E59EAF817E4EAE98C59106CE0D32B245"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12792759"
+			"timeupdated" "1700845194"
+		}
+		"3.20"
+		{
+			"buildid" "10984287"
+			"description" "Version 3.20 (legacy)"
+			"timeupdated" "1681294191"
+		}
+		"3.30"
+		{
+			"buildid" "10984292"
+			"description" "Version 3.30 (legacy)"
+			"timeupdated" "1681294213"
+		}
+		"3.30_hotfix"
+		{
+			"buildid" "10984301"
+			"description" "Version 3.30 Hotfix 2 (legacy)"
+			"timeupdated" "1681294231"
+		}
+		"4.00"
+		{
+			"buildid" "10984305"
+			"description" "Version 4.00 Hotfix 3 (legacy)"
+			"timeupdated" "1681294252"
+		}
+		"4.10"
+		{
+			"buildid" "10984309"
+			"description" "Version 4.10 (legacy)"
+			"timeupdated" "1681294281"
+		}
+		"4.20"
+		{
+			"buildid" "10984312"
+			"description" "Version 4.20 (legacy)"
+			"timeupdated" "1681294311"
+		}
+		"5.00"
+		{
+			"buildid" "10984319"
+			"description" "Version 5.00 Hotfix 4 (legacy)"
+			"timeupdated" "1681294330"
+		}
+		"5.10"
+		{
+			"buildid" "10984321"
+			"description" "Version 5.10 Hotfix 3 (legacy)"
+			"timeupdated" "1681294348"
+		}
+		"6.00"
+		{
+			"buildid" "11235959"
+			"description" "Version 6.00 Hotfix 5 (legacy)"
+			"timeupdated" "1684166336"
+		}
+		"6.10"
+		{
+			"buildid" "11775542"
+			"description" "Version 6.10 Hotfix 1 (legacy)"
+			"timeupdated" "1690296914"
+		}
+		"6.20"
+		{
+			"buildid" "12023373"
+			"description" "Version 6.20 (legacy)"
+			"timeupdated" "1692886928"
+		}
+		"private_beta3"
+		{
+			"buildid" "12013001"
+			"pwdrequired" "1"
+			"timeupdated" "1692887005"
+		}
+		"cheats"
+		{
+			"buildid" "14742491"
+			"pwdrequired" "1"
+			"timeupdated" "1718634322"
+		}
+		"nightly"
+		{
+			"buildid" "14742304"
+			"pwdrequired" "1"
+			"timeupdated" "1718628725"
+		}
+		"nightly_cheat"
+		{
+			"buildid" "14742491"
+			"pwdrequired" "1"
+			"timeupdated" "1718629779"
+		}
+		"private_beta"
+		{
+			"buildid" "14742304"
+			"pwdrequired" "1"
+			"timeupdated" "1718634345"
+		}
+		"private_beta2"
+		{
+			"buildid" "14243756"
+			"pwdrequired" "1"
+			"timeupdated" "1715540884"
+		}
+		"private_beta4"
+		{
+			"buildid" "14159633"
+			"pwdrequired" "1"
+			"timeupdated" "1714996368"
+		}
+		"public_beta"
+		{
+			"buildid" "14742304"
+			"pwdrequired" "1"
+			"timeupdated" "1718634365"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "inputmap*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "uidata.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\save"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\save"
+			"pattern" "*.xml.gz"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"4"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "constructionplans.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"5"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "loadouts.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "userdata.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"7"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "inputmap*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"8"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "uidata.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"9"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/save"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"10"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/save"
+			"pattern" "*.xml.gz"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"11"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "constructionplans.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"12"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "loadouts.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"13"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "userdata.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"14"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\constructionplan"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"15"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\loadout"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"16"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/constructionplan"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"17"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/loadout"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"18"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "userdata_signed.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"19"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "userdata_signed.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"20"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\customgamestart"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"21"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/customgamestart"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"22"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "ventureconfig.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"23"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "ventureconfig.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"24"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "colors.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"25"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "colors.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"26"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}"
+			"pattern" "inputfeedback.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"27"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}"
+			"pattern" "inputfeedback.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+		"28"
+		{
+			"root" "WinMyDocuments"
+			"path" "Egosoft\\X4\\{Steam3AccountID}\\colorprofile"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"29"
+		{
+			"root" "LinuxHome"
+			"path" ".config/EgoSoft/X4/{Steam3AccountID}/colorprofile"
+			"pattern" "*.xml"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24002512"
+"_sha" "9096b0bcf78a8cf475d0b3bd64a45e690cbd688b"
+"_size" "81086"
