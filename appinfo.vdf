@@ -1,0 +1,594 @@
+"appid" "707030"
+"common"
+{
+	"name" "POSTAL 4: No Regerts"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "dcb2a8756fa8f392069b468257807ab297fdd92b"
+	"clienticon" "814129d7f5f29d11a4914456620fab24724cab66"
+	"icon" "34a1a739114437f9b08944553ce41bdb1542daaa"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "50914036e9771ad66803af66c4877687c8989fcd"
+	"logo_small" "50914036e9771ad66803af66c4877687c8989fcd_thumb"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1667260800"
+		"tested_build_id" "9415871"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.58882593829759"
+			"height_pct" "85.99810785241249"
+		}
+	}
+	"store_asset_mtime" "1650736073"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Running With Scissors"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Running With Scissors"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "POSTAL"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"russian"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1650481200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "707030"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "4345"
+		"2" "4182"
+		"3" "1695"
+		"4" "3839"
+		"5" "3810"
+		"6" "1697"
+		"7" "1719"
+		"8" "5923"
+		"9" "1663"
+		"10" "1774"
+		"11" "19995"
+		"12" "19"
+		"13" "4106"
+		"14" "1646"
+		"15" "4255"
+		"16" "4136"
+		"17" "1662"
+		"18" "4878"
+		"19" "1742"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "Running With Scissors"
+	"publisher" "Running With Scissors"
+	"homepage" "http://www.gopostal.com"
+}
+"config"
+{
+	"installdir" "POSTAL 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Postal4.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"707031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5407802985468849122"
+				"size" "18863445369"
+				"download" "17469519184"
+			}
+			"0.1.4.1.6"
+			{
+				"gid" "822416387292608882"
+				"size" "8347727771"
+				"download" "7863275136"
+			}
+			"1.1.1-release"
+			{
+				"gid" "3712016403333254713"
+				"size" "16779244066"
+				"download" "15390501328"
+			}
+			"1.2.0-release"
+			{
+				"gid" "5225989298397659053"
+				"size" "18372214508"
+				"download" "16991747744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "67FDAB65961B47E8F7DDEEBCCAB54C3E"
+				"size" "7B6EDCE23FB82464A60EDDC689C86918"
+				"download" "44A10D3D64497F72BADF3FDD4239E3C8"
+			}
+			"developer"
+			{
+				"gid" "1608EDD34826E6127E5620205E53F81C"
+				"size" "652C56EA2EECA64AFF36A12967B0AB07"
+				"download" "83E1859F01993F1490E07D303E0B1DBA"
+			}
+			"foramd"
+			{
+				"gid" "125A4F6C206893DD95368104DC773DC0"
+				"size" "24604128C8A352F91138831DE9D3DEDF"
+				"download" "33B97C5A4B5A9ADCD862302AED6EBC4B"
+			}
+			"janky-perftest"
+			{
+				"gid" "18EFD3228B348B0DD13207F267470C67"
+				"size" "30334F538E50F01B8BC69CC46D241CDA"
+				"download" "6A8C3D7BB09DB9D83B2E2705C020FCF3"
+			}
+			"korean"
+			{
+				"gid" "0DA2BC9C97811599EF997E965B5A4D1A"
+				"size" "E987585D77B715B431089CCA70C79734"
+				"download" "71893EE9D9B6992C5C2083B0C80C5145"
+			}
+			"next-update-dev"
+			{
+				"gid" "2675B70110EC8369E0E05428C0BAB627"
+				"size" "A8C2472BB602D2100B1AAB7CE8E1D740"
+				"download" "A71ECEA2727DC6DB2CDDBE57FC952637"
+			}
+			"nightly"
+			{
+				"gid" "721A8E3559A8780AF059DDF887309A73"
+				"size" "3B8530BD6340A7CE855291263F38B774"
+				"download" "E55591B428C62427B00DA2698BA24238"
+			}
+			"press"
+			{
+				"gid" "41748F0115FEDB6025EFB86E3235CC1D"
+				"size" "DB830804D3F282710CF8C21E74FF7FBE"
+				"download" "952D5D8F4CCDE776A4613679E6EBE347"
+			}
+			"pushka"
+			{
+				"gid" "3212B412380D5FAD00B993692DDC068B"
+				"size" "A392597FE4C5A9480640B3265E1B0060"
+				"download" "077B1AA6EE0D94F4470E60305836751B"
+			}
+			"pushka-dev"
+			{
+				"gid" "161BDB0172C73BDF7DFE65679DF9EC96"
+				"size" "0DE7177D14FAF6E475E58E8E6706EC0F"
+				"download" "3B1BE0DAF187E0A250BCC19673AEB3C3"
+			}
+			"refbuildnr1"
+			{
+				"gid" "899C4E054F208456990046080A742C97"
+				"size" "0D5E3A415FC2600680D951A2BEF7CA13"
+				"download" "82F9C8DEF667F38FE6C2143F72F8A042"
+			}
+			"test-after"
+			{
+				"gid" "52DE3F374D4EF02BCD1214AEB9722967"
+				"size" "3910F202B01C701CCA72B67B5EEAF127"
+				"download" "FA02DF0A0B38115A04AEF50FDA60F08E"
+			}
+			"test-before"
+			{
+				"gid" "D68252FE34A5C2E055C4BF1D2FFFF4EA"
+				"size" "0F7B9ABB43EF9F4C994A1C73CC014C50"
+				"download" "8C4DC4DF37687EBFFD909A00BD2BAA51"
+			}
+			"updatetest"
+			{
+				"gid" "0428CF5F51D4ED9A9ECB5EBF4661B8BF"
+				"size" "B0ABD7D4E63E73DF67CD79A33C887C79"
+				"download" "D4F34E458BC474AB04E237CE47818DAE"
+			}
+			"version-111"
+			{
+				"gid" "38BC7D4ED980AF8D75FFC803402CCBEE"
+				"size" "44F2814517609DC72A564BC4613DF481"
+				"download" "803CFE1BDD81A7CCFCD666EE1FDF970F"
+			}
+			"kstesting"
+			{
+				"gid" "4FA1A5D26AFC9898A8E2F82117288968"
+				"size" "82D79A32D1309423BA975D489A3E5A12"
+				"download" "D718AF505CCAC87F585B26A08DA80A1E"
+			}
+			"loctest"
+			{
+				"gid" "725C004E1A8C91688B9A20C0EA3D570A"
+				"size" "1B2DD34048188A91028FC21C9C982123"
+				"download" "A464EF820BC97F70DD5AE8E32ACA9457"
+			}
+			"main"
+			{
+				"gid" "47A50F00CDA226C48152400CF3B33D26"
+				"size" "EB3F41DB2E037A83DF3CAE4E776AB465"
+				"download" "DD8BCD1EE0F190DFEA80CCF127415396"
+			}
+			"main-dev"
+			{
+				"gid" "84D97387DF107062D3E8B1E5ABE9729E"
+				"size" "46BD90C63BECAB089BFAD95D0D9F53AF"
+				"download" "2C543ACD819E6276C163CFDBAA7C875E"
+			}
+			"new-janky"
+			{
+				"gid" "EF585B3E619CD32C382691E797B47417"
+				"size" "D20169DE937BEDD2B50CAFE203053667"
+				"download" "0B8FD497914D2B17B56BBB457C1738D2"
+			}
+			"next-update"
+			{
+				"gid" "ED52C93E521FB390006B4A75D3CD5B19"
+				"size" "53E9FEB4A263C6EFD3852673EE7B7EE9"
+				"download" "189C6FE977BC2C3FF9AFBE9B9B642D1D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14084380"
+			"timeupdated" "1713635808"
+		}
+		"0.1.4.1.6"
+		{
+			"buildid" "5066320"
+			"description" "Old version (Windows 7)"
+			"timeupdated" "1592235953"
+		}
+		"1.1.1-release"
+		{
+			"buildid" "10394202"
+			"description" "1.1.1 public release"
+			"timeupdated" "1693833334"
+		}
+		"1.2.0-release"
+		{
+			"buildid" "12675474"
+			"description" "1.2.0 public release"
+			"timeupdated" "1710528163"
+		}
+		"baseline"
+		{
+			"buildid" "5066320"
+			"pwdrequired" "1"
+			"timeupdated" "1593616565"
+		}
+		"developer"
+		{
+			"buildid" "13508808"
+			"pwdrequired" "1"
+			"timeupdated" "1709760415"
+		}
+		"foramd"
+		{
+			"buildid" "8858815"
+			"pwdrequired" "1"
+			"timeupdated" "1654190191"
+		}
+		"janky-perftest"
+		{
+			"buildid" "12071621"
+			"pwdrequired" "1"
+			"timeupdated" "1693428046"
+		}
+		"korean"
+		{
+			"buildid" "9970571"
+			"pwdrequired" "1"
+			"timeupdated" "1668796491"
+		}
+		"next-update-dev"
+		{
+			"buildid" "12007800"
+			"pwdrequired" "1"
+			"timeupdated" "1692748103"
+		}
+		"nightly"
+		{
+			"buildid" "10080364"
+			"pwdrequired" "1"
+			"timeupdated" "1670248240"
+		}
+		"press"
+		{
+			"buildid" "8858815"
+			"pwdrequired" "1"
+			"timeupdated" "1654190170"
+		}
+		"pushka"
+		{
+			"buildid" "14086578"
+			"pwdrequired" "1"
+			"timeupdated" "1713378162"
+		}
+		"pushka-dev"
+		{
+			"buildid" "14070311"
+			"pwdrequired" "1"
+			"timeupdated" "1713273883"
+		}
+		"refbuildnr1"
+		{
+			"buildid" "4289611"
+			"pwdrequired" "1"
+			"timeupdated" "1699561730"
+		}
+		"test-after"
+		{
+			"buildid" "12003454"
+			"pwdrequired" "1"
+			"timeupdated" "1692780881"
+		}
+		"test-before"
+		{
+			"buildid" "12021110"
+			"pwdrequired" "1"
+			"timeupdated" "1692891079"
+		}
+		"updatetest"
+		{
+			"buildid" "6383961"
+			"pwdrequired" "1"
+			"timeupdated" "1615827247"
+		}
+		"version-111"
+		{
+			"buildid" "10394202"
+			"pwdrequired" "1"
+			"timeupdated" "1693833102"
+		}
+		"kstesting"
+		{
+			"buildid" "14164731"
+			"pwdrequired" "1"
+			"timeupdated" "1713993037"
+		}
+		"loctest"
+		{
+			"buildid" "14175025"
+			"pwdrequired" "1"
+			"timeupdated" "1714060585"
+		}
+		"main"
+		{
+			"buildid" "14758927"
+			"pwdrequired" "1"
+			"timeupdated" "1718737220"
+		}
+		"main-dev"
+		{
+			"buildid" "14668494"
+			"pwdrequired" "1"
+			"timeupdated" "1718046670"
+		}
+		"new-janky"
+		{
+			"buildid" "14758927"
+			"pwdrequired" "1"
+			"timeupdated" "1718741800"
+		}
+		"next-update"
+		{
+			"buildid" "14179477"
+			"pwdrequired" "1"
+			"timeupdated" "1714090497"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "512"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Postal4/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24023426"
+"_sha" "5d28aad3249a8cdb747005adad5af0f2505936b4"
+"_size" "11876"
