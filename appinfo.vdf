@@ -1,0 +1,665 @@
+"appid" "960090"
+"common"
+{
+	"name" "Bloons TD 6"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "182e432f9a29cb100a9f4fc09a56749e03ad5a22"
+	"clienttga" "add06c026c7f1a60e5759768417cff4d8ee49ee7"
+	"icon" "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "3ad1bba6ac2f77e4d84cae768b66b13371bfb3bc"
+	"logo_small" "3ad1bba6ac2f77e4d84cae768b66b13371bfb3bc_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"danish" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticns" "a2a70787796140128f7032e1100f0fae38e53a12"
+	"osextended" "macos64,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7193455"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Bloons TD 6"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "35.46791131855309"
+			"height_pct" "53.419615293279506"
+		}
+	}
+	"store_asset_mtime" "1709862212"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ninja Kiwi"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ninja Kiwi"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bloons TD"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1545094440"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "960090"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "9"
+		"2" "3859"
+		"3" "4182"
+		"4" "3843"
+		"5" "1685"
+		"6" "5350"
+		"7" "597"
+		"8" "4191"
+		"9" "4195"
+		"10" "3810"
+		"11" "1756"
+		"12" "4026"
+		"13" "4136"
+		"14" "4726"
+		"15" "1662"
+		"16" "19"
+		"17" "492"
+		"18" "3871"
+		"19" "21"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Ninja Kiwi"
+	"publisher" "Ninja Kiwi"
+	"homepage" "https://ninjakiwi.com"
+}
+"config"
+{
+	"installdir" "BloonsTD6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BloonsTD6.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BloonsTD6.app/Contents/MacOS/BloonsTD6"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054655430"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"960091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2600394269014479292"
+				"size" "1915871876"
+				"download" "1452096448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private-coop-testing"
+			{
+				"gid" "443ED3F05C5F5F1DC2959C132BCC5A84"
+				"size" "ADB9FA01982DA8118D361329E28086E9"
+				"download" "A512D531431FEDA4EB655630CEFFB65B"
+			}
+			"special"
+			{
+				"gid" "F6A278A36D891D5BC186DA385D083401"
+				"size" "6B90716475CEA029EA1C437EE016EF75"
+				"download" "746F1398F6CB5C147A9D26F101BE4DCA"
+			}
+			"live-qa"
+			{
+				"gid" "FF32461BA62B8F4B9D792FB2914D3BCA"
+				"size" "C282648C3AD10C587225254D26F17914"
+				"download" "08E7E28B541D08837EF8573A4C6552C6"
+			}
+			"private-preview"
+			{
+				"gid" "E6A43AD97AEAD0C22E6F3E7FC210E9FA"
+				"size" "7653D47291B26D0F4F2ED9B6EA78010A"
+				"download" "22DAF1934A90FE29F8D0E81917395ECE"
+			}
+			"private-qa"
+			{
+				"gid" "461EE60ACB6FF166F9A5294438371C06"
+				"size" "7B5BF732FAD33D7D4A1F835D11D07760"
+				"download" "EF6A7CD710C438F06F3CCC043D930FFC"
+			}
+			"private-qa-2"
+			{
+				"gid" "1DD2AFC628E30F3B7066A9F2FA1C2C0E"
+				"size" "E3D3367A512331DB91F0DE2A6E7B79C3"
+				"download" "D3B2C3688A77A755FD9844A7C783B46E"
+			}
+			"private-release"
+			{
+				"gid" "806C4928C8712BD3FABAF91A7C83CC20"
+				"size" "6DDD0BECE79112D098B779E2A03E7DDB"
+				"download" "104E4EE0A9061094A8F5A9E26977E4FD"
+			}
+			"private-release-2"
+			{
+				"gid" "CF160A5377F96B78318202E7A4B86987"
+				"size" "A4610BBDF2829BCA64C778462D27290B"
+				"download" "F7D79AE5AA19A7F27D8321E79DF649C5"
+			}
+			"special2"
+			{
+				"gid" "D2820432ABD65E3EF0669DF17B328303"
+				"size" "453CC6D7143425459291E68DAA34F40A"
+				"download" "0FA12A4E376CFE4CCC5ABF2073A1AC32"
+			}
+		}
+	}
+	"960093"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4776298854234889377"
+				"size" "1928976249"
+				"download" "1453501536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private-coop-testing"
+			{
+				"gid" "496F001630B1D532A53A5B748FB20B6D"
+				"size" "842FFF61E4E168E73B95BCA1EE5BDCBB"
+				"download" "0B437654A899A7036621CC9AF5940709"
+			}
+			"special"
+			{
+				"gid" "799FC7A3AEA32FF582D58CC89FF1BD44"
+				"size" "89C48A5A15AEB6FE4DD7C4594AEE9007"
+				"download" "6D99E04E2FD77ECD2B20273D3AA0F7E9"
+			}
+			"live-qa"
+			{
+				"gid" "DF4F51A4C5C4C783A2DCF0694093C634"
+				"size" "141145C31063558FFD90616CB0F33F61"
+				"download" "CDB9700ECE8F19EBCEF33B334D589B0A"
+			}
+			"private-preview"
+			{
+				"gid" "6CFF9DC1E2D2DB336ECDA95ECFB119EB"
+				"size" "47AB5F8C6DFDEAAD0F7F209BED0DB95F"
+				"download" "00BD42569D31A3D64BABC45AAFB63108"
+			}
+			"private-qa"
+			{
+				"gid" "02AD132C62C85530E1A241ADBAFF4526"
+				"size" "9251A19484A341088310ADEC5A74D250"
+				"download" "FEF93C0D207BAA1F7C945FF2B57B8E79"
+			}
+			"private-qa-2"
+			{
+				"gid" "8AED3B1C36AE7A5D8A45F01BB8BF35E6"
+				"size" "FB3AA284AC2045D9429D2B9F0E66473E"
+				"download" "234795EF718A866361B5B5E73A8443F5"
+			}
+			"private-release"
+			{
+				"gid" "1A4459F10C83C274917116656ED11E72"
+				"size" "46993DFF92EF2CB51FBCD536ADD377B8"
+				"download" "3C277F78057D9C87AF812E62DF6BAB35"
+			}
+			"private-release-2"
+			{
+				"gid" "59606AF469DCCA69BA6A0C005FB733CB"
+				"size" "DE294DE8AE9EB4B6ACAA19A1C5BBA4B1"
+				"download" "DBFCDBF797B74B2EC7F4B35010CE8D30"
+			}
+			"special2"
+			{
+				"gid" "DEC2DA26E13B43FE7BB95392558F5975"
+				"size" "7F1BF5F881EC45055E7ADB97D633FE99"
+				"download" "60F0CE981C4191E6B28C50DFEB1B5EF6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14620034"
+			"timeupdated" "1717724623"
+		}
+		"private-coop-testing"
+		{
+			"buildid" "12055117"
+			"pwdrequired" "1"
+			"timeupdated" "1693278152"
+		}
+		"special"
+		{
+			"buildid" "12455737"
+			"pwdrequired" "1"
+			"timeupdated" "1697492665"
+		}
+		"live-qa"
+		{
+			"buildid" "14738325"
+			"pwdrequired" "1"
+			"timeupdated" "1718599919"
+		}
+		"private-preview"
+		{
+			"buildid" "14477020"
+			"pwdrequired" "1"
+			"timeupdated" "1716522666"
+		}
+		"private-qa"
+		{
+			"buildid" "14747998"
+			"pwdrequired" "1"
+			"timeupdated" "1718665802"
+		}
+		"private-qa-2"
+		{
+			"buildid" "14759631"
+			"pwdrequired" "1"
+			"timeupdated" "1718742130"
+		}
+		"private-release"
+		{
+			"buildid" "14748272"
+			"pwdrequired" "1"
+			"timeupdated" "1718667634"
+		}
+		"private-release-2"
+		{
+			"buildid" "14759633"
+			"pwdrequired" "1"
+			"timeupdated" "1718742141"
+		}
+		"special2"
+		{
+			"buildid" "14250639"
+			"pwdrequired" "1"
+			"timeupdated" "1714954548"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"portuguese"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"dutch"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"danish"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"finnish"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"norwegian"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"swedish"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"hungarian"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"czech"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+		"turkish"
+		{
+			"tokens"
+			{
+				"#status_browsing" "%browsedmenu%"
+				"#status_playing" "%playtype%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24023466"
+"_sha" "4645ad23ac849c0d4b638280426b02d44444f15d"
+"_size" "12375"
