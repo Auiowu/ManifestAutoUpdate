@@ -1,0 +1,393 @@
+"appid" "1173810"
+"common"
+{
+	"name" "FINAL FANTASY V"
+	"type" "Game"
+	"logo" "b4323d2dbf34457286a2f35fe6f5fe186dbc5b84"
+	"logo_small" "b4323d2dbf34457286a2f35fe6f5fe186dbc5b84_thumb"
+	"clienticon" "9c35c5b4b80756c285d9a935aab30c488fe59333"
+	"clienttga" "7a4069418e48b846b17e60efc7a8280fb61b5f20"
+	"icon" "44e0c2ea2c929fe4f6ba94ea1a63a3f858a80b10"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1173810_eula_0"
+			"name" "FINAL FANTASY V EULA"
+			"url" "https://store.steampowered.com//eula/1173810_eula_0"
+			"version" "1"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "1173810"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "96.19354838709677"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1705568945"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Square Enix"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Square Enix"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "FINAL FANTASY"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1636563540"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1173810"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4182"
+		"2" "4434"
+		"3" "4155"
+		"4" "3871"
+		"5" "3964"
+		"6" "21"
+		"7" "3834"
+		"8" "5608"
+		"9" "10695"
+		"10" "4325"
+		"11" "3854"
+		"12" "4057"
+		"13" "4004"
+		"14" "5708"
+		"15" "1742"
+		"16" "1677"
+		"17" "1684"
+		"18" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Square Enix"
+	"publisher" "Square Enix"
+	"homepage" "https://ffpixelremaster.com/"
+	"listofdlc" "1638400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "FINAL FANTASY V PR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FINAL FANTASY V.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "beta"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamconfigurator3rdpartynative" "12"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,vietnamese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1173811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "854595779653032874"
+				"size" "757267613"
+				"download" "602872448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "6AF65E8952E36EC285CD5131B4CF9724"
+				"size" "80E31FF964B003FB64D1E0F0545F3A32"
+				"download" "304FCCC493939A0B64012F0D3AAD6C14"
+			}
+			"beta-product"
+			{
+				"gid" "4DF6152E675942A0355D7EDDA20FC11C"
+				"size" "23FF1BA31EC2AC188B699AF70094B34E"
+				"download" "923A02923039A84C6364FD9BB82E5163"
+			}
+			"master"
+			{
+				"gid" "E1C6C089413D144AE9AD17A1BBD94A2A"
+				"size" "B633936EA52CB075FF5D8DF9ACCA0BFA"
+				"download" "CA8BF64D78BC1B60FEE93C5A56106F30"
+			}
+		}
+	}
+	"1638400"
+	{
+		"dlcappid" "1638400"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8854473015433768189"
+				"size" "52394827"
+				"download" "35864880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "9BC959D327D88C32E09537B1F65DDE23"
+				"size" "38BD6ADCE9C4EA61112A0526590D4850"
+				"download" "93D4E745F967F258DB0DE138047FB9F0"
+			}
+			"beta-product"
+			{
+				"gid" "FF6E8EABA877C8244CA87CE914A409B1"
+				"size" "1E7DE33D352F9C710E48312BBE11CCE8"
+				"download" "3F50B63DA95A09E39FA38C2877FA1A11"
+			}
+			"master"
+			{
+				"gid" "B2BC17510C313EB07A36142D59BC0494"
+				"size" "69698D606315844101DAA2FB6B3FA22C"
+				"download" "39A58E33F78EFC65280282F406BA6232"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13471376"
+			"timeupdated" "1708941489"
+		}
+		"beta"
+		{
+			"buildid" "13449438"
+			"pwdrequired" "1"
+			"timeupdated" "1707874450"
+		}
+		"beta-product"
+		{
+			"buildid" "13471376"
+			"pwdrequired" "1"
+			"timeupdated" "1708048580"
+		}
+		"master"
+		{
+			"buildid" "9236351"
+			"pwdrequired" "1"
+			"timeupdated" "1660120205"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/FINAL FANTASY V PR/Steam/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "41f3460b1955168bec08f6fcb5800ee9cd7932fd"
+"_size" "7082"
