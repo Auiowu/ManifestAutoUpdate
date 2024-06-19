@@ -1,0 +1,545 @@
+"appid" "1367550"
+"common"
+{
+	"name" "Kingdom Rush Vengeance"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "073eba976d526a8bf258092476678e8d4e27825e"
+	"logo_small" "073eba976d526a8bf258092476678e8d4e27825e_thumb"
+	"icon" "f6eda841719d02a0b0248b5043f36dfd1fdec335"
+	"clienticon" "c19d0ba4bfb07aeb1b7e8dc6b19eadb6c87376ed"
+	"clienttga" "fc3ce50207a4c11ee24210ae79345e9c5df5f8b5"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "5727607"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"portuguese" "capsule_231x87_portuguese.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"russian" "header_russian.jpg"
+		"japanese" "header_japanese.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"schinese" "header_schinese.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"koreana" "header_koreana.jpg"
+		"spanish" "header_spanish.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"latam" "header_latam.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,de,fr,ko,es,zh-cn,zh-tw,ru,ja,pt,pt-br,es-419"
+		"library_hero" "en,de,fr,ko,es,zh-cn,zh-tw,ru,ja,pt,pt-br,es-419"
+		"library_logo" "en,de,fr,ko,es,zh-cn,zh-tw,ru,ja,pt,pt-br,es-419"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "39.51116934987502"
+			"height_pct" "98.26427245886424"
+		}
+	}
+	"store_asset_mtime" "1717422276"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ironhide Game Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Ironhide Game Studio"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Ironhide Game Studio"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_42" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1602766860"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1367550"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "9"
+		"2" "4182"
+		"3" "3871"
+		"4" "4026"
+		"5" "4172"
+		"6" "6426"
+		"7" "4562"
+		"8" "21"
+		"9" "9541"
+		"10" "19"
+		"11" "4106"
+		"12" "4305"
+		"13" "1684"
+		"14" "4195"
+		"15" "4342"
+		"16" "5350"
+		"17" "21725"
+		"18" "4736"
+		"19" "9271"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Ironhide Game Studio"
+	"publisher" "Ironhide Game Studio"
+	"homepage" "https://www.kingdomrushvengeance.com/"
+	"listofdlc" "2695220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Kingdom Rush Vengeance"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Kingdom Rush Vengeance.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Kingdom Rush Vengeance.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Kingdom Rush Vengeance.app/Contents/MacOS/Kingdom Rush Vengeance"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "internal"
+			}
+			"description_loc"
+			{
+				"english" "KRV on Intel"
+			}
+			"description" "KRV on Intel"
+		}
+		"3"
+		{
+			"executable" "Kingdom Rush Vengeance.app"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "internal"
+			}
+			"description_loc"
+			{
+				"english" "KRV on best architecture"
+			}
+			"description" "KRV on best architecture"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2442407340"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1367551"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4828315176983616200"
+				"size" "1231983328"
+				"download" "897303680"
+			}
+			"open_beta"
+			{
+				"gid" "7713240704703125093"
+				"size" "1116868677"
+				"download" "809529120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "574624AAE1F451E0C1A4F3276A3BDA59"
+				"size" "38CAB305EB4D51DB9FD1E9340DB0A711"
+				"download" "05C7FDD6C1B4DBCD70A268B94AD8F96E"
+			}
+			"debug"
+			{
+				"gid" "9E79E89F272ABB982CD726DF6E72B047"
+				"size" "1E51B54C3852C4318F6DBC1DC0D6FD6B"
+				"download" "21EE2D43C8C4D4A8150EC178640E7CDC"
+			}
+			"internal"
+			{
+				"gid" "CB9A8B0D5FE8AD567AD79F078694F74C"
+				"size" "73D8B5B199F4FE980582988C64C7135A"
+				"download" "C8CE822770D7F148FB70D6D04C592C83"
+			}
+			"more_logging"
+			{
+				"gid" "51DD878CAB5AAD1153E6ACB19F29DD0D"
+				"size" "776761AC3FE6FA33A4A202BDF9209D02"
+				"download" "EC839D1C2F9C2182F78DB5AF4DD9D854"
+			}
+		}
+	}
+	"1367552"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7584803989950777093"
+				"size" "1236175072"
+				"download" "887283792"
+			}
+			"open_beta"
+			{
+				"gid" "72931253918898789"
+				"size" "1120883781"
+				"download" "799479840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "48C1770149440AC985D18972DAF03C7E"
+				"size" "BCAB8D86DD3AA10AC84AB9D3EFA1CCB3"
+				"download" "A48F0DA7503B4CDBEFA6CB6D43F198AD"
+			}
+			"debug"
+			{
+				"gid" "513190FEDCC4F19C1DE260DC19A7C77D"
+				"size" "2A8EEF6EAB3429658E8E20EB15C145A5"
+				"download" "702E3C77D8DE132E6D628BF3F988AAB1"
+			}
+			"internal"
+			{
+				"gid" "D6CA5863886E58CDB3CB137C3A550D03"
+				"size" "E9363826B3AFE2B7C7B519324DE92737"
+				"download" "FD6567B834BB3E1300CEB0C87239176C"
+			}
+			"more_logging"
+			{
+				"gid" "0A760B6838B3A82863826E9F5EFEE1D7"
+				"size" "1F36479AFE35222DB79278C2623BC78C"
+				"download" "36040A20328F4277F08E6CABDB6408C5"
+			}
+		}
+	}
+	"1367553"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4089869597260925772"
+				"size" "1275213789"
+				"download" "898628480"
+			}
+			"open_beta"
+			{
+				"gid" "8358521575762635216"
+				"size" "1148334369"
+				"download" "794809168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "E679472AE08899F94800ECCCDE1424D6"
+				"size" "E808889233231FACEDA05FC3C4032826"
+				"download" "9C1213EF30152B2858CC425E18B607D5"
+			}
+			"debug"
+			{
+				"gid" "7927CA0E0158254E680EC57EC9E7B057"
+				"size" "EFE8E69611DF23CA7AE2E32AF2F93497"
+				"download" "DB9A2427B14DA45C87D65EFBE4562125"
+			}
+			"internal"
+			{
+				"gid" "49BD79D968C0BD270D88B4783D1F1EFC"
+				"size" "51209A991D72E70EAD80E224AE5B720E"
+				"download" "E075AD706DB9AC30F6F43718CB7C1741"
+			}
+			"more_logging"
+			{
+				"gid" "CD17760F6779A85B3C0FA4E087F8A60F"
+				"size" "7A4C80483ECB8CD0D18AD5E67400BACC"
+				"download" "FFB02708E8A414D6BCABE80AE3231B55"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13645336"
+			"timeupdated" "1709810420"
+		}
+		"beta"
+		{
+			"buildid" "13645336"
+			"pwdrequired" "1"
+			"timeupdated" "1709642201"
+		}
+		"debug"
+		{
+			"buildid" "8218816"
+			"pwdrequired" "1"
+			"timeupdated" "1645063980"
+		}
+		"internal"
+		{
+			"buildid" "13645336"
+			"pwdrequired" "1"
+			"timeupdated" "1709642188"
+		}
+		"more_logging"
+		{
+			"buildid" "12966197"
+			"pwdrequired" "1"
+			"timeupdated" "1702590763"
+		}
+		"open_beta"
+		{
+			"buildid" "9651219"
+			"description" "Public beta testing branch"
+			"timeupdated" "1702578003"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "3145728"
+	"maxnumfiles" "16"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Kingdom Rush Vengeance"
+			"pattern" "slot*.plist"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacDocuments"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kingdom Rush Vengeance"
+					"replace" "Kingdom Rush Vengeance"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23826253"
+"_sha" "93c68be9ce814ec10c231a9606639a1244720d70"
+"_size" "10682"
