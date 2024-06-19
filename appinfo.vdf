@@ -1,0 +1,371 @@
+"appid" "1929610"
+"common"
+{
+	"name" "Demonologist"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"controllervr"
+	{
+		"kbm" "1"
+	}
+	"icon" "ac2b7b0810b1c6d0364bb3e73d552fece53b7c29"
+	"clienttga" "41f493e2f69bee54bcd3446ac8d254d1e6dd85ab"
+	"clienticon" "8fb0591b7daff6c8ff2ffadbdbae530b099066cc"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681257600"
+		"tested_build_id" "10960786"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1679163120"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Clock Wizard Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Clock Wizard Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1695653688"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1929610"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3859"
+		"2" "3843"
+		"3" "1721"
+		"4" "1685"
+		"5" "8369"
+		"6" "3839"
+		"7" "4342"
+		"8" "1710"
+		"9" "9541"
+		"10" "5716"
+		"11" "5613"
+		"12" "492"
+		"13" "4145"
+		"14" "4064"
+		"15" "4191"
+		"16" "19"
+		"17" "1708"
+		"18" "7432"
+		"19" "3978"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Clock Wizard Games"
+	"publisher" "Clock Wizard Games"
+	"homepage" "http://www.clockwizardgames.com/"
+}
+"config"
+{
+	"installdir" "Demonologist"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Demonologist.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1929611"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "255868102975074424"
+				"size" "25279721213"
+				"download" "22916123792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "36F7D2BED46941ACD4AA801474852195"
+				"size" "F8ED8B604FA2D0110B9CA8ED28AB4043"
+				"download" "E3420524A414C8DEC4754AEB8F3E675C"
+			}
+			"dev-development"
+			{
+				"gid" "F95870AE2551EB16401B25EBD0C7E80A"
+				"size" "E2A1FF653E58BACA0E383BC250DC7E10"
+				"download" "901866E1AEF16D832B588C62F1781FB3"
+			}
+			"test"
+			{
+				"gid" "082192D24F4C6FE455378F47E6D2C102"
+				"size" "61EEDF7092E998501F7DCB8F076DCB4D"
+				"download" "F112E855C60DF74E636DACA8771459A3"
+			}
+		}
+	}
+	"1929618"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13984967"
+			"timeupdated" "1712598283"
+		}
+		"debug"
+		{
+			"buildid" "13283219"
+			"pwdrequired" "1"
+			"timeupdated" "1706281591"
+		}
+		"dev-development"
+		{
+			"buildid" "13984967"
+			"pwdrequired" "1"
+			"timeupdated" "1712574941"
+		}
+		"test"
+		{
+			"buildid" "13984967"
+			"pwdrequired" "1"
+			"timeupdated" "1712574935"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Shivers/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23192576"
+"_sha" "74fb3395c69e0785dd2d3395b0af346bdf4f0519"
+"_size" "6012"
