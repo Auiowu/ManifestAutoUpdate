@@ -1,0 +1,366 @@
+"appid" "1839950"
+"common"
+{
+	"name" "Terminator: Dark Fate - Defiance"
+	"type" "Game"
+	"logo" "ec95362d6c5540d63bc37004a1117b5d559072dc"
+	"logo_small" "ec95362d6c5540d63bc37004a1117b5d559072dc_thumb"
+	"icon" "4f2defbea8dcc993d18df5b0d44a9bb308daa4a5"
+	"clienticon" "fe305c661b15669ef6b263ef71be3331f68fc019"
+	"clienttga" "48d0c3ad2d625cef5cd6ac1fb25c37c8e25f5a66"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "终结者: 黑暗命运 - 反抗"
+	}
+	"languages"
+	{
+		"english" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1839950_eula_0"
+			"name" "Terminator: Dark Fate - Defiance EULA"
+			"url" "https://store.steampowered.com//eula/1839950_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1710547200"
+		"tested_build_id" "13563725"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Terminator: Dark Fate - Defiance"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718208592"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slitherine Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slitherine Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Terminator"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708527647"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/terminator-dark-fate---defiance\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1839950"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "3813"
+		"2" "4684"
+		"3" "1676"
+		"4" "4166"
+		"5" "4191"
+		"6" "4598"
+		"7" "7926"
+		"8" "5372"
+		"9" "4342"
+		"10" "5363"
+		"11" "5984"
+		"12" "4295"
+		"13" "5030"
+		"14" "5608"
+		"15" "1667"
+		"16" "3854"
+		"17" "12472"
+		"18" "4821"
+		"19" "4168"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Slitherine Ltd."
+	"publisher" "Slitherine Ltd."
+	"homepage" "https://www.slitherine.com/steam"
+	"gamemanualurl" "https://store.steampowered.com/manual/1839950/"
+}
+"config"
+{
+	"installdir" "Terminator Dark Fate - Defiance"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Launcher.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1839951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8591040899269552824"
+				"size" "17151488384"
+				"download" "17207280512"
+			}
+			"beta"
+			{
+				"gid" "7252945290629954079"
+				"size" "17129375515"
+				"download" "17184866864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "C867AE6F64A662ADAD25AA82DAA74A68"
+				"size" "B557506622F4C998641A9ED2ECF9EFE6"
+				"download" "159DC4D5B6DECB6CD405CD219A8A7E10"
+			}
+			"marketing"
+			{
+				"gid" "1B6F85C6057F3639F57A2DAC3723D267"
+				"size" "E1F1C3B86A19CEE0020A1051F812877E"
+				"download" "CD34D814BD924C974E09B9566669320D"
+			}
+		}
+	}
+	"1839952"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3528315582367122008"
+				"size" "6242288"
+				"download" "3413504"
+			}
+			"beta"
+			{
+				"gid" "8651520486860462522"
+				"size" "6242288"
+				"download" "3413504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "0ED6B56357B8658C3EAA69AA5A1B4044"
+				"size" "18683B479FC13000A326864197384A3B"
+				"download" "3F027CE7A455E505719F8407E7F80FC8"
+			}
+			"marketing"
+			{
+				"gid" "F8D40DE9D6646AF923561D2953D29F09"
+				"size" "A07578D024C91AD0E49548EB60493A41"
+				"download" "34B81AA48B8E8793FA4BFA694B290E25"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14679038"
+			"timeupdated" "1718200221"
+		}
+		"beta"
+		{
+			"buildid" "14665002"
+			"description" "Open Beta"
+			"timeupdated" "1718028360"
+		}
+		"devtest"
+		{
+			"buildid" "14766725"
+			"pwdrequired" "1"
+			"timeupdated" "1718792798"
+		}
+		"marketing"
+		{
+			"buildid" "14679038"
+			"pwdrequired" "1"
+			"timeupdated" "1718185321"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "\\My Games\\Terminator Dark Fate\\profiles"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24032073"
+"_sha" "9ad380661a09a7cf7991c169ed8dbf95ad9488ab"
+"_size" "6873"
