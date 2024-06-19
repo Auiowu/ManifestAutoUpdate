@@ -1,0 +1,660 @@
+"appid" "1702010"
+"common"
+{
+	"name" "Sengoku Dynasty"
+	"type" "Game"
+	"logo" "f97f9b21a67c3297df0525798cd6a61e036838d1"
+	"logo_small" "f97f9b21a67c3297df0525798cd6a61e036838d1_thumb"
+	"icon" "56e8fee714ef019c989e7a5e312a7dfad3405dd1"
+	"clienticon" "0f9ea83d3fc2fc6446990aceed6e8449b02efd07"
+	"clienttga" "2e4dd8b49e513b4d3a2ca08f6c30b46ae2845e3f"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "战国王朝"
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1696032000"
+		"tested_build_id" "11945816"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "52.237278849340015"
+			"height_pct" "48.32581334599854"
+		}
+	}
+	"store_asset_mtime" "1718352683"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Superkami"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Toplitz Productions"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dynasty"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1691679464"
+	"community_hub_visible" "1"
+	"gameid" "1702010"
+	"store_tags"
+	{
+		"0" "4172"
+		"1" "10235"
+		"2" "1662"
+		"3" "1695"
+		"4" "122"
+		"5" "1643"
+		"6" "1702"
+		"7" "3834"
+		"8" "3859"
+		"9" "3839"
+		"10" "21"
+		"11" "3987"
+		"12" "1685"
+		"13" "3843"
+		"14" "220585"
+		"15" "4182"
+		"16" "8945"
+		"17" "12472"
+		"18" "1697"
+		"19" "3810"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "Superkami"
+	"publisher" "Toplitz Productions"
+	"homepage" "https://www.toplitz-productions.com/home.html"
+	"listofdlc" "2513030"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Sengoku Dynasty"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SengokuDynasty.exe"
+			"arguments" "-PLATFORM=STEAM"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1702011"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8027514482368994965"
+				"size" "14246675914"
+				"download" "7531265136"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"epic"
+			{
+				"gid" "AB52C85F5608E658A5111F22DFC509F3"
+				"size" "4BEEEC6BE9612AC5CD4B3C849B25CEC3"
+				"download" "1E3D9322D3B5C5B75FC194C03B866282"
+			}
+			"fallback"
+			{
+				"gid" "B7742EABA876817BD4FD86BEA4CD93C0"
+				"size" "CA81C9F1FF06B91BA55568B179C5614E"
+				"download" "CB43C8888D74BCA010B4CDD2994062C3"
+			}
+			"guidetest"
+			{
+				"gid" "FBB73A2B0577B3E6342A710DE35AE726"
+				"size" "9EE3461AB899B47F0F995BAE3DC6C49A"
+				"download" "5A0CA07076B99D2C6A67B3346E8F3131"
+			}
+			"huwiz"
+			{
+				"gid" "8A021F0530A494DF1319E48E6E47B893"
+				"size" "34AC955194715D05E476AD12DC9B3750"
+				"download" "BB69692AABF95655CE61B003D97EB6D4"
+			}
+			"review072023"
+			{
+				"gid" "C0435AF0162BCF91D4BBC41063144A98"
+				"size" "34180380A21CB0C34FA27BCF7AD55606"
+				"download" "468D0DEFAA67D819E630633728C8C916"
+			}
+			"throwback"
+			{
+				"gid" "67D3D70E0B0BD3EE0E2007FA6CF2C741"
+				"size" "0B3811CAB6A8BA4F308A536674BD2A08"
+				"download" "6A9C34E4083B6052BE64D47016A500C8"
+			}
+			"verticalslice"
+			{
+				"gid" "76B1AC2EC1D61E09CA4D556244F657E9"
+				"size" "A19C81C0238072FD3F63715AAA38C4BB"
+				"download" "7FEACBD2CC075C349BA3E7456ED55BA8"
+			}
+			"combat"
+			{
+				"gid" "5EA84F3BFFAAF0C79430DE3FAE3EE41C"
+				"size" "302E9252E7C0B19D09C8968B172254B3"
+				"download" "DC738B1CDA5717479E9DC9E1892E5572"
+			}
+			"devmain"
+			{
+				"gid" "38F48452AF063C62D1FD33FC1E0D9197"
+				"size" "16D62F28CBC068EE5ED31C15B9390150"
+				"download" "7799D63B3FAD0BB5B8E8D945D3E046DA"
+			}
+			"devupdate"
+			{
+				"gid" "6C6F909334C7550F2A76F07162F2501B"
+				"size" "17E33B33DAAD32D92BA8F67A35FBC730"
+				"download" "8E84D475D89E17EBA8D3D53180DBC7CA"
+			}
+			"future"
+			{
+				"gid" "F5F45765140FA2C3466404AA37D1C582"
+				"size" "AC03042EC8E009AEE5B2C30A7F8DA25A"
+				"download" "0AAB8D3C0ED3E5C8DCD6B527EBC617F1"
+			}
+			"jenkins"
+			{
+				"gid" "FD7DC51696F9B57E60F853F4F257C4B6"
+				"size" "9900A10B697878E7C8F8E66081702CF3"
+				"download" "419A1B593C5C36BA5C43806F9D91CDA0"
+			}
+			"marketing"
+			{
+				"gid" "694BF8D39E85A5BAF392571940ACC67D"
+				"size" "7C05C9A9A864C9DE38D60E9F35662FA1"
+				"download" "24D89F5CA3E51794D1760A7F4F9D8997"
+			}
+			"press"
+			{
+				"gid" "C00EC55509F1704A0ABA8E0357E0970E"
+				"size" "8F64E8EECAFA89FF9D38A2B6EA82076F"
+				"download" "3A8147A0DFF5B4349A5151B3375F417E"
+			}
+			"prodmain"
+			{
+				"gid" "DE6C371947C38C52FCC67EBEA4A03BE2"
+				"size" "61B9E050CCCBD2007F60AF069E7895C7"
+				"download" "F9CEC0C0B5E96C331AF9F0A30FE39F97"
+			}
+			"produpdate"
+			{
+				"gid" "30D27FC5B835647D79DB253B7112C221"
+				"size" "E73E99B1F627BE91E416770CA71DD7DE"
+				"download" "A1893A8F53FDBB67DF4312F3C32EC72C"
+			}
+			"releasecandidate"
+			{
+				"gid" "2B9FDE45E9A23FB36BDA63EA32324953"
+				"size" "41706B20AA85FE83EF84C31966C65C53"
+				"download" "D72AD7220100E5282F299952FC479CF4"
+			}
+			"smoke"
+			{
+				"gid" "5E0085EF4F00A3C2700FE27D7DB3627F"
+				"size" "923E105C4F7320EB641F80D1FA6769A3"
+				"download" "477AD8307270D9CE9F43FD7F6EC14A68"
+			}
+			"test"
+			{
+				"gid" "55BF966ED5F969B00A511509D45CB830"
+				"size" "4573831BB6303A73184553F448CF8068"
+				"download" "372D6407046584DF30684F9930AF91EE"
+			}
+			"test1"
+			{
+				"gid" "7B08D96CD18F18C54688D46F7A73C241"
+				"size" "458EFC3F4D993532218687E7F6886A78"
+				"download" "00579FB440D170C6535CF0DABA876053"
+			}
+			"test2"
+			{
+				"gid" "66BEE31E60B3F3C75472D05978B7766C"
+				"size" "57506198497B50875CABA2A7842DEAB0"
+				"download" "662D4880D0ED060A457EE1BA17130D27"
+			}
+		}
+	}
+	"2513030"
+	{
+		"dlcappid" "2513030"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "97103373510373741"
+				"size" "127436850"
+				"download" "122502672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"fallback"
+			{
+				"gid" "7EA3FA8653550DDC6C83E19DF346ECE3"
+				"size" "C8C13FCB6BAA31374BC68A39DEE31529"
+				"download" "8B9726D6644719C7D9A356B6DA06FA21"
+			}
+			"guidetest"
+			{
+				"gid" "1064BEADA48B9FD05C743FC7CAC99D62"
+				"size" "0B12FF8801162818C7CC089DEBFC6B7C"
+				"download" "8286B22D43721BAA6221D873E72D5E86"
+			}
+			"huwiz"
+			{
+				"gid" "D5650DB7DA31B4D97FF557B78BCF4734"
+				"size" "1ADCFE87822A6056A13F39733FA90843"
+				"download" "F35BAFB676FDC846BDCED5A776ABDE33"
+			}
+			"combat"
+			{
+				"gid" "428F264A366B1875D586C71658A0695B"
+				"size" "A24C15A5005FD8C0B70062983E1F25FE"
+				"download" "3869C68666C2237F62E60A000B20AAD1"
+			}
+			"devmain"
+			{
+				"gid" "09B9463C19453A094B3111293509FBC2"
+				"size" "D9024E4F01545949AD4C7B21D946DFBF"
+				"download" "6C25580FF48384C0557EDB415EBE9187"
+			}
+			"devupdate"
+			{
+				"gid" "DA8BB8A902DC4DBA033BD4993388DE62"
+				"size" "8E22A08B339E4284C10600A510C0D23A"
+				"download" "01EBC8231D36AF9011A99B9E942F0E9E"
+			}
+			"future"
+			{
+				"gid" "0951F50652168C073E0D709A49381A1F"
+				"size" "1B9E4A6CB89CC293CE7B489953E2B8B9"
+				"download" "E4EBF1BF71CF631BEEF1789E4A08A0FD"
+			}
+			"marketing"
+			{
+				"gid" "61E85D0859354D05F986F4BA3351E91B"
+				"size" "B830DE54803E2FF5FB2ABF78F207A474"
+				"download" "45A5A7D2831BF4C80EB7086FAF51E84B"
+			}
+			"press"
+			{
+				"gid" "5C9C0392DA7B157585B61D888CB153BE"
+				"size" "87B2DA0646FBDA8416F4709D7D4A6BC3"
+				"download" "25A9905DD7EA599824F53EAE2C463DE5"
+			}
+			"prodmain"
+			{
+				"gid" "7DF3C751E03B56A0DCC858B432DB7B40"
+				"size" "BEF33365BE24182EB9D5F658E1900F68"
+				"download" "95C808024DC3C633628D052EB7AA91F5"
+			}
+			"produpdate"
+			{
+				"gid" "E12CA172B834AE885E43CCEC20D7A846"
+				"size" "DAFC8DBCFA89D44738E8851ABC92F052"
+				"download" "89684FA0C0414A057D98CABDBD6A8921"
+			}
+			"releasecandidate"
+			{
+				"gid" "CDDA4B39CC20324078D10BF240978EE0"
+				"size" "C3F8CDF145FD44932D83851A565B5C19"
+				"download" "2DEC32ACC907CF0BA437DC2165685E39"
+			}
+			"smoke"
+			{
+				"gid" "3D84A98C2BDF826B023FEE4A6FA46B9E"
+				"size" "55795BB62560776A518AE0340496571E"
+				"download" "AEC1AF88A1E25BE6C50D2BD1DAB42A69"
+			}
+			"test"
+			{
+				"gid" "FED1732518A03138EC577C945D3931F9"
+				"size" "EB2483C25C34352F546D8DC36B3A7BC3"
+				"download" "D3C5E1304D01C37831EC749BCD627F31"
+			}
+			"test1"
+			{
+				"gid" "C7BE7C83F96968A0F673F9AF50615C0E"
+				"size" "26EEFFD8F7B13C20E75E3AB0C7F9360C"
+				"download" "E1FB1233FF454A764D08EAC693587760"
+			}
+			"test2"
+			{
+				"gid" "B60C7E3CE8172A4A45A7EA1EC0AEA667"
+				"size" "6D20219BED6985A85E1D216485527989"
+				"download" "A3370F386DD4EDC234092A179BD90384"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" ""
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14188395"
+			"timeupdated" "1714150046"
+		}
+		"epic"
+		{
+			"buildid" "11885071"
+			"pwdrequired" "1"
+			"timeupdated" "1691422003"
+		}
+		"fallback"
+		{
+			"buildid" "13337943"
+			"pwdrequired" "1"
+			"timeupdated" "1710248096"
+		}
+		"guidetest"
+		{
+			"buildid" "12971373"
+			"pwdrequired" "1"
+			"timeupdated" "1706806436"
+		}
+		"huwiz"
+		{
+			"buildid" "13647669"
+			"pwdrequired" "1"
+			"timeupdated" "1709660563"
+		}
+		"review072023"
+		{
+			"buildid" "11883577"
+			"pwdrequired" "1"
+			"timeupdated" "1691432316"
+		}
+		"throwback"
+		{
+			"buildid" "7918725"
+			"pwdrequired" "1"
+			"timeupdated" "1691078272"
+		}
+		"verticalslice"
+		{
+			"buildid" "10099909"
+			"pwdrequired" "1"
+			"timeupdated" "1675179595"
+		}
+		"combat"
+		{
+			"buildid" "14630361"
+			"pwdrequired" "1"
+			"timeupdated" "1717702365"
+		}
+		"devmain"
+		{
+			"buildid" "14754368"
+			"pwdrequired" "1"
+			"timeupdated" "1718711653"
+		}
+		"devupdate"
+		{
+			"buildid" "14172614"
+			"pwdrequired" "1"
+			"timeupdated" "1714048141"
+		}
+		"future"
+		{
+			"buildid" "14767778"
+			"pwdrequired" "1"
+			"timeupdated" "1718798967"
+		}
+		"jenkins"
+		{
+			"buildid" "14767511"
+			"pwdrequired" "1"
+			"timeupdated" "1718797417"
+		}
+		"marketing"
+		{
+			"buildid" "14755033"
+			"pwdrequired" "1"
+			"timeupdated" "1718715422"
+		}
+		"press"
+		{
+			"buildid" "14174408"
+			"pwdrequired" "1"
+			"timeupdated" "1714057252"
+		}
+		"prodmain"
+		{
+			"buildid" "14755033"
+			"pwdrequired" "1"
+			"timeupdated" "1718715226"
+		}
+		"produpdate"
+		{
+			"buildid" "14188290"
+			"pwdrequired" "1"
+			"timeupdated" "1714149415"
+		}
+		"releasecandidate"
+		{
+			"buildid" "14174388"
+			"pwdrequired" "1"
+			"timeupdated" "1714057215"
+		}
+		"smoke"
+		{
+			"buildid" "14755033"
+			"pwdrequired" "1"
+			"timeupdated" "1718715411"
+		}
+		"test"
+		{
+			"buildid" "14755688"
+			"pwdrequired" "1"
+			"timeupdated" "1718718571"
+		}
+		"test1"
+		{
+			"buildid" "14745505"
+			"pwdrequired" "1"
+			"timeupdated" "1718647875"
+		}
+		"test2"
+		{
+			"buildid" "14745679"
+			"pwdrequired" "1"
+			"timeupdated" "1718649130"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "SengokuDynasty/Saved/SaveGames/GameSaves"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24033314"
+"_sha" "06ab6fb4b4998856debefc88702d29d05ac6ae81"
+"_size" "13684"
