@@ -1,0 +1,369 @@
+"appid" "805550"
+"common"
+{
+	"name" "Assetto Corsa Competizione"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "413dfe7829dd6e2776b7daef24c45b6f8f1f9ae5"
+	"logo" "df4663c038048aa1507d8e026f22144fcfd64648"
+	"logo_small" "df4663c038048aa1507d8e026f22144fcfd64648_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "805550_eula_0"
+			"name" "Assetto Corsa Competizione EULA"
+			"url" "http://store.steampowered.com//eula/805550_eula_0"
+		}
+	}
+	"clienticon" "b37fb9f7534d471eb5e8e40fcd99a2a31003104f"
+	"clienttga" "23a5aae4f0461834cabc56255e93f5bf01bf2ff1"
+	"oslist" "windows"
+	"osarch" "64"
+	"controllervr"
+	{
+		"xinput" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"name_localized"
+	{
+		"schinese" "神力科莎：竞速 Assetto Corsa Competizione"
+		"tchinese" "神力科莎出賽準備: 競爭 Assetto Corsa Competizione"
+		"koreana" "아세토 코르사컴페티치오네 Assetto Corsa Competizione"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "7623629"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Assetto Corsa Competizione"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29"
+			"height_pct" "35"
+		}
+	}
+	"store_asset_mtime" "1694450780"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kunos Simulazioni"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Assetto Corsa"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "9"
+		"1" "28"
+		"2" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_47" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1559113200"
+	"steam_release_date" "1559145480"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/assetto-corsa-competizione\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "805550"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1100687"
+		"2" "599"
+		"3" "3859"
+		"4" "21978"
+		"5" "1644"
+		"6" "4175"
+		"7" "701"
+		"8" "4182"
+		"9" "7481"
+		"10" "1695"
+		"11" "5055"
+		"12" "493"
+		"13" "3839"
+		"14" "3878"
+		"15" "3843"
+		"16" "4166"
+		"17" "1669"
+		"18" "4026"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Kunos Simulazioni"
+	"publisher" "505 Games"
+	"homepage" "https://www.assettocorsa.gg/competizione"
+	"listofdlc" "1201360,1337860,1449260,1493170,1865950,1865970,2328720,2700600,2700610"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Assetto Corsa Competizione"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "acc.exe"
+			"description" "Assetto Corsa Competizione"
+			"type" "none"
+		}
+		"2"
+		{
+			"executable" "acc.exe"
+			"arguments" "-vr hmd=SteamVR"
+			"description" "Assetto Corsa Competizione Steam VR mode"
+			"type" "vr"
+		}
+		"3"
+		{
+			"executable" "acc.exe"
+			"arguments" "-vr hmd=OculusHMD"
+			"description" "Assetto Corsa Competizione Oculus VR mode"
+			"type" "othervr"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"805551"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6601281025442097047"
+				"size" "20145805860"
+				"download" "19555620608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nbaindy"
+			{
+				"gid" "6750C903C7659963D242DFAEB4F1A926"
+				"size" "747778BF780C8F21FEF40485805A8D72"
+				"download" "6CF9E587D796279D813E7D0A87B07099"
+			}
+			"ks_beta_testing"
+			{
+				"gid" "DE882B00D721771F834C31F56DB50952"
+				"size" "6FBF9707F9FD886B53806F0D4D781F21"
+				"download" "312C005AB410F7E6D36BF76B055ED2A6"
+			}
+			"ks_latest"
+			{
+				"gid" "7E6351AA03B057F3B914F935F4C0CD86"
+				"size" "AA737C84A2F4ABD07D1356F6BA4FEDB2"
+				"download" "6F16CC30E9A671DB03163B857BDFAAAC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14361164"
+			"timeupdated" "1715761728"
+		}
+		"nbaindy"
+		{
+			"buildid" "13351304"
+			"pwdrequired" "1"
+			"timeupdated" "1707125330"
+		}
+		"ks_beta_testing"
+		{
+			"buildid" "14596773"
+			"pwdrequired" "1"
+			"timeupdated" "1717497386"
+		}
+		"ks_latest"
+		{
+			"buildid" "14596773"
+			"pwdrequired" "1"
+			"timeupdated" "1717497395"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23819170"
+"_sha" "24aad3d3d5ffc7cfb3b74b046d6c96b41804cf76"
+"_size" "7103"
