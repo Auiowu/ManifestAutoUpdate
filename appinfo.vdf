@@ -1,0 +1,447 @@
+"appid" "298740"
+"common"
+{
+	"name" "Space Engineers Dedicated Server"
+	"type" "Tool"
+	"releasestate" "released"
+	"parent" "244850"
+	"oslist" "windows"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "298740_eula_0"
+			"name" "Space Engineers Dedicated Server EULA"
+			"url" "https://store.steampowered.com//eula/298740_eula_0"
+			"version" "1"
+		}
+	}
+	"associations"
+	{
+	}
+	"gameid" "298740"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "SpaceEngineersDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DedicatedServer/SpaceEngineersDedicated.exe"
+			"description" "Launch"
+			"workingdir" "DedicatedServer"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "DedicatedServer64/SpaceEngineersDedicated.exe"
+			"description" "Launch"
+			"workingdir" "DedicatedServer64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"298741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5704602386067799417"
+				"size" "6358198496"
+				"download" "1377814832"
+			}
+			"1.187"
+			{
+				"gid" "1380954810324163548"
+				"size" "1759374457"
+				"download" "553815168"
+			}
+			"1.188"
+			{
+				"gid" "2517780917052194895"
+				"size" "1788469474"
+				"download" "617688160"
+			}
+			"1.189"
+			{
+				"gid" "242985783397483595"
+				"size" "1929725941"
+				"download" "644688448"
+			}
+			"1.190"
+			{
+				"gid" "6451912078757988878"
+				"size" "2057229097"
+				"download" "667454160"
+			}
+			"1.191"
+			{
+				"gid" "1899157208141734848"
+				"size" "2070742686"
+				"download" "673879264"
+			}
+			"1.192"
+			{
+				"gid" "2583672290944451332"
+				"size" "2329404211"
+				"download" "698047136"
+			}
+			"1.193"
+			{
+				"gid" "6457463920219384636"
+				"size" "2568534342"
+				"download" "739508592"
+			}
+			"1.194"
+			{
+				"gid" "290677496484991374"
+				"size" "3013582409"
+				"download" "797022816"
+			}
+			"1.195"
+			{
+				"gid" "5007318067664842288"
+				"size" "3196976155"
+				"download" "858466128"
+			}
+			"1.196"
+			{
+				"gid" "8228146921142172154"
+				"size" "3407319371"
+				"download" "876160528"
+			}
+			"1.197"
+			{
+				"gid" "5746191176388931827"
+				"size" "4669479851"
+				"download" "1068370576"
+			}
+			"1.198"
+			{
+				"gid" "3127332575255370754"
+				"size" "4908082926"
+				"download" "1110885344"
+			}
+			"1.199"
+			{
+				"gid" "7568682266249456353"
+				"size" "5212609375"
+				"download" "1174618352"
+			}
+			"1.200"
+			{
+				"gid" "1059567046225075732"
+				"size" "5536597535"
+				"download" "1241871872"
+			}
+			"1.201"
+			{
+				"gid" "8149587989435607742"
+				"size" "5513017651"
+				"download" "1188123056"
+			}
+			"1.202"
+			{
+				"gid" "14195799952783859"
+				"size" "5727458484"
+				"download" "1237178960"
+			}
+			"dx9-32bit"
+			{
+				"gid" "1995551932701408037"
+				"size" "1146099774"
+				"download" "486098720"
+			}
+			"1.203.6"
+			{
+				"gid" "2864250079349112200"
+				"size" "6204624175"
+				"download" "1340859536"
+			}
+			"1.204.015"
+			{
+				"gid" "8804254912317673458"
+				"size" "6358140449"
+				"download" "1377791680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"publictest"
+			{
+				"gid" "74FFF09D11684DD7C7CF42840B24891C"
+				"size" "487E0C434225FDB551CCE866E3010DA0"
+				"download" "1CC0F1746AB78D73BFDDA9D5C18370A2"
+			}
+			"playtest"
+			{
+				"gid" "57A3EFB57145480AC8DE3B35B46E1E96"
+				"size" "87101211AA1810A6DF454973B289E63E"
+				"download" "BEACB8A6A37FA0CE235313DFF37492B4"
+			}
+			"stableready"
+			{
+				"gid" "165B750AF4D1C69899029C9A6F3ADD62"
+				"size" "C107F0A597CF653B55DCFDE57936F6A9"
+				"download" "3FAED62D7640CDE8A098038606204626"
+			}
+			"steamctg"
+			{
+				"gid" "6E9510A4B5FD2A8A8E9730984716E125"
+				"size" "98F6CC95C4275CE8B03F4D08D4E4BDA0"
+				"download" "912EF6FD7546F163EF10CDA148A072E8"
+			}
+			"test"
+			{
+				"gid" "47405AC14F6551D6C83BC98D06C2F3C6"
+				"size" "F38CFF0870031C7D606ED9961983A2A9"
+				"download" "5C5E81685172BEA3EB5C8636003F22B5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14430733"
+			"timeupdated" "1716476613"
+		}
+		"1.187"
+		{
+			"buildid" "3165387"
+			"timeupdated" "1540306325"
+		}
+		"1.188"
+		{
+			"buildid" "3398118"
+			"timeupdated" "1551349913"
+		}
+		"1.189"
+		{
+			"buildid" "3664468"
+			"description" "Major Overhaul of Survival, Ladders, Leaving Early Access"
+			"timeupdated" "1554741754"
+		}
+		"1.190"
+		{
+			"buildid" "3777953"
+			"description" "Customizable LCD Screens, Replay Tool & Decorative Pack!"
+			"timeupdated" "1559835744"
+		}
+		"1.191"
+		{
+			"buildid" "4026309"
+			"description" "Build Planner, Small Grid Cryo Pod and Style Pack!"
+			"timeupdated" "1566474184"
+		}
+		"1.192"
+		{
+			"buildid" "4253403"
+			"description" "Economy"
+			"timeupdated" "1571919587"
+		}
+		"1.193"
+		{
+			"buildid" "4521871"
+			"description" "6th Anniversary & Decorative Pack II"
+			"timeupdated" "1584640769"
+		}
+		"1.194"
+		{
+			"buildid" "4999953"
+			"description" "Frostbite"
+			"timeupdated" "1593078533"
+		}
+		"1.195"
+		{
+			"buildid" "5282705"
+			"description" "Sparks of the Future"
+			"timeupdated" "1596743467"
+		}
+		"1.196"
+		{
+			"buildid" "5837681"
+			"description" "Server Optimizations"
+			"timeupdated" "1606327477"
+		}
+		"1.197"
+		{
+			"buildid" "6388148"
+			"description" "Wasteland"
+			"timeupdated" "1619014738"
+		}
+		"1.198"
+		{
+			"buildid" "6776688"
+			"description" "Warfare 1"
+			"timeupdated" "1627065183"
+		}
+		"1.199"
+		{
+			"buildid" "7247611"
+			"description" "Heavy Industry"
+			"timeupdated" "1643920858"
+		}
+		"1.200"
+		{
+			"buildid" "8347483"
+			"description" "Warfare 2"
+			"timeupdated" "1651166495"
+		}
+		"1.201"
+		{
+			"buildid" "10548912"
+			"description" "Most Wanted"
+			"timeupdated" "1681427733"
+		}
+		"1.202"
+		{
+			"buildid" "11612212"
+			"description" "Automatons"
+			"timeupdated" "1693563022"
+		}
+		"dx9-32bit"
+		{
+			"buildid" "1150726"
+			"description" "compatibility branch for dx9 and 32 bit"
+			"timeupdated" "1464358279"
+		}
+		"publictest"
+		{
+			"buildid" "10558353"
+			"pwdrequired" "1"
+			"timeupdated" "1676470980"
+		}
+		"1.203.6"
+		{
+			"buildid" "13198064"
+			"description" "Warfare Evolution"
+			"timeupdated" "1715618710"
+		}
+		"1.204.015"
+		{
+			"buildid" "14466684"
+			"description" "204 Release Version"
+			"timeupdated" "1716458828"
+		}
+		"playtest"
+		{
+			"buildid" "14466684"
+			"pwdrequired" "1"
+			"timeupdated" "1716458421"
+		}
+		"stableready"
+		{
+			"buildid" "14430733"
+			"pwdrequired" "1"
+			"timeupdated" "1716223683"
+		}
+		"steamctg"
+		{
+			"buildid" "14720522"
+			"pwdrequired" "1"
+			"timeupdated" "1718378449"
+		}
+		"test"
+		{
+			"buildid" "14455777"
+			"pwdrequired" "1"
+			"timeupdated" "1716385593"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23975121"
+"_sha" "a6ed983ebfdec6c7d86418f5ce0fa832be08bef9"
+"_size" "8102"
