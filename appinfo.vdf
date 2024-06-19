@@ -1,0 +1,433 @@
+"appid" "1059990"
+"common"
+{
+	"name" "Trombone Champ"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"logo" "fe5cf1f2b21ca154043342a4aa84e652ba6bc256"
+	"logo_small" "fe5cf1f2b21ca154043342a4aa84e652ba6bc256_thumb"
+	"icon" "ea5a576e8bb0844bd41c6332586256ddcbe50258"
+	"clienttga" "eb7470375c79121cf48edf2c10819fa30053d267"
+	"clienticns" "0ad40c2fa14cb18b4816d44bff29f01c41d28788"
+	"clienticon" "76b979640856f9936435a5d643538294b9130db6"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1665532800"
+		"tested_build_id" "9638472"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Trombone Champ"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.88558352402747"
+			"height_pct" "66.71732445262575"
+		}
+	}
+	"store_asset_mtime" "1710295872"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Holy Wow Studios LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Holy Wow Studios LLC"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1663298605"
+	"metacritic_score" "82"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/trombone-champ\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1059990"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1719"
+		"2" "4136"
+		"3" "1621"
+		"4" "4726"
+		"5" "4562"
+		"6" "597"
+		"7" "4182"
+		"8" "4305"
+		"9" "1669"
+		"10" "4878"
+		"11" "4191"
+		"12" "1651"
+		"13" "10397"
+		"14" "5350"
+		"15" "1667"
+		"16" "13782"
+		"17" "492"
+		"18" "29482"
+		"19" "4026"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Holy Wow Studios LLC"
+	"publisher" "Holy Wow Studios LLC"
+	"homepage" "https://www.trombonechamp.com"
+}
+"config"
+{
+	"installdir" "TromboneChamp"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TromboneChamp.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Primary Windows executable"
+			}
+			"description" "Primary Windows executable"
+		}
+		"1"
+		{
+			"executable" "Trombone Champ.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Primary Mac executable"
+			}
+			"description" "Primary Mac executable"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1059991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7344762571147668532"
+				"size" "1012798912"
+				"download" "696406096"
+			}
+			"last_update"
+			{
+				"gid" "7095363653312754587"
+				"size" "972850576"
+				"download" "658434416"
+			}
+			"previous_version"
+			{
+				"gid" "6900627683791589452"
+				"size" "801367328"
+				"download" "508325040"
+			}
+			"betatesting"
+			{
+				"gid" "7344762571147668532"
+				"size" "1012798912"
+				"download" "696406096"
+			}
+		}
+	}
+	"1059992"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8965479204441567359"
+				"size" "1005467570"
+				"download" "694086640"
+			}
+			"last_update"
+			{
+				"gid" "2444004397137908866"
+				"size" "965532004"
+				"download" "656130592"
+			}
+			"previous_version"
+			{
+				"gid" "1562179415408357614"
+				"size" "794048785"
+				"download" "506033424"
+			}
+			"betatesting"
+			{
+				"gid" "8965479204441567359"
+				"size" "1005467570"
+				"download" "694086640"
+			}
+		}
+	}
+	"1059993"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8385297842119607441"
+				"size" "1017398308"
+				"download" "697956160"
+			}
+			"last_update"
+			{
+				"gid" "6520020290007994905"
+				"size" "977149391"
+				"download" "659943552"
+			}
+			"previous_version"
+			{
+				"gid" "460256193721710752"
+				"size" "805814841"
+				"download" "509973136"
+			}
+			"betatesting"
+			{
+				"gid" "8385297842119607441"
+				"size" "1017398308"
+				"download" "697956160"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14588536"
+			"timeupdated" "1717518813"
+		}
+		"last_update"
+		{
+			"buildid" "13244111"
+			"description" "Use the last version (1.19 instead of 1.21)"
+			"timeupdated" "1710349802"
+		}
+		"previous_version"
+		{
+			"buildid" "10614867"
+			"description" "Use a much older version (currently v1.096A)"
+			"timeupdated" "1679071771"
+		}
+		"betatesting"
+		{
+			"buildid" "14588536"
+			"description" "Public branch for testing updates"
+			"timeupdated" "1717438589"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Holy Wow/TromboneChamp"
+			"pattern" "tchamp_savev100_0.dat"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Holy Wow/TromboneChamp"
+			"pattern" "tchamp_savev100_1.dat"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Holy Wow/TromboneChamp"
+			"pattern" "tchamp_savev100_2.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Holy Wow/TromboneChamp/"
+					"replace" ".config/unity3d/Holy Wow/TromboneChamp"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Holy Wow/TromboneChamp"
+					"replace" "com.holywowstudios.trombonechamp"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23888728"
+"_sha" "57777561888033f8918c10a0438d27b8d2a0a0ed"
+"_size" "7940"
