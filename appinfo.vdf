@@ -1,0 +1,367 @@
+"appid" "1619520"
+"common"
+{
+	"name" "Cross Blitz"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "0833f5cab183bad8624369337e51e1e57d2844e4"
+	"logo" "35ddd88ad1b6871882565a650bac6787e8499d55"
+	"logo_small" "35ddd88ad1b6871882565a650bac6787e8499d55_thumb"
+	"clienticon" "9784e3b28f1c806387fce224b5339adadbd59f24"
+	"clienttga" "d1e341b29665abd761126d39271872b22abf1c71"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "纵横命途"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1702339200"
+		"tested_build_id" "12809879"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,zh-tw,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "80.20815571053838"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718115283"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tako Boy Studios LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Arcade Crew"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701270134"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1619520"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "32322"
+		"2" "122"
+		"3" "1666"
+		"4" "791774"
+		"5" "9"
+		"6" "1741"
+		"7" "3964"
+		"8" "4305"
+		"9" "3871"
+		"10" "21"
+		"11" "1684"
+		"12" "6730"
+		"13" "4325"
+		"14" "4182"
+		"15" "14139"
+		"16" "1708"
+		"17" "1716"
+		"18" "4136"
+		"19" "1742"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "Tako Boy Studios LLC"
+	"publisher" "The Arcade Crew"
+	"homepage" "https://www.takoboystudios.com"
+}
+"config"
+{
+	"installdir" "Cross Blitz"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Cross Blitz.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1619521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8405617218635545105"
+				"size" "565710929"
+				"download" "430850112"
+			}
+			"crossblitz_beta"
+			{
+				"gid" "8327605687324017830"
+				"size" "565710957"
+				"download" "430844160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compat"
+			{
+				"gid" "A5C4F789F1DAB7BF5FA2F0B6602AD203"
+				"size" "9228F7A2DF79BBD4FF49C402EDD5845E"
+				"download" "EB56EFD515094264A8B80C70F5D7E482"
+			}
+			"external"
+			{
+				"gid" "5C4EEC58F03B1396E15AF39E2BCAFD1D"
+				"size" "6F7166A8D3D0A9FEA3173AE3AE352091"
+				"download" "B4A0AE147A90954D47CEC22A78B49B9F"
+			}
+			"press_influencers"
+			{
+				"gid" "D983E02689D1A2CC91B9938F438717BA"
+				"size" "FDABE45FBEDA5518443D643D03A28AED"
+				"download" "E4E849E491B08F55F30CEB51EFCCC756"
+			}
+			"backup"
+			{
+				"gid" "56238AE8007A062E5449890C9E347FEE"
+				"size" "4BBD850DAB029B07848950578BBEC49B"
+				"download" "0567ED3AA9365B10107083B7CBFD15E3"
+			}
+			"developer"
+			{
+				"gid" "91F60EC5F908630049AC6E72A2F74D5F"
+				"size" "A684B15F6CC2E5135DDB878827094E35"
+				"download" "AC64710B543B3C603381D5E69CD29B59"
+			}
+			"gamera"
+			{
+				"gid" "48DA6E349D3E3F9D4219ED6ADFAC9759"
+				"size" "9EDA9B608AA0E40CBD306956A51BDE78"
+				"download" "7D415E9D07EA7D65CD942AAE042CAAEE"
+			}
+			"qaintern"
+			{
+				"gid" "3A5972DAF0F8BEB8A8372DB9215BF048"
+				"size" "A7371C0AF47BC7CCC573D060AF6C009B"
+				"download" "63D221C6194A41B6D4E2CA1EDCBFD02E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14627410"
+			"timeupdated" "1718116581"
+		}
+		"compat"
+		{
+			"buildid" "13003070"
+			"pwdrequired" "1"
+			"timeupdated" "1703061435"
+		}
+		"external"
+		{
+			"buildid" "12809879"
+			"pwdrequired" "1"
+			"timeupdated" "1701263792"
+		}
+		"press_influencers"
+		{
+			"buildid" "13743240"
+			"pwdrequired" "1"
+			"timeupdated" "1710769944"
+		}
+		"backup"
+		{
+			"buildid" "14627410"
+			"pwdrequired" "1"
+			"timeupdated" "1717686470"
+		}
+		"crossblitz_beta"
+		{
+			"buildid" "14627398"
+			"description" "Beta branch of Cross Blitz, open to the public"
+			"timeupdated" "1718116546"
+		}
+		"developer"
+		{
+			"buildid" "14307437"
+			"pwdrequired" "1"
+			"timeupdated" "1715199173"
+		}
+		"gamera"
+		{
+			"buildid" "14606949"
+			"pwdrequired" "1"
+			"timeupdated" "1717579528"
+		}
+		"qaintern"
+		{
+			"buildid" "14627392"
+			"pwdrequired" "1"
+			"timeupdated" "1718026271"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" ""
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Tako Boy Studios\\Cross Blitz"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23924422"
+"_sha" "f3be09d9f6e0ffb94b5b019e141113dabde839b9"
+"_size" "7014"
