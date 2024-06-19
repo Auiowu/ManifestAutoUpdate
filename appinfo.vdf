@@ -1,0 +1,627 @@
+"appid" "2005160"
+"common"
+{
+	"name" "Naheulbeuk\'s Dungeon Master"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "fa209aa5eaddbad34ee55bcdf03226f12fe72533"
+	"clienttga" "19d1cdac3e353797c15ca29ddc569649e0316c69"
+	"clienticon" "ad83737e68ed0bfc677bfe4037c78b5839ebed57"
+	"name_localized"
+	{
+		"french" "Le Maître du Donjon de Naheulbeuk"
+		"schinese" "纳赫鲁博王国地下城大师"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1716595200"
+		"tested_build_id" "13959273"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"french" "capsule_231x87_french.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"french" "header_french.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,fr"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "30.188352342004634"
+			"height_pct" "61.027064738233335"
+		}
+	}
+	"store_asset_mtime" "1701694503"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Artefacts Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dear Villagers"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dear Villagers"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Dungeon of Naheulbeuk"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1700055123"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2005160"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "599"
+		"2" "4136"
+		"3" "3810"
+		"4" "4711"
+		"5" "1643"
+		"6" "7332"
+		"7" "4172"
+		"8" "1684"
+		"9" "9"
+		"10" "4191"
+		"11" "5094"
+		"12" "4195"
+		"13" "5350"
+		"14" "1719"
+		"15" "3993"
+		"16" "8945"
+		"17" "4182"
+		"18" "3834"
+		"19" "597"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Artefacts Studio"
+	"publisher" "Dear Villagers"
+}
+"config"
+{
+	"installdir" "NDM"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NDM.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3146996972"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,externaltests,internaltests,internaltests2,internaltests3,internonly,release"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65532"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,brazilian,latam"
+	"2005161"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2511867547354957202"
+				"size" "4634325323"
+				"download" "3884329632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "065E350D3893AFA6708676599D3550E5"
+				"size" "1DA16E15F1B3BDFD450C9570FF502880"
+				"download" "50AEF25B472ED6F515846563C9897DBE"
+			}
+			"compatibility"
+			{
+				"gid" "1A00AFB159F721052A6A8134C82FA37B"
+				"size" "3A47C4D8FB1047B102FD8E646DD6A08B"
+				"download" "8E72F93D1063A5893802BC3AD950326A"
+			}
+			"demo"
+			{
+				"gid" "30D982D579483B0853FA8041580AEA01"
+				"size" "48FD8B83EE9DDB4426B378D86C3E1F06"
+				"download" "DCFA40C591B30ABE46530C0BFEFBB77E"
+			}
+			"externaltests"
+			{
+				"gid" "AC1E40B24624969362D01E06602FDFCC"
+				"size" "F0A616303F7A1CF3C1A94F84914CE5CE"
+				"download" "1DEF567202A3E81DE219055F4EB4B77C"
+			}
+			"gamepad"
+			{
+				"gid" "068F18E1A61D9A83B4CE722EB529A8BC"
+				"size" "2E18AFC158F0C5528A18210BDCCD4FF4"
+				"download" "6F8395C629A870C27F638829B98FA32D"
+			}
+			"internaltests"
+			{
+				"gid" "2061DB1546BB066014DE366758D6A237"
+				"size" "2E5449F8E74D72D74E2C76BACCD651EF"
+				"download" "383231C81CEBBEE685A33D37672B5B35"
+			}
+			"internaltests2"
+			{
+				"gid" "B5A776B60ECFB0A818772EF60CAE5A0D"
+				"size" "7E83017B070404CCAE624A3B0D4DE92D"
+				"download" "97EB05F575E3E8D1D3EC04F0146F184E"
+			}
+			"internaltests3"
+			{
+				"gid" "8C6B55770CA2A3F3DDC6767F179802F2"
+				"size" "99D24CB6046ABD8F519B4EA47AF1F158"
+				"download" "562AB6783633CB8359268E0F054D9899"
+			}
+			"internonly"
+			{
+				"gid" "93D4DBDBF748A291EA887FC265ACE3CF"
+				"size" "71BD0EB6806AEAA455F689A8CD16CB93"
+				"download" "C9A091745115591D8D3003E508616DED"
+			}
+			"john"
+			{
+				"gid" "AF0497F8E9BE22D8B050E8EFDB656EE2"
+				"size" "807FE4803AD9580B49CF52BE9F6C2F85"
+				"download" "15F2853DB87A83FB80E4F366D3E7F4A8"
+			}
+			"laststable"
+			{
+				"gid" "0BC3CAA77B655D277350AEDFD2398E6A"
+				"size" "77441E6BC7E938948193A2111577B480"
+				"download" "26B88A0CEBB4181B9A4E7F998BCCB16D"
+			}
+			"loctests"
+			{
+				"gid" "F6D263AFCAAEB9DC216E3BEE79F60C21"
+				"size" "4C821C56BF2F1E8EB582DDE26544F59F"
+				"download" "BCB8DD665F2286387B0C7A545E4BE702"
+			}
+			"loctestskorean"
+			{
+				"gid" "0208D8839680454906B9AA40D3E5AA2E"
+				"size" "4AB904D051440575703A2663E831959B"
+				"download" "573335C0DCC38C9A7BC72645991386BF"
+			}
+			"loctestsrussian"
+			{
+				"gid" "9A448270065CCDBBA501BAAB17E40843"
+				"size" "F3A26FBFF53DC547C314DF39DB8BEF1E"
+				"download" "D60D0743E4ED0A824CFC0E1CB5705B4C"
+			}
+			"partners"
+			{
+				"gid" "8C9F27A00397CB75DCCF5C50398A3A94"
+				"size" "68A8FCB752E2BA9A20067E539A2C076A"
+				"download" "A3D5097E061CC06EB1D8E368F3E57008"
+			}
+			"partnersdemo"
+			{
+				"gid" "48D53211527DA942C2DF6AACB8FA5B68"
+				"size" "27A08380CA19F81DEC2B638741E55099"
+				"download" "3BB5D9E8ED4F6A396FAE9D5FA583B2D1"
+			}
+			"release"
+			{
+				"gid" "66B92E4E77D41890FAAD6E13E2C492F7"
+				"size" "A0F16B7D943A1F614D099F37EC1EB9E8"
+				"download" "ECC6502211EBEF711D85665DAB75F301"
+			}
+		}
+	}
+	"2005162"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1839231779113606513"
+				"size" "5104386279"
+				"download" "3547804640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "99CEEF9E84E2981B0332605BEACBB50A"
+				"size" "D68E8856FD4ABD9628FC4091E8A02DDA"
+				"download" "38D66A809C641576A421FAE7BBBD8604"
+			}
+			"compatibility"
+			{
+				"gid" "E0A991AAF446077223AFF1037A7EA2AF"
+				"size" "8CF437EB90D90E383825135BFDDC7AAD"
+				"download" "5C2D30684F633D8143AB7FABDCDF49AF"
+			}
+			"externaltests"
+			{
+				"gid" "2813B0A026A0DFC34AEE251490BDA312"
+				"size" "F3C0FA76AB9DE1304483EBC0F6AC798C"
+				"download" "0FAA2730571DFAB0E127C5F45AD55B48"
+			}
+			"gamepad"
+			{
+				"gid" "F2A5501C85FDB50A90C54E54ADBD048F"
+				"size" "1025A309C601DB56F465E1DEA2CFDC68"
+				"download" "45C7F4A618F4A9EEE8825AA933539985"
+			}
+			"internaltests"
+			{
+				"gid" "3A635CAD8132C546530CE05289B178AA"
+				"size" "3E395CCFC92057F5956C495C68849F13"
+				"download" "1F7124065747AA982C2A08034096508B"
+			}
+			"internaltests3"
+			{
+				"gid" "7AE3A9AA4C04345D932B160E30254D59"
+				"size" "4B139040CCFB0B0C2CC192181790368B"
+				"download" "A3ACE91B5E6BF58E86D753A3ECADE78E"
+			}
+			"internonly"
+			{
+				"gid" "91AB23FC9E5A8AD1738A91E3A37CA702"
+				"size" "946DC4A48984F95C6A091A2016132A5D"
+				"download" "F186E1CCED35B2DD43737B68F9091B4F"
+			}
+			"john"
+			{
+				"gid" "747C6056F243AD258DAFB2B8AF3A3B08"
+				"size" "37E198CAD63D26814325F5567A5B64FD"
+				"download" "9A0605E5B018D5A190045C1D05EF3AFE"
+			}
+			"laststable"
+			{
+				"gid" "E3AA81B87D13CD34E1BD9B9FF02949C2"
+				"size" "EBFBA759EF6E9F9D9DC06A810C3B1F54"
+				"download" "1F268122809D32B7D43306F0E9864E22"
+			}
+			"loctests"
+			{
+				"gid" "E0676CECB8BC43ACDE0F6F8D51F0A135"
+				"size" "F5C6354B03E30FF093614EAF07612A14"
+				"download" "B8B7093DF6A7D44FAF719CF681D03C3A"
+			}
+			"loctestskorean"
+			{
+				"gid" "D0315A17B2CBE2918CEABB8F4CE9ECE1"
+				"size" "7455FCA5B4329E635526713C635B4022"
+				"download" "7455FCA5B4329E635526713C635B4022"
+			}
+			"loctestsrussian"
+			{
+				"gid" "29ADB57E37C6D1D1B3BA18190C2FCDCC"
+				"size" "BD82965F6A1C4424459ADF36487AA250"
+				"download" "2744CA60BD12A92FCCD02FD9DEA293CB"
+			}
+			"partners"
+			{
+				"gid" "857C74216D0CAB17DCDF7E131E8A0751"
+				"size" "8CBAC74D242E29C6B2F9CB61800E6616"
+				"download" "01774B5DD4C846F3360176E82FBA511D"
+			}
+			"partnersdemo"
+			{
+				"gid" "287EE108FE1628632FCD037A4D1264F5"
+				"size" "C5B6362D80472A5A3357349882CF90C1"
+				"download" "9E9EE84FA9CECEBFB29D93AC895F4D86"
+			}
+			"release"
+			{
+				"gid" "4470A097DBBA5E365A998A46BB625E9F"
+				"size" "E727B86428E04819B6FB300D4854AA0A"
+				"download" "F676A813C66E30FE72968413E7D61767"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13959273"
+			"timeupdated" "1712757574"
+		}
+		"beta"
+		{
+			"buildid" "12050212"
+			"pwdrequired" "1"
+			"timeupdated" "1693232934"
+		}
+		"compatibility"
+		{
+			"buildid" "12473777"
+			"pwdrequired" "1"
+			"timeupdated" "1697644443"
+		}
+		"demo"
+		{
+			"buildid" "11432776"
+			"pwdrequired" "1"
+			"timeupdated" "1686313842"
+		}
+		"externaltests"
+		{
+			"buildid" "13959273"
+			"pwdrequired" "1"
+			"timeupdated" "1712301660"
+		}
+		"gamepad"
+		{
+			"buildid" "12779300"
+			"pwdrequired" "1"
+			"timeupdated" "1700728045"
+		}
+		"internaltests"
+		{
+			"buildid" "13959273"
+			"pwdrequired" "1"
+			"timeupdated" "1712300817"
+		}
+		"internaltests2"
+		{
+			"buildid" "13737052"
+			"pwdrequired" "1"
+			"timeupdated" "1710407565"
+		}
+		"internaltests3"
+		{
+			"buildid" "13643094"
+			"pwdrequired" "1"
+			"timeupdated" "1709627719"
+		}
+		"internonly"
+		{
+			"buildid" "13959273"
+			"pwdrequired" "1"
+			"timeupdated" "1712301674"
+		}
+		"john"
+		{
+			"buildid" "13587928"
+			"pwdrequired" "1"
+			"timeupdated" "1709214783"
+		}
+		"laststable"
+		{
+			"buildid" "12641955"
+			"pwdrequired" "1"
+			"timeupdated" "1699894013"
+		}
+		"loctests"
+		{
+			"buildid" "12912962"
+			"pwdrequired" "1"
+			"timeupdated" "1702485788"
+		}
+		"loctestskorean"
+		{
+			"buildid" "12511373"
+			"pwdrequired" "1"
+			"timeupdated" "1698068265"
+		}
+		"loctestsrussian"
+		{
+			"buildid" "12555042"
+			"pwdrequired" "1"
+			"timeupdated" "1698420109"
+		}
+		"partners"
+		{
+			"buildid" "12641955"
+			"pwdrequired" "1"
+			"timeupdated" "1699893990"
+		}
+		"partnersdemo"
+		{
+			"buildid" "12641955"
+			"pwdrequired" "1"
+			"timeupdated" "1699456876"
+		}
+		"release"
+		{
+			"buildid" "13959273"
+			"pwdrequired" "1"
+			"timeupdated" "1712757537"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Artefacts studio/NDM/Save"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Artefacts studio/NDM/Save"
+					"replace" "Artefacts Studio/NDM/Save"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23782337"
+"_sha" "a69c39901b9135d733824a1e7e1e45bc854c7d3c"
+"_size" "13376"
