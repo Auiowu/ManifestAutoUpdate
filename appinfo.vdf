@@ -1,0 +1,391 @@
+"appid" "1029780"
+"common"
+{
+	"name" "Going Medieval"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "66fc85390ce345a1db68bf352c213a4e3a309e26"
+	"logo" "8aacd730fb5a2bc08b77304d24e99fb76077e273"
+	"logo_small" "8aacd730fb5a2bc08b77304d24e99fb76077e273_thumb"
+	"clienticon" "7f3c80b6a0de15112286fbc8477baa5a4a31b19c"
+	"clienttga" "cffcc19cddf2759dfe6cfa4cd146e4c7c211e0c3"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1701907200"
+		"tested_build_id" "12772585"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Going Medieval"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1717075017"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Foxy Voxel"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mythwright"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Mythwright"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1622559544"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1029780"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "220585"
+		"2" "4172"
+		"3" "9"
+		"4" "1643"
+		"5" "1662"
+		"6" "599"
+		"7" "7332"
+		"8" "12472"
+		"9" "1702"
+		"10" "3810"
+		"11" "1695"
+		"12" "122"
+		"13" "8945"
+		"14" "1676"
+		"15" "4182"
+		"16" "4191"
+		"17" "5125"
+		"18" "4252"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Foxy Voxel"
+	"publisher" "Mythwright"
+}
+"config"
+{
+	"installdir" "Going Medieval"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Going Medieval.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1029781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "12312795436517809"
+				"size" "640424847"
+				"download" "373453968"
+			}
+			"experimental"
+			{
+				"gid" "8694477130672895865"
+				"size" "672611884"
+				"download" "381758944"
+			}
+			"save-migration"
+			{
+				"gid" "6798494777981999312"
+				"size" "638894535"
+				"download" "369765520"
+			}
+			"legacy-0.7.17"
+			{
+				"gid" "5240515032281478372"
+				"size" "697199231"
+				"download" "237038272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "FFAB610AE4D950306C3581D0C29D4630"
+				"size" "3D95F384A6E81FA235B8812A238E72D9"
+				"download" "9978152256DD3CF9B73A9916878C9D9A"
+			}
+			"internal"
+			{
+				"gid" "96381D5E3E9DA43149A2AB00E9C22C04"
+				"size" "85C0782394C890E1D80EA160B06C761A"
+				"download" "8C818EF7EC77167EAA12BCB18D97679F"
+			}
+			"qadev"
+			{
+				"gid" "3163F2E0984543D0B2A9EFA20A6E2998"
+				"size" "9BCFC6792A58A69D5ACC4BA407D39988"
+				"download" "E68554FE73385DDF0A552BC545DB1EE6"
+			}
+			"audio"
+			{
+				"gid" "F22B17A834988268291A5CC88CD5C4E1"
+				"size" "3EF86FA389A2A47819EBE94ABCD2FFC6"
+				"download" "A55CE3CE2A730440FDDC172E8F721C2E"
+			}
+			"qadevsave"
+			{
+				"gid" "168CD009DA7CDA0CEF4879F16AFD2538"
+				"size" "9D60BEC2BC1682B64DFD5DFD6AA32F94"
+				"download" "F71491197E6D8D0372EC24214CD2B40C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14675755"
+			"timeupdated" "1718107046"
+		}
+		"experimental"
+		{
+			"buildid" "14767663"
+			"description" "Home of future updates"
+			"timeupdated" "1718799314"
+		}
+		"staging"
+		{
+			"buildid" "14767663"
+			"pwdrequired" "1"
+			"timeupdated" "1718800524"
+		}
+		"internal"
+		{
+			"buildid" "10921645"
+			"pwdrequired" "1"
+			"timeupdated" "1680769388"
+		}
+		"qadev"
+		{
+			"buildid" "13657269"
+			"pwdrequired" "1"
+			"timeupdated" "1709737868"
+		}
+		"audio"
+		{
+			"buildid" "13739918"
+			"pwdrequired" "1"
+			"timeupdated" "1710424663"
+		}
+		"qadevsave"
+		{
+			"buildid" "13462412"
+			"pwdrequired" "1"
+			"timeupdated" "1707985242"
+		}
+		"save-migration"
+		{
+			"buildid" "14598622"
+			"description" "Migrate old saves to 0.18 and above"
+			"timeupdated" "1717507512"
+		}
+		"legacy-0.7.17"
+		{
+			"buildid" "8299304"
+			"description" "For playing saves created on versions older than 0.8.0"
+			"timeupdated" "1653993660"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "536870912"
+	"maxnumfiles" "512"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Foxy Voxel/Going Medieval/VillageSaves"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/Foxy Voxel/Going Medieval"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24033701"
+"_sha" "9b3586b063492236e2232dcc7455e54dcefa7537"
+"_size" "7142"
