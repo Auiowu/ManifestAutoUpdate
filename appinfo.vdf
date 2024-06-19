@@ -1,0 +1,421 @@
+"appid" "899770"
+"common"
+{
+	"name" "Last Epoch"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "ee50b3f624c89a7dc819f3db8c2b9d3f1fe31f4b"
+	"clienttga" "d51923a7bdac0cf293f29cc5306ec71e252ed13e"
+	"icon" "af127fa6337a3c44e52690b62f26530d520127f4"
+	"logo" "4a1dad63e432770795608e2d257ea829c4d56eac"
+	"logo_small" "4a1dad63e432770795608e2d257ea829c4d56eac_thumb"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "899770_eula_0"
+			"name" "Last Epoch EULA"
+			"url" "https://store.steampowered.com//eula/899770_eula_0"
+		}
+	}
+	"osextended" ""
+	"linuxclienticon" "5aa48d2d5892776d01c7dba8b7dae3f045114684"
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717804800"
+		"tested_build_id" "14472793"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Last Epoch"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.714119019836644"
+			"height_pct" "64.05775010788986"
+		}
+	}
+	"store_asset_mtime" "1717170363"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Eleventh Hour Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Eleventh Hour Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708534849"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/last-epoch\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "899770"
+	"store_tags"
+	{
+		"0" "4231"
+		"1" "4236"
+		"2" "1646"
+		"3" "122"
+		"4" "5851"
+		"5" "3859"
+		"6" "19"
+		"7" "21"
+		"8" "1685"
+		"9" "492"
+		"10" "4791"
+		"11" "1720"
+		"12" "4182"
+		"13" "1684"
+		"14" "4345"
+		"15" "4747"
+		"16" "4667"
+		"17" "493"
+		"18" "4057"
+		"19" "1754"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+	"review_score_bombs" "6"
+	"review_percentage_bombs" "77"
+}
+"extended"
+{
+	"developer" "Eleventh Hour Games"
+	"publisher" "Eleventh Hour Games"
+	"homepage" "https://lastepoch.com/"
+	"listofdlc" "2303580,2303581,2303582,2303583,2744750,2744760,2744770,2744780,2744790,2744800,2744810,2744820,2744830,2768220,2768230"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Last Epoch"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Last Epoch.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Last Epoch.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Last Epoch.exe"
+			"arguments" "--offline"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Full Offline"
+			}
+			"description" "Full Offline"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"899771"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5557618093197342231"
+				"size" "22494514119"
+				"download" "10443971808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"hurdygurdy"
+			{
+				"gid" "FCD9224EC159A1F046C08772E856C0FD"
+				"size" "3EAFED889433E270AB5CAFE0C0340C69"
+				"download" "A82EEDD0D7F240F63F3E2484E7866D8E"
+			}
+			"steam-deck-validation"
+			{
+				"gid" "DC6793C0F26108E1F407F6BE31E18223"
+				"size" "689C60DBC02E43A87EBF20750C7D2F60"
+				"download" "DD04F56FB23793CA4F7210A5A5902117"
+			}
+			"yellow"
+			{
+				"gid" "14843482A50F3B60D8BA48AB8A498E1E"
+				"size" "37AF1E0DAF068CB705E4A6E1482F5C10"
+				"download" "DB5CB6E301514449E0315F8A5747CB2C"
+			}
+		}
+	}
+	"899772"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1071988255611248699"
+				"size" "25174862330"
+				"download" "11152967024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"hurdygurdy"
+			{
+				"gid" "6A61B1DE1548FD9A116C32B4B364C8CB"
+				"size" "20E885593E65C7683995A0AE84F340DD"
+				"download" "A1A25EC92B415136E0B645D5AAC8DC1D"
+			}
+			"steam-deck-validation"
+			{
+				"gid" "28DF679C79E4912E1BE0F40C16090311"
+				"size" "3251348D3D263B5DBBDE418D629554F2"
+				"download" "CC449B3272F87A6EC66429A03C76AD66"
+			}
+			"yellow"
+			{
+				"gid" "A99A65ABA0570F87E63E0E904CE50B1D"
+				"size" "1EF047A06745ED66586D1FBD4A7F4E6B"
+				"download" "60CAB81B7718107C9648394107BC2326"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14722674"
+			"timeupdated" "1718391029"
+		}
+		"hurdygurdy"
+		{
+			"buildid" "13734354"
+			"pwdrequired" "1"
+			"timeupdated" "1710385386"
+		}
+		"steam-deck-validation"
+		{
+			"buildid" "14472793"
+			"pwdrequired" "1"
+			"timeupdated" "1716490135"
+		}
+		"yellow"
+		{
+			"buildid" "14224995"
+			"pwdrequired" "1"
+			"timeupdated" "1715780662"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Eleventh Hour Games/Last Epoch/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Eleventh Hour Games/Last Epoch/Saves"
+					"replace" "com.EleventhHourGames.LastEpoch/Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23980805"
+"_sha" "a0df935e196366b3bfe55fa10b0452f45b78bcd0"
+"_size" "7900"
