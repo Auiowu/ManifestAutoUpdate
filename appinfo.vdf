@@ -1,0 +1,543 @@
+"appid" "2114740"
+"common"
+{
+	"name" "Blasphemous 2"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"clienticon" "c1b1c913b116434711aa8bf82e0e302f75375b3c"
+	"clienttga" "0218988747d97966b61502b14cebbc9d2a603973"
+	"icon" "4e6e9d55da3e45a19088852530126c02ac0b1d53"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "神之亵渎2"
+		"japanese" "ブラスフェマス 2"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692662400"
+		"tested_build_id" "11801969"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Blasphemous 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn"
+		"library_hero" "en,ja,zh-cn"
+		"library_logo" "en,zh-cn,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.56906709759957"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1702375692"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Game Kitchen"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Blasphemous"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "The Game Kitchen"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692893040"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/blasphemous-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2114740"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "3993"
+		"2" "1628"
+		"3" "29482"
+		"4" "5379"
+		"5" "3798"
+		"6" "4026"
+		"7" "1646"
+		"8" "3964"
+		"9" "1733"
+		"10" "1625"
+		"11" "3871"
+		"12" "4231"
+		"13" "1667"
+		"14" "4106"
+		"15" "3854"
+		"16" "1742"
+		"17" "6869"
+		"18" "6971"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "The Game Kitchen"
+	"publisher" "Team17"
+	"homepage" "https://www.blasphemous2game.com/"
+	"listofdlc" "2500160"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Blasphemous 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Blasphemous 2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65524"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2114741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8701777908944641547"
+				"size" "3424429774"
+				"download" "2249401504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio_fix_dev"
+			{
+				"gid" "5733BB8DE42A1743B780C9FAB80B4D44"
+				"size" "578C97A464854C6BDDCE3282F795DBCC"
+				"download" "AF0203E9AC2EC1A758CB297350AC5CD3"
+			}
+			"audio_fix_prod"
+			{
+				"gid" "CFFE45F02E326CB2EB885504AACE860B"
+				"size" "58B0DFD5DE4AD5DC58484FCA2EE1269C"
+				"download" "18BD123395BF962D7CF32F33337FA90B"
+			}
+			"cero_rating"
+			{
+				"gid" "45D03CEDCA765E4A1CCBCED36E672769"
+				"size" "6506039561240E06CBCD8028ADD0F71A"
+				"download" "9132B23C8C57589C1E1E4FEAB77F8A82"
+			}
+			"mc_ms02_dev"
+			{
+				"gid" "22F302FC34097E230D5DA477145D022A"
+				"size" "00B9A8DE9C6CBB42A9E817184A2848DF"
+				"download" "20A10604539067AA4CE8A6852CED7D9E"
+			}
+			"mc_ms03_dev"
+			{
+				"gid" "7BB6DEEDDAA9F91A42FACF4D8ABF66A9"
+				"size" "C8BE26C34D44692609FA2E999C3E98EC"
+				"download" "58AF22999D1E8D71D22CA4E6168B02BD"
+			}
+			"press_review"
+			{
+				"gid" "5FC0D1DB652241445DECABA5745A8E3F"
+				"size" "DFE12A0820094F41BBCABA0837F1C8E7"
+				"download" "7BA58F11BD0E8783402DE333FCC47672"
+			}
+			"windows_prod"
+			{
+				"gid" "2ABCA3ADE6BC601E693C4A52B440EC39"
+				"size" "8C192AB0BEE3147304567B5A860F0F3E"
+				"download" "119A642A38BF31EB5405193ED9043F7F"
+			}
+			"windows_prod_console"
+			{
+				"gid" "31464F2CCFC19E3A241EB7E1D966D24B"
+				"size" "03C7B6556E3141DFE215BBA45EE84591"
+				"download" "C41C12B67E2CF2E17AF79D0D0E7EA5E4"
+			}
+			"wth_branch"
+			{
+				"gid" "139BC82A030D3A88C395D4FB6DC93373"
+				"size" "9DBD951B2595FA62F775DDBC67E2040F"
+				"download" "4A9A9D3C849D06D81E8A82574A769C0A"
+			}
+			"wth_branch_qa"
+			{
+				"gid" "1667D93433A5BB60E3C956E906CEC500"
+				"size" "D79A56DF3637885DC9F4BEDBFA95748C"
+				"download" "E40054E7A8BAE67EEFD27ADF47E80B7A"
+			}
+			"mc_ms04_dev"
+			{
+				"gid" "37105E90044D776AAC0BF006A59EA66C"
+				"size" "F985F2B712617603A813A221FF7F5CB1"
+				"download" "7BB4E13CDBEE441D2701A0B615425591"
+			}
+			"mc_ms05_dev"
+			{
+				"gid" "DF204F0E5F6F6756CE167C4AE293ECA9"
+				"size" "D6A4D952BA92BC0D626400D2451C5AB9"
+				"download" "BADFCC33AB17208C39DDDEA3CB02734D"
+			}
+			"windows_dev"
+			{
+				"gid" "73FD115530AB7828DF156E8F88406876"
+				"size" "E8218B7D114FA9B5766C0B83AA53D61A"
+				"download" "7228D611D354E77932BEBC3E7A5C716B"
+			}
+		}
+	}
+	"2500160"
+	{
+		"dlcappid" "2500160"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1591885379887391557"
+				"size" "130182835"
+				"download" "130562784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"audio_fix_dev"
+			{
+				"gid" "021CCD8ABA74BE8585737FE702DB1559"
+				"size" "2487490FFDCE54E93DF2F50E1F9A0683"
+				"download" "3EBFBC714E61662FC059D4B97C9A0016"
+			}
+			"audio_fix_prod"
+			{
+				"gid" "3CB7EB5598416C6E1BD76186649A8B9E"
+				"size" "7E8867F9C8899343EF030DABD62C02B5"
+				"download" "5AE3A8A5C258AAD95292CC806A50089F"
+			}
+			"mc_ms02_dev"
+			{
+				"gid" "166C889FB0A90F0ECF78C90117612EA6"
+				"size" "DA2809E6C6D93A2688F93F6ADA4B0369"
+				"download" "FB72E3E34A3C13B277FD441B8510E93D"
+			}
+			"mc_ms03_dev"
+			{
+				"gid" "476A004C67F12DF99049CB294575EE86"
+				"size" "27F5F222F4904279BC67868DFDC5F510"
+				"download" "7FE81DFC33A91C093E5F5589F9C4E398"
+			}
+			"wth_branch_qa"
+			{
+				"gid" "721010D77D6EDD2A0446C19D308A6BDF"
+				"size" "7EA6D9F48DBAF2688A246B792BBDE485"
+				"download" "1ABBC478AAE6973217EBE0F14217F2AB"
+			}
+			"mc_ms04_dev"
+			{
+				"gid" "E4027A846E2ECD0F3125CA4572F2F9E8"
+				"size" "8279CE434727A67CEAB2B29EE1340C6D"
+				"download" "80100857553C566AD45A4F3BA7F59E51"
+			}
+			"mc_ms05_dev"
+			{
+				"gid" "B00E683A6838BA4A0CA04BF6A9DF4F80"
+				"size" "44F7C0C1E023CF5BB81A324100BB6352"
+				"download" "3ED738FFAD9685F614CCC6CDA639E4DA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12225320"
+			"timeupdated" "1695304830"
+		}
+		"audio_fix_dev"
+		{
+			"buildid" "13299759"
+			"pwdrequired" "1"
+			"timeupdated" "1706519879"
+		}
+		"audio_fix_prod"
+		{
+			"buildid" "13300471"
+			"pwdrequired" "1"
+			"timeupdated" "1706524598"
+		}
+		"cero_rating"
+		{
+			"buildid" "11978969"
+			"pwdrequired" "1"
+			"timeupdated" "1692392533"
+		}
+		"mc_ms02_dev"
+		{
+			"buildid" "13689806"
+			"pwdrequired" "1"
+			"timeupdated" "1709984177"
+		}
+		"mc_ms03_dev"
+		{
+			"buildid" "13982820"
+			"pwdrequired" "1"
+			"timeupdated" "1712558572"
+		}
+		"press_review"
+		{
+			"buildid" "11801969"
+			"pwdrequired" "1"
+			"timeupdated" "1690526395"
+		}
+		"windows_prod"
+		{
+			"buildid" "12059304"
+			"pwdrequired" "1"
+			"timeupdated" "1693315217"
+		}
+		"windows_prod_console"
+		{
+			"buildid" "11980337"
+			"pwdrequired" "1"
+			"timeupdated" "1692408200"
+		}
+		"wth_branch"
+		{
+			"buildid" "13737736"
+			"pwdrequired" "1"
+			"timeupdated" "1710411836"
+		}
+		"wth_branch_qa"
+		{
+			"buildid" "13322225"
+			"pwdrequired" "1"
+			"timeupdated" "1706693183"
+		}
+		"mc_ms04_dev"
+		{
+			"buildid" "14301964"
+			"pwdrequired" "1"
+			"timeupdated" "1715164774"
+		}
+		"mc_ms05_dev"
+		{
+			"buildid" "14727764"
+			"pwdrequired" "1"
+			"timeupdated" "1718442593"
+		}
+		"windows_dev"
+		{
+			"buildid" "14766065"
+			"pwdrequired" "1"
+			"timeupdated" "1718788677"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "The Game Kitchen/Blasphemous 2/SteamUser_{64BitSteamID}"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24031242"
+"_sha" "a7958b95f399d1cd454c5dd4acad387388b8259c"
+"_size" "11040"
