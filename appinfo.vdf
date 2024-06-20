@@ -1,0 +1,454 @@
+"appid" "1607680"
+"common"
+{
+	"name" "Bread & Fred"
+	"type" "Game"
+	"logo" "3de6954033202db92f4604d511073cc41d69f513"
+	"logo_small" "3de6954033202db92f4604d511073cc41d69f513_thumb"
+	"icon" "fcfff47466da4d40a2f1aa12fc941e2955f55038"
+	"clienttga" "bd8702c7f19d1539880d588daf2976f905b223e4"
+	"clienticns" "2e5bb9f5867fce9aa3f61030a3041422ba3467fc"
+	"clienticon" "779f24571c038359a153f2d5595f4c1434e4e624"
+	"linuxclienticon" "44d83c6277f4033784a7d32976e951bb0cbcc3bb"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "面包和年糕 (Bread & Fred)"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1685577600"
+		"tested_build_id" "11318161"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"spanish" "capsule_231x87_spanish.jpg"
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"spanish" "header_spanish.jpg"
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,es,ja,ko,zh-cn"
+		"library_hero" "en,es,zh-cn"
+		"library_logo" "es,en,ja,ko,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.79029062983363"
+			"height_pct" "93.16076941344097"
+		}
+	}
+	"store_asset_mtime" "1717084190"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SandCastles Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Apogee Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_2" "1"
+		"category_38" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1684850459"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1607680"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "3841"
+		"2" "4726"
+		"3" "3964"
+		"4" "5379"
+		"5" "3859"
+		"6" "4026"
+		"7" "3877"
+		"8" "3871"
+		"9" "1625"
+		"10" "4136"
+		"11" "1719"
+		"12" "5350"
+		"13" "7368"
+		"14" "3798"
+		"15" "9803"
+		"16" "597"
+		"17" "7481"
+		"18" "3843"
+		"19" "4305"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "SandCastles Studio"
+	"publisher" "Apogee Entertainment"
+	"homepage" "https://www.breadandfred.com/"
+}
+"config"
+{
+	"installdir" "Bread & Fred"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bread&Fred.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BreadAndFred.app/Contents/MacOS/Bread_Fred"
+			"workingdir" "BreadAndFred.app/Contents/MacOS"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1607681"
+	{
+		"config"
+		{
+			"oslist" "windows,linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2331713766256093582"
+				"size" "941741589"
+				"download" "280316560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "A2B1333E1AF6DCED98AE0F6D78B52B22"
+				"size" "FDD6B37B4034F1FD243B0401BD7938CA"
+				"download" "554D4C5735AA2A3994D31F0510F7A5E6"
+			}
+			"discordplaytest"
+			{
+				"gid" "D55C98E48BC4B5340F4A61E5896785ED"
+				"size" "86BB77E5613E615689F6396C96BFE9F7"
+				"download" "E4875A88FF0F9DF6D01013077682DF72"
+			}
+			"indielive"
+			{
+				"gid" "3B15312D4649DC73F2CAE2A694AE8DF1"
+				"size" "FAF5939FD1F78F421F1CE876FF9CF4E2"
+				"download" "BBC7E067F31B537D74917157580D0107"
+			}
+			"internalusebeta"
+			{
+				"gid" "D466D2CD2714E75D67C66BFC35E944C6"
+				"size" "08E32E9B4DD8A49FFC74EB669603269A"
+				"download" "F4D90B02B89358586F520807B3C576AE"
+			}
+			"macbuild"
+			{
+				"gid" "6400263A91CBBC0C1FD07F421146BE86"
+				"size" "FC03972595558DF4ABF6C8FB3F08EDF0"
+				"download" "525B68E1CE7C36F3C567614426E92369"
+			}
+			"onlinetesting"
+			{
+				"gid" "CDD65F318BE8DFB5BC53D41759E565C4"
+				"size" "2929B4D019D84935018D8570160D96F4"
+				"download" "CD56F2975C6A570D9B728B5D2D2E2C49"
+			}
+		}
+	}
+	"1607682"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4020532147486896744"
+				"size" "909565457"
+				"download" "258443312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"indielive"
+			{
+				"gid" "356A755F2B69BE146DF013FF0045D84C"
+				"size" "1235143A5722EBBE4606435D2BB81128"
+				"download" "B246C3466F9915F449E179A27615A3E6"
+			}
+			"internalusebeta"
+			{
+				"gid" "A837AC5AFE2EE814F9450F6A31723E50"
+				"size" "A40E73C68B8A8D6DE5B53CDDC10E0C32"
+				"download" "081A9466F1C85B2DD2C2C4C9E7593382"
+			}
+			"macbuild"
+			{
+				"gid" "3E17F677F25273FE6F594AD16F7DA6C6"
+				"size" "F34E687CA23D96C2CF2AC4C44CBE04D7"
+				"download" "AEC80665774E19A327F94BBE217AF80E"
+			}
+			"onlinetesting"
+			{
+				"gid" "595317314A2B205C469EF0D3CFC4D1AA"
+				"size" "AE3CBA81C70259B4F7D191628EE2E900"
+				"download" "E677856A2CACBF23AAC21F38E791E140"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14597752"
+			"timeupdated" "1717502900"
+		}
+		"beta"
+		{
+			"buildid" "11274624"
+			"pwdrequired" "1"
+			"timeupdated" "1684524465"
+		}
+		"discordplaytest"
+		{
+			"buildid" "11280255"
+			"pwdrequired" "1"
+			"timeupdated" "1684630513"
+		}
+		"indielive"
+		{
+			"buildid" "12849575"
+			"pwdrequired" "1"
+			"timeupdated" "1701431531"
+		}
+		"internalusebeta"
+		{
+			"buildid" "11660995"
+			"pwdrequired" "1"
+			"timeupdated" "1688935329"
+		}
+		"macbuild"
+		{
+			"buildid" "13496632"
+			"pwdrequired" "1"
+			"timeupdated" "1708344975"
+		}
+		"onlinetesting"
+		{
+			"buildid" "14589191"
+			"pwdrequired" "1"
+			"timeupdated" "1717443206"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000"
+	"maxnumfiles" "7"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SandCastles/Bread_Fred"
+			"pattern" "*.scs"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SandCastles/Bread_Fred"
+					"replace" ".config/unity3d"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23900033"
+"_sha" "2f9575a8ccd70c42aa4178672659e438ac2dc3e4"
+"_size" "8876"
