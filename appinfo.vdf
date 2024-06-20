@@ -1,0 +1,323 @@
+"appid" "1649730"
+"common"
+{
+	"name" "修仙立志传"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "xiuzhen idle"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "fe48fc880ad05b6f6166423eb38d397477e79716"
+	"clienticon" "f560fb34c5cd6268368ff99c076d3da466e1fceb"
+	"clienttga" "4fae21d5b1ce4ff6ea2ee0f31b9350bbe271f74b"
+	"linuxclienticon" "0283bd8e54874960f010085c7b849922ec58ec71"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663632000"
+		"tested_build_id" "9268551"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.361273822291935"
+			"height_pct" "69.09722222222223"
+		}
+	}
+	"store_asset_mtime" "1718719395"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "游戏养家工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "游戏养家工作室"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "小茫的挂机放置游戏集"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1655771400"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1649730"
+	"store_tags"
+	{
+		"0" "615955"
+		"1" "493"
+		"2" "492"
+		"3" "24003"
+		"4" "597"
+		"5" "122"
+		"6" "599"
+		"7" "379975"
+		"8" "9"
+		"9" "16689"
+		"10" "31275"
+		"11" "4598"
+		"12" "4094"
+		"13" "1684"
+		"14" "16094"
+		"15" "1698"
+		"16" "21"
+		"17" "4182"
+		"18" "3871"
+		"19" "3810"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "游戏养家工作室"
+	"publisher" "游戏养家工作室"
+	"listofdlc" "2426820,2811350"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "修仙立志传"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "game.exe"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "schinese"
+	"1649731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2168929871625053503"
+				"size" "348968889"
+				"download" "171944896"
+			}
+			"win7"
+			{
+				"gid" "6190709950913405592"
+				"size" "325479299"
+				"download" "160592960"
+			}
+			"english"
+			{
+				"gid" "4211807965496111929"
+				"size" "352900686"
+				"download" "175944016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nwjs"
+			{
+				"gid" "8269ABC28EB5B4131A29244E4447D0CF"
+				"size" "39F821EE4EC6226C813F6DE7A1E1851E"
+				"download" "725483886AF24E86505374F02C8E2D50"
+			}
+			"newtest"
+			{
+				"gid" "C1E9CEEB2F465F0032C422F2F61D15A8"
+				"size" "D1C57AE7AFEFF8BBF3BEDEAFE6734492"
+				"download" "9CF927D5B722582207E66BAD108AC2CD"
+			}
+		}
+	}
+	"1649732"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8559349260785685700"
+				"size" "291283278"
+				"download" "154905488"
+			}
+			"win7"
+			{
+				"gid" "8559349260785685700"
+				"size" "291283278"
+				"download" "154905488"
+			}
+			"english"
+			{
+				"gid" "8559349260785685700"
+				"size" "291283278"
+				"download" "154905488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nwjs"
+			{
+				"gid" "BE3CE5EA7CE31D7A280C758787906291"
+				"size" "5F8E46B34E2A2E2E278994F48F4D39B8"
+				"download" "5A1C69B5AFDDC1A13C750645AAE39252"
+			}
+			"newtest"
+			{
+				"gid" "9897C6A31FF67281128A78B0533B920C"
+				"size" "DA14A712E939B58493E4E9E7DEE1AD67"
+				"download" "6BE42E9DBBB8F412B402C12B8E896B9F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14753156"
+			"timeupdated" "1718705138"
+		}
+		"nwjs"
+		{
+			"buildid" "13760106"
+			"pwdrequired" "1"
+			"timeupdated" "1710563496"
+		}
+		"win7"
+		{
+			"buildid" "13931582"
+			"description" "Win7edition"
+			"timeupdated" "1712122097"
+		}
+		"english"
+		{
+			"buildid" "14752154"
+			"description" "中文用户请勿选择"
+			"timeupdated" "1718698757"
+		}
+		"newtest"
+		{
+			"buildid" "14753130"
+			"pwdrequired" "1"
+			"timeupdated" "1718705008"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SaveDir"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24036387"
+"_sha" "e2c4a741267ede480ec9d5b4f61fbe3bc3905c5d"
+"_size" "5979"
