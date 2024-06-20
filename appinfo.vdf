@@ -1,0 +1,607 @@
+"appid" "949230"
+"common"
+{
+	"name" "Cities: Skylines II"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "2dfa1f3e740ae5300bf59e9a14066391dab4727a"
+	"clienticon" "a183d04770e4cc9e6d615ad0f3301609fd23ac9c"
+	"clienttga" "52a2de1eb9747562dc94277637ba9b271f08e883"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "949230_eula_1"
+			"name" "Cities: Skylines II EULA"
+			"url" "https://store.steampowered.com//eula/949230_eula_1"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1698969600"
+		"tested_build_id" "12464864"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "71.41132503279019"
+			"height_pct" "83.88062274415918"
+		}
+	}
+	"store_asset_mtime" "1716451365"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Colossal Order Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Cities: Skylines"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1698163140"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "949230"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "4328"
+		"2" "1643"
+		"3" "4182"
+		"4" "3810"
+		"5" "12472"
+		"6" "4695"
+		"7" "9"
+		"8" "4175"
+		"9" "1669"
+		"10" "1654"
+		"11" "8945"
+		"12" "10383"
+		"13" "597"
+		"14" "4166"
+		"15" "3859"
+		"16" "493"
+		"17" "1695"
+		"18" "1756"
+		"19" "5348"
+	}
+	"review_score" "5"
+	"review_percentage" "52"
+}
+"extended"
+{
+	"developer" "Colossal Order Ltd."
+	"publisher" "Paradox Interactive"
+	"listofdlc" "2427730,2427731,2427740,2427741,2427742,2427743,2427744,2427745,2427746,2887600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Cities Skylines II"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "Cities2.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "compat_test"
+			}
+			"description_loc"
+			{
+				"english" "Cities: Skylines II (No launcher)"
+			}
+			"description" "Cities: Skylines II (No launcher)"
+		}
+		"4"
+		{
+			"executable" "Cities2.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release"
+			}
+			"description_loc"
+			{
+				"english" "Cities: Skylines II (No launcher)"
+			}
+			"description" "Cities: Skylines II (No launcher)"
+		}
+		"5"
+		{
+			"executable" "Cities2.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "partner_development "
+			}
+			"description_loc"
+			{
+				"english" "Cities: Skylines II (No launcher)"
+			}
+			"description" "Cities: Skylines II (No launcher)"
+		}
+		"6"
+		{
+			"executable" "Cities2.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "vttest"
+			}
+			"description_loc"
+			{
+				"english" "Cities: Skylines II (No launcher)"
+			}
+			"description" "Cities: Skylines II (No launcher)"
+		}
+		"8"
+		{
+			"executable" "Launcher/dowser.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"949231"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9187859206915006687"
+				"size" "63697681325"
+				"download" "59135751520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"goldmaster"
+			{
+				"gid" "0943F3A4BB68BFEF14C1E5DA5D32EAA8"
+				"size" "19243EE07A30073BA6660A3D0E88ABD5"
+				"download" "F9A59F1DCBB46F2250A3CC4019FE685E"
+			}
+			"marketing"
+			{
+				"gid" "2743EAE64AF66518463C77136E153611"
+				"size" "92733F202B6902D17C2CBC6C3F74A976"
+				"download" "432DE08D4A32D6822425CA76BB4A9F42"
+			}
+			"nightly"
+			{
+				"gid" "4E507F1DDD99CD9241AEB26F92CE33B1"
+				"size" "FE9BCCC60F602C4979D60EB22625366A"
+				"download" "ADB651E076EBB014CFE3D83D145E5FEB"
+			}
+			"nightly_release"
+			{
+				"gid" "F5916DB71D2A77EA10A9F449EA7F81A0"
+				"size" "D817B308E28E8326579E4DA43AA6CC3D"
+				"download" "8D3AEC078A0F1BA1EF900A9BF6D76AD9"
+			}
+			"partner"
+			{
+				"gid" "5088A34CF20707A16E6B4E9121A23571"
+				"size" "7F31BA6762F9685337BB7C6DEA074F95"
+				"download" "8DF6018CC53BF78F988AFD8AC5D4989C"
+			}
+			"partner_development"
+			{
+				"gid" "40EB44FDC3A8B12E6AB4EE5B8227F39A"
+				"size" "23E0318DC90C64C3AAF77162405E472D"
+				"download" "E12C49BB78D5BE62F60BE027215A1EC9"
+			}
+			"release"
+			{
+				"gid" "CE6838A6F5F2937B3F46893789A746C8"
+				"size" "DFAF29E4BD5203002003CB2CDFAAC733"
+				"download" "5885B46BC064F5B01751E779D957CEE6"
+			}
+			"staging_development"
+			{
+				"gid" "CED4D8BDDBB0EE416F52CF05792ABCA3"
+				"size" "F4CF60F02778BA148EE09229BAD9A59B"
+				"download" "066ECBE2A58151D373D660217976EC70"
+			}
+			"ccp_test"
+			{
+				"gid" "EF9CD35A57EC75294B68D939D818D60A"
+				"size" "D1015A0D74481DAAB2A313E8030B408F"
+				"download" "4C85271651D1BE13BB15614A315CC6D0"
+			}
+			"co_design"
+			{
+				"gid" "F7C0C20A37E12F8D63B07666C03E0E55"
+				"size" "28A3B0D3EA5CFA16D9017FC3B6B46C5E"
+				"download" "086FF63DA4C25D7405BF182DC3AB3AE2"
+			}
+			"co_test"
+			{
+				"gid" "EB3A2AC27C31C23CA4ACB53A9DCF7418"
+				"size" "1C81F7AC3653F3CD667A24AEC5061165"
+				"download" "2E78D0B8094D4DEBDAA83EE511152732"
+			}
+			"compat_test"
+			{
+				"gid" "70FE4D0968BB033CC00004251874A3BE"
+				"size" "10F44C21B2A705CFE6C13984658B020E"
+				"download" "0129BDC5255D5F8D20A28EEE91078FB0"
+			}
+			"development"
+			{
+				"gid" "0CB1FB6F97254A4ED9DED6CFCEE1C7C7"
+				"size" "A6F32EC6ECBE5EC3D22214685461E191"
+				"download" "D11546A43673DD2598B752F49114A7F7"
+			}
+			"early_access"
+			{
+				"gid" "3F50BC9BB75AC3B7E90F9A04456A8150"
+				"size" "B7ADD61778B722EF91B650A42A55BD1F"
+				"download" "12AFBBD5EAAA0697D32196155511C8DF"
+			}
+			"early_access_previous"
+			{
+				"gid" "B7961B0CD8E690490A4AA501F4239A1D"
+				"size" "5C38EC903DB478823A1FFFDBF48ED127"
+				"download" "4BD6B1DF9EB9054A159525B65F79D7EB"
+			}
+			"modding_assets"
+			{
+				"gid" "074D891B139CE7D7B77ECCA8987B42D9"
+				"size" "306F3762A5CEB5FEB4E0ACEDC2726D64"
+				"download" "6F0EEC8B15183A0F99734B9F4F2A12E1"
+			}
+			"modding_upcoming"
+			{
+				"gid" "60E1968139046A6396A9262805F801C4"
+				"size" "E84FEBAE6DE0ABC1AB5351324B090BBC"
+				"download" "F68606B6121504CA061295506BA00F6E"
+			}
+			"pdx_test"
+			{
+				"gid" "D9F529630E97CA28F6BDE65B44BFA603"
+				"size" "22D5FB6E839389E70D5C3371AF023245"
+				"download" "38FFFF996607F3E1DE4A9139ED042548"
+			}
+			"qloc_balance"
+			{
+				"gid" "DC712D8967561E30F36AAA9C5CF5566D"
+				"size" "D29E71942D8E90F431E8751E2EC06B3C"
+				"download" "9C72E3D0F1EB0127660C60F9E2430B3B"
+			}
+			"qloc_main"
+			{
+				"gid" "7AC72CABA02171B130697230747A08F6"
+				"size" "AFECD92B55699B8B44678A48E3E70E2D"
+				"download" "FE55B6A1B3AE00A1B3259C00F7B6F944"
+			}
+			"qloc_previous"
+			{
+				"gid" "B35D0A0FFCC03618312D67831AE5641C"
+				"size" "0BA10364110DE36B1C660345CDF7A3F7"
+				"download" "335DE689E733F93A43BA03F5C64A2C99"
+			}
+			"staging"
+			{
+				"gid" "EB13062038BF2A23B9AFB9688940F220"
+				"size" "3CB7B84B38C53CE167FC370152CD615A"
+				"download" "6F76D871FBD52E3568D4A2DE4084A70D"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14132942"
+			"timeupdated" "1714032003"
+		}
+		"goldmaster"
+		{
+			"buildid" "12464864"
+			"pwdrequired" "1"
+			"timeupdated" "1697792698"
+		}
+		"marketing"
+		{
+			"buildid" "13467970"
+			"pwdrequired" "1"
+			"timeupdated" "1708081149"
+		}
+		"nightly"
+		{
+			"buildid" "13267204"
+			"pwdrequired" "1"
+			"timeupdated" "1706156713"
+		}
+		"nightly_release"
+		{
+			"buildid" "13267377"
+			"pwdrequired" "1"
+			"timeupdated" "1706158684"
+		}
+		"partner"
+		{
+			"buildid" "14132942"
+			"pwdrequired" "1"
+			"timeupdated" "1713807642"
+		}
+		"partner_development"
+		{
+			"buildid" "14132382"
+			"pwdrequired" "1"
+			"timeupdated" "1713790059"
+		}
+		"release"
+		{
+			"buildid" "14064394"
+			"pwdrequired" "1"
+			"timeupdated" "1713231789"
+		}
+		"staging_development"
+		{
+			"buildid" "13417590"
+			"pwdrequired" "1"
+			"timeupdated" "1707502896"
+		}
+		"ccp_test"
+		{
+			"buildid" "14746790"
+			"pwdrequired" "1"
+			"timeupdated" "1718656943"
+		}
+		"co_design"
+		{
+			"buildid" "14755177"
+			"pwdrequired" "1"
+			"timeupdated" "1718716478"
+		}
+		"co_test"
+		{
+			"buildid" "14755177"
+			"pwdrequired" "1"
+			"timeupdated" "1718716489"
+		}
+		"compat_test"
+		{
+			"buildid" "14431648"
+			"pwdrequired" "1"
+			"timeupdated" "1716274398"
+		}
+		"development"
+		{
+			"buildid" "14775127"
+			"pwdrequired" "1"
+			"timeupdated" "1718846376"
+		}
+		"early_access"
+		{
+			"buildid" "14755177"
+			"pwdrequired" "1"
+			"timeupdated" "1718719755"
+		}
+		"early_access_previous"
+		{
+			"buildid" "14567769"
+			"pwdrequired" "1"
+			"timeupdated" "1717593596"
+		}
+		"modding_assets"
+		{
+			"buildid" "14482608"
+			"pwdrequired" "1"
+			"timeupdated" "1716558335"
+		}
+		"modding_upcoming"
+		{
+			"buildid" "14755177"
+			"pwdrequired" "1"
+			"timeupdated" "1718716425"
+		}
+		"pdx_test"
+		{
+			"buildid" "14755177"
+			"pwdrequired" "1"
+			"timeupdated" "1718716346"
+		}
+		"qloc_balance"
+		{
+			"buildid" "14681346"
+			"pwdrequired" "1"
+			"timeupdated" "1718166217"
+		}
+		"qloc_main"
+		{
+			"buildid" "14755177"
+			"pwdrequired" "1"
+			"timeupdated" "1718716465"
+		}
+		"qloc_previous"
+		{
+			"buildid" "14742939"
+			"pwdrequired" "1"
+			"timeupdated" "1718716454"
+		}
+		"staging"
+		{
+			"buildid" "14775338"
+			"pwdrequired" "1"
+			"timeupdated" "1718847909"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#statusinmainmenu" "In Main-Menu"
+				"#statusingame" "In-Game"
+				"#statusineditor" "In-Editor"
+				"#statusingame_building" "Building %cityname% - {#StatusInGame_%stat%}"
+				"#statusingame_bulldozing" "Bulldozing %cityname% - {#StatusInGame_%stat%}"
+				"#statusingame_inspecting" "Inspecting %cityname% - {#StatusInGame_%stat%}"
+				"#statusingame_capturingmemories" "Capturing memories in %cityname% - {#StatusInGame_%stat%}"
+				"#statusingame_population" "Population: %population%"
+				"#statusingame_money" "Money: %money%¢"
+				"#statusingame_happiness" "Happiness: %happiness%"
+				"#statusingame_health" "Health: %health%"
+				"#statusingame_milestone" "Milestone %milestone%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24042412"
+"_sha" "b8df71398e3b69301e35d85f6b40460de79e3fad"
+"_size" "12566"
