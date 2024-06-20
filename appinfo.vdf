@@ -1,0 +1,404 @@
+"appid" "2488510"
+"common"
+{
+	"name" "FatalZone"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "616da007ca777b5a7bb53509cd67234bca18cf96"
+	"clienttga" "42290795ec44f58f377605892623f068eca54503"
+	"clienticon" "835afea12576a174727735489e82ec871b2b0dfe"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1698883200"
+		"tested_build_id" "12554625"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.11785297549591"
+			"height_pct" "90.65542626454524"
+		}
+	}
+	"store_asset_mtime" "1698066066"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Midhard Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "101XP"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "101XP"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Midhard Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1698066018"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2488510"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "4885"
+		"2" "1659"
+		"3" "1662"
+		"4" "3959"
+		"5" "4637"
+		"6" "5547"
+		"7" "19"
+		"8" "4231"
+		"9" "4791"
+		"10" "1716"
+		"11" "122"
+		"12" "3835"
+		"13" "3871"
+		"14" "5125"
+		"15" "4182"
+		"16" "5154"
+		"17" "492"
+		"18" "5851"
+		"19" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "Midhard Games"
+	"publisher" "101XP"
+}
+"config"
+{
+	"installdir" "FatalZone"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FatalZone.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2488511"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6406445709503954743"
+				"size" "2550190198"
+				"download" "461331584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"auto_perf_test"
+			{
+				"gid" "401FFD2A9221A49A01925512B1951D2D"
+				"size" "52603E8D8F3A7EAD02801C721115ADCE"
+				"download" "C3380A95339586EF60513089C28264CA"
+			}
+			"hotfix"
+			{
+				"gid" "2C596090C7257EFC36D716444DCC0D13"
+				"size" "49B9DAD8855598DC72A195ED5A8D1008"
+				"download" "C5B05180E7941EBCC9874A4D9C1244C8"
+			}
+			"morpeh_update"
+			{
+				"gid" "B65A45B4F193741E8C04BBE41EECD227"
+				"size" "16049953BD2F4673DDB0088E7937FFCD"
+				"download" "8B2FE10EF66007F9AEA4E89BC659CAE5"
+			}
+			"release_testing"
+			{
+				"gid" "F144928F2564D92D2E5AA6718C971DAD"
+				"size" "02B2DF4D9B8A9A099FE4066A43154DAC"
+				"download" "EC7C831D90A1FFFF6A167DE42B1A8E08"
+			}
+			"testing_physics"
+			{
+				"gid" "BB8BA85DEBC8D97AED21BECD19923018"
+				"size" "A13FBE85F46357E231008A0E49DE1FCC"
+				"download" "5D746ACD5EDFF58720DF7103498D1E63"
+			}
+			"update1"
+			{
+				"gid" "E6E8C8F4E6E72FE26AFD0CCACBBE973E"
+				"size" "DDCF559D1D7BAC55A784B8E58E33F484"
+				"download" "E35299D26D47BF8850C7E168E7830E7A"
+			}
+			"update2"
+			{
+				"gid" "5F617DB2313A4D4DAB524747C1768E61"
+				"size" "BB2CDE07DD267ADCEE7BCEC3C4C47620"
+				"download" "2EA1F40EB05CA0294378356F4C9EA671"
+			}
+			"release"
+			{
+				"gid" "AC501DA48E7A95DAF9EC00F44BF0BDF4"
+				"size" "3A4E9D86E5BD2818EC296613E40FA13C"
+				"download" "2DA5F70C1F8179DB7586C318E98ECB04"
+			}
+			"testing"
+			{
+				"gid" "7DA94B20D33731325653AB412E513DC7"
+				"size" "CB969CF002E6772FBD28CD4B031CE8D0"
+				"download" "493E80FC5E385BB6BBDE164879EA70A8"
+			}
+			"update3"
+			{
+				"gid" "A5C6BE4AB2E6B964FB78E40015B96E03"
+				"size" "694AB645974EC17F68B5335A93F06212"
+				"download" "BD3EC9291354A4FF3680815673C0A026"
+			}
+			"update4"
+			{
+				"gid" "61CABFFFA408D23770B94ED559FB153B"
+				"size" "6E56C220FAC6284BB443C15E70726DBF"
+				"download" "9005EF567B1850AD979758FFE1BE91EC"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14304600"
+			"timeupdated" "1715181910"
+		}
+		"auto_perf_test"
+		{
+			"buildid" "13614737"
+			"pwdrequired" "1"
+			"timeupdated" "1709305782"
+		}
+		"hotfix"
+		{
+			"buildid" "12750744"
+			"pwdrequired" "1"
+			"timeupdated" "1700490537"
+		}
+		"morpeh_update"
+		{
+			"buildid" "12972098"
+			"pwdrequired" "1"
+			"timeupdated" "1702643283"
+		}
+		"release_testing"
+		{
+			"buildid" "13988828"
+			"pwdrequired" "1"
+			"timeupdated" "1712599292"
+		}
+		"testing_physics"
+		{
+			"buildid" "13706417"
+			"pwdrequired" "1"
+			"timeupdated" "1710187695"
+		}
+		"update1"
+		{
+			"buildid" "13115702"
+			"pwdrequired" "1"
+			"timeupdated" "1704705119"
+		}
+		"update2"
+		{
+			"buildid" "13739256"
+			"pwdrequired" "1"
+			"timeupdated" "1710421061"
+		}
+		"release"
+		{
+			"buildid" "14304600"
+			"pwdrequired" "1"
+			"timeupdated" "1715180559"
+		}
+		"testing"
+		{
+			"buildid" "14602855"
+			"pwdrequired" "1"
+			"timeupdated" "1717528836"
+		}
+		"update3"
+		{
+			"buildid" "14276786"
+			"pwdrequired" "1"
+			"timeupdated" "1714991035"
+		}
+		"update4"
+		{
+			"buildid" "14692563"
+			"pwdrequired" "1"
+			"timeupdated" "1718200445"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "500"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Midhard/FatalZone"
+			"pattern" "*.es3"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23940384"
+"_sha" "ccfbb3167419c9bbfac372d48c297552e8da67b1"
+"_size" "7549"
