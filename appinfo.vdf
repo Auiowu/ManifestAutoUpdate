@@ -1,0 +1,349 @@
+"appid" "1451940"
+"common"
+{
+	"name" "NEEDY GIRL OVERDOSE"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "67a5a0fff7fd1c31ad95f9dfc53980624a4202a8"
+	"logo_small" "67a5a0fff7fd1c31ad95f9dfc53980624a4202a8_thumb"
+	"icon" "2d9e7f71e6372b3f8b4a7a2a9f1fcfdbd28061c1"
+	"clienticon" "f77217e6d51acfca9c0b02d428b18fd0fb6aaf8b"
+	"name_localized"
+	{
+		"english" "NEEDY STREAMER OVERLOAD"
+		"schinese" "主播女孩重度依赖"
+		"koreana" "니디 걸 오버도즈 : NEEDY GIRL OVERDOSE "
+		"tchinese" "主播女孩重度依賴"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1660780800"
+		"tested_build_id" "9012084"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.57540635337454"
+			"height_pct" "72.91862663459868"
+		}
+	}
+	"store_asset_mtime" "1689126165"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "WSS playground"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "xemono"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WSS playground"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "WSS playground"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1642755028"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1451940"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "4085"
+		"2" "12095"
+		"3" "3799"
+		"4" "4726"
+		"5" "3964"
+		"6" "6971"
+		"7" "5186"
+		"8" "3871"
+		"9" "1698"
+		"10" "5923"
+		"11" "4486"
+		"12" "1742"
+		"13" "1714"
+		"14" "4305"
+		"15" "4182"
+		"16" "21"
+		"17" "9130"
+		"18" "31275"
+		"19" "15172"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "WSS playground"
+	"publisher" "WSS playground"
+}
+"config"
+{
+	"installdir" "NEEDY GIRL OVERDOSE"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "NEEDY GIRL OVERDOSE.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Windose.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,schinese,japanese"
+	"1451941"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2791256238553158571"
+				"size" "1329730123"
+				"download" "937139504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "E56B08E7B3675B252F9DAED1BF751E07"
+				"size" "6295479D714849F76CAC10F96B9276BB"
+				"download" "AEB5E7DC456DBE7B82DAFD445983404B"
+			}
+			"develop"
+			{
+				"gid" "C28DAAC76F22937D800ADF2A640264DD"
+				"size" "6CCEC3EF95AB94AC9376142A76B6BAFF"
+				"download" "C3A4DDA8A986D679A6C4ECAB988B3CC4"
+			}
+			"test2"
+			{
+				"gid" "1C86F138845861CF987F537F94785EA8"
+				"size" "E76761136D1954B61333253FC2290737"
+				"download" "1875125C5825334740DD294B3D993A6F"
+			}
+		}
+	}
+	"1451942"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4118746055315633793"
+				"size" "1337556302"
+				"download" "934851776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "8E52FA7DD2E8AD4E0ED28C80DCDC74A0"
+				"size" "C71A29ABF3E81AD7F4516DC37CE2161C"
+				"download" "B66C00BC7041D72B9CA13ECE910FB7C9"
+			}
+			"develop"
+			{
+				"gid" "CF44F7D6C9FA09088FD2FAA8B98BE8E8"
+				"size" "E9ED929B8444E3FAA8BFF0A59361D356"
+				"download" "D0BB5B779DEA67EA9060819A3C81D834"
+			}
+			"test2"
+			{
+				"gid" "D1298B427071C6EE0D0383FB313C5322"
+				"size" "1ABEC04899089DF7487296AB91728056"
+				"download" "35C5F898E9597131AE3435A9AA958368"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13983158"
+			"timeupdated" "1713764396"
+		}
+		"test"
+		{
+			"buildid" "9685586"
+			"pwdrequired" "1"
+			"timeupdated" "1665336060"
+		}
+		"develop"
+		{
+			"buildid" "14748489"
+			"pwdrequired" "1"
+			"timeupdated" "1718669439"
+		}
+		"test2"
+		{
+			"buildid" "14764690"
+			"pwdrequired" "1"
+			"timeupdated" "1718780791"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24036001"
+"_sha" "42bc9973fcfedba677aba46494290ba897c503cd"
+"_size" "6546"
