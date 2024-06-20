@@ -1,0 +1,354 @@
+"appid" "1222210"
+"common"
+{
+	"name" "Extremely Realistic Siege Warfare Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "508257fae338c993024356b329b68162479b7f5e"
+	"logo" "5d15881c131156532131bbbd74c1c43508e2df61"
+	"logo_small" "5d15881c131156532131bbbd74c1c43508e2df61_thumb"
+	"clienttga" "9973d61c0202088f476ab8a59139746521047401"
+	"clienticon" "2d1c541960c467da4f3dadef420403cd3323ae66"
+	"name_localized"
+	{
+		"schinese" "超逼真的攻城模拟器"
+		"sc_schinese" "超逼真的攻城模拟器"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1222210_eula_0"
+			"name" "Extremely Realistic Siege Warfare Simulator EULA"
+			"url" "https://store.steampowered.com//eula/1222210_eula_0"
+			"version" "1"
+		}
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667001600"
+		"tested_build_id" "9543681"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Extremely Realistic Siege Warfare Simulator"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "69.52424135464022"
+		}
+	}
+	"store_asset_mtime" "1689688573"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Screambox Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Screambox Studio"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "3"
+		"5" "28"
+		"6" "2"
+		"7" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1662609574"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1222210"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1678"
+		"2" "1676"
+		"3" "9"
+		"4" "3810"
+		"5" "1643"
+		"6" "122"
+		"7" "4684"
+		"8" "1775"
+		"9" "3968"
+		"10" "4191"
+		"11" "4136"
+		"12" "1646"
+		"13" "597"
+		"14" "599"
+		"15" "4175"
+		"16" "4305"
+		"17" "1708"
+		"18" "21"
+		"19" "1669"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"anti_cheat_support_url" ""
+	"developer" "Screambox Studio"
+	"publisher" "Screambox Studio"
+}
+"config"
+{
+	"installdir" "Extremely Realistic Siege Warfare Simulator"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SWS.exe"
+		}
+	}
+}
+"depots"
+{
+	"1222211"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6025472847124028773"
+				"size" "2763643429"
+				"download" "864791840"
+			}
+			"beta_version"
+			{
+				"gid" "6025472847124028773"
+				"size" "2763643429"
+				"download" "864791840"
+			}
+			"daily_build"
+			{
+				"gid" "6025472847124028773"
+				"size" "2763643429"
+				"download" "864791840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_team"
+			{
+				"gid" "7FBF11628580F5BA3634C5BDE5A4A2C9"
+				"size" "AC7BEC30BD8889D84084D3EA78B7C6B3"
+				"download" "A0FB0994888B9493E6949F4C006A9600"
+			}
+			"dev_team_beta"
+			{
+				"gid" "C6B23D860BB2FA8BB4E69C88518928CA"
+				"size" "25D1A670192084E8329C14B7783B97C9"
+				"download" "4E7A6B967AFDCACD03333BC4DE250805"
+			}
+			"mobile_all_levels"
+			{
+				"gid" "0E2DB8803ED7E710C97073A2296D2587"
+				"size" "5F9303C03D5311F071F97AA41603655E"
+				"download" "C7ADE25607122B2E3740A395285E7533"
+			}
+		}
+	}
+	"workshopdepot" "1222210"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14621864"
+			"timeupdated" "1717745156"
+		}
+		"beta_version"
+		{
+			"buildid" "14621864"
+			"description" "This version is compatible with mobile players."
+			"timeupdated" "1717745191"
+			"sc_schinese" "测试版"
+		}
+		"daily_build"
+		{
+			"buildid" "14621864"
+			"description" "New features in testing."
+			"timeupdated" "1717745180"
+		}
+		"dev_team"
+		{
+			"buildid" "14621864"
+			"pwdrequired" "1"
+			"timeupdated" "1717653090"
+		}
+		"dev_team_beta"
+		{
+			"buildid" "14780558"
+			"pwdrequired" "1"
+			"timeupdated" "1718882888"
+		}
+		"mobile_all_levels"
+		{
+			"buildid" "14621864"
+			"pwdrequired" "1"
+			"timeupdated" "1717745238"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+		"pocket_server"
+		{
+			"sc_schinese" "跨平台联机服务器测试分支"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "24048528"
+"_sha" "ad9c4caa03cf8b4228eb3c4e4fb65cc722b5f405"
+"_size" "6823"
