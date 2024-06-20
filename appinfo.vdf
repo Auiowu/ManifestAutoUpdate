@@ -1,0 +1,402 @@
+"appid" "1119730"
+"common"
+{
+	"name" "Ranch Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "6256f58eed4eafbadb6ccb698dd5a8895532e0d5"
+	"logo_small" "6256f58eed4eafbadb6ccb698dd5a8895532e0d5_thumb"
+	"icon" "183b5e569eb811efa38f43245c9eb66e4e5b7d51"
+	"clienticon" "00eefd91d26a9896db0dca39fb95e3875d0a1cfb"
+	"clienttga" "9d351bf44dcf79a5b05eb4686d1737562758dd3d"
+	"name_localized"
+	{
+		"russian" "Ranch Simulator — строительство, фермерство, охота"
+		"german" "Ranch Simulator — Bauen, Farmen, Jagen"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1699574400"
+		"tested_build_id" "12571201"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ranch Simulator"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709224233"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Toxic Dog"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Excalibur Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Excalibur Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699030538"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1119730"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3859"
+		"2" "3843"
+		"3" "1695"
+		"4" "87918"
+		"5" "4520"
+		"6" "35079"
+		"7" "1685"
+		"8" "4175"
+		"9" "9564"
+		"10" "3810"
+		"11" "4182"
+		"12" "12472"
+		"13" "4695"
+		"14" "5363"
+		"15" "4202"
+		"16" "9204"
+		"17" "1654"
+		"18" "492"
+		"19" "3839"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Toxic Dog"
+	"publisher" "Excalibur Games"
+	"homepage" "https://www.excalibur-games.com/ranch-simulator"
+}
+"config"
+{
+	"installdir" "Ranch Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ranch_Simulator.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Ranch Simulator"
+			}
+			"description" "Ranch Simulator"
+		}
+		"1"
+		{
+			"executable" "Ranch_Simulator.exe"
+			"arguments" "-dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Ranch Simulator with DX11"
+			}
+			"description" "Ranch Simulator with DX11"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1119731"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7295261490968737594"
+				"size" "16219683463"
+				"download" "7405603328"
+			}
+			"previousupdate"
+			{
+				"gid" "2191962334811392174"
+				"size" "15120536665"
+				"download" "6460976640"
+			}
+			"unreal_engine_4_branch"
+			{
+				"gid" "2950070988431665156"
+				"size" "15221653219"
+				"download" "6453377984"
+			}
+			"unstable_branch"
+			{
+				"gid" "7295261490968737594"
+				"size" "16219683463"
+				"download" "7405603328"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"crash_test"
+			{
+				"gid" "E6ECB55B6DA3EF6B97AC6F4E99605613"
+				"size" "DD900A64FC0115A1EC3FFBC229397570"
+				"download" "6CCCE538E4EE3BA53EF36FE5DAAD241A"
+			}
+			"internal_testing"
+			{
+				"gid" "E2AD1D2F41EC1C969B0D250619CB3079"
+				"size" "C737E1F5B7EF926C3EFD080D68BA53B4"
+				"download" "748AEB3ED197F25429FC335A164764FD"
+			}
+			"moderator_testing"
+			{
+				"gid" "30BEEB821389523DDBDC2649A3152DDC"
+				"size" "819D3F835AA1BB5B418DFC85C31DBFB1"
+				"download" "6A7E204F6DF5CFC36365C04165BCA309"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14314470"
+			"timeupdated" "1715265066"
+		}
+		"crash_test"
+		{
+			"buildid" "12393038"
+			"pwdrequired" "1"
+			"timeupdated" "1697820604"
+		}
+		"previousupdate"
+		{
+			"buildid" "10291479"
+			"description" "Holds the last previous update to the game"
+			"timeupdated" "1681739958"
+		}
+		"unreal_engine_4_branch"
+		{
+			"buildid" "10892409"
+			"description" "Holds the last version of the Ue4 version"
+			"timeupdated" "1698842637"
+		}
+		"internal_testing"
+		{
+			"buildid" "14314470"
+			"pwdrequired" "1"
+			"timeupdated" "1715253211"
+		}
+		"moderator_testing"
+		{
+			"buildid" "14314470"
+			"pwdrequired" "1"
+			"timeupdated" "1715265030"
+		}
+		"unstable_branch"
+		{
+			"buildid" "14314470"
+			"description" "Unstable test branch"
+			"timeupdated" "1715265039"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Ranch_Simulator/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23489174"
+"_sha" "3cc4663c8bb8ca30583bbe2b62f7973f60148ab0"
+"_size" "7220"
