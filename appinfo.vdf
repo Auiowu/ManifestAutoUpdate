@@ -1,0 +1,452 @@
+"appid" "1715280"
+"common"
+{
+	"name" "AirportSim"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "4d78b7c3b9ea9491ed72a0522991cf3fe8a6341b"
+	"clienttga" "bd9889e21437ec0489bea7d4bdf02d5d424651f2"
+	"icon" "e659a8000c53c50ed666fdbe3672d682284e1319"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "机场：模拟地勤"
+		"tchinese" "機場：模擬地勤"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1698883200"
+		"tested_build_id" "12501772"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.75317604355717"
+			"height_pct" "73.95833333333333"
+		}
+	}
+	"store_asset_mtime" "1716464888"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MS GAMES"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "MK STUDIOS"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Iceberg Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697726711"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1715280"
+	"store_tags"
+	{
+		"0" "35079"
+		"1" "1220528"
+		"2" "15045"
+		"3" "599"
+		"4" "9204"
+		"5" "3810"
+		"6" "92092"
+		"7" "4175"
+		"8" "1036"
+		"9" "4166"
+		"10" "10235"
+		"11" "1695"
+		"12" "1644"
+		"13" "12472"
+		"14" "3839"
+		"15" "3843"
+		"16" "8122"
+		"17" "5350"
+		"18" "4182"
+		"19" "3859"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "MS GAMES"
+	"publisher" "Iceberg Interactive"
+	"homepage" "http://www.airportsim.com"
+	"listofdlc" "2726990,2727000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "AirportSim"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AirportSim.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play AirportSim"
+			}
+			"description" "Play AirportSim"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"workshopdepot" "1715280"
+	"1715281"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8041460837491210761"
+				"size" "9174314123"
+				"download" "4161531120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo_steamfest"
+			{
+				"gid" "515A6A0156315D4E94F17E2C4F183BC6"
+				"size" "C14B257372D2EB13347282A0A1D95722"
+				"download" "A5E9E2E32403ED2AB636D62A96EB2EBC"
+			}
+			"gold_master"
+			{
+				"gid" "FEBBF7B7B7779BD824DB318BB306551D"
+				"size" "7031F7CCDBBAD3D1CC3A0F3D7C9F9D0E"
+				"download" "4CC4EC57BDCC5E180A2029ED4F8DCD1A"
+			}
+			"insideras"
+			{
+				"gid" "FD6E0A64DF9F78F9B14B3B00E02CAA7E"
+				"size" "07BCEC27B8AD1ADFD918C11DC1FEF4B9"
+				"download" "CAF6BCE8923DC8D57FFDAAE86486E404"
+			}
+			"marketing_tests"
+			{
+				"gid" "C677D40A3C794ABE1C1B27F96285B142"
+				"size" "286891731E6275EDDD80B717E8B3330E"
+				"download" "26ADD619D5721C3A2408EA19D00A2F7A"
+			}
+			"press"
+			{
+				"gid" "86390736C6A86DB466FC0024D7269675"
+				"size" "91679D6539CD09FFC303998ED0D3F3DD"
+				"download" "CF97775C702FFDB652DB4B00F82C60E1"
+			}
+			"press_dkr"
+			{
+				"gid" "6C569E5CE64CBD6EFBB952467070D165"
+				"size" "299516AAC0E895FA361DD335346CE554"
+				"download" "7A75356EC81DC5A9DA1B7FFD6B215335"
+			}
+			"press_qa"
+			{
+				"gid" "52DFBE1580BA1FCDD01E63106BFFF61D"
+				"size" "0410813CED8FA229578B2725F66C2B92"
+				"download" "58335858CDB1C0F08789CEDBC1C93EDF"
+			}
+			"profiler"
+			{
+				"gid" "46C9165159C772FA343757C73F40E931"
+				"size" "4C60839DC29E4072AE086050B1D8DEC5"
+				"download" "1D29ED6AF8ECE3616B1186E41797D2F9"
+			}
+			"inhouse"
+			{
+				"gid" "80159122497E6C819E2365E200E55953"
+				"size" "EBEEB1FF72FFF103325E0CEEC1EC3DD2"
+				"download" "2F613C77401CACF8FE3263A8D971B4F2"
+			}
+			"testy"
+			{
+				"gid" "933D72FC34FAAF24FAA32DDD3B62D4DF"
+				"size" "FCE551C827CF3851F3206E1AEC6055BF"
+				"download" "0A5690BD42FF2C56CA7408DBBEC136B9"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14279266"
+			"timeupdated" "1716458201"
+		}
+		"demo_steamfest"
+		{
+			"buildid" "10892696"
+			"pwdrequired" "1"
+			"timeupdated" "1680183673"
+		}
+		"gold_master"
+		{
+			"buildid" "12432849"
+			"pwdrequired" "1"
+			"timeupdated" "1697198404"
+		}
+		"insideras"
+		{
+			"buildid" "13658858"
+			"pwdrequired" "1"
+			"timeupdated" "1709739916"
+		}
+		"marketing_tests"
+		{
+			"buildid" "13646319"
+			"pwdrequired" "1"
+			"timeupdated" "1709648292"
+		}
+		"press"
+		{
+			"buildid" "12721325"
+			"pwdrequired" "1"
+			"timeupdated" "1701244455"
+		}
+		"press_dkr"
+		{
+			"buildid" "12402314"
+			"pwdrequired" "1"
+			"timeupdated" "1696934683"
+		}
+		"press_qa"
+		{
+			"buildid" "12432849"
+			"pwdrequired" "1"
+			"timeupdated" "1697194992"
+		}
+		"profiler"
+		{
+			"buildid" "13542643"
+			"pwdrequired" "1"
+			"timeupdated" "1708689656"
+		}
+		"inhouse"
+		{
+			"buildid" "14279266"
+			"pwdrequired" "1"
+			"timeupdated" "1715007481"
+		}
+		"testy"
+		{
+			"buildid" "14440236"
+			"pwdrequired" "1"
+			"timeupdated" "1716286656"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "23812331"
+"_sha" "8673aa2e08df89b26532b4b9330333e7321e9eb2"
+"_size" "8385"
