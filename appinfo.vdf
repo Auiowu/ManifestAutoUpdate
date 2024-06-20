@@ -1,0 +1,436 @@
+"appid" "1477070"
+"common"
+{
+	"name" "Depersonalization"
+	"type" "Game"
+	"logo" "c906fcbd1dc113e51cbd4c46e4e7c6d4ba1544f7"
+	"logo_small" "c906fcbd1dc113e51cbd4c46e4e7c6d4ba1544f7_thumb"
+	"icon" "6228fc70244ffbb440baa3352a087504d8114eb4"
+	"clienttga" "60559acbea78549a382376e310d5bacfdbf72037"
+	"clienticon" "9df5d118bcc5e3c8f8b1c1dd6e60f570226e8725"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "人格解体"
+		"sc_schinese" "人格解体"
+	}
+	"releasestate" "released"
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690329600"
+		"tested_build_id" "11736071"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35.60978111736571"
+			"height_pct" "60.8644027546901"
+		}
+	}
+	"store_asset_mtime" "1716460189"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MeowNature"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_51" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1671515474"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1477070"
+	"store_tags"
+	{
+		"0" "7432"
+		"1" "3964"
+		"2" "8369"
+		"3" "122"
+		"4" "17305"
+		"5" "4085"
+		"6" "791774"
+		"7" "1742"
+		"8" "1770"
+		"9" "1697"
+		"10" "9"
+		"11" "9204"
+		"12" "597"
+		"13" "1664"
+		"14" "10679"
+		"15" "5716"
+		"16" "1666"
+		"17" "1716"
+		"18" "16094"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "MeowNature"
+	"publisher" "Gamera Games"
+}
+"config"
+{
+	"installdir" "Depersonalization"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Depersonalization-Release.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "unity的游戏直接启动程序"
+			}
+			"description" "unity的游戏直接启动程序"
+		}
+		"1"
+		{
+			"executable" "Depersonalization-Release.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "7"
+}
+"depots"
+{
+	"workshopdepot" "1477070"
+	"1477071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4445138538661115784"
+				"size" "6580719175"
+				"download" "1177206928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "5DE02DDBE0906E87C2A458892F951A85"
+				"size" "DBB9FD9625779832B036EAA81BCCC769"
+				"download" "3DAE33DA20AEBBC1D4307512EBEE5790"
+			}
+			"development"
+			{
+				"gid" "108E27BB88AC3FBC6F2F2DE57BAF62BA"
+				"size" "FA2EBEB7BA72024C1053923F6767B23F"
+				"download" "A6623E8DB3B6329E72FD9ECB8145D7FF"
+			}
+			"zhanhuipackage"
+			{
+				"gid" "716D21D1D961735791B890FF3AA6E9FD"
+				"size" "2AEA8FDA61F809319E9B2EF1DC887B98"
+				"download" "816D1D556175A72A09151CFE16D6D8BF"
+			}
+			"development-test"
+			{
+				"gid" "0DF16343EA5E5178BF605C2128DD8986"
+				"size" "54D600C052EB6625CB5B9C2B97C9B199"
+				"download" "B563938512F0C2701714A5795CD827D2"
+			}
+			"pre_release"
+			{
+				"gid" "EB1A29112A13C34C97BEC73968FFE086"
+				"size" "865C06C27E422DC345F60BDBFE49A3B6"
+				"download" "236616F95259475BA5BE39F7EEE3F7D5"
+			}
+			"test"
+			{
+				"gid" "C0F00C3F81C87DA51D644408370658EF"
+				"size" "46B31A8F5CAA4B064AB8CDC558BA2F95"
+				"download" "1CA0821267E4C534FE3C722396B7FF70"
+			}
+			"visualeditor_test"
+			{
+				"gid" "3A1A56BE855A7B0E5A3D40CD9F5CDE69"
+				"size" "AC1ED3513AB0CCD9EEFB05076E6D4989"
+				"download" "B181E438E3B188736E263008664812E2"
+			}
+		}
+	}
+	"1477072"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1193950783842110728"
+				"size" "6600525496"
+				"download" "1183212656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"zhanhuipackage"
+			{
+				"gid" "581F0F936961E726C065DD91B57A75B8"
+				"size" "87DFF98E4702C1FDB4432BD6DB4EE226"
+				"download" "C3B3BDB039978C56A77ABB8E9912110E"
+			}
+			"development-test"
+			{
+				"gid" "FA6FC7C0A6AB19368D13155966DA6F5E"
+				"size" "7F9A491BCEEDF71348C2282B40C24530"
+				"download" "33D4C3654D98051F1E5BD2653ED16788"
+			}
+			"pre_release"
+			{
+				"gid" "7140C22BA2012D0EF8381016EA47ECB1"
+				"size" "3F4945839845D6CF1BE430DA236191EB"
+				"download" "657DBF6EDDD16ED7EA1212506CB1CC7A"
+			}
+			"test"
+			{
+				"gid" "585F66CF2A4CCF0D6D16C028A97582FF"
+				"size" "3B72B9378704F69FC795F664DCF5EEF5"
+				"download" "E13FCF496D748C018413A9975B64DE47"
+			}
+			"visualeditor_test"
+			{
+				"gid" "C4D4B7A1168B209FD594910FBE97D5DF"
+				"size" "22810D555BEB78D0F965FB0A983B9E9E"
+				"download" "7560AD005E9A42BCD5E77DDE302E7A54"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14778412"
+			"timeupdated" "1718871034"
+		}
+		"demo"
+		{
+			"buildid" "9258533"
+			"pwdrequired" "1"
+			"timeupdated" "1659684109"
+		}
+		"development"
+		{
+			"buildid" "14083075"
+			"pwdrequired" "1"
+			"timeupdated" "1713358730"
+		}
+		"zhanhuipackage"
+		{
+			"buildid" "13920092"
+			"pwdrequired" "1"
+			"timeupdated" "1712043528"
+		}
+		"development-test"
+		{
+			"buildid" "14583025"
+			"pwdrequired" "1"
+			"timeupdated" "1717406685"
+		}
+		"pre_release"
+		{
+			"buildid" "14778412"
+			"pwdrequired" "1"
+			"timeupdated" "1718871002"
+		}
+		"test"
+		{
+			"buildid" "14312529"
+			"pwdrequired" "1"
+			"timeupdated" "1715239663"
+		}
+		"visualeditor_test"
+		{
+			"buildid" "14778395"
+			"pwdrequired" "1"
+			"timeupdated" "1718870883"
+			"sc_schinese" "编辑器测试"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MeowNature/Depersonalization-Release/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "MeowNature/Depersonalization-Release/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24045844"
+"_sha" "1b14397e10e83a8cde6c12c9fbbdf57d0615355c"
+"_size" "8779"
