@@ -1,0 +1,402 @@
+"appid" "1967630"
+"common"
+{
+	"name" "Survival: Fountain of Youth"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "f3ce7642a76ea850beca2f903f57141c2458341a"
+	"clienticon" "139f3493166b998dcbfd807c1b080c1cda0edb8d"
+	"clienttga" "9f68300125f11fc413d2532d26680c0f5f177530"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "求生岛：不老泉传说"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1967630_eula_0"
+			"name" "Survival: Fountain of Youth EULA"
+			"url" "https://store.steampowered.com//eula/1967630_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1699574400"
+		"tested_build_id" "12572297"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "60.32134105109651"
+			"height_pct" "87.39979010995961"
+		}
+	}
+	"store_asset_mtime" "1718289920"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Odinsoft Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Twin Sails Interactive"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "CE-Asia"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Twin Sails Interactive"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716293194"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1967630"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1100689"
+		"2" "7332"
+		"3" "3834"
+		"4" "599"
+		"5" "1702"
+		"6" "4182"
+		"7" "4667"
+		"8" "4175"
+		"9" "21"
+		"10" "1664"
+		"11" "3810"
+		"12" "3839"
+		"13" "1695"
+		"14" "3987"
+		"15" "1643"
+		"16" "493"
+		"17" "9157"
+		"18" "9204"
+		"19" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Odinsoft Inc."
+	"publisher" "Twin Sails Interactive"
+	"homepage" "https://odinsoft.com/"
+	"listofdlc" "2866210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Survival Fountain of Youth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Survival Fountain of Youth.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1967631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5034655478486910418"
+				"size" "24378470448"
+				"download" "11498603120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "9C9D9E9D5CE0A73EF6FFE6B53829ABA3"
+				"size" "0BFC26EF189FCB4922E3D8CFF4E5D6DF"
+				"download" "480DC306E53CAB98EB80979BA256F21B"
+			}
+			"ms-test"
+			{
+				"gid" "3450BFCDCE3FBB32DD6C191682084F8B"
+				"size" "5A2106971091CC4717B52F43E91D7B43"
+				"download" "137A388A6C85D3C6D7C19DC282C5A4ED"
+			}
+			"tuto-test"
+			{
+				"gid" "12FE2B39415484154064DA28E180D439"
+				"size" "5BC67A3A75B8044325BEDC10DF013B9A"
+				"download" "60BFC1ED68659EE799C2024092ABD33B"
+			}
+			"cinematic-artists"
+			{
+				"gid" "40B7D4E60755FB74742026836F37181B"
+				"size" "F1A07A112DA343FA450C3D3DA667B9B7"
+				"download" "AA52A26CECFF915D5C8E908A1E40AD6A"
+			}
+			"develop"
+			{
+				"gid" "802D65A86A49AEE3236E53D17477EBCF"
+				"size" "43FAB3CFE9790FE7BDF9EAADC95649A2"
+				"download" "39364D5B9CBD05328EA2E48D48B1639F"
+			}
+			"localization"
+			{
+				"gid" "6BC9E8F65235C59A145FEE3840110FA6"
+				"size" "C80BF05A1EB32750F0BB3729FC931EE3"
+				"download" "68AB2D86E754229388DBFE27E2418492"
+			}
+			"press"
+			{
+				"gid" "559F1F40DEDB2D6D965ADC3C99D5DA95"
+				"size" "B1DF78BBD04EC62D2E7D695CD5ECC475"
+				"download" "2ED71E0F12B75E53B5F885C3396B130B"
+			}
+			"rc-build"
+			{
+				"gid" "E24AB070860B896E5EBE4D2113E59E24"
+				"size" "4B5F139EFB856B10F48BC21F1285839F"
+				"download" "AD84D40B85AB4A101BC934F7A8C8C20D"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,schinese,russian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14529717"
+			"timeupdated" "1717075917"
+		}
+		"demo"
+		{
+			"buildid" "8737133"
+			"pwdrequired" "1"
+			"timeupdated" "1652489440"
+		}
+		"ms-test"
+		{
+			"buildid" "13016993"
+			"pwdrequired" "1"
+			"timeupdated" "1703258852"
+		}
+		"tuto-test"
+		{
+			"buildid" "13681954"
+			"pwdrequired" "1"
+			"timeupdated" "1710165359"
+		}
+		"cinematic-artists"
+		{
+			"buildid" "14621051"
+			"pwdrequired" "1"
+			"timeupdated" "1717682284"
+		}
+		"develop"
+		{
+			"buildid" "14774244"
+			"pwdrequired" "1"
+			"timeupdated" "1718838792"
+		}
+		"localization"
+		{
+			"buildid" "14625782"
+			"pwdrequired" "1"
+			"timeupdated" "1717742411"
+		}
+		"press"
+		{
+			"buildid" "14529717"
+			"pwdrequired" "1"
+			"timeupdated" "1717076064"
+		}
+		"rc-build"
+		{
+			"buildid" "14529717"
+			"pwdrequired" "1"
+			"timeupdated" "1716995817"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "268435456"
+	"maxnumfiles" "4096"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Odinsoft/Survival Fountain of Youth"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24041159"
+"_sha" "b72c535c7a3abbade051bc8221b79bc38c1a21d6"
+"_size" "7474"
