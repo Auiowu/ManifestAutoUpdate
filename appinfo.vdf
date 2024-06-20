@@ -1,0 +1,436 @@
+"appid" "1840710"
+"common"
+{
+	"name" "These Doomed Isles"
+	"type" "Game"
+	"logo" "4f9e44c97583718f68c9c9cc7ebac73d169254fd"
+	"logo_small" "4f9e44c97583718f68c9c9cc7ebac73d169254fd_thumb"
+	"icon" "f425395f5a2c8dd8895b033cd577001af25a1d20"
+	"clienticon" "1d7cfa7f416ebcf2ccec4a7c674819014935a3e7"
+	"clienttga" "2e05b4355b9ba799171261d3d92fe28fbcc0072b"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "岛不能倒"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1698710400"
+		"tested_build_id" "12480128"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "95.34883720930236"
+			"height_pct" "98.63452861553075"
+		}
+	}
+	"store_asset_mtime" "1712655399"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Triplevision Games Limited"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fireshine Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fireshine Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1695635978"
+	"community_hub_visible" "1"
+	"gameid" "1840710"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "9"
+		"2" "4328"
+		"3" "1091588"
+		"4" "14139"
+		"5" "1645"
+		"6" "493"
+		"7" "599"
+		"8" "220585"
+		"9" "5300"
+		"10" "16094"
+		"11" "1741"
+		"12" "8945"
+		"13" "32322"
+		"14" "1716"
+		"15" "7332"
+		"16" "1666"
+		"17" "1662"
+		"18" "3964"
+		"19" "1684"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Triplevision Games Limited"
+	"publisher" "Fireshine Games"
+	"homepage" "http://thesedoomedisles.com/"
+}
+"config"
+{
+	"installdir" "These Doomed Isles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheseDoomedIsles.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1840711"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "581981260403501336"
+				"size" "156296296"
+				"download" "95922368"
+			}
+			"experimental"
+			{
+				"gid" "1617188697748423594"
+				"size" "156552984"
+				"download" "95975920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancetesting"
+			{
+				"gid" "A563F57FBA749A5CE82D918A92088244"
+				"size" "6FCF99C881374E1C3A28E2D3F76B3DD8"
+				"download" "06CF78CF29DC77216336D869CEF08EC0"
+			}
+			"benchmarktesting"
+			{
+				"gid" "B3504BAACDD9DF7C61C3697A03805594"
+				"size" "88B838FD15CE93E8BAD44EDC5A178963"
+				"download" "303BCD6D9315B3D48E06DDDE67A49081"
+			}
+			"demo"
+			{
+				"gid" "C304B18157E0083B4053BEB6E5436BC9"
+				"size" "99A7F563F38541F61C7043A8211E18F6"
+				"download" "A77A1178A4F8BC0B67829C272B9170E1"
+			}
+			"halloween"
+			{
+				"gid" "1CAA0A607AF33CB6FDB1F59CDFC3E324"
+				"size" "7A9E8A4D078C712C03E1384D3BE3679C"
+				"download" "BE7C8B7824DCB92A605949C665D6EF1E"
+			}
+			"influencer"
+			{
+				"gid" "900B23B6474CE63E9936F413E08C06EB"
+				"size" "4C0710B2A99057B27C1849246E200370"
+				"download" "84DF0FB0DAE10C1DC1DE4792F6EC950A"
+			}
+			"press"
+			{
+				"gid" "3CEC187F0953C43CDAB49EBC154BC619"
+				"size" "64AE821CA13D6DE4E4417044E7BBE516"
+				"download" "9EFA70A32FDCC1C09363865DE47904BE"
+			}
+			"splash_build"
+			{
+				"gid" "37B3C6EACB0F92AA2ED8D76AF02B4951"
+				"size" "59F4591080EDAF9F01C1AFD32392E748"
+				"download" "9E4E557B1FEA76054520A914CB39A2D6"
+			}
+			"wholesome_games"
+			{
+				"gid" "4D0B681AEE8F76F966EB757D65865A89"
+				"size" "5BC291DCB182043AF62B5AC26FF4E813"
+				"download" "E5FF2C35008F29FEFB471DDD070F03D4"
+			}
+			"deliverables"
+			{
+				"gid" "92D5FC93D7C59590E320C5342815A46D"
+				"size" "E1F0B93DDE4EA15D7CB9FD01D7B60A21"
+				"download" "265EB8D78353296DCAD1AC5B0928CAED"
+			}
+			"fqa-testing"
+			{
+				"gid" "3644B315F1E69F559DE4CA32F08E88BD"
+				"size" "1C1F286A035D1A1E58B72813382220AC"
+				"download" "9819E64DE6F3039F919DDA70BAC474AC"
+			}
+			"localisation-testing"
+			{
+				"gid" "2998F146C4FAFB8DD47A823FAD931683"
+				"size" "CC918255936555050A5E342BE70BC863"
+				"download" "4BFC65D4F796E68C96DD18BA0EC7255C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14021282"
+			"timeupdated" "1712832169"
+		}
+		"balancetesting"
+		{
+			"buildid" "12412582"
+			"pwdrequired" "1"
+			"timeupdated" "1697020760"
+		}
+		"benchmarktesting"
+		{
+			"buildid" "12020254"
+			"pwdrequired" "1"
+			"timeupdated" "1693313655"
+		}
+		"demo"
+		{
+			"buildid" "11720456"
+			"pwdrequired" "1"
+			"timeupdated" "1689605176"
+		}
+		"halloween"
+		{
+			"buildid" "9786559"
+			"pwdrequired" "1"
+			"timeupdated" "1666618973"
+		}
+		"influencer"
+		{
+			"buildid" "13883282"
+			"pwdrequired" "1"
+			"timeupdated" "1712234732"
+		}
+		"press"
+		{
+			"buildid" "13883282"
+			"pwdrequired" "1"
+			"timeupdated" "1712234752"
+		}
+		"splash_build"
+		{
+			"buildid" "9894472"
+			"pwdrequired" "1"
+			"timeupdated" "1667928527"
+		}
+		"wholesome_games"
+		{
+			"buildid" "10955555"
+			"pwdrequired" "1"
+			"timeupdated" "1680874997"
+		}
+		"deliverables"
+		{
+			"buildid" "14426436"
+			"pwdrequired" "1"
+			"timeupdated" "1716198635"
+		}
+		"experimental"
+		{
+			"buildid" "14206389"
+			"description" "Branch for builds with new, untested bits"
+			"timeupdated" "1714462551"
+		}
+		"fqa-testing"
+		{
+			"buildid" "14744406"
+			"pwdrequired" "1"
+			"timeupdated" "1718640753"
+		}
+		"localisation-testing"
+		{
+			"buildid" "14770102"
+			"pwdrequired" "1"
+			"timeupdated" "1718810817"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "TheseDoomedIsles"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "TheseDoomedOptions"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "TheseDoomedIslesSandbox"
+			"pattern" "*.sav"
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "TheseDoomedIslesSurvival"
+			"pattern" "*.sav"
+		}
+		"4"
+		{
+			"root" "gameinstall"
+			"path" "CernunnosMission01"
+			"pattern" "*.sav"
+		}
+		"5"
+		{
+			"root" "gameinstall"
+			"path" "CernunnosMission02"
+			"pattern" "*.sav"
+		}
+		"6"
+		{
+			"root" "gameinstall"
+			"path" "CernunnosMission03"
+			"pattern" "*.sav"
+		}
+		"7"
+		{
+			"root" "gameinstall"
+			"path" "CernunnosMission04"
+			"pattern" "*.sav"
+		}
+		"8"
+		{
+			"root" "gameinstall"
+			"path" "CernunnosMission05"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24036276"
+"_sha" "bd7e3ccefecfe224ca5fc2f9c0cad5501a460d34"
+"_size" "8463"
