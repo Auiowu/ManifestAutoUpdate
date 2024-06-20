@@ -1,0 +1,396 @@
+"appid" "1159830"
+"common"
+{
+	"name" "Scene Investigators"
+	"type" "Game"
+	"logo" "40e711b0402217746ddfa0403e57bbaab1d14e52"
+	"logo_small" "40e711b0402217746ddfa0403e57bbaab1d14e52_thumb"
+	"icon" "d18a47a7525c9307c2f07d8806f596ded2ef4459"
+	"clienttga" "dc547a03567f006e5692793332fcd04815906527"
+	"clienticon" "1c4047809c20f87190a6664b5ac4583c4449c9b9"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704758400"
+		"tested_build_id" "12585554"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Scene Investigators"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.00116686114356"
+			"height_pct" "92.93312870787976"
+		}
+	}
+	"store_asset_mtime" "1704911693"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EQ Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "EQ Studios"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698156035"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/scene-investigators\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1159830"
+	"store_tags"
+	{
+		"0" "8369"
+		"1" "5716"
+		"2" "1664"
+		"3" "6129"
+		"4" "6378"
+		"5" "5613"
+		"6" "4175"
+		"7" "3834"
+		"8" "9204"
+		"9" "4166"
+		"10" "4182"
+		"11" "5673"
+		"12" "3839"
+		"13" "4191"
+		"14" "21"
+		"15" "492"
+		"16" "4026"
+		"17" "4064"
+		"18" "4295"
+		"19" "1667"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "EQ Studios"
+	"publisher" "EQ Studios"
+	"homepage" "https://www.eqstudios.com/sceneinvestigators"
+	"listofdlc" "2743690"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Scene Investigators"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Scene Investigators.exe"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1159831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3886874669357810889"
+				"size" "25479496371"
+				"download" "7614082144"
+			}
+			"previousversion"
+			{
+				"gid" "5811556148419381090"
+				"size" "25552615771"
+				"download" "7655307488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlctest"
+			{
+				"gid" "6DAAC242529B15C6BBFA0A7AFC577D11"
+				"size" "2D1809EDEB7D902066DBAC50FD6EA23C"
+				"download" "3715C1B52DBBE0D1681A32D0D7810E22"
+			}
+			"translationbuild"
+			{
+				"gid" "2096336A909E7164205ECAD208B0E2C6"
+				"size" "D0308526CAC98C8325BD06540146DFFC"
+				"download" "1638DD55F223E2D45510589B1FD00011"
+			}
+		}
+	}
+	"2743690"
+	{
+		"dlcappid" "2743690"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3093673235454532849"
+				"size" "319415550"
+				"download" "314023264"
+			}
+			"previousversion"
+			{
+				"gid" "3093673235454532849"
+				"size" "319415550"
+				"download" "314023264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlctest"
+			{
+				"gid" "0A639E13A86EB08CABF4E0D0C32F6821"
+				"size" "CFB7EBABA6BA3383C7FCCECA2D32D488"
+				"download" "A81AB69A99107428C8AF73DED53C1A5A"
+			}
+			"translationbuild"
+			{
+				"gid" "3A01B9047B242AD69F80749AC2E419BF"
+				"size" "9A56545F72741BE5E2C0BDA1BF4696F7"
+				"download" "6ED4EB4FBA56972FFEBA386ACCAE8FFD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14431277"
+			"timeupdated" "1716235703"
+		}
+		"dlctest"
+		{
+			"buildid" "14091077"
+			"pwdrequired" "1"
+			"timeupdated" "1713410352"
+		}
+		"previousversion"
+		{
+			"buildid" "13420461"
+			"description" "Hosts the previous version of the game, in case you get new issues from an update."
+			"timeupdated" "1711401554"
+		}
+		"translationbuild"
+		{
+			"buildid" "14000045"
+			"pwdrequired" "1"
+			"timeupdated" "1712681181"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "EQ Studios/Scene Investigators/"
+			"pattern" "SaveData.txt"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "EQ Studios/Scene Investigators/"
+			"pattern" "*.jpg"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "EQ Studios/Scene Investigators/"
+			"pattern" "notepadData.txt"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "EQ Studios/Scene Investigators/"
+			"pattern" "images.txt"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EQ Studios/Scene Investigators/"
+					"replace" ".steam/steam/steamapps/compatdata/1159830/pfx/drive_c/users/steamuser/AppData/LocalLow/EQ Studios/Scene Investigators"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23617732"
+"_sha" "d8defd8c2ad0346f49159c1c3d2a40f63f50dcbc"
+"_size" "7613"
