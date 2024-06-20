@@ -1,0 +1,405 @@
+"appid" "1594940"
+"common"
+{
+	"name" "Little Witch in the Woods"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"koreana" "숲속의 작은 마녀"
+		"schinese" "林中小女巫"
+		"tchinese" "林中小女巫"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"logo" "af9a08c4d9e6392ae062116012a893e33b212659"
+	"logo_small" "af9a08c4d9e6392ae062116012a893e33b212659_thumb"
+	"icon" "f0ac15f87c72467008131cffd017bda141a6d7e2"
+	"clienttga" "ca82f6e5342d2b2a30311958a6815efd3f63b4ca"
+	"linuxclienticon" "5d1d0c37b6f536b9b18951b43d89dfdc1059f00f"
+	"clienticns" "75e8051b05822636b1669cf85bfb2e85256fd3b4"
+	"clienticon" "45d82f6899835f1fae5cd335e39ce04daa165f2e"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1656633600"
+		"tested_build_id" "8819171"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.65952395995992"
+			"height_pct" "81.53607687308926"
+		}
+	}
+	"store_asset_mtime" "1714070822"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SUNNY SIDE UP"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SUNNY SIDE UP"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1652746746"
+	"community_hub_visible" "1"
+	"gameid" "1594940"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "599"
+		"2" "597"
+		"3" "4057"
+		"4" "10235"
+		"5" "1664"
+		"6" "3964"
+		"7" "1695"
+		"8" "122"
+		"9" "21"
+		"10" "87918"
+		"11" "1742"
+		"12" "1654"
+		"13" "9204"
+		"14" "916648"
+		"15" "1702"
+		"16" "12472"
+		"17" "492"
+		"18" "3834"
+		"19" "1738"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "SUNNY SIDE UP"
+	"publisher" "SUNNY SIDE UP"
+}
+"config"
+{
+	"installdir" "Little Witch in the Woods"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "LWIW.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "LWIW.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "koreana"
+	"1594941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8726876564609144861"
+				"size" "2311918161"
+				"download" "256950672"
+			}
+			"local"
+			{
+				"gid" "6014843563340864282"
+				"size" "232023651"
+				"download" "49218496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-developer"
+			{
+				"gid" "46D4B38E12B44368E7212B3974EDCE3A"
+				"size" "6F79EF879F805D2755B5CCC94D1386EF"
+				"download" "F62D961AECDF8502AC3758FDC2590084"
+			}
+			"press"
+			{
+				"gid" "0C957329C13ADE723F5C51EE8D5B2C08"
+				"size" "603684A332F02A2E4B5B6D712351F9A5"
+				"download" "698A79234BD5C48C51D8ADEF0E47F052"
+			}
+			"urgent"
+			{
+				"gid" "4220317557230A9FECE995A03A202866"
+				"size" "5C1A36D6ADBDC07DFA826FB0AB343E71"
+				"download" "A0FAE104E7F58AAB700026F4A007BAAE"
+			}
+			"develop"
+			{
+				"gid" "8FB40B9BF8CD4AC177CBF5875CBF2188"
+				"size" "2BDEC80DD735DFC1E1ABB5DCB7171A83"
+				"download" "FE8E1634EA4F0C2115EEF76CAD45D054"
+			}
+			"master"
+			{
+				"gid" "28A15D3458364A9452865F44F1107FD0"
+				"size" "1F1E7AD3DF58A19F488DE25FB7893028"
+				"download" "6D871231840B9EF08AEA906E4F0ACE76"
+			}
+		}
+	}
+	"1594942"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8393465141729885483"
+				"size" "2332500097"
+				"download" "263288416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta-developer"
+			{
+				"gid" "C65D3732EDDFE8105062D58BC5DB708D"
+				"size" "E1E1FF828032F7861E309932266D8F37"
+				"download" "88E19B575A869533B50383B853CAF899"
+			}
+			"press"
+			{
+				"gid" "4468C6DA2C6261D1D28A3F2075605C07"
+				"size" "CFDAE772EE6F8C35869575D1DA2B76B9"
+				"download" "66AAEA69E108C4C57153218B017434E5"
+			}
+			"urgent"
+			{
+				"gid" "0BE6C9C7983D38F0D79A6A7A88F48B77"
+				"size" "1A6D41CA528A06C8B09E80C662F374C1"
+				"download" "6AA2C37F978CC0A81C4316B62A0A6F4A"
+			}
+			"develop"
+			{
+				"gid" "F51E030A043B409D7EF56DCD42C9C348"
+				"size" "BAF03DFDCE12B2B174FA2DB73982CEA3"
+				"download" "C04102A51C875DB3C4AA0866EFA8120C"
+			}
+			"master"
+			{
+				"gid" "E2EA0461AEFC720659A989A3E10A1CA6"
+				"size" "F81A333DE40996A02D26F8EB2638D0D0"
+				"download" "1711C2F87F8AAB3100941E4486DABAB9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14464105"
+			"timeupdated" "1716457072"
+		}
+		"beta-developer"
+		{
+			"buildid" "13083232"
+			"pwdrequired" "1"
+			"timeupdated" "1704278834"
+		}
+		"local"
+		{
+			"buildid" "6487698"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1617523809"
+		}
+		"press"
+		{
+			"buildid" "8776274"
+			"pwdrequired" "1"
+			"timeupdated" "1653026564"
+		}
+		"urgent"
+		{
+			"buildid" "9803849"
+			"pwdrequired" "1"
+			"timeupdated" "1666788721"
+		}
+		"develop"
+		{
+			"buildid" "14763379"
+			"pwdrequired" "1"
+			"timeupdated" "1718770564"
+		}
+		"master"
+		{
+			"buildid" "14765781"
+			"pwdrequired" "1"
+			"timeupdated" "1718787747"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "150000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunnySideUp/Little Witch In The Woods/Saves/"
+			"pattern" "*.es3"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunnySideUp/Little Witch In The Woods/Saves/"
+			"pattern" "*.es3_meta"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "SunnySideUp/Little Witch In The Woods/Saves/"
+					"replace" "SunnySideUp/Little Witch In The Woods/Saves/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24031005"
+"_sha" "25c0d01a829eabb06f5e08cbfb0eff48e3642594"
+"_size" "7876"
