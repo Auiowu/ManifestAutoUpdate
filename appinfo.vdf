@@ -1,0 +1,282 @@
+"appid" "1973610"
+"common"
+{
+	"name" "建安外史 The Tales of Jian An"
+	"type" "Game"
+	"clienticon" "8ff7ce207027c0268b6432f960d1f2e6af4d4e4b"
+	"clienttga" "e63f3fd929defe0e7840272886520e7d196f0f93"
+	"icon" "9547ef24de7b4eb7804f7904ec42bf7c4536b634"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-xc,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.25176275293194"
+			"height_pct" "82.63888888888889"
+		}
+	}
+	"store_asset_mtime" "1683287004"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "开翼网络"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BD Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1667288482"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1973610"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "1741"
+		"3" "17305"
+		"4" "5379"
+		"5" "14139"
+		"6" "21725"
+		"7" "3871"
+		"8" "3964"
+		"9" "4562"
+		"10" "5984"
+		"11" "3987"
+		"12" "1708"
+		"13" "1742"
+		"14" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "开翼网络"
+	"publisher" "BD Games"
+	"homepage" "http://kaiyi.games/"
+}
+"config"
+{
+	"installdir" "建安外史 The Tales of Jian An"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JianAnLegend.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "JianAnLegend.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollerconfigdetails"
+	{
+		"2811644116"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2811646184"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2811648949"
+		{
+			"controller_type" "controller_generic"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2812014969"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2812348470"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese,tchinese"
+	"hasdepotsindlc" "0"
+	"1973611"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3222082552105119593"
+				"size" "663544030"
+				"download" "572114960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "99BE6FC9729E556C112C817390EFDD5D"
+				"size" "CE2AF86C450BF261FD209B573274CCD5"
+				"download" "3E4C62782BDEAAC608EFE6EC628533F0"
+			}
+		}
+	}
+	"1973613"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8952299824396628190"
+				"size" "996117910"
+				"download" "687814768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "2648825A3027E635280F0A2324DE9E71"
+				"size" "0E8B1BE1A285D4904C22C4777B023A1B"
+				"download" "E6ACFC22E14E022A9DFD58E95B378BD7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14371694"
+			"timeupdated" "1715755208"
+		}
+		"test"
+		{
+			"buildid" "14371694"
+			"pwdrequired" "1"
+			"timeupdated" "1715754447"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1024000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "profiles1"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "games.kaiyi.jianan/profiles1"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23962889"
+"_sha" "8003093e412c732bb3480a66176dda8a8b7f4c92"
+"_size" "4853"
