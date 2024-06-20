@@ -1,0 +1,255 @@
+"appid" "1874490"
+"common"
+{
+	"name" "Potionomics"
+	"type" "Game"
+	"icon" "0ba9be17a6600a453ab0e1d3cea050dd04a911ec"
+	"clienttga" "8d02800f2ec759aa8b64d4736cfa5725a7dc5fbe"
+	"clienticon" "cd3c278c6f4bf60b63699405b97fcc031d738313"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1665705600"
+		"tested_build_id" "9688858"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "44.883720930232556"
+			"height_pct" "96.73474234148658"
+		}
+	}
+	"store_asset_mtime" "1680032980"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Voracious Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "XSEED Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Marvelous USA, Inc."
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666026035"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1874490"
+	"store_tags"
+	{
+		"0" "32322"
+		"1" "9551"
+		"2" "4845"
+		"3" "599"
+		"4" "1684"
+		"5" "492"
+		"6" "122"
+		"7" "7208"
+		"8" "1702"
+		"9" "8945"
+		"10" "1666"
+		"11" "9"
+		"12" "12472"
+		"13" "4947"
+		"14" "16689"
+		"15" "10235"
+		"16" "4182"
+		"17" "552282"
+		"18" "44868"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Voracious Games"
+	"publisher" "XSEED Games"
+	"homepage" "https://potionomics.com/"
+	"listofdlc" "2170740"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Potionomics"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Potionomics.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1874491"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3321744811962492451"
+				"size" "3930961442"
+				"download" "3803311264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "D60C74AEB5B95838A7A8A16D4EA45DD1"
+				"size" "F3A783ED359A3C4A087B2FAC06CD0DA6"
+				"download" "6E02798D6F249BCD79D699B7434F39C6"
+			}
+			"debug"
+			{
+				"gid" "FF4220099CD8A20F3F3127FE2BA4EE5F"
+				"size" "AD168027D35C5450837D411984ECA8D4"
+				"download" "7639244B918A7916885BEF7A26C911FE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10345765"
+			"timeupdated" "1674083215"
+		}
+		"beta"
+		{
+			"buildid" "13597983"
+			"pwdrequired" "1"
+			"timeupdated" "1709222800"
+		}
+		"debug"
+		{
+			"buildid" "14565805"
+			"pwdrequired" "1"
+			"timeupdated" "1717191897"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "51000000"
+	"maxnumfiles" "101"
+}
+"_missing_token" "False"
+"_change_number" "23926136"
+"_sha" "c58266369fa7debe709b5bd8197aea2070fcaea2"
+"_size" "4492"
