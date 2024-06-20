@@ -1,0 +1,1352 @@
+"appid" "427520"
+"common"
+{
+	"name" "Factorio"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "95e5aa627ae1481b1dea293f6db5954e8aa79f41"
+	"logo_small" "95e5aa627ae1481b1dea293f6db5954e8aa79f41_thumb"
+	"icon" "267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d"
+	"clienticon" "bcbf4ca8e6be3f0222e257396c8ba7dbc6caca29"
+	"clienttga" "7dbdb4c9fd24f12daca89c91b4216e18708080b6"
+	"clienticns" "1814708b5344008dd9a8ea3c89699aa0f8a50309"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+		"greek" "1"
+		"ukrainian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1694476800"
+		"tested_build_id" "12130330"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Factorio"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "53"
+			"height_pct" "41"
+		}
+	}
+	"store_asset_mtime" "1611916591"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wube Software LTD."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wube Software LTD."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_17" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+		"belarusian"
+		{
+			"supported" "true"
+		}
+		"catalan"
+		{
+			"supported" "true"
+		}
+		"kazakh"
+		{
+			"supported" "true"
+		}
+		"georgian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1597395480"
+	"metacritic_score" "90"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/factorio\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "427520"
+	"store_tags"
+	{
+		"0" "255534"
+		"1" "7332"
+		"2" "8945"
+		"3" "3810"
+		"4" "1702"
+		"5" "9"
+		"6" "3859"
+		"7" "1662"
+		"8" "12472"
+		"9" "1695"
+		"10" "1643"
+		"11" "1685"
+		"12" "3871"
+		"13" "1669"
+		"14" "4182"
+		"15" "1616"
+		"16" "599"
+		"17" "3964"
+		"18" "4328"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+	"review_score_bombs" "9"
+	"review_percentage_bombs" "97"
+}
+"extended"
+{
+	"developer" "Wube Software LTD."
+	"publisher" "Wube Software LTD."
+	"homepage" "https://www.factorio.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Factorio"
+	"steamcontrollertemplateindex" "1"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "bin/x64/Factorio.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "bin/Win32/Factorio.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "bin/x64/factorio"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "bin/i386/factorio"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"5"
+		{
+			"executable" "factorio.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"2809690725"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "0.12.35,0.13.20,0.14.23,0.15.37,0.15.40,0.16.51,0.17.79,1.0.0,1.1.76,1.1.80,1.1.82"
+			"use_action_block" "false"
+		}
+		"2989587271"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "1.1.83,1.1.84,1.1.85,1.1.86,1.1.87,1.1.88,1.1.89"
+			"use_action_block" "false"
+		}
+		"3031247259"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,1.1.90,1.1.x,build,console,internal-test"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,brazilian,ukrainian"
+	"427521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4344633909926419391"
+				"size" "1908712554"
+				"download" "1490242800"
+			}
+			"0.12.35"
+			{
+				"gid" "7111782590850240897"
+				"size" "377973753"
+				"download" "253120928"
+			}
+			"0.13.20"
+			{
+				"gid" "3458623580245405937"
+				"size" "482436687"
+				"download" "290330320"
+			}
+			"0.14.23"
+			{
+				"gid" "828932359204301707"
+				"size" "499063654"
+				"download" "292246176"
+			}
+			"0.15.37"
+			{
+				"gid" "2594072795645229932"
+				"size" "860653856"
+				"download" "625924880"
+			}
+			"0.15.40"
+			{
+				"gid" "5500062493293721113"
+				"size" "870038628"
+				"download" "626335712"
+			}
+			"0.16.51"
+			{
+				"gid" "7710943521562681979"
+				"size" "1066733514"
+				"download" "856913248"
+			}
+			"0.17.79"
+			{
+				"gid" "5217633593669398073"
+				"size" "1585403397"
+				"download" "1290537248"
+			}
+			"1.0.0"
+			{
+				"gid" "5626465236371366430"
+				"size" "1755245061"
+				"download" "1423642848"
+			}
+			"1.1.100"
+			{
+				"gid" "581433617251800025"
+				"size" "1924058581"
+				"download" "1482579904"
+			}
+			"1.1.101"
+			{
+				"gid" "4506654088997538572"
+				"size" "1924649287"
+				"download" "1482673568"
+			}
+			"1.1.104"
+			{
+				"gid" "7387715664238254659"
+				"size" "1926115886"
+				"download" "1482885808"
+			}
+			"1.1.105"
+			{
+				"gid" "5673062223071645188"
+				"size" "1896447341"
+				"download" "1480796704"
+			}
+			"1.1.106"
+			{
+				"gid" "9171035043353427212"
+				"size" "1896377375"
+				"download" "1480801504"
+			}
+			"1.1.107"
+			{
+				"gid" "4344633909926419391"
+				"size" "1908712554"
+				"download" "1490242800"
+			}
+			"1.1.87"
+			{
+				"gid" "127394991534657504"
+				"size" "1856615695"
+				"download" "1474227008"
+			}
+			"1.1.91"
+			{
+				"gid" "3920234051060784355"
+				"size" "2002049786"
+				"download" "1494444176"
+			}
+			"1.1.94"
+			{
+				"gid" "4657870009257279704"
+				"size" "2002798904"
+				"download" "1494546928"
+			}
+			"console"
+			{
+				"gid" "4344633909926419391"
+				"size" "1908712554"
+				"download" "1490242800"
+			}
+			"1.1.108"
+			{
+				"gid" "8540981178744146348"
+				"size" "1909897059"
+				"download" "1490256384"
+			}
+			"1.1.109"
+			{
+				"gid" "3629586325212605164"
+				"size" "1909207797"
+				"download" "1490265824"
+			}
+			"1.1.x"
+			{
+				"gid" "3629586325212605164"
+				"size" "1909207797"
+				"download" "1490265824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build"
+			{
+				"gid" "381CAFC87EE86086A5F2083BF6A834CE"
+				"size" "899B179B077F7B8FA051DC2FA93E4F03"
+				"download" "9FC2F65683E8727E145F894B4A24B563"
+			}
+		}
+	}
+	"427522"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"0.12.35"
+			{
+				"gid" "1156872931173029592"
+				"size" "380307961"
+				"download" "252728272"
+			}
+			"0.13.20"
+			{
+				"gid" "3912804024748477654"
+				"size" "475268687"
+				"download" "288720448"
+			}
+			"0.14.23"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"0.15.37"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"0.15.40"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"0.16.51"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"0.17.79"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.0.0"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.100"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.101"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.104"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.105"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.106"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.107"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.87"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.91"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.94"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"console"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.108"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.109"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+			"1.1.x"
+			{
+				"gid" "8127115610667035850"
+				"size" "488882534"
+				"download" "290216160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build"
+			{
+				"gid" "58739EF4ADB8070667DF4249F1E5FB9A"
+				"size" "D95283D59645BADFA9E3C4ED9236A370"
+				"download" "310C18E1F3FCC4D5DAB22FEF3A807B73"
+			}
+		}
+	}
+	"427523"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4207965199514712567"
+				"size" "1826973642"
+				"download" "1483906832"
+			}
+			"0.12.35"
+			{
+				"gid" "3176295408006103976"
+				"size" "321766751"
+				"download" "249403024"
+			}
+			"0.13.20"
+			{
+				"gid" "6015717956969578987"
+				"size" "365294331"
+				"download" "276004016"
+			}
+			"0.14.23"
+			{
+				"gid" "316207641527212993"
+				"size" "371840839"
+				"download" "276884944"
+			}
+			"0.15.37"
+			{
+				"gid" "2309524037194996140"
+				"size" "743216457"
+				"download" "608562096"
+			}
+			"0.15.40"
+			{
+				"gid" "7261037530771676503"
+				"size" "773479036"
+				"download" "608919168"
+			}
+			"0.16.51"
+			{
+				"gid" "5403133336010563238"
+				"size" "969110318"
+				"download" "843600304"
+			}
+			"0.17.79"
+			{
+				"gid" "2363942029507279047"
+				"size" "1478466738"
+				"download" "1276489600"
+			}
+			"1.0.0"
+			{
+				"gid" "1463569014483240379"
+				"size" "1664934422"
+				"download" "1412671088"
+			}
+			"1.1.100"
+			{
+				"gid" "2745627558734978128"
+				"size" "1828244385"
+				"download" "1476040688"
+			}
+			"1.1.101"
+			{
+				"gid" "8735424887389606429"
+				"size" "1828817500"
+				"download" "1476101808"
+			}
+			"1.1.104"
+			{
+				"gid" "1114206160572793528"
+				"size" "1830223038"
+				"download" "1476290448"
+			}
+			"1.1.105"
+			{
+				"gid" "1626476214991293218"
+				"size" "1814707514"
+				"download" "1474494800"
+			}
+			"1.1.106"
+			{
+				"gid" "6101058379604146611"
+				"size" "1814718014"
+				"download" "1474509120"
+			}
+			"1.1.107"
+			{
+				"gid" "4207965199514712567"
+				"size" "1826973642"
+				"download" "1483906832"
+			}
+			"1.1.87"
+			{
+				"gid" "3053777406207297203"
+				"size" "1760811364"
+				"download" "1467717376"
+			}
+			"1.1.91"
+			{
+				"gid" "2991023016404252309"
+				"size" "1906440941"
+				"download" "1487927968"
+			}
+			"1.1.94"
+			{
+				"gid" "6175205993301366189"
+				"size" "1907198209"
+				"download" "1488057552"
+			}
+			"console"
+			{
+				"gid" "4207965199514712567"
+				"size" "1826973642"
+				"download" "1483906832"
+			}
+			"1.1.108"
+			{
+				"gid" "5906637196445251163"
+				"size" "1827617811"
+				"download" "1483929616"
+			}
+			"1.1.109"
+			{
+				"gid" "5404074610349112091"
+				"size" "1827626184"
+				"download" "1483970288"
+			}
+			"1.1.x"
+			{
+				"gid" "5404074610349112091"
+				"size" "1827626184"
+				"download" "1483970288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build"
+			{
+				"gid" "3C8EC3FBAD156D72BE0758EAAB55F411"
+				"size" "ED045F117DD13D6DAEBAD889D6108949"
+				"download" "77673C57ADC6CEE620406DE6E902E38E"
+			}
+		}
+	}
+	"427524"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"0.12.35"
+			{
+				"gid" "992648723365981422"
+				"size" "314679904"
+				"download" "249322640"
+			}
+			"0.13.20"
+			{
+				"gid" "1045451170943717957"
+				"size" "356497124"
+				"download" "275937056"
+			}
+			"0.14.23"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"0.15.37"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"0.15.40"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"0.16.51"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"0.17.79"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.0.0"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.100"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.101"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.104"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.105"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.106"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.107"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.87"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.91"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.94"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"console"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.108"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.109"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+			"1.1.x"
+			{
+				"gid" "2006867560965339051"
+				"size" "362494820"
+				"download" "276749184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build"
+			{
+				"gid" "6B5E8C5D506DB7C24A6A0A2D21F32E64"
+				"size" "18B2D95F9A956DBD6F0494B4992B0110"
+				"download" "E3419D3B53D4F5BC02BEBF2E20CE99F7"
+			}
+		}
+	}
+	"427525"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "869772687164182090"
+				"size" "2066059969"
+				"download" "1515927632"
+			}
+			"0.12.35"
+			{
+				"gid" "4147028540401285519"
+				"size" "340887800"
+				"download" "252507776"
+			}
+			"0.13.20"
+			{
+				"gid" "6853737341474878566"
+				"size" "389580031"
+				"download" "279254912"
+			}
+			"0.14.23"
+			{
+				"gid" "1682754360692733687"
+				"size" "385995733"
+				"download" "278676144"
+			}
+			"0.15.37"
+			{
+				"gid" "6952994437137429945"
+				"size" "756367833"
+				"download" "612506320"
+			}
+			"0.15.40"
+			{
+				"gid" "154009239922104338"
+				"size" "771768814"
+				"download" "613466672"
+			}
+			"0.16.51"
+			{
+				"gid" "2592875722330860347"
+				"size" "990775048"
+				"download" "844455296"
+			}
+			"0.17.79"
+			{
+				"gid" "4837874827908946167"
+				"size" "1521936185"
+				"download" "1279434384"
+			}
+			"1.0.0"
+			{
+				"gid" "7601477810636832230"
+				"size" "1681367866"
+				"download" "1410876752"
+			}
+			"1.1.100"
+			{
+				"gid" "2173376470003675984"
+				"size" "2051037113"
+				"download" "1506104096"
+			}
+			"1.1.101"
+			{
+				"gid" "3850537473602821894"
+				"size" "2051708183"
+				"download" "1506224960"
+			}
+			"1.1.104"
+			{
+				"gid" "2290212738246800185"
+				"size" "2053229394"
+				"download" "1506446544"
+			}
+			"1.1.105"
+			{
+				"gid" "843432727635346970"
+				"size" "2053795642"
+				"download" "1506517440"
+			}
+			"1.1.106"
+			{
+				"gid" "359992085963822494"
+				"size" "2053791075"
+				"download" "1506487680"
+			}
+			"1.1.107"
+			{
+				"gid" "869772687164182090"
+				"size" "2066059969"
+				"download" "1515927632"
+			}
+			"1.1.87"
+			{
+				"gid" "791136011383957779"
+				"size" "1982800007"
+				"download" "1497574384"
+			}
+			"1.1.91"
+			{
+				"gid" "4019397484182839989"
+				"size" "2128356902"
+				"download" "1517823840"
+			}
+			"1.1.94"
+			{
+				"gid" "8031998900756497774"
+				"size" "2129234189"
+				"download" "1518026640"
+			}
+			"console"
+			{
+				"gid" "869772687164182090"
+				"size" "2066059969"
+				"download" "1515927632"
+			}
+			"1.1.108"
+			{
+				"gid" "3057722987015960225"
+				"size" "2066714534"
+				"download" "1515893824"
+			}
+			"1.1.109"
+			{
+				"gid" "8432084862880548388"
+				"size" "2066722398"
+				"download" "1515928208"
+			}
+			"1.1.x"
+			{
+				"gid" "8432084862880548388"
+				"size" "2066722398"
+				"download" "1515928208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"build"
+			{
+				"gid" "F2ED29949E03B861B66E4C3AE6401A01"
+				"size" "359B582A7AD06398AA306C7441E056DD"
+				"download" "721A6D1907CA03D2AEC72762F39C1A7B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14023936"
+			"timeupdated" "1713449960"
+		}
+		"0.12.35"
+		{
+			"buildid" "1158343"
+			"description" "Factorio Stable 0.12"
+			"timeupdated" "1472219884"
+		}
+		"0.13.20"
+		{
+			"buildid" "1306063"
+			"description" "Factorio Stable 0.13"
+			"timeupdated" "1478180124"
+		}
+		"0.14.23"
+		{
+			"buildid" "1767771"
+			"description" "Factorio Stable 0.14"
+			"timeupdated" "1493037708"
+		}
+		"0.15.37"
+		{
+			"buildid" "2205470"
+			"description" "Factorio Stable 0.15"
+			"timeupdated" "1508249255"
+		}
+		"0.15.40"
+		{
+			"buildid" "2326706"
+			"description" "Factorio Stable 0.15"
+			"timeupdated" "1511992213"
+		}
+		"0.16.51"
+		{
+			"buildid" "2864790"
+			"description" "Factorio Stable 0.16"
+			"timeupdated" "1529066850"
+		}
+		"0.17.79"
+		{
+			"buildid" "4404625"
+			"description" "Factorio Stable 0.17"
+			"timeupdated" "1574174277"
+		}
+		"1.0.0"
+		{
+			"buildid" "5407217"
+			"description" "Factorio Stable 1.0"
+			"timeupdated" "1597395390"
+		}
+		"1.1.100"
+		{
+			"buildid" "12867506"
+			"description" "Factorio Outdated Stable 1.1.100"
+			"timeupdated" "1701684995"
+		}
+		"1.1.101"
+		{
+			"buildid" "13047363"
+			"description" "Factorio Outdated Stable 1.1.101"
+			"timeupdated" "1703594617"
+		}
+		"1.1.104"
+		{
+			"buildid" "13313252"
+			"description" "Factorio Outdated Stable 1.1.104"
+			"timeupdated" "1706622280"
+		}
+		"1.1.105"
+		{
+			"buildid" "13798944"
+			"description" "Factorio Experimental 1.1.105"
+			"timeupdated" "1710946000"
+		}
+		"1.1.106"
+		{
+			"buildid" "13855949"
+			"description" "Factorio Experimental 1.1.106"
+			"timeupdated" "1711454200"
+		}
+		"1.1.107"
+		{
+			"buildid" "14023936"
+			"description" "Factorio Stable 1.1.107"
+			"timeupdated" "1712850406"
+		}
+		"1.1.87"
+		{
+			"buildid" "11621827"
+			"description" "Factorio Outdated Stable 1.1.87"
+			"timeupdated" "1688471907"
+		}
+		"1.1.91"
+		{
+			"buildid" "12179218"
+			"description" "Factorio Outdated Stable 1.1.91"
+			"timeupdated" "1694616617"
+		}
+		"1.1.94"
+		{
+			"buildid" "12480679"
+			"description" "Factorio Outdated Stable 1.1.94"
+			"timeupdated" "1697707412"
+		}
+		"console"
+		{
+			"buildid" "14023936"
+			"description" "Factorio version matching latest console release (1.1.107)"
+			"timeupdated" "1713449773"
+		}
+		"1.1.108"
+		{
+			"buildid" "14558670"
+			"description" " Factorio Experimental 1.1.108"
+			"timeupdated" "1717150522"
+		}
+		"1.1.109"
+		{
+			"buildid" "14640275"
+			"description" "Factorio Experimental 1.1.109"
+			"timeupdated" "1717770077"
+		}
+		"1.1.x"
+		{
+			"buildid" "14640275"
+			"description" "Latest 1.1 Experimental (1.1.109)"
+			"timeupdated" "1717770089"
+		}
+		"build"
+		{
+			"buildid" "14640275"
+			"pwdrequired" "1"
+			"timeupdated" "1717768141"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "24999999995"
+	"maxnumfiles" "4995"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Factorio/saves/"
+			"pattern" "*.zip"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Factorio/saves/"
+					"replace" "factorio/saves/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Factorio/saves/"
+					"replace" ".factorio/saves/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23874152"
+"_sha" "d431fe38c5500683760c1b91a61963cb6128ba43"
+"_size" "25007"
