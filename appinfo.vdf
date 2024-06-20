@@ -1,0 +1,604 @@
+"appid" "811320"
+"common"
+{
+	"name" "Jupiter Hell"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "b0c19068a26769f33aef826e10231cd1b25c059b"
+	"logo_small" "b0c19068a26769f33aef826e10231cd1b25c059b_thumb"
+	"icon" "f49190ba52742be73961a76afc55b6dbeea529e2"
+	"clienticon" "81f1153979fe9b08f520085d2fe2751f1b053ee6"
+	"clienttga" "8e92b3c14d5ad06cc6146e7cef4879aebaad44e2"
+	"clienticns" "ef8a4d3152b46cb7519b3706c7d37c8255175956"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692835200"
+		"tested_build_id" "11859141"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Jupiter Hell"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "59.878347909347184"
+			"height_pct" "92.02714164546225"
+		}
+	}
+	"store_asset_mtime" "1710174335"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ChaosForge"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hyperstrange"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hyperstrange"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1628182860"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/jupiter-hell\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "811320"
+	"store_tags"
+	{
+		"0" "1716"
+		"1" "1677"
+		"2" "454187"
+		"3" "9"
+		"4" "122"
+		"5" "492"
+		"6" "7569"
+		"7" "4345"
+		"8" "4667"
+		"9" "3942"
+		"10" "1667"
+		"11" "5125"
+		"12" "4182"
+		"13" "4711"
+		"14" "4791"
+		"15" "1759"
+		"16" "4325"
+		"17" "1756"
+		"18" "1774"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "ChaosForge"
+	"publisher" "Hyperstrange"
+	"homepage" "https://jupiterhell.com"
+}
+"config"
+{
+	"installdir" "Jupiter Hell"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "jh.exe"
+			"description" "Jupiter Hell (Vulkan renderer - recommended)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "run_jh.sh"
+			"description" "Jupiter Hell (Vulkan renderer - recommended)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "jh.exe"
+			"arguments" "--gl"
+			"description" "Jupiter Hell (OpenGL - if other option crashes)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "run_jh.sh"
+			"arguments" "--gl"
+			"description" "Jupiter Hell (OpenGL - if other option crashes)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "JupiterHell.app/Contents/MacOS/jhapp"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"811321"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5215096912583267310"
+				"size" "2103041542"
+				"download" "2083078992"
+			}
+			"backup_master"
+			{
+				"gid" "2534124804413204456"
+				"size" "2010371059"
+				"download" "1999446576"
+			}
+			"previous"
+			{
+				"gid" "2534124804413204456"
+				"size" "2010371059"
+				"download" "1999446576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"rc_release"
+			{
+				"gid" "5DAC346CEA942BDB276D089C0BD458BD"
+				"size" "77D9DB390A5C1934BF20561CAAD6E16C"
+				"download" "F728FEA95F1342DF35C0E055DAF0D5CF"
+			}
+			"beta"
+			{
+				"gid" "B997B8360E80CBC47BD64876144690AC"
+				"size" "BD8AAEAC4048A1C7A355A0499022D190"
+				"download" "11A8D565B22857AF17009970A8A845FF"
+			}
+			"dev_test"
+			{
+				"gid" "5E7DF380A753BBFF4BE5F8703C4399C4"
+				"size" "8D17A63DB7C037DDE7D582DB88433184"
+				"download" "5BF45D158E464BD03C10C727B6E77729"
+			}
+			"development"
+			{
+				"gid" "C9A3FEF655C206E6DFA28CDA33323C83"
+				"size" "3A2D395E62E9D8C39AA43D54729F1BAA"
+				"download" "5DDFE1B738E24BF7E43342572CC5AC0F"
+			}
+			"rc_master"
+			{
+				"gid" "FD789EFE52BD877A8D168445006AF615"
+				"size" "786A95AA3964B5530688ADBE7D2E05A0"
+				"download" "AD413237DB1078E26F6B1C87B63387C1"
+			}
+		}
+	}
+	"811322"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6960533163658602890"
+				"size" "17404167"
+				"download" "5818112"
+			}
+			"backup_master"
+			{
+				"gid" "726078316202709012"
+				"size" "17286919"
+				"download" "5788320"
+			}
+			"previous"
+			{
+				"gid" "726078316202709012"
+				"size" "17286919"
+				"download" "5788320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"rc_release"
+			{
+				"gid" "4C55043E710E959B489F1B81D42AFD77"
+				"size" "4B0286DD955ED04426F1CAB3025B596E"
+				"download" "70E3E24C7E942E20EC094105083F7147"
+			}
+			"beta"
+			{
+				"gid" "06AC37FCF750970C9EDBDB06B607FCA9"
+				"size" "15EE3976726FE1357133D2486AFEFBD7"
+				"download" "5E447F80E38872A02D3537B64BF4F35C"
+			}
+			"dev_test"
+			{
+				"gid" "86A36C6FD2E53BAE222C3F7EAD8EE601"
+				"size" "5D7F336FE0B19CB7EA1754CEFB0A8039"
+				"download" "772DAC6AB335EFA9F9CE5C57C77BDC8C"
+			}
+			"development"
+			{
+				"gid" "EF08E90DF111E9E0A3755E62CCCAD411"
+				"size" "54AE3E8D4034A8F8456260EEED595D6C"
+				"download" "364DD7AD04DD8D06EC1FB5426D8E8FBE"
+			}
+			"rc_master"
+			{
+				"gid" "D8B1E2787059F9A543A554572636F824"
+				"size" "4E609E685FFD330123FCA17FA531045C"
+				"download" "1A7C41EEA663E09080812DF6A13500DA"
+			}
+		}
+	}
+	"811323"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6639973871362941361"
+				"size" "14291159"
+				"download" "3984368"
+			}
+			"backup_master"
+			{
+				"gid" "6020066972065539930"
+				"size" "14218279"
+				"download" "3978128"
+			}
+			"previous"
+			{
+				"gid" "6020066972065539930"
+				"size" "14218279"
+				"download" "3978128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"rc_release"
+			{
+				"gid" "53C10512443E1211E8CB5A18F8DDACD3"
+				"size" "4F9BBBD1709846AA210D5C3C1F2D9D19"
+				"download" "042E12726D8182BC1C81E4FFC86FFA0C"
+			}
+			"beta"
+			{
+				"gid" "D38F2CA988321E1E6D1D4287B8CA4B3F"
+				"size" "8D8828ACB8FD8E81FFB557251DF193FD"
+				"download" "29D565760234E083AE1AE794FF19DD97"
+			}
+			"dev_test"
+			{
+				"gid" "782EF00DBBAA666ED2534D291D948D15"
+				"size" "5344E6161EE53DAD47034638FB56C266"
+				"download" "741C13F5B27AE66783ACA8072491A062"
+			}
+			"development"
+			{
+				"gid" "6673F71AA40C8469D2671C09E2E93542"
+				"size" "3021535E653EA8193EC9ABEB03440614"
+				"download" "47A0D08909904D8EE22373E4BF998C01"
+			}
+			"rc_master"
+			{
+				"gid" "8A47D83DA2FC6CB5AD26C2F3BDEF3DAF"
+				"size" "67025A25705EEFD1C2AC97DF1490B9BE"
+				"download" "CB2CE2224273A0F9864F5ACADEAE319A"
+			}
+		}
+	}
+	"811324"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "D702238C5D68639ACCE0B913AA6B9973"
+				"size" "50D1F313C173B9284F11192127221576"
+				"download" "670A27CB49D218922FF531D385FC2B66"
+			}
+		}
+	}
+	"811325"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6059154226231395207"
+				"size" "2139231322"
+				"download" "2096910416"
+			}
+			"backup_master"
+			{
+				"gid" "3735547295973973305"
+				"size" "2046457317"
+				"download" "2011721872"
+			}
+			"previous"
+			{
+				"gid" "3735547295973973305"
+				"size" "2046457317"
+				"download" "2011721872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"rc_release"
+			{
+				"gid" "7C999B735FD09F60EA3ABDB2D3C43E96"
+				"size" "483DC281CBD7E832CE15EBB2333B048C"
+				"download" "4CCB8582F93D5EB38C588D112541D609"
+			}
+			"beta"
+			{
+				"gid" "71B20E112B7A8D2E8A5A85B8CE1666A1"
+				"size" "B7822A6ED38BD3E93ADEFA08B98CCD1D"
+				"download" "233F093078A453EEF88A2A138FF24170"
+			}
+			"development"
+			{
+				"gid" "3E4F4991E8CB9FED454A934F24007203"
+				"size" "279BB721D9A0E8F78A051EE4E5A338D8"
+				"download" "D5160A26B85B7487D2A48F5824317370"
+			}
+			"rc_master"
+			{
+				"gid" "EC55E08F3E228C5CB308073E4A7163CF"
+				"size" "67BF1AA94E0F8A4045D2FC271836D4C0"
+				"download" "11B775C7AC4BCE809CBEF8FEEA0C8B9C"
+			}
+		}
+	}
+	"workshopdepot" "811320"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14350294"
+			"timeupdated" "1715617697"
+		}
+		"backup_master"
+		{
+			"buildid" "12021994"
+			"description" "Stable master release"
+			"timeupdated" "1699275670"
+		}
+		"previous"
+		{
+			"buildid" "12021994"
+			"description" "1.6 Watcher"
+			"timeupdated" "1710250095"
+		}
+		"rc_release"
+		{
+			"buildid" "11858413"
+			"pwdrequired" "1"
+			"timeupdated" "1691077937"
+		}
+		"beta"
+		{
+			"buildid" "14350294"
+			"pwdrequired" "1"
+			"timeupdated" "1715617710"
+		}
+		"dev_test"
+		{
+			"buildid" "14350283"
+			"pwdrequired" "1"
+			"timeupdated" "1715609557"
+		}
+		"development"
+		{
+			"buildid" "14350279"
+			"pwdrequired" "1"
+			"timeupdated" "1715609510"
+		}
+		"rc_master"
+		{
+			"buildid" "14350294"
+			"pwdrequired" "1"
+			"timeupdated" "1715609603"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "134217728"
+	"maxnumfiles" "256"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "save"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "player.dat"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "score.dat"
+		}
+		"3"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "save*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23926132"
+"_sha" "ff4d3f1fc3781235ba8c8ffbaf253f24c7eb809d"
+"_size" "11954"
