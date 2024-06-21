@@ -1,0 +1,529 @@
+"appid" "2186680"
+"common"
+{
+	"name" "Warhammer 40,000: Rogue Trader"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "a944983525cae5819f19bb2b530cb28ea4f6bd06"
+	"clienttga" "c5683f42d32692ec4a10365f7fbafa1f3dbe23c1"
+	"clienticns" "2369e516f8205b323bfa707be26b933b4d838c8e"
+	"linuxclienticon" "ffba390c7bced89af889e7887fb8e798c7dec50e"
+	"clienticon" "325d749a7ddf231849082dc8a061d93d63500638"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1716336000"
+		"tested_build_id" "14403184"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.604413375148646"
+			"height_pct" "71.53327124580724"
+		}
+	}
+	"store_asset_mtime" "1717088110"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Owlcat Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Owlcat Games "
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Warhammer"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_27" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1701964500"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2186680"
+	"store_tags"
+	{
+		"0" "6426"
+		"1" "4508"
+		"2" "5310"
+		"3" "1695"
+		"4" "4604"
+		"5" "17389"
+		"6" "4474"
+		"7" "12286"
+		"8" "4325"
+		"9" "4747"
+		"10" "1742"
+		"11" "122"
+		"12" "21"
+		"13" "1684"
+		"14" "3843"
+		"15" "4947"
+		"16" "5851"
+		"17" "17305"
+		"18" "1741"
+		"19" "5652"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Owlcat Games"
+	"publisher" "Owlcat Games "
+	"homepage" "https://roguetrader.owlcat.games/"
+	"listofdlc" "2682660,2682670,2687230,2696650,2700400,2951990"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Warhammer 40,000 Rogue Trader"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WH40KRT.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "WH40KRT.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "2186680"
+	"hasdepotsindlc" "0"
+	"2186681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6063648736282108757"
+				"size" "37901488468"
+				"download" "28041514528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"media"
+			{
+				"gid" "8878D97E8F05ABA7F16B3A8AF0B8BC7B"
+				"size" "54F958666614347B09A79AECB5B55AE0"
+				"download" "54F958666614347B09A79AECB5B55AE0"
+			}
+			"modding"
+			{
+				"gid" "8D966DDBCB6F1E4674E807A5C57A4A60"
+				"size" "2427047261823E7422A5AB5DAB6038CE"
+				"download" "2427047261823E7422A5AB5DAB6038CE"
+			}
+			"modding-beta"
+			{
+				"gid" "DC9DC47C3A179D8F5DDC2D5C0295897E"
+				"size" "C47C445B3BA9A088B7CC65F85585D48F"
+				"download" "E1ED94EE3B00E951F895C0E0F0833DEA"
+			}
+			"owlcat-egs-test"
+			{
+				"gid" "CE6C911129D95F83D961CDA992CF0936"
+				"size" "9822969478CD877EC6130936F3233E48"
+				"download" "76A19329F392C8BB44992EF49DA1685A"
+			}
+			"owlcat-test"
+			{
+				"gid" "D2CDD712BA17E375D69EF85B2582FC14"
+				"size" "1122E4896DC1627439AE01D0D498B544"
+				"download" "F8D6A5D66FD34C381E4C154DAE9678B5"
+			}
+			"test-deploy"
+			{
+				"gid" "D08B8BA79A61D2E721B62ABE2A9F5FDD"
+				"size" "5FC97980AC360CEE7F05186C430A135A"
+				"download" "D0495EFB3DA8FEC2A4F20C6292036F3C"
+			}
+			"test-dlc"
+			{
+				"gid" "66897A1131399DD355ED4C57E8E843F4"
+				"size" "363D9B1BFE36FB45EB1A495E84ABEE74"
+				"download" "53744B07BC975502D37A833B32F60583"
+			}
+			"owlcat-release-debug"
+			{
+				"gid" "796A7C0F2A3F7C10EA18AF56DB2DB01E"
+				"size" "1ECC6FF3FF8EFFE90BBC964DB8D387D0"
+				"download" "F5BB0F75E6991D376463CA5415C4AAA0"
+			}
+			"owlcat-release-test"
+			{
+				"gid" "C2E391E361AEB6E618E0CF2F73CF0A1F"
+				"size" "FD30AA5E27F07F7889A482F40F19BE71"
+				"download" "BE9B5283DB1C0DED7EDA4AB0280CDCB6"
+			}
+			"steamdeck-test"
+			{
+				"gid" "78EE05C09AD7C8075F5606AA76E16335"
+				"size" "A26F3C7A029C8C01318058162C4F6A79"
+				"download" "FB56B994EE45AEAAFFFC330F71AD757A"
+			}
+		}
+	}
+	"2186682"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6478357789120049071"
+				"size" "36649311978"
+				"download" "28013529152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test-deploy"
+			{
+				"gid" "BD580484A37FEA125DF99DFF62A40408"
+				"size" "D615AA382C35303302F313E972DFA052"
+				"download" "F9538DC26F331A524990EA9013CEAADF"
+			}
+			"test-dlc"
+			{
+				"gid" "F99EC5104717A97AFC015A28868C0099"
+				"size" "6F683504A63FD952167A41404B7C57C4"
+				"download" "1C5ABB891A5D5A066CF296402463FF8A"
+			}
+			"owlcat-release-debug"
+			{
+				"gid" "513920E79C314D763753A324B53FF3B2"
+				"size" "4A4CC6D2CB72AC87F4F35AAA7DEE52EF"
+				"download" "A2FCFD2DCC125DB17A29D396533C982D"
+			}
+			"owlcat-release-test"
+			{
+				"gid" "B7E4F1151EF261D6672BFFF25D2971C6"
+				"size" "7F017B0B52211C0EE9F9296F44AB1EF6"
+				"download" "FD593499BCC7A966378399057CB1544E"
+			}
+			"steamdeck-test"
+			{
+				"gid" "38203154106F285E943DA5E6A114FF40"
+				"size" "8E5D687950212889B613806B640BB175"
+				"download" "C751EB05A858181BDFE4F0BB59135455"
+			}
+		}
+	}
+	"2687230"
+	{
+		"dlcappid" "2687230"
+	}
+	"2682670"
+	{
+		"dlcappid" "2682670"
+	}
+	"2682660"
+	{
+		"dlcappid" "2682660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "720230203453832590"
+				"size" "1906053215"
+				"download" "1891343648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test-deploy"
+			{
+				"gid" "E47BC6B482F0F36818247EE15A26EA3A"
+				"size" "B60BB8EF08B0E72098DFD4F4445F5362"
+				"download" "7771B935F35800FA5528786C3AA0D39B"
+			}
+			"test-dlc"
+			{
+				"gid" "6B3AFCC86D9F32F11C2BFAFC4EEADA27"
+				"size" "659F9676B7407B6BFF37C274F233B093"
+				"download" "EAF981708595194317F9AACF776399EF"
+			}
+			"steamdeck-test"
+			{
+				"gid" "90A06B82A536DC754CA63F6083050145"
+				"size" "6F56476503DA1DE1595103D434D84122"
+				"download" "B8879489BAD46FDB4F31B1F30DA77BFF"
+			}
+		}
+	}
+	"2696650"
+	{
+		"dlcappid" "2696650"
+	}
+	"2700400"
+	{
+		"dlcappid" "2700400"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14428290"
+			"timeupdated" "1716208959"
+		}
+		"media"
+		{
+			"buildid" "10089761"
+			"pwdrequired" "1"
+			"timeupdated" "1670342261"
+		}
+		"modding"
+		{
+			"buildid" "10754948"
+			"pwdrequired" "1"
+			"timeupdated" "1678702943"
+		}
+		"modding-beta"
+		{
+			"buildid" "11361830"
+			"pwdrequired" "1"
+			"timeupdated" "1685550890"
+		}
+		"owlcat-egs-test"
+		{
+			"buildid" "12826450"
+			"pwdrequired" "1"
+			"timeupdated" "1701251547"
+		}
+		"owlcat-test"
+		{
+			"buildid" "13468757"
+			"pwdrequired" "1"
+			"timeupdated" "1708080154"
+		}
+		"test-deploy"
+		{
+			"buildid" "12888690"
+			"pwdrequired" "1"
+			"timeupdated" "1701857941"
+		}
+		"test-dlc"
+		{
+			"buildid" "12851761"
+			"pwdrequired" "1"
+			"timeupdated" "1701445764"
+		}
+		"owlcat-release-debug"
+		{
+			"buildid" "14788249"
+			"pwdrequired" "1"
+			"timeupdated" "1718930473"
+		}
+		"owlcat-release-test"
+		{
+			"buildid" "14788093"
+			"pwdrequired" "1"
+			"timeupdated" "1718928990"
+		}
+		"steamdeck-test"
+		{
+			"buildid" "14403184"
+			"pwdrequired" "1"
+			"timeupdated" "1715949085"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Owlcat Games/Warhammer 40000 Rogue Trader/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "/Library/Application Support/Owlcat Games/Warhammer 40000 Rogue Trader/Saved Games"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24058674"
+"_sha" "83727304c5bd4fcf7266ccaa23751ab676ff5a74"
+"_size" "10465"
