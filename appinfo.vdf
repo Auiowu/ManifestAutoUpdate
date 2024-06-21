@@ -1,0 +1,179 @@
+"appid" "2399330"
+"common"
+{
+	"name" "东方夜雀食堂DLC4扩展包 - 太阳花田&辉针城"
+	"type" "DLC"
+	"parent" "1584090"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Touhou Mystia\'s Izakaya DLC4 Pack - Garden of the Sun & Shining Needle Castle"
+		"japanese" "東方夜雀食堂DLC4 PACK - 太陽の畑&輝針城"
+		"schinese" "东方夜雀食堂DLC4扩展包 - 太阳花田&辉针城"
+		"tchinese" "東方夜雀食堂DLC4擴展包 - 太陽花田&輝針城"
+		"koreana" "동방야작식당DLC4 - 태양의 밭 & 휘침성"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"icon" "b92d3b2d393d5c95eef9562a3fcd91d142042bf9"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1711898134"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "二色幽紫蝶"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "二色幽紫蝶"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1691151884"
+	"gameid" "2399330"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "492"
+		"2" "597"
+		"3" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"dlcforappid" "1584090"
+	"mustownapptopurchase" "1584090"
+	"developer" "二色幽紫蝶"
+	"publisher" "二色幽紫蝶"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2399333"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2369362997721863942"
+				"size" "212049787"
+				"download" "193404784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "62348E9B57D1AB45AD49801A6DCC6C11"
+				"size" "6A599DB324C8E933140A92AF5505B8B2"
+				"download" "0CDEF302C32984F66B4CD5EBD69A2A35"
+			}
+		}
+		"dlcappid" "2399330"
+	}
+	"2399334"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "185647300514000836"
+				"size" "212068588"
+				"download" "193369552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "BECD16ACFE1BF942E8FC3794A7CD660C"
+				"size" "0CD0FCC6F42692E9358EE5C4E49956C6"
+				"download" "2523A849EF14EAB91A540F3F967508E3"
+			}
+		}
+		"dlcappid" "2399330"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14492074"
+			"timeupdated" "1716628389"
+		}
+		"internal"
+		{
+			"buildid" "14492074"
+			"pwdrequired" "1"
+			"timeupdated" "1716628046"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23735548"
+"_sha" "79c5d18831b8eb2ec571317b5512328425ea7c52"
+"_size" "3130"
