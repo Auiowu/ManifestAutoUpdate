@@ -1,0 +1,670 @@
+"appid" "381210"
+"common"
+{
+	"name" "Dead by Daylight"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"clienticon" "ba79062ed34a8dd2e028d2ff84b7e101b85cc0d2"
+	"clienttga" "e0b606848426773aee545fbec5855bc3e4788a03"
+	"icon" "aa152097a700fd6f4707397ce41794ea30874790"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "234111758152b0c49efdf3f182e4b068f3b6f12d"
+	"logo_small" "234111758152b0c49efdf3f182e4b068f3b6f12d_thumb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "381210_eula_0"
+			"name" "Dead by Daylight EULA"
+			"url" "http://store.steampowered.com//eula/381210_eula_0"
+			"version" "4"
+		}
+	}
+	"osarch" "64"
+	"name_localized"
+	{
+		"schinese" "黎明杀机"
+		"japanese" "デッドバイデイライト"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1683676800"
+		"tested_build_id" "10989455"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "32.52526065361923"
+			"height_pct" "87.05882739409228"
+		}
+	}
+	"store_asset_mtime" "1717450164"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Behaviour Interactive Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Behaviour Interactive Inc."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dead by Daylight"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_33" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_49" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1465887600"
+	"steam_release_date" "1465887600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "381210"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3978"
+		"2" "3859"
+		"3" "3843"
+		"4" "1685"
+		"5" "1662"
+		"6" "4345"
+		"7" "5711"
+		"8" "5228"
+		"9" "1687"
+		"10" "1697"
+		"11" "4667"
+		"12" "3839"
+		"13" "1721"
+		"14" "19"
+		"15" "4166"
+		"16" "9"
+		"17" "1719"
+		"18" "5611"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/5233584512664666008/"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1826330"
+			"comment" "EAC runtime"
+		}
+	}
+	"developer" "Behaviour Interactive Inc."
+	"publisher" "Behaviour Interactive Inc."
+	"homepage" "http://www.deadbydaylight.com"
+	"listofdlc" "489980,492360,509060,509061,516780,528320,528321,528322,528323,528324,530710,530711,534130,534131,554380,554381,556360,556370,556371,562130,566500,573240,573940,577900,577901,582600,620230,627510,639710,661770,700280,700282,724650,750380,750381,799200,925750,971790,1009820,1009821,1089270,1135280,1199880,1251000,1324970,1324971,1408020,1474030,1557310,1622940,1622941,1634040,1734080,1763310,1804690,1899750,1985790,2102730,2198470,2294610,2399750,2405130,2405140,2469400"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dead by Daylight"
+	"verifyupdates" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeadByDaylight.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "start_protected_game.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "nnc-live-internal"
+			}
+			"description_loc"
+			{
+				"english" "For NNC testing"
+			}
+			"description" "For NNC testing"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2125226009"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"381211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3335277463820210950"
+				"size" "44386557133"
+				"download" "44229258080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nnc-live-internal"
+			{
+				"gid" "5B913F10716618961CC6139937A5514C"
+				"size" "18C6ED656AA2A8AD92EAEEAA090E80B7"
+				"download" "1990B7B3BB831C954E58F18F9A2876F1"
+			}
+			"shipping-ptb-internal"
+			{
+				"gid" "FEAC5BB6FF233D429EF0F80D6C8E5DE9"
+				"size" "DE7D31DBF39D84A47BF6303804F34404"
+				"download" "4CFB16779784101754FE206B3023DC3F"
+			}
+			"shipping-uat-internal"
+			{
+				"gid" "EE3E8819CD6EF42939BBB55A3B4BEE13"
+				"size" "7AA4802750C1F2F1D0B828D185B0799F"
+				"download" "8949C56F40140C0B7036B7ACFCFCB5D3"
+			}
+			"kraken-qa-internal"
+			{
+				"gid" "91B33E8E7BBBB0CD91EDF6D97E070AC5"
+				"size" "93051B4300BD1DBF08BAD35A7A2DB482"
+				"download" "82B08ED62C4A950944F011A1A51A5F6D"
+			}
+			"public-test-internal"
+			{
+				"gid" "44C2B58F0B6D8259C7FF7462C420A110"
+				"size" "2D5C073D0D17B820A99B889C427354FB"
+				"download" "58A1E8A98CE5DDC7FB7C7C7C4A8FD11E"
+			}
+			"public-test-internal2"
+			{
+				"gid" "2A7F4D251E3AD0331A4C46A3D1465CD7"
+				"size" "71E2EFD9793F6888334EEF0002CFF86A"
+				"download" "8C9BE364648C3CF84954F0C121B46739"
+			}
+			"shipping-cert-internal"
+			{
+				"gid" "E2BBFFDA4BFA2BFCFCEA4B9DE717EAB7"
+				"size" "2E0A02FACC707AD04C7DA04FBBE71598"
+				"download" "71A31DC87D7277F14D7CD88CCBE3F0B1"
+			}
+			"shipping-dev-internal"
+			{
+				"gid" "9D5FC331CFA8D994676A03AA28270170"
+				"size" "22439833003831CA112456299C163E1A"
+				"download" "B971D78C21E14440239AAE8A2BCB15E6"
+			}
+			"shipping-live-external"
+			{
+				"gid" "484CB55E310625F0DD29022158A2C6CF"
+				"size" "8F1486D4C12D2CD35E1E6C66A8E48AF4"
+				"download" "331A360CEA0657206E275057648490DE"
+			}
+			"shipping-live-internal"
+			{
+				"gid" "7E165D069A2530341B015CEA9BD5A4C8"
+				"size" "D8FAB2C00AE82B0605BABEF4C410D5B9"
+				"download" "79A1221939B7FE62ABCB5009ECF43B48"
+			}
+			"shipping-qa-external"
+			{
+				"gid" "083819FDD33B2CE71B61B0904C7A4C4C"
+				"size" "D11BFBAEB8FDD383C699327410FB735A"
+				"download" "B594EC0993E86529832118161CF54D21"
+			}
+			"shipping-qa-internal"
+			{
+				"gid" "804DACE251A09AD12CDA530447BE1C46"
+				"size" "7FBE2017AF48FAEAD7560A17D0C61E92"
+				"download" "142484CEEC93076552E2EC1218319CA4"
+			}
+			"shipping-qa-internal2"
+			{
+				"gid" "8AECFF66A600CCA4D683997C17AD93BB"
+				"size" "F6F6713E45B4DA393B8693BCCAC37333"
+				"download" "26DDDAC207582C5A7FA87396B7C63C48"
+			}
+			"shipping-stage-internal"
+			{
+				"gid" "D8A9D7F331EE235341954C323D275EF1"
+				"size" "81065911520CD25C50D553DF72738CB5"
+				"download" "071DBE6524F2EDE234477DE282423868"
+			}
+		}
+	}
+	"381212"
+	{
+		"dlcappid" "492360"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5921550076694751899"
+				"size" "31578081"
+				"download" "31327728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nnc-live-internal"
+			{
+				"gid" "9B07E5992724464D8729D493E9755522"
+				"size" "74CBD58D3B7C04A754069ADFC942041B"
+				"download" "7A3078C78456F6C3A9C7803F7929DECD"
+			}
+			"shipping-ptb-internal"
+			{
+				"gid" "D35CC55995A213B5FF5C2275B005B0B2"
+				"size" "D758213CE80683F4A0CBF47A6EC2BC2B"
+				"download" "974662193B7A68755E02B2963F4E7C5A"
+			}
+			"shipping-uat-internal"
+			{
+				"gid" "454E6681E98BAA58DFC917380C241623"
+				"size" "B6CFB8AA57DDA26D6F5EB4A49183AF00"
+				"download" "1B122739075468C68A5597B735BBC62B"
+			}
+			"kraken-qa-internal"
+			{
+				"gid" "B86CB8FFAF6C382447C82B739B33CBBB"
+				"size" "C5494A89A30D64D4F05B5BAA2CD955DA"
+				"download" "0870546D1421A4FC029EAD7A06B90EEB"
+			}
+			"public-test-internal"
+			{
+				"gid" "6CCA5C1D8D1B1BB3EBF042E7C6DDDE0B"
+				"size" "9606268B6022378B2B927E707A7F5E14"
+				"download" "FAAB2287ED9ABE55EA892DD960B8BC40"
+			}
+			"public-test-internal2"
+			{
+				"gid" "A5831DF3A078F86D11E56C99015C2489"
+				"size" "86BC45A0D1A228FF9F97B9F1BAD23B82"
+				"download" "837252E01ED90229A621A520017733AB"
+			}
+			"shipping-cert-internal"
+			{
+				"gid" "87E4DD22723F914749EC478974F37DE6"
+				"size" "F7656DB651A92743BD528AE3DCAB88B8"
+				"download" "E2BBAE5359B706631A83A0876B9E92AC"
+			}
+			"shipping-dev-internal"
+			{
+				"gid" "07D5AEA4A0EFDD3D03CBA87ACCD6F618"
+				"size" "F8F5D3E4FDA3283D78BF2FF697D13A68"
+				"download" "E5C025031B2922153E94A334185AB04F"
+			}
+			"shipping-live-external"
+			{
+				"gid" "7B83AE63C8E8485543E641F8EA70C376"
+				"size" "9021753E290A108A412B5517C6548AEF"
+				"download" "2992C3D421885DA97C849BA87513C6FE"
+			}
+			"shipping-live-internal"
+			{
+				"gid" "CA23CCF9636AC8ECA681A2E206F73BF0"
+				"size" "71989AFAAB70631D284C626ADB0EF000"
+				"download" "5E88462BD8B73375BB2692E1DA45450F"
+			}
+			"shipping-qa-external"
+			{
+				"gid" "3B355406E0DA387242060C933C87C1E6"
+				"size" "34C3D59BC881B6C30FB296D05D1DAAC6"
+				"download" "57ADF0C0426941896F4A7CDB79CB2F2A"
+			}
+			"shipping-qa-internal"
+			{
+				"gid" "60C4B165AA1A2A0BE32A10A84F555A46"
+				"size" "09A490B3F69422EA4F8685C56C7D9743"
+				"download" "09678D163E6101598A1B05AB5E48415E"
+			}
+			"shipping-qa-internal2"
+			{
+				"gid" "6FC208B4DE8B7FD90AE862E5DB534971"
+				"size" "0E3AD55BD550DD9957875F8918F02687"
+				"download" "9EE582D8BD1A98BEF9B4A1CD8F7EA1E4"
+			}
+			"shipping-stage-internal"
+			{
+				"gid" "5E9EB72B6C20D6F7D695DA672B696DCF"
+				"size" "38374BDE995D34B5C1C93120FF295D03"
+				"download" "DF55DE03F8E4D485371ED83C81B4703C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14708498"
+			"timeupdated" "1718809147"
+		}
+		"nnc-live-internal"
+		{
+			"buildid" "12907140"
+			"pwdrequired" "1"
+			"timeupdated" "1702499839"
+		}
+		"shipping-ptb-internal"
+		{
+			"buildid" "14064673"
+			"pwdrequired" "1"
+			"timeupdated" "1713275654"
+		}
+		"shipping-uat-internal"
+		{
+			"buildid" "13319983"
+			"pwdrequired" "1"
+			"timeupdated" "1708101950"
+		}
+		"kraken-qa-internal"
+		{
+			"buildid" "14708498"
+			"pwdrequired" "1"
+			"timeupdated" "1718809177"
+		}
+		"public-test-internal"
+		{
+			"buildid" "14789637"
+			"pwdrequired" "1"
+			"timeupdated" "1718942446"
+		}
+		"public-test-internal2"
+		{
+			"buildid" "14333874"
+			"pwdrequired" "1"
+			"timeupdated" "1715783495"
+		}
+		"shipping-cert-internal"
+		{
+			"buildid" "14708498"
+			"pwdrequired" "1"
+			"timeupdated" "1718298518"
+		}
+		"shipping-dev-internal"
+		{
+			"buildid" "14611915"
+			"pwdrequired" "1"
+			"timeupdated" "1717588856"
+		}
+		"shipping-live-external"
+		{
+			"buildid" "14250462"
+			"pwdrequired" "1"
+			"timeupdated" "1714697159"
+		}
+		"shipping-live-internal"
+		{
+			"buildid" "14708498"
+			"pwdrequired" "1"
+			"timeupdated" "1718298515"
+		}
+		"shipping-qa-external"
+		{
+			"buildid" "14250462"
+			"pwdrequired" "1"
+			"timeupdated" "1714697160"
+		}
+		"shipping-qa-internal"
+		{
+			"buildid" "14708498"
+			"pwdrequired" "1"
+			"timeupdated" "1718298506"
+		}
+		"shipping-qa-internal2"
+		{
+			"buildid" "14526601"
+			"pwdrequired" "1"
+			"timeupdated" "1718215906"
+		}
+		"shipping-stage-internal"
+		{
+			"buildid" "14708498"
+			"pwdrequired" "1"
+			"timeupdated" "1718298517"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24060314"
+"_sha" "3ba13c4c40ecf7694be05187bd45304441fd91e6"
+"_size" "14708"
