@@ -1,0 +1,188 @@
+"appid" "2122050"
+"common"
+{
+	"name" "东方夜雀食堂DLC2.5扩展包 - 爱乐者的挑战赛！"
+	"type" "DLC"
+	"parent" "1584090"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"english" "Touhou Mystia\'s Izakaya DLC2.5 Pack"
+		"japanese" "東方夜雀食堂DLC2.5 PACK"
+		"tchinese" "東方夜雀食堂DLC2.5"
+		"schinese" "东方夜雀食堂DLC2.5扩展包 - 爱乐者的挑战赛！"
+		"koreana" "동방야작식당DLC2.5 - 음악 애호가의 도전장!"
+	}
+	"icon" "111e48666a53e66ad38742f133e101ed5e33bc96"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1711010241"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "二色幽紫蝶"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "二色幽紫蝶"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "东方Project"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "二色幽紫蝶"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1664540150"
+	"gameid" "2122050"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "122"
+		"2" "492"
+		"3" "597"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"dlcforappid" "1584090"
+	"mustownapptopurchase" "1584090"
+	"developer" "二色幽紫蝶"
+	"publisher" "二色幽紫蝶"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2122051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2600978253676945933"
+				"size" "140416823"
+				"download" "138498944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "3FDD5B0BFE294B60984A79131A3937D9"
+				"size" "4C2BEBCCC1539D23107E83BF280FA711"
+				"download" "A7A24027C350BD5890A85E552BF09E6C"
+			}
+		}
+		"dlcappid" "2122050"
+	}
+	"2122052"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7954014996994261598"
+				"size" "140423468"
+				"download" "138475568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "200FE4DACCCDEA0CAF44AB5BCF4B3774"
+				"size" "92BC78629551AAAB70F6D7449E9A9276"
+				"download" "2A4CBAB92C9B9E8D0C9F7C0C60CDAB44"
+			}
+		}
+		"dlcappid" "2122050"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14492080"
+			"timeupdated" "1716628395"
+		}
+		"internal"
+		{
+			"buildid" "14492080"
+			"pwdrequired" "1"
+			"timeupdated" "1716628057"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23689481"
+"_sha" "609b81c08b8ade0bdbc31eef6ed7c9cd7edd1434"
+"_size" "3167"
