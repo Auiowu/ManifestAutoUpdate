@@ -1,0 +1,483 @@
+"appid" "2014780"
+"common"
+{
+	"name" "X-Plane 12"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"controllervr"
+	{
+		"steamvr" "1"
+		"oculus" "1"
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+		"standing" "1"
+	}
+	"openvrsupport" "1"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2014780_eula_0"
+			"name" "X-Plane 12 EULA"
+			"url" "https://store.steampowered.com//eula/2014780_eula_0"
+			"version" "1"
+		}
+	}
+	"icon" "378349d4237e5f700f5e851d5821b29fb58bd9d3"
+	"othervrsupport" "1"
+	"othervrsupport_rift_13" "1"
+	"linuxclienticon" "f4643cd01abc5fde063837e0df27977fae953c6a"
+	"clienticon" "1227a95dcffdcd7ac71b93c3c7d9022b3284362c"
+	"clienttga" "e2c18a45d492c06cc78f4a169283cfab5f143e9d"
+	"clienticns" "6af772b9cf89d265b69c6713ef3cd021f85bb915"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "77.7783805777838"
+		}
+	}
+	"store_asset_mtime" "1704495963"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Laminar Research"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Laminar Research"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_48" "1"
+		"category_9" "1"
+		"category_52" "1"
+		"category_18" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1671292672"
+	"community_hub_visible" "1"
+	"gameid" "2014780"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "15045"
+		"2" "4191"
+		"3" "9204"
+		"4" "21978"
+		"5" "4106"
+		"6" "4175"
+		"7" "29363"
+		"8" "3839"
+		"9" "92092"
+		"10" "4166"
+		"11" "4168"
+		"12" "1654"
+		"13" "6426"
+		"14" "7481"
+		"15" "1669"
+		"16" "1695"
+		"17" "3968"
+		"18" "12057"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Laminar Research"
+	"publisher" "Laminar Research"
+	"homepage" "https://www.x-plane.com/"
+	"listofdlc" "2126100,2126101,2126102,2126103,2126104,2126105,2259160,2259161,2259162,2259163,2427060,2427061,2436890,2436900,2436901,2436902,2436904,2437030,2437031,2437032,2437033,2437034,2437035,2437036,2437037,2437038,2437039"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "X-Plane 12"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "X-Plane-x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "X-Plane"
+			}
+			"description" "X-Plane"
+		}
+		"1"
+		{
+			"executable" "Plane Maker-x86_64"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Plane Maker"
+			}
+			"description" "Plane Maker"
+		}
+		"2"
+		{
+			"executable" "Airfoil Maker-x86_64"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Airfoil Maker"
+			}
+			"description" "Airfoil Maker"
+		}
+		"3"
+		{
+			"executable" "X-Plane.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "X-Plane"
+			}
+			"description" "X-Plane"
+		}
+		"4"
+		{
+			"executable" "Plane Maker.exe"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Plane Maker"
+			}
+			"description" "Plane Maker"
+		}
+		"5"
+		{
+			"executable" "Airfoil Maker.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Airfoil Maker"
+			}
+			"description" "Airfoil Maker"
+		}
+		"6"
+		{
+			"executable" "X-Plane.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "X-Plane"
+			}
+			"description" "X-Plane"
+		}
+		"7"
+		{
+			"executable" "Plane Maker.app"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "Airfoil Maker.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Airfoil Maker"
+			}
+			"description" "Airfoil Maker"
+		}
+		"9"
+		{
+			"executable" "X-Plane.exe"
+			"arguments" "--force_vr"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "X-Plane in VR mode"
+			}
+			"description" "X-Plane in VR mode"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2014781"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3014625574258657597"
+				"size" "30286168873"
+				"download" "14889402976"
+			}
+			"public_beta"
+			{
+				"gid" "3390575286170417688"
+				"size" "29167868891"
+				"download" "14627578208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "3616B5BE9180AA1FCD83163B2858019D"
+				"size" "B6CB4B9E7ABBBE5E68F23DB29AFF054B"
+				"download" "8423F3E243DDCE6809F234F83A22B142"
+			}
+		}
+	}
+	"2014782"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7480567554865818418"
+				"size" "81378984"
+				"download" "18899920"
+			}
+			"public_beta"
+			{
+				"gid" "1551096782412854462"
+				"size" "85803648"
+				"download" "19287712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "14D2BF11F5C85F4BDF9E2B0806C65CDA"
+				"size" "8A6DC2E02040F9E496F1C62E6149B88D"
+				"download" "2F0B691CFBC74BECA2263FD290E9E6E2"
+			}
+		}
+	}
+	"2014783"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8527143341959086508"
+				"size" "158231348"
+				"download" "35927504"
+			}
+			"public_beta"
+			{
+				"gid" "8238868586410009371"
+				"size" "624326236"
+				"download" "188875280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C5A3C6CB23CBEC4F6434524AC862204A"
+				"size" "E4BA83F3E583BF75DF9368BD345780BD"
+				"download" "B398190AB2681CDBE5BE70D34662A41C"
+			}
+		}
+	}
+	"2014784"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4814593469086611778"
+				"size" "101615225"
+				"download" "41929264"
+			}
+			"public_beta"
+			{
+				"gid" "255265089856539622"
+				"size" "105807157"
+				"download" "43548128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "0D3C26D573155E445A776849EFAF7EDA"
+				"size" "9C09BB7338956D489C2DDBE7D67D952E"
+				"download" "F4484E70AA2CF14795ABAC39688A6400"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13178127"
+			"timeupdated" "1705590319"
+		}
+		"beta"
+		{
+			"buildid" "14775453"
+			"pwdrequired" "1"
+			"timeupdated" "1718849066"
+		}
+		"public_beta"
+		{
+			"buildid" "14775453"
+			"description" "public beta"
+			"timeupdated" "1718882068"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24048324"
+"_sha" "90b5a8aed71c659438a2ca18dfc7e937c38bf6d8"
+"_size" "8107"
