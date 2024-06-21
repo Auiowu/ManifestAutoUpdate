@@ -1,0 +1,338 @@
+"appid" "2080690"
+"common"
+{
+	"name" "Sunkenland"
+	"type" "Game"
+	"icon" "95b7e6a119fc7f3bce8b72ca7fae345b65c9da3f"
+	"name_localized"
+	{
+		"schinese" "沉没之地"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "562e329e8af6965ae3da0eb4df0688b5006ed3ef"
+	"clienttga" "0f90005ee13e42da90c5bb392397b06a4f1314ac"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1693526400"
+		"tested_build_id" "12038838"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32.790697674418595"
+			"height_pct" "86.85585371645692"
+		}
+	}
+	"store_asset_mtime" "1698078232"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vector3 Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Vector3 Studio"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1693011740"
+	"community_hub_visible" "1"
+	"gameid" "2080690"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1662"
+		"2" "1685"
+		"3" "9157"
+		"4" "3859"
+		"5" "7332"
+		"6" "1702"
+		"7" "1695"
+		"8" "3834"
+		"9" "21"
+		"10" "1663"
+		"11" "3810"
+		"12" "6730"
+		"13" "3835"
+		"14" "1774"
+		"15" "4175"
+		"16" "19"
+		"17" "4202"
+		"18" "4191"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Vector3 Studio"
+	"publisher" "Vector3 Studio"
+	"homepage" "https://www.sunkenlandgame.com/"
+}
+"config"
+{
+	"installdir" "Sunkenland"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sunkenland.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2080691"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "540837277095070140"
+				"size" "6083387650"
+				"download" "2857565120"
+			}
+			"olderversion"
+			{
+				"gid" "8889011843672003636"
+				"size" "6196666468"
+				"download" "2975055008"
+			}
+			"olderversion0104"
+			{
+				"gid" "8889011843672003636"
+				"size" "6196666468"
+				"download" "2975055008"
+			}
+			"publictest"
+			{
+				"gid" "800697673899718967"
+				"size" "6652042070"
+				"download" "3113864112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cinematic_build"
+			{
+				"gid" "F3A3CC89E7560F0AC5320C68764E6457"
+				"size" "990A63B0CE9816C83F8309EBC8287AD8"
+				"download" "D7F7FAE18BA17DC6923963B5A43717C0"
+			}
+			"internaltesting"
+			{
+				"gid" "4CC404111A3D13A9F30843AB69F339FB"
+				"size" "DB8EE05A88353B20EB0B03AA5039F203"
+				"download" "69AC590E6FE244111565CDEA60EDFFF2"
+			}
+			"internaltesting-releasebuild"
+			{
+				"gid" "6C65A5DB55CD5713A35AA084E3FCBA9D"
+				"size" "F6F230E048A5903C2720D5B129808DDB"
+				"download" "3CE64B17E6B32DF4287951AC74180207"
+			}
+			"streaming"
+			{
+				"gid" "476B187B53C877F211ABAF8F10ED6E18"
+				"size" "905C659B8FB515B92E28C6713249A278"
+				"download" "9E0C62670BF7C8A016980978B0B856DD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13751423"
+			"timeupdated" "1710538998"
+		}
+		"cinematic_build"
+		{
+			"buildid" "13751438"
+			"pwdrequired" "1"
+			"timeupdated" "1710501673"
+		}
+		"internaltesting"
+		{
+			"buildid" "14070289"
+			"pwdrequired" "1"
+			"timeupdated" "1713274050"
+		}
+		"internaltesting-releasebuild"
+		{
+			"buildid" "14070289"
+			"pwdrequired" "1"
+			"timeupdated" "1713274105"
+		}
+		"olderversion"
+		{
+			"buildid" "12551423"
+			"description" "older version of the game"
+			"timeupdated" "1706863429"
+		}
+		"olderversion0104"
+		{
+			"buildid" "12551423"
+			"description" "Game Version v0.1.04"
+			"timeupdated" "1706863439"
+		}
+		"streaming"
+		{
+			"buildid" "12481709"
+			"pwdrequired" "1"
+			"timeupdated" "1697713432"
+		}
+		"publictest"
+		{
+			"buildid" "14290952"
+			"description" "for public beta test only"
+			"timeupdated" "1715090219"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24022450"
+"_sha" "c1e297f753cbc1b3be8397fa50b2684b686e536b"
+"_size" "6286"
