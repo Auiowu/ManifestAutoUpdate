@@ -1,0 +1,1469 @@
+"appid" "457140"
+"common"
+{
+	"name" "Oxygen Not Included"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"logo" "9bfcceba1cce2f64ecf14f3baa5d91676021f91e"
+	"logo_small" "9bfcceba1cce2f64ecf14f3baa5d91676021f91e_thumb"
+	"icon" "d37534163ebac8351e0bda0bf30f8f2174c921b6"
+	"clienticon" "727e873b32e3b5f16e30c007a9758e4e5b480938"
+	"clienttga" "e782ebba028d480d53dd2fa25bc90c2eb1fb4994"
+	"releasestate" "released"
+	"osarch" "64"
+	"clienticns" "ac507c4641e4768123eabf6189b5e23b8716a824"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "457140_eula_0"
+			"name" "Oxygen Not Included EULA"
+			"url" "http://store.steampowered.com//eula/457140_eula_0"
+		}
+	}
+	"osextended" "macos64,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "缺氧"
+		"tchinese" "缺氧"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653696000"
+		"tested_build_id" "8730000"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Oxygen Not Included"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22"
+			"height_pct" "44"
+		}
+	}
+	"store_asset_mtime" "1701909759"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Klei Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Klei Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Klei Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1564505400"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/oxygen-not-included\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "457140"
+	"store_tags"
+	{
+		"0" "220585"
+		"1" "7332"
+		"2" "1662"
+		"3" "8945"
+		"4" "1643"
+		"5" "4182"
+		"6" "12472"
+		"7" "599"
+		"8" "3871"
+		"9" "3810"
+		"10" "9"
+		"11" "1755"
+		"12" "492"
+		"13" "3942"
+		"14" "3834"
+		"15" "4026"
+		"16" "1695"
+		"17" "3859"
+		"18" "21"
+		"19" "16598"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Klei Entertainment"
+	"publisher" "Klei Entertainment"
+	"homepage" "https://www.kleientertainment.com/games/oxygen-not-included"
+	"listofdlc" "1452490,2952300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "OxygenNotIncluded"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OxygenNotIncluded.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "OxygenNotIncluded.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "OxygenNotIncluded"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1862351000"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2756551883"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,demo,development,development_alt,preview,public_testing,release,staging,steamdeck_preview"
+			"use_action_block" "false"
+		}
+		"2756591982"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,demo,development,development_alt,preview,public_testing,release,staging,steamdeck_preview"
+			"use_action_block" "false"
+		}
+		"2756597396"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,demo,development,development_alt,preview,public_testing,release,staging,steamdeck_preview"
+			"use_action_block" "false"
+		}
+		"2756629853"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,demo,development,development_alt,preview,public_testing,release,staging,steamdeck_preview"
+			"use_action_block" "false"
+		}
+		"2763921716"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,demo,development,development_alt,preview,public_testing,release,staging,steamdeck_preview"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"457141"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7145278350323749908"
+				"size" "2701943179"
+				"download" "795969008"
+			}
+			"public_testing"
+			{
+				"gid" "7145278350323749908"
+				"size" "2701943179"
+				"download" "795969008"
+			}
+			"public_previous_update"
+			{
+				"gid" "6687692379280172568"
+				"size" "2614871193"
+				"download" "784495888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "A3B1B41917EA3F7680CE879473EA1477"
+				"size" "43ED0C0949AE079B3F7E487BC5772F35"
+				"download" "3F6758C19FEE58BA85AE35C4238AE2F9"
+			}
+			"demo"
+			{
+				"gid" "50C30A0135D3CF73A3D4DF047972404B"
+				"size" "3346EBB0B7A65B924399FD022E87E1F5"
+				"download" "A36E4360B9EC632F89D14437096DC34F"
+			}
+			"preview"
+			{
+				"gid" "FA84C12059FFAF33D56846A0DC8BB950"
+				"size" "105B172A96A7AE064C3DFFA6662E8115"
+				"download" "DD3E17A4146C6CF3198C562E0EFD0F82"
+			}
+			"release"
+			{
+				"gid" "5B42A2084E1E63556FB91A843A7B917C"
+				"size" "6209E42988472DD404468238069C5546"
+				"download" "472C8A141C0D470A959F7B7A26BA33C2"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "F3127F4F604B12FE28315DB585FEFAE5"
+				"size" "E36F1FF444B95AC31F26B18D908DB681"
+				"download" "BE31C6AC447C65EFD26646DA2D5A9C2E"
+			}
+			"staging"
+			{
+				"gid" "5D24BDF95B903995AAADB4CA23312C31"
+				"size" "1666381C3B675DF8F53F22EF2C644639"
+				"download" "1DF4EB1E9151018C2352D8D2DD09C194"
+			}
+			"31_the_big_merge_update"
+			{
+				"gid" "A729463783F12913359F5B33E208985D"
+				"size" "23BDF8AB525A2F495FF97CE5AB6A0FB4"
+				"download" "A8EB79868B69B0F6BD1A8DD87995C453"
+			}
+			"32_a_breath_of_freash_air_update"
+			{
+				"gid" "3D2DB0EFE20C40350479E67F012CBC22"
+				"size" "5C0E3C1147EDA9735A28573DDA865730"
+				"download" "26611352A94A2DEBE85AAF534BA5AA37"
+			}
+			"47_june_2023_qol_update"
+			{
+				"gid" "B406B37C2AD7089EE390BC1238A345D1"
+				"size" "10B000B39F55969CD1DF93F98A34CA3A"
+				"download" "E5A466BD3C9819DF88C6207A3FE808C3"
+			}
+			"48_song_of_the_moo"
+			{
+				"gid" "8F4AAB5BE822E17FE57CC14096DCD5E3"
+				"size" "114FF18BA2FD1E6A96BC8ED026A6AB64"
+				"download" "1BC4506209402B8F6E2E7845ED4DB3EC"
+			}
+			"49_october_qol_update"
+			{
+				"gid" "C4945756C7468CA09621B7CCDAC28715"
+				"size" "713FCE3E138C738B188FD37F2E3F3E6E"
+				"download" "AFC0DB41342678705DF7010C2C67E502"
+			}
+			"50_packed_snacks_update"
+			{
+				"gid" "59A840DD4478F0018B80E65CD201AE0F"
+				"size" "BAB31018125FA83679F78E8A86D5009E"
+				"download" "0DBBFBECD00CE5E9EF244748738DE00F"
+			}
+			"51_february_2024_qol_udpate"
+			{
+				"gid" "031C599E5FB763B3065F832EBEB2EE40"
+				"size" "062F90DB9B1A42D9D57CD73151ECCE1F"
+				"download" "029E08EF4039C617765AF2132C47CC15"
+			}
+			"development_alt"
+			{
+				"gid" "2A4FF7986E525567F9C447D0BEA6D2C8"
+				"size" "00593DFAF4CC07FCA247CA6AF2BD37AB"
+				"download" "341B40AF9BFA7E315F4F92566F6AC6BE"
+			}
+			"development_alt2"
+			{
+				"gid" "4D09D5BBD72F51F3C37C128902E75592"
+				"size" "8B559DD3B12A9DC73BA97BA67BC09E34"
+				"download" "8C009E4DF8F3B3C29E62D1F97372490A"
+			}
+			"early_loc"
+			{
+				"gid" "F9151170F3A9672B07C49F5D847DCD3B"
+				"size" "36E2FC3F18FFFE1C07D4FF645D5F3634"
+				"download" "7C0D4FE02700042FD423C22621BE1EFD"
+			}
+			"public_pre_mergedown"
+			{
+				"gid" "09C730543A8F4D3EF1E36A1E96CE85EE"
+				"size" "3662ACF6DF471F5C9AF8EBD97DA6CEF2"
+				"download" "D3C58B260576C23925DDBD6BFDD68AC9"
+			}
+			"troubleshooting"
+			{
+				"gid" "C94B004A6F459315165113AC5CCEB1AD"
+				"size" "136FB43AB46A913F347516F8C6B75CF0"
+				"download" "5C45A014E27DCC773D4856425AADB62B"
+			}
+			"unity2020_support"
+			{
+				"gid" "E22DC43FA50B4274527F3F9123C0CA7F"
+				"size" "A269D46B46498AEBBB5A28F5DE1AF18F"
+				"download" "F702434E9013DB7E8B89A3DA14009031"
+			}
+		}
+	}
+	"457142"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1392757055114131781"
+				"size" "2691223213"
+				"download" "793641888"
+			}
+			"public_testing"
+			{
+				"gid" "1392757055114131781"
+				"size" "2691223213"
+				"download" "793641888"
+			}
+			"public_previous_update"
+			{
+				"gid" "485125744258113002"
+				"size" "2604160936"
+				"download" "782082960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "3F919ED6C1D7F796ACFADC371E8BF46A"
+				"size" "8BEC91F394630BFB9A2E6B28EB1EEB54"
+				"download" "87CCFEF76B1242E85D396C696D000519"
+			}
+			"demo"
+			{
+				"gid" "7CA8C00045880568FFD7EAE4C6FABD43"
+				"size" "F87D804FB69485E1D9B40DDF30DF72A5"
+				"download" "E07F4E281614818FEEEF54EF87583B54"
+			}
+			"preview"
+			{
+				"gid" "EF704984ADA656E71C43B70550797F65"
+				"size" "D56547F5F77991B84261D909367BE6FF"
+				"download" "094F520E9182D45C682E1A6829527B18"
+			}
+			"release"
+			{
+				"gid" "8B7D44A2D75EBECCD96C528D31AF895F"
+				"size" "67934E7806C7B48996832477209CEFAB"
+				"download" "B510F0ACD8B4F9EF4EB926594E12F582"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "CE7AB30A00542DD41E21E9D2E277616F"
+				"size" "C7430E4AD6FAE2D48109FB0428A3B074"
+				"download" "2744C7A645822527382D6D6EC25A1F3A"
+			}
+			"staging"
+			{
+				"gid" "9C4001530DB1C51B0F3BB92117D1E956"
+				"size" "EE35B3932D608B9EFFA230E44F43E5D6"
+				"download" "96317507A5CBE5988814024054BBF13D"
+			}
+			"31_the_big_merge_update"
+			{
+				"gid" "15E8CC47C995B2B89A7C9FA96A5A2AC8"
+				"size" "4893A829A0E2873F9D2A9A1C01C94517"
+				"download" "002BF4799887BE2BFE7F81AA193928C2"
+			}
+			"32_a_breath_of_freash_air_update"
+			{
+				"gid" "F91C571037F933AC74DD3FEBE0FD27CD"
+				"size" "3C896F9D48538EC54010D3018D50B4C8"
+				"download" "806B70D2139C5760E630992EB7ADA345"
+			}
+			"47_june_2023_qol_update"
+			{
+				"gid" "CE425831E9CBED259A5E5ECC92B53778"
+				"size" "5034079BE661057B3F7FB5DA33EF74AC"
+				"download" "289F875CB83B6EA7AC607CE14FA8BBAE"
+			}
+			"48_song_of_the_moo"
+			{
+				"gid" "C13212171216442A65A9BDAB7BA10D2A"
+				"size" "92A90930A8CAFA34B7A3ACF8E8CC1B0B"
+				"download" "CEA191DE05190B5AA41C42E8E41E26BC"
+			}
+			"49_october_qol_update"
+			{
+				"gid" "0F932CAFE723719ECD3E4D87506DA424"
+				"size" "02243EFE673C4C23521B5911F69E6702"
+				"download" "96BAFFD6A2148CD60361EE104CCF10D5"
+			}
+			"50_packed_snacks_update"
+			{
+				"gid" "982215AF8CFDF7758F0AB4408836EBA9"
+				"size" "60F0FB19141A8C9A3BAD485754070A48"
+				"download" "363D0C2FBBD1AA6BE840D7A248DEFEC5"
+			}
+			"51_february_2024_qol_udpate"
+			{
+				"gid" "471CF7E2EAC54E5B02D120CBB782A6ED"
+				"size" "39FF035991BC3138A1926CEC8A8A67CD"
+				"download" "A1C71C4906BD83875C7F15B38891B42C"
+			}
+			"development_alt"
+			{
+				"gid" "701E204FBD586C0D3FBCDF433EA45AE9"
+				"size" "4EE358EF26F3F5639C5CE9EB34DFDEA6"
+				"download" "CD7401466676890E3EB2C9F78E41A010"
+			}
+			"development_alt2"
+			{
+				"gid" "8E2EF10DFC8A6B42101B4E4999D47DE8"
+				"size" "CDB2D572F27B8432E2A375168C89F751"
+				"download" "D4CD6979480BB1C4917A4F069195AC44"
+			}
+			"early_loc"
+			{
+				"gid" "D5CF55280953C7BA9629DEB700EB2D80"
+				"size" "3F90CD88BD593E8F7BD82FFE9974B8ED"
+				"download" "C1991AAAD58ADA93986F4F8688893BC3"
+			}
+			"public_pre_mergedown"
+			{
+				"gid" "0331242E06B3D5AD97D57121B560D25D"
+				"size" "CD53F82427E16C14DEFE0364E4ECA797"
+				"download" "9F3DD34F26F05B002FA453A4C3C5E451"
+			}
+			"troubleshooting"
+			{
+				"gid" "B7D36B6AB3EA1FACA4F01A41DA5BF271"
+				"size" "25AA00D0A5B4BFF4CB17CB6282237BB3"
+				"download" "1B7F14E1ECF3F73E895A8CD092C43729"
+			}
+			"unity2020_support"
+			{
+				"gid" "9F70B78EC4561A07EC9E42A4F3F4F154"
+				"size" "C14D5D6E1A06854370069AA6BBDA153D"
+				"download" "13044240949CE497FD2CA783AD26129B"
+			}
+		}
+	}
+	"457143"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6335277774634548698"
+				"size" "2742593695"
+				"download" "796589664"
+			}
+			"public_testing"
+			{
+				"gid" "6335277774634548698"
+				"size" "2742593695"
+				"download" "796589664"
+			}
+			"public_previous_update"
+			{
+				"gid" "3042826200386934622"
+				"size" "2655530413"
+				"download" "785068320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "DFD278CD6305630EA91B5720EA7293EC"
+				"size" "347556B1BE46D620FA5B542ADA69CE2E"
+				"download" "498D9FB0F9245D3923DE6BC579A95B60"
+			}
+			"demo"
+			{
+				"gid" "402324D974DB6FA981297CD7DCE540FE"
+				"size" "AF964E4ABE2A56189AE72055F446FFFD"
+				"download" "EA1D2363D2622D8C7EAE7AB4C61262D4"
+			}
+			"preview"
+			{
+				"gid" "D632DE1AA3F5149561410547E40E7EC4"
+				"size" "D2D78C24E03EC5057ED8ABD1272F756E"
+				"download" "2ECADFC5B17CDE6B7720920597245369"
+			}
+			"release"
+			{
+				"gid" "4DAD6B2518BEA8BD00FC2D8699D92555"
+				"size" "DC589A5567AE876C461EC2A11AA7BE0F"
+				"download" "E5949E5AC22FD55805BA160CEEC99857"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "4170341E61EC5F8AC42AEF983E59E6D0"
+				"size" "E3BB56BE1EED99F0C8CBD015C6D173CD"
+				"download" "A98559E5D397531F65536D6907361052"
+			}
+			"staging"
+			{
+				"gid" "DAEC5A3B7BC85706DB89FA3DC3CC4CB7"
+				"size" "C6864800ADAA56010D58C0D6414F49E3"
+				"download" "31D0251D7ABCD4784B15D3F2D0586340"
+			}
+			"31_the_big_merge_update"
+			{
+				"gid" "0F6458D73A4AC169E4C059F01653B3F8"
+				"size" "62AFAEC9F1C3386CE72CB1A27154E1BC"
+				"download" "690CFFC9CC5AE2D63070B4388B23A6BE"
+			}
+			"32_a_breath_of_freash_air_update"
+			{
+				"gid" "857AF3EE1333350403C46734EAF02769"
+				"size" "A699E0E1A27267192C33AF72AD9D0E4C"
+				"download" "78AB4287B2A9FD92932FD556B7774BB8"
+			}
+			"47_june_2023_qol_update"
+			{
+				"gid" "0224C66FBD6C8D5BF30CAD5E8E473938"
+				"size" "F33815DA0AACDFEC4152A4B4BC66A6D8"
+				"download" "92D70C3FA758DE9994AAC1D5FE101B16"
+			}
+			"48_song_of_the_moo"
+			{
+				"gid" "E0F4ADAA7A32DEB70462CF75E812A9BF"
+				"size" "E9B76999633D733FDF6E0DD373BA7D28"
+				"download" "65536C6C7A2806D8593D7538D7FC4AAD"
+			}
+			"49_october_qol_update"
+			{
+				"gid" "C998A04F9D1BD3E6D0068D42B5D1AEC0"
+				"size" "88640B59F65322168196EC7C2EE2C318"
+				"download" "7DB79065EB868C715053561196ED5AFC"
+			}
+			"50_packed_snacks_update"
+			{
+				"gid" "55AF6E2B575EFFCE4CCA7084F67E5A06"
+				"size" "6F8738D74E648FD38C11BDFC9C08A4BA"
+				"download" "16EB6E2399F0F8109548F5F7B7BE561D"
+			}
+			"51_february_2024_qol_udpate"
+			{
+				"gid" "644EA78E3EF0275894B376BDF3A65127"
+				"size" "58E1FE29D196726F75E2D5907087D675"
+				"download" "34598E615E8F518C8E1A4B5256B555A6"
+			}
+			"development_alt"
+			{
+				"gid" "ADEE0202D86899FC1119249D09F0F2E3"
+				"size" "D7B81391BE65FDDDA71E05C5BFC228B6"
+				"download" "979884670CC781B484F0F6D61C1756E3"
+			}
+			"development_alt2"
+			{
+				"gid" "19BEDC682CB708CF605DCB2373DC4141"
+				"size" "40094B6300BC7133A75EDF9BA21A9904"
+				"download" "5F78DEF28D5E16BEAFD57D7C626B455C"
+			}
+			"early_loc"
+			{
+				"gid" "89A95A6901D429DCF8F763A78DA749ED"
+				"size" "C1B3AD4D70E76CB04A62614F1C260551"
+				"download" "E91841DC0073862CC52DDE8BC2A07A47"
+			}
+			"public_pre_mergedown"
+			{
+				"gid" "ED82AFC0882CCA9C7182FC1312CABB1D"
+				"size" "FE7231F493F5F1DF7C76EC820BDF99A2"
+				"download" "85FFAA7F8E993861101D7401E7A41424"
+			}
+			"troubleshooting"
+			{
+				"gid" "467A9AA393ECBA1AE066B700C60F36D7"
+				"size" "AF9EF0FA930B8B1C979FEF3DCC8064CB"
+				"download" "E84C394BEFF3A972A8237567A1AB2245"
+			}
+			"unity2020_support"
+			{
+				"gid" "947BC324657FBF053F0293FE80BE92A7"
+				"size" "582993634F0C5B2CDF0421E6E961A9D7"
+				"download" "1B9AD6178EBB47C72B0F3FB56F4E562A"
+			}
+		}
+	}
+	"1452491"
+	{
+		"dlcappid" "1452490"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4811460977824769636"
+				"size" "308644706"
+				"download" "287975680"
+			}
+			"public_testing"
+			{
+				"gid" "4811460977824769636"
+				"size" "308644706"
+				"download" "287975680"
+			}
+			"public_previous_update"
+			{
+				"gid" "7526112106824751708"
+				"size" "308697711"
+				"download" "288029680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "F832573040576EB70F245EBFB8F93B44"
+				"size" "45BE8CE479C729946559E416EA392CBA"
+				"download" "FF6A8CFCF0B543BC0D0F72C270DF88A5"
+			}
+			"demo"
+			{
+				"gid" "1BF18FF81B97AFA8ECD34F5605800C98"
+				"size" "FDF59AA38FD6AA0ABF852202608416D7"
+				"download" "BB777CDD5970D21A9453E88281400917"
+			}
+			"preview"
+			{
+				"gid" "A46BAC46A7054E12C55C415FC705DAC3"
+				"size" "243763A748BE1636F304503C23C3BB00"
+				"download" "30EB17F611AD5A26C4E8E8A78A1EFBF5"
+			}
+			"release"
+			{
+				"gid" "6BAA6AE9E5C3C849E956831B62121D0D"
+				"size" "D9F26C281BD29A2E803B9C13AF8FDD6C"
+				"download" "72CAE15F0FF9D88FD558084DF978EAA5"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "7B02B85C29DC69EC642F830104B14870"
+				"size" "6CC37B4044C2C08A9F0A8D183305D082"
+				"download" "648E7FA6EC056E59007FB7AD5E6E871A"
+			}
+			"staging"
+			{
+				"gid" "7F34DC864D5FAC9B20664BC372A31F10"
+				"size" "36D3EEB650292858FCB22E0823A6F8E6"
+				"download" "1B567B8926260C1B82F963F2DAFC7D10"
+			}
+			"31_the_big_merge_update"
+			{
+				"gid" "BB40E916FF65703A4C19DA238E630CC6"
+				"size" "7FC28504E742D69AD5D9330A8DD771D6"
+				"download" "AC3C65B7C7D7AF62923247D3694C0FFA"
+			}
+			"32_a_breath_of_freash_air_update"
+			{
+				"gid" "173C2A7BD8C6AD397D97AA88BB9659CA"
+				"size" "0D0261C5948F3F1D15C37E350FA6C6D0"
+				"download" "6D7303F83511BBDF653561AB9490E592"
+			}
+			"47_june_2023_qol_update"
+			{
+				"gid" "2DFD97F7488EBEA1F30436033E7942F2"
+				"size" "6BB3B9515791B616BD10388964B68B9D"
+				"download" "0D76C37ADC9E156886B63C5493F78A56"
+			}
+			"48_song_of_the_moo"
+			{
+				"gid" "0C7D3F1A5B6295E6EDFB5F6F53D0B65E"
+				"size" "D8E7A39723EA842485439F3578CF7804"
+				"download" "74DBE24D61CDF28BF0B2A1C5C1EB1C9C"
+			}
+			"49_october_qol_update"
+			{
+				"gid" "4D20BC7C6937B6FA5EAB9E833F5CD5F4"
+				"size" "45478796D0B699216EE4DE0819A404F7"
+				"download" "8CC95AB32702DD75E147D8CA623AC058"
+			}
+			"50_packed_snacks_update"
+			{
+				"gid" "2ABF3C89168A3E3D408487C488AF8DFD"
+				"size" "B3712677FFDBF0586DD33E03E21E8E0B"
+				"download" "7DC36B3FABF876DA27D0BE71E45399A6"
+			}
+			"51_february_2024_qol_udpate"
+			{
+				"gid" "BBFF2CF0A5FE3254DE3FA4AF7543CDF4"
+				"size" "EC1D4CF56D989934FF1987F5A323AD00"
+				"download" "01EC3594E7AA3504007A910C81204456"
+			}
+			"development_alt"
+			{
+				"gid" "793DCF187E22762F2FDC39A50C17DC23"
+				"size" "E662779F10CCCAEE4B8742720AEB1593"
+				"download" "0E9978B830B5CA658819A93FB18DEA26"
+			}
+			"development_alt2"
+			{
+				"gid" "DFB76F89310A02B806FBF76528E4B4B5"
+				"size" "9487981255556B7196A9B74DD7638CFD"
+				"download" "CBBE4DACBD76A6EAC3C25A79C39EDBA5"
+			}
+			"early_loc"
+			{
+				"gid" "6284163D586A397EA37C0D3E8EAE64CD"
+				"size" "070901F2A217AE3E9CC3A88F4879197A"
+				"download" "E93C4F99A7BB57B650EE1D041E1149FA"
+			}
+			"public_pre_mergedown"
+			{
+				"gid" "52D48B43D2FD721064B868BACB25C4ED"
+				"size" "1E30A179347533E0640135C00FDC0664"
+				"download" "B4A654F26DDB3685950951F8652436A8"
+			}
+			"troubleshooting"
+			{
+				"gid" "E096E3B32B582135AEF8392CF355BA26"
+				"size" "D1DCDA6B7B8A41F8DD5CCF4C31D34657"
+				"download" "50B0549F47288CE493421E280153EE00"
+			}
+			"unity2020_support"
+			{
+				"gid" "E4FC492B267D80D155C1706C6050D1AE"
+				"size" "2DBBD3CEF9A7D86F2050389E411DA4DE"
+				"download" "F3445E8BC1A8CD312998CF200867F5D2"
+			}
+		}
+	}
+	"1452492"
+	{
+		"dlcappid" "1452490"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8511704833509439980"
+				"size" "308650494"
+				"download" "287980880"
+			}
+			"public_testing"
+			{
+				"gid" "8511704833509439980"
+				"size" "308650494"
+				"download" "287980880"
+			}
+			"public_previous_update"
+			{
+				"gid" "6923108525765333373"
+				"size" "308702933"
+				"download" "288034256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "EDB2F00BB2FBA9180E99CC01EA38442A"
+				"size" "B9336C7FC9F64D7D25EE25F3581BC7C5"
+				"download" "696E5C19A6586A1C6FCC133EC7210EB8"
+			}
+			"demo"
+			{
+				"gid" "F54C8BD5B4BDDDFD552407BCF9B8BE33"
+				"size" "EC6BC20A545516BB64E91F33F9D25F6A"
+				"download" "52406D4F3AB8262204E3E4BB19D9CDC9"
+			}
+			"preview"
+			{
+				"gid" "4204D7F65C0B0A212103EFD009C0D439"
+				"size" "6E837F04A3D32025604BA55A1592D52C"
+				"download" "0D65FE6E6FEBE9295D4730825A1CCF52"
+			}
+			"release"
+			{
+				"gid" "AD40AF38D10F53BEB4ECC1527EC9D136"
+				"size" "E955D24A8D6C71C44BDFDED8F8ACCBC1"
+				"download" "7A5863484D676A8F1C751BA6F48F4981"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "A39056A333D6777B567C2C59B9F70EBA"
+				"size" "1F9FD1D2EE378CFE57D9C3956F4B030B"
+				"download" "E1483791A0527178F8AA8DA832B8CAFA"
+			}
+			"staging"
+			{
+				"gid" "303D9B2210F54DB98185B94096A9C1F1"
+				"size" "93C4A7CD273571C068AF4792B801035F"
+				"download" "A34954B4D5DFFA4DF391DE9FAA4A4EF1"
+			}
+			"31_the_big_merge_update"
+			{
+				"gid" "B91849EE4D12847B529C92C31C216998"
+				"size" "B87F820D5C14CDE5D82DA323592EC12D"
+				"download" "F127532D563F7660B521E09E079583E8"
+			}
+			"32_a_breath_of_freash_air_update"
+			{
+				"gid" "899AFD18862B1FFB0C02CF5E4141381A"
+				"size" "72C2D24D0977A65E833E2F0A480093A4"
+				"download" "D1ECE283DE5919280B48A45054436A4C"
+			}
+			"47_june_2023_qol_update"
+			{
+				"gid" "1A997048931FF90182CE078254C664B8"
+				"size" "8AEAB3BED81AC81C2A228767EC180C5A"
+				"download" "9AA145CE883232BD1CB2B074C947F6AF"
+			}
+			"48_song_of_the_moo"
+			{
+				"gid" "50CDEDB22627D00C84CAE318BDB933C5"
+				"size" "DFA194DC7D11A46488B962AF74739264"
+				"download" "803F074141B07C9F7FDC07B428A221E2"
+			}
+			"49_october_qol_update"
+			{
+				"gid" "F604237AD6F89B31358EC2C4A0914F3D"
+				"size" "01A4DD0705DC0444617944A57460929B"
+				"download" "BEBB5F5019A3B6E6B74900D7A6FAB796"
+			}
+			"50_packed_snacks_update"
+			{
+				"gid" "F67CB8E0F60163DDD51B975DAA51D8B2"
+				"size" "745E325FB70FB17D61D4BD6AFE1FB65A"
+				"download" "468496108B5AA713244E01E47681556C"
+			}
+			"51_february_2024_qol_udpate"
+			{
+				"gid" "EBD2F36030607E67D44698D432FEF62A"
+				"size" "2B30291711807B5B42D82FFA522F92FF"
+				"download" "AC4BC912478CFBC13CEC8283D83734E1"
+			}
+			"development_alt"
+			{
+				"gid" "610EB628AFF2188617F9D6238F2903C6"
+				"size" "4977295CD03C9AC90BC5640B2F8C5FE7"
+				"download" "A42BFA863ABD8671434498DA3315731B"
+			}
+			"development_alt2"
+			{
+				"gid" "A0A89CC01E317195FA03C2E0C1CC6020"
+				"size" "A72C67F42B79D8915F778D9803750537"
+				"download" "C669DE5A32536D7DE722F300E4E1ECC6"
+			}
+			"early_loc"
+			{
+				"gid" "3F92DA20971C63285DC706786C627D91"
+				"size" "14A7AB88020C9256C5EE447E7EE53092"
+				"download" "22E7CF7F6F9BA6A7FA6A2BF039D59F97"
+			}
+			"public_pre_mergedown"
+			{
+				"gid" "B99161D3AF1E8B79904CC325CBB52C81"
+				"size" "9F2935ABB047F73DB177CCD3AC9496C5"
+				"download" "ABD4F4821D9B3870508226E61FC3F83F"
+			}
+			"troubleshooting"
+			{
+				"gid" "4E67110731B53A21BB47630F51DCBAC7"
+				"size" "8BC5D86B91712B577AB2B75566C6E6E9"
+				"download" "0E0B953C9BA592257527FC986A50B5E5"
+			}
+			"unity2020_support"
+			{
+				"gid" "9A02ED423B43922F6D6EEA3821A8F118"
+				"size" "A21BFB398049E01373B33BAF59A991A9"
+				"download" "569BC9F11C1C9164D9E50CDE276453C8"
+			}
+		}
+	}
+	"1452493"
+	{
+		"dlcappid" "1452490"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "622833939204027640"
+				"size" "308641918"
+				"download" "287972480"
+			}
+			"public_testing"
+			{
+				"gid" "622833939204027640"
+				"size" "308641918"
+				"download" "287972480"
+			}
+			"public_previous_update"
+			{
+				"gid" "5753826023249929744"
+				"size" "308694475"
+				"download" "288026016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "125E1B70BDC1015BAC776A7E5DE41C3D"
+				"size" "CD9A7BDAFF50BA9A54A60A10A3C34845"
+				"download" "B3C95F1F955BCE73254BE9AF98C81828"
+			}
+			"demo"
+			{
+				"gid" "4BD9EC2B47CB3F37100121958191FB35"
+				"size" "D4708B3FD5BAB09B1F865C0FCA03671E"
+				"download" "BE3EB7695C962F109D8D476F2E848C9A"
+			}
+			"preview"
+			{
+				"gid" "C900D83817DBBD2A7AAB19EB69ECFFF7"
+				"size" "D37E937A86452966ABFC7FC129D5F527"
+				"download" "616D30508EB421DED0E52C3CB72F7F22"
+			}
+			"release"
+			{
+				"gid" "2C9B7948413C00DF20C988D3D522B401"
+				"size" "62FCC3475BBDDE171C1FEC41C0250A0F"
+				"download" "35D974AFC7732AACBDE5B8A2CC77D2EB"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "5D708C5CD243C77835C5A3474D21854C"
+				"size" "2D98BF36B16F49751BE4C5BB82F73D12"
+				"download" "E6273D6A7B509619CB7D3026A7379DF9"
+			}
+			"staging"
+			{
+				"gid" "1A529493F2D3CF964227B0D9EC241B3B"
+				"size" "7451EF00848F1A26700B143949499043"
+				"download" "24F38D2CF7F2956FB68BF8A90D72F3C0"
+			}
+			"31_the_big_merge_update"
+			{
+				"gid" "6DBBCF840EEEF4581FD13B26D9AB082C"
+				"size" "9FB7E43740043245362C9B1F3D0A4A3E"
+				"download" "4560EEDDE3BD4B65832A5C6B8CE647F4"
+			}
+			"32_a_breath_of_freash_air_update"
+			{
+				"gid" "EB001F6A5C1E11145578AD575C3E51CC"
+				"size" "9F600474E0BC03051B668095FACA5532"
+				"download" "905DF57164EA333B30C161D49FBD5544"
+			}
+			"47_june_2023_qol_update"
+			{
+				"gid" "49F2D69BD8A34CF0AC790E63CEF37346"
+				"size" "B0643FBC2F1BE87518536BDDF74D9926"
+				"download" "18635452BBB5CF053634F336091F8498"
+			}
+			"48_song_of_the_moo"
+			{
+				"gid" "9D9886D4F1E438968E8271E2237FD5DF"
+				"size" "BBCD685FD807535393BB00E9EB74DB22"
+				"download" "B8CA997653CCF7AC437D46AE1B03ACAB"
+			}
+			"49_october_qol_update"
+			{
+				"gid" "8BC8304A7DF21EF125BFB13ED67C7B14"
+				"size" "B8478067C9259E7E0624F6F68F0DA244"
+				"download" "E12E04C46E89D036CB7A7DE7A8E26926"
+			}
+			"50_packed_snacks_update"
+			{
+				"gid" "71C5137D5C3171C664964C1082D6ED7B"
+				"size" "3C27C98FAB475724A9CC44B6D31DFB1F"
+				"download" "8E2A360047475CA5558EFB8CC5DC8DAB"
+			}
+			"51_february_2024_qol_udpate"
+			{
+				"gid" "C0746376C3B1E11E934CF137B366B34E"
+				"size" "196BCB982198D74F81CD091CE0237B99"
+				"download" "978D61535B361FBF27D006CBE53624A0"
+			}
+			"development_alt"
+			{
+				"gid" "5197A3392F8F99D5E9EAC15435FAF1C2"
+				"size" "EC63BC37545C16BB8F16E620A6060CC7"
+				"download" "0975BDF1437E315D64C93A6C5476E4D5"
+			}
+			"development_alt2"
+			{
+				"gid" "ACE87EA8755525AEAA6B87F700F96C87"
+				"size" "177BEB2615AE8368E2AE1CC74B91F5CB"
+				"download" "E4D3C3DCF46A053FD1CCD17FFF7A0B65"
+			}
+			"early_loc"
+			{
+				"gid" "82C6E8111E918979BCD3F7C18A777B53"
+				"size" "BBA8377C50E04386EADAEDA37410D575"
+				"download" "F605D9C669C51F692D05E91DF72A42BC"
+			}
+			"public_pre_mergedown"
+			{
+				"gid" "E3A10FD292A9B58735B195ABB50CB082"
+				"size" "2E98DE765B6AA61DC5C253D1402996C7"
+				"download" "7F3B1F6A94BB430EF2A4431494B96F20"
+			}
+			"troubleshooting"
+			{
+				"gid" "0A57649C30CAAFC42C9E636B9EFA7611"
+				"size" "4526502D09701F5AB586939D9B2472A1"
+				"download" "4C71DCF5A34EB518F82C98DE7EF288A3"
+			}
+			"unity2020_support"
+			{
+				"gid" "72024C9A3934C1C5FA5132F326F832A9"
+				"size" "89E0F338BF328D3B26695417C73CB104"
+				"download" "46EBA87C83A1C06C2F17ACF77C25E461"
+			}
+		}
+	}
+	"2952301"
+	{
+		"dlcappid" "2952300"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "98A8A1ADCC2CEA0E2B1561C6807F3C32"
+				"size" "A4467CE595C9689BEB85CA473F2848BC"
+				"download" "6605C9D1423742BD691E6738D2318EFD"
+			}
+			"demo"
+			{
+				"gid" "F97E780522C2A0DC45C6746D87E05FD9"
+				"size" "0BC6BC1C6E9EC6EAB939BFDA8136CB5D"
+				"download" "6362DDB619C19D319A1E778CC66BA9C6"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "68359B3BBF4F7D59F4C3A19433A6A629"
+				"size" "5E672A94A1794E70C04E5524EC3E1674"
+				"download" "48EE0CA564842B155451C0DA88D533D6"
+			}
+			"early_loc"
+			{
+				"gid" "B02AC588C4B52865984D3A9D7BF54E69"
+				"size" "6B56FBEE4535AF40F9F2901DF44342C1"
+				"download" "EF23683FF0AAF1C2ECD61C1F9FCDE49B"
+			}
+		}
+	}
+	"2952302"
+	{
+		"dlcappid" "2952300"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "DD086FB22CCDE71E7AB6924C5347F671"
+				"size" "D359DEC7231CA14FB2E91A3DF9CD1475"
+				"download" "9F59016FE0D59EFC889895AC31E881DE"
+			}
+			"demo"
+			{
+				"gid" "E0CF551E62236AF1F5B3560C2B44C1C3"
+				"size" "FF4C71BF622C47435A4BEA8F3A310BBF"
+				"download" "FF78F9B3E70AF3F064958867F58336C6"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "F13145942DBE36D96AB0B9AEFC1DCF61"
+				"size" "5E672A94A1794E70C04E5524EC3E1674"
+				"download" "23E386F9191061A233A5C110A56E57CB"
+			}
+			"early_loc"
+			{
+				"gid" "D43FB8CBB3325462C4D6D90BE70BE7B7"
+				"size" "B9B23E36DEB9E330D1478D9DFD24925F"
+				"download" "4720D5D8569DCCE23A787FEEFE555565"
+			}
+		}
+	}
+	"2952303"
+	{
+		"dlcappid" "2952300"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "8C303927F49C71BFEB6F3E38314797BF"
+				"size" "F306D1686918D8981BD79AB3D7E98B1B"
+				"download" "E1AB32222CB13B4BA6DDE38CA1EB17FA"
+			}
+			"demo"
+			{
+				"gid" "7D3B0A9BC0EC8F8F6FAF9E4091A3C42A"
+				"size" "A65B85CEFAC567E0045B980DDCF27798"
+				"download" "42693B6E8B68B1809E072DA200163C77"
+			}
+			"rhymeswithplay"
+			{
+				"gid" "2835576EC4EA02EC34D86BBFFC3D9E4D"
+				"size" "5E672A94A1794E70C04E5524EC3E1674"
+				"download" "4EC20E4E6F6027E19F39D6D96D41900E"
+			}
+			"early_loc"
+			{
+				"gid" "CAE84C28DEC5545529613A4D68EEE092"
+				"size" "6492310B84F29925787793DE520760B4"
+				"download" "14F60730987C9954CE5B3121FB576A29"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13861223"
+			"timeupdated" "1711487742"
+		}
+		"development"
+		{
+			"buildid" "14788183"
+			"pwdrequired" "1"
+			"timeupdated" "1718929891"
+		}
+		"demo"
+		{
+			"buildid" "14788080"
+			"pwdrequired" "1"
+			"timeupdated" "1718928889"
+		}
+		"public_testing"
+		{
+			"buildid" "13861223"
+			"description" "No testing (same as none)"
+			"timeupdated" "1711487700"
+		}
+		"preview"
+		{
+			"buildid" "13580099"
+			"pwdrequired" "1"
+			"timeupdated" "1709064503"
+		}
+		"release"
+		{
+			"buildid" "13861223"
+			"pwdrequired" "1"
+			"timeupdated" "1711479891"
+		}
+		"rhymeswithplay"
+		{
+			"buildid" "14617348"
+			"pwdrequired" "1"
+			"timeupdated" "1717617589"
+		}
+		"staging"
+		{
+			"buildid" "10842597"
+			"pwdrequired" "1"
+			"timeupdated" "1679608587"
+		}
+		"31_the_big_merge_update"
+		{
+			"buildid" "6942369"
+			"pwdrequired" "1"
+			"timeupdated" "1626214430"
+		}
+		"32_a_breath_of_freash_air_update"
+		{
+			"buildid" "7073980"
+			"pwdrequired" "1"
+			"timeupdated" "1627698050"
+		}
+		"47_june_2023_qol_update"
+		{
+			"buildid" "11573158"
+			"pwdrequired" "1"
+			"timeupdated" "1689182165"
+		}
+		"48_song_of_the_moo"
+		{
+			"buildid" "11871130"
+			"pwdrequired" "1"
+			"timeupdated" "1695336375"
+		}
+		"49_october_qol_update"
+		{
+			"buildid" "12454989"
+			"pwdrequired" "1"
+			"timeupdated" "1701300353"
+		}
+		"50_packed_snacks_update"
+		{
+			"buildid" "13005770"
+			"pwdrequired" "1"
+			"timeupdated" "1707767824"
+		}
+		"51_february_2024_qol_udpate"
+		{
+			"buildid" "13861223"
+			"pwdrequired" "1"
+			"timeupdated" "1718908740"
+		}
+		"development_alt"
+		{
+			"buildid" "9109316"
+			"pwdrequired" "1"
+			"timeupdated" "1657739224"
+		}
+		"development_alt2"
+		{
+			"buildid" "14786960"
+			"pwdrequired" "1"
+			"timeupdated" "1718920421"
+		}
+		"early_loc"
+		{
+			"buildid" "14708582"
+			"pwdrequired" "1"
+			"timeupdated" "1718299608"
+		}
+		"public_previous_update"
+		{
+			"buildid" "13005770"
+			"description" "U50-587362 Packed Snacks Update (December 19, 2023)"
+			"timeupdated" "1709228897"
+		}
+		"public_pre_mergedown"
+		{
+			"buildid" "6942369"
+			"pwdrequired" "1"
+			"timeupdated" "1653508192"
+		}
+		"troubleshooting"
+		{
+			"buildid" "8826128"
+			"pwdrequired" "1"
+			"timeupdated" "1653703661"
+		}
+		"unity2020_support"
+		{
+			"buildid" "6815600"
+			"pwdrequired" "1"
+			"timeupdated" "1625789568"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Klei/OxygenNotIncluded/cloud_save_files/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Klei/OxygenNotIncluded/cloud_save_files/{64BitSteamID}"
+					"replace" "unity.Klei.Oxygen Not Included/cloud_save_files/{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Klei/OxygenNotIncluded/cloud_save_files/{64BitSteamID}"
+					"replace" ".config/unity3d/Klei/Oxygen Not Included/cloud_save_files/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24058581"
+"_sha" "da4c31b558180e9004df5c549ca755160c43bf0a"
+"_size" "36183"
