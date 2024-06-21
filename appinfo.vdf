@@ -1,0 +1,180 @@
+"appid" "1927110"
+"common"
+{
+	"name" "东方夜雀食堂DLC2扩展包 - 旧地狱街道&地灵殿"
+	"type" "DLC"
+	"parent" "1584090"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"icon" "b6428a6edfd659068f9d1298a6589927017e0b16"
+	"name_localized"
+	{
+		"schinese" "东方夜雀食堂DLC2扩展包 - 旧地狱街道&地灵殿"
+		"tchinese" "東方夜雀食堂DLC2擴展包 - 舊地獄街道&地靈殿"
+		"english" "Touhou Mystia\'s Izakaya DLC2 Pack - Former Hell & Chireiden"
+		"japanese" "東方夜雀食堂DLC2 PACK - 旧地獄 & 地霊殿"
+		"koreana" "동방야작식당DLC2 - 옛 지옥 & 지령전"
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1691101791"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "二色幽紫蝶"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "二色幽紫蝶"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1652532722"
+	"gameid" "1927110"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "492"
+		"2" "597"
+		"3" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"dlcforappid" "1584090"
+	"mustownapptopurchase" "1584090"
+	"developer" "二色幽紫蝶"
+	"publisher" "二色幽紫蝶"
+	"homepage" "https://tmi.uzkk.net"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"1927111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7460351196907174173"
+				"size" "160501674"
+				"download" "150794560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "0D22574B31194FA3A4E08FD389E01118"
+				"size" "A28D80646700E56E686B383D12F8DD6B"
+				"download" "342E10D40AF47595323E848FD691ED22"
+			}
+		}
+		"dlcappid" "1927110"
+	}
+	"1927112"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7919352416139123696"
+				"size" "160513319"
+				"download" "150859008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "5B8F73CDA2AA4ACEF3D4C3D080DB92A7"
+				"size" "336CD1900767AA00174DF788024F4DAD"
+				"download" "F802098C4D34B8C44E53B962C515B302"
+			}
+		}
+		"dlcappid" "1927110"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14492070"
+			"timeupdated" "1716628399"
+		}
+		"internal"
+		{
+			"buildid" "14492070"
+			"pwdrequired" "1"
+			"timeupdated" "1716628032"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23689482"
+"_sha" "ecc82d56967584e33ad8d66ab201c281d44a4341"
+"_size" "3152"
