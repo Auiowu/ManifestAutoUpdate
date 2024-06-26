@@ -1,0 +1,111 @@
+"appid" "563"
+"common"
+{
+	"name" "Left 4 Dead 2 Authoring Tools"
+	"logo" "205863cc21e751a576d6fff851984b3170684142"
+	"logo_small" "205863cc21e751a576d6fff851984b3170684142_thumb"
+	"icon" "7d5a243f9500d2f8467312822f8af2a2928777ed"
+	"clienticon" "a0f5a65456333209f2d13e1480168d0f9b292e45"
+	"clienttga" "efcc6f5a8ba4ec2d60b7722a0b824621dfc3f3e8"
+	"type" "Tool"
+	"gameid" "563"
+}
+"extended"
+{
+	"developer" "Valve"
+	"disableoverlay" "1"
+	"gamedir" "valve"
+	"homepage" "http://developer.valvesoftware.com"
+	"icon" ""
+	"noservers" "1"
+	"order" "20"
+	"primarycache" "563"
+	"state" "eStateTool"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "left 4 dead 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "bin\\sdklauncher.exe"
+			"workingdir" "bin"
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"551"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "550"
+		"sharedinstall" "2"
+	}
+	"552"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "550"
+		"sharedinstall" "2"
+	}
+	"563"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "526623704254730155"
+				"size" "897344271"
+				"download" "656053552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"hotfix"
+			{
+				"gid" "592B32220D33375234C77ACA8B8A3ECC"
+				"size" "F647487674A111CEFF0090A42220B5D8"
+				"download" "434DAB7D1F91E08234149DDEE6A57A11"
+			}
+			"beta"
+			{
+				"gid" "C84923A596BF9A587AAEDF47C15A2AED"
+				"size" "C178C8E2BB85944C0E9AF1B34692AAA8"
+				"download" "4DE08D0C63FA9988379317BF91F15398"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14602762"
+			"timeupdated" "1717539376"
+		}
+		"hotfix"
+		{
+			"buildid" "5284180"
+			"pwdrequired" "1"
+			"timeupdated" "1594670072"
+		}
+		"beta"
+		{
+			"buildid" "14602762"
+			"pwdrequired" "1"
+			"timeupdated" "1717529814"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2147483647"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "23828898"
+"_sha" "7b0eae41ea7b98338e7361884d8c8bebb6e3f2ad"
+"_size" "1973"
