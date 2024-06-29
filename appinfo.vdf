@@ -1,0 +1,335 @@
+"appid" "896660"
+"common"
+{
+	"name" "Valheim Dedicated Server"
+	"type" "Tool"
+	"parent" "892970"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"icon" "1aab0586723c8578c7990ced7d443568649d0df2"
+	"logo" "233d73a1c963515ee4a9b59507bc093d85a4e2dc"
+	"logo_small" "233d73a1c963515ee4a9b59507bc093d85a4e2dc_thumb"
+	"clienticon" "c55a6b50b170ac6ed56cf90521273c30dccb5f12"
+	"clienttga" "35e067b9efc8d03a9f1cdfb087fac4b970a48daf"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "896660"
+}
+"config"
+{
+	"installdir" "Valheim dedicated server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_server_xterm.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"1"
+		{
+			"executable" "start_headless_server.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"896661"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7668775271116952209"
+				"size" "2272627456"
+				"download" "1210319440"
+			}
+			"default_preml"
+			{
+				"gid" "8268016382865288156"
+				"size" "1244390550"
+				"download" "635138656"
+			}
+			"default_old"
+			{
+				"gid" "3427869460738658349"
+				"size" "2272627456"
+				"download" "1208930752"
+			}
+			"default_preal"
+			{
+				"gid" "8203628659808204648"
+				"size" "1809855230"
+				"download" "927109888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "CD36F1C3D756914926E543EB64B84C87"
+				"size" "767CC2F6C7976AD7B36284E14DBBDC9A"
+				"download" "5B5DD70BC780FF4FF7D0987E62F7B1E6"
+			}
+			"experimental"
+			{
+				"gid" "BF91B29C731446D2ECD0435D792CE9AF"
+				"size" "C3A7E64F8E5074A15834AE919A6FF7AE"
+				"download" "4B6D8BD81B36E410AD1794E074A25A97"
+			}
+			"internal-test"
+			{
+				"gid" "BCEC205D2A4AFA33DB07475CD3F048CF"
+				"size" "7B790F34502E1022FF2707DB0D7E6468"
+				"download" "D4AF5C66FD1ECF671B8856357EE5AC35"
+			}
+			"public-test"
+			{
+				"gid" "89965BE9F0A5CB5B5669613961157ACA"
+				"size" "F27E6C20B1B21CB5A7C12599E9686A30"
+				"download" "D456D48CD76CD19ABBDDFA426D95CD18"
+			}
+			"unstable"
+			{
+				"gid" "71717B1A8DD863392178391D80D3A26B"
+				"size" "476349C055839B58F5405B5043C9C5D4"
+				"download" "0392966450B8ABB8CD539FAB853B9482"
+			}
+		}
+	}
+	"896662"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6561033608576718650"
+				"size" "2190567038"
+				"download" "1193438560"
+			}
+			"default_preml"
+			{
+				"gid" "8025727395264739055"
+				"size" "1129626358"
+				"download" "618615808"
+			}
+			"default_old"
+			{
+				"gid" "5185809274822304868"
+				"size" "2190566878"
+				"download" "1193442032"
+			}
+			"default_preal"
+			{
+				"gid" "416667775235426463"
+				"size" "1728346932"
+				"download" "911692128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"press"
+			{
+				"gid" "972C277976CB1C718883E06E43CEF316"
+				"size" "E91AD56F61C53A717B594AF2B77116E2"
+				"download" "60EC2A2F51CF9B3C78FF0F37225DF98D"
+			}
+			"experimental"
+			{
+				"gid" "91AC5D90C29F99C6B6A759D862966064"
+				"size" "5D62EE22988CBA8F61E91DAFE8617791"
+				"download" "6A2EA3FA613EFF574C626E03456F6C8B"
+			}
+			"internal-test"
+			{
+				"gid" "07903FFFECE5446F69A05570DE7A1E66"
+				"size" "66BA0FDC72A29FA125F00E17B1A02436"
+				"download" "874EB17203B579E056CBE5D1AC722C6E"
+			}
+			"public-test"
+			{
+				"gid" "2DF2A3B62DB6B9D6A4ABB9D3A1BD29BD"
+				"size" "0DA486DE46CEDD3D9A66E3CECA7A9ABC"
+				"download" "C953F1BCCC6900244AC1D6DBEE300838"
+			}
+			"unstable"
+			{
+				"gid" "6A42FE1949D4B4E677525533FC9D8A44"
+				"size" "7B25CBC2D79F20A4A94597005BC78EF8"
+				"download" "62FFCD228CC7E174B438D1D7576A20BC"
+			}
+		}
+	}
+	"896663"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7552164767442332796"
+				"size" "2245997295"
+				"download" "1195886624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "28B91F6C095B2A70FE467818B7C1E31E"
+				"size" "C61668FB5EEFBB56D42E39C362B63F31"
+				"download" "F40D143FD2F4CE626DDFC3CD929D3825"
+			}
+			"internal-test"
+			{
+				"gid" "C6595892C4ED5F7630DCEA213B652C46"
+				"size" "27A251C132AC49B8639F79A0FE8ADE40"
+				"download" "C242AAEA35BCAB389382930F774B94A5"
+			}
+			"public-test"
+			{
+				"gid" "FA53C39F8638D216BDB4C8898AC4ECD2"
+				"size" "886B20BA07859E9BBB0F97E9A823C9AB"
+				"download" "0E401BA7F793100BB2C0FC753B2E1277"
+			}
+			"unstable"
+			{
+				"gid" "259BB1D17316C846A352868126A2A1B0"
+				"size" "297F6C221CE1E72EB3AB04FDE263E48A"
+				"download" "EBE5CC1A19E0F6DD2165CB423C52EC62"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14674300"
+			"timeupdated" "1718095455"
+		}
+		"default_preml"
+		{
+			"buildid" "9792153"
+			"description" "Last stable build before Mistlands"
+			"timeupdated" "1671524488"
+		}
+		"press"
+		{
+			"buildid" "13751263"
+			"pwdrequired" "1"
+			"timeupdated" "1710505507"
+		}
+		"default_old"
+		{
+			"buildid" "14399912"
+			"description" "Previous stable"
+			"timeupdated" "1718006639"
+		}
+		"default_preal"
+		{
+			"buildid" "13920847"
+			"description" "Last stable build before Ashlands"
+			"timeupdated" "1715683928"
+		}
+		"experimental"
+		{
+			"buildid" "14674300"
+			"pwdrequired" "1"
+			"timeupdated" "1718091885"
+		}
+		"internal-test"
+		{
+			"buildid" "14767419"
+			"pwdrequired" "1"
+			"timeupdated" "1718797074"
+		}
+		"public-test"
+		{
+			"buildid" "14676075"
+			"pwdrequired" "1"
+			"timeupdated" "1718697781"
+		}
+		"unstable"
+		{
+			"buildid" "14842237"
+			"pwdrequired" "1"
+			"timeupdated" "1719392119"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24123161"
+"_sha" "4ef34f89426dedd73bd1d29cedfb11b4ae69bce2"
+"_size" "6487"
