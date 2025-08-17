@@ -1,0 +1,361 @@
+"appid" "3430450"
+"common"
+{
+	"name" "Zombie Graveyard Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "d8bae0556a5556e72a659c8cdf2626f7bbd8446a"
+	"clienticon" "da87a6b012c40599285f0651d6c185af97dbf1f3"
+	"clienttga" "5e11ae0b683732ea82c2482c1ccbc808c99b8e4a"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1752019200"
+		"tested_build_id" "18759391"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-4RC"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "597a4f7326fad2d32f0cd3786c00798ec5adeb5b/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "4b1ceae30f892b0ac84c8f1cd13cfb19eb2fa119/header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "26.140776402800242"
+			"height_pct" "76.64722354151826"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8f5622ab3f0e33d5cdb38fea475dedffc38808bd/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "8f5622ab3f0e33d5cdb38fea475dedffc38808bd/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "0428e64e42db702b57af00f07fbe0c71c1f82af2/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "0428e64e42db702b57af00f07fbe0c71c1f82af2/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "0428e64e42db702b57af00f07fbe0c71c1f82af2/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "26.140776402800242"
+				"height_pct" "76.64722354151826"
+			}
+			"image"
+			{
+				"english" "1f4c4cdf226ad17790b1c63729569c9983ef2926/logo.png"
+			}
+			"image2x"
+			{
+				"english" "1f4c4cdf226ad17790b1c63729569c9983ef2926/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "4b1ceae30f892b0ac84c8f1cd13cfb19eb2fa119/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "4b1ceae30f892b0ac84c8f1cd13cfb19eb2fa119/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1753381759"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "threeW"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1749128043"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3430450"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "1643"
+		"2" "1659"
+		"3" "10235"
+		"4" "12472"
+		"5" "1662"
+		"6" "1663"
+		"7" "1702"
+		"8" "22602"
+		"9" "19"
+		"10" "7332"
+		"11" "1774"
+		"12" "3839"
+		"13" "87918"
+		"14" "3959"
+		"15" "4166"
+		"16" "4520"
+		"17" "8945"
+		"18" "42804"
+		"19" "3810"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "threeW"
+	"publisher" "PlayWay S.A."
+}
+"config"
+{
+	"installdir" "Zombie Graveyard Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Zombie Graveyard Simulator.exe"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"3430451"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4941377145790185775"
+				"size" "6602994937"
+				"download" "1703862880"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "19534797"
+			"timeupdated" "1754693700"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "6"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "threeW\\Zombie Graveyard Simulator\\"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "30535601"
+"_sha" "569e3a35e94927821ab5243a71b0431f95cb1574"
+"_size" "6304"
