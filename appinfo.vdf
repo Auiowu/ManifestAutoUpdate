@@ -1,0 +1,661 @@
+"appid" "1222680"
+"common"
+{
+	"name" "Need for Speed™ Heat "
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "5d9b84f18b08057024241e0f4c72208ac71abe7b"
+	"clienttga" "2374b73759f460a94d42e112af15b765eaf2e1fb"
+	"icon" "98a96955403db8eeed026bc5ff04e51e3329f1b0"
+	"logo" "f75ca339400ec98f9cc09d8e1aa616945ded1fd7"
+	"logo_small" "f75ca339400ec98f9cc09d8e1aa616945ded1fd7_thumb"
+	"name_localized"
+	{
+		"french" "Need for Speed™ Heat"
+		"polish" "Need for Speed™ Heat"
+		"portuguese" "Need for Speed™ Heat"
+		"russian" "Need for Speed™ Heat"
+		"brazilian" "Need for Speed™ Heat"
+		"tchinese" "《極速快感™：熱焰》"
+		"koreana" "Need for Speed™ Heat"
+		"schinese" "《Need for Speed™ Heat"
+		"latam" "Need for Speed™ Heat"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1222680_eula_0"
+			"name" "Need for Speed™ Heat  EULA"
+			"url" "https://store.steampowered.com//eula/1222680_eula_0"
+			"version" "1"
+		}
+	}
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"steamos_compatibility" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "9896005"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"steamos_tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamOS_TestResult_GameStartupFunctional"
+			}
+			"1"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_LauncherInteractionIssues"
+			}
+			"2"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamOS_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"requires_voice_files" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Need for Speed Heat"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "85.63294875854243"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "85.63294875854243"
+			}
+		}
+	}
+	"store_asset_mtime" "1690398264"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Ghost Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Need for Speed"
+		}
+	}
+	"primary_genre" "9"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "9"
+		"3" "18"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_42" "1"
+		"category_27" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_61" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"original_release_date" "1573200000"
+	"steam_release_date" "1591282740"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/need-for-speed-heat\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1222680"
+	"store_tags"
+	{
+		"0" "699"
+		"1" "1695"
+		"2" "3859"
+		"3" "1644"
+		"4" "19"
+		"5" "4182"
+		"6" "1685"
+		"7" "21"
+		"8" "4102"
+		"9" "4166"
+		"10" "3843"
+		"11" "1697"
+		"12" "1773"
+		"13" "7481"
+		"14" "701"
+		"15" "1775"
+		"16" "3839"
+		"17" "4747"
+		"18" "5363"
+		"19" "10816"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"developer" "Ghost Games"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/need-for-speed"
+	"aliases" "NFS"
+	"listofdlc" "1251050,1281880,1281881,1290400,1290401,1290402"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Need for Speed Heat"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1222680\?platform=steam&theme=nfsh"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2257820418"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1222681"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4929521867669947405"
+				"size" "36748822704"
+				"download" "33495508928"
+			}
+		}
+	}
+	"1222682"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4677077573126563900"
+				"size" "201791"
+				"download" "93280"
+			}
+		}
+	}
+	"1222683"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4366693261551491466"
+				"size" "274205"
+				"download" "32864"
+			}
+		}
+	}
+	"1222684"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3264608771884247608"
+				"size" "170707"
+				"download" "71088"
+			}
+		}
+	}
+	"1222685"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "137827128056067669"
+				"size" "186359"
+				"download" "72480"
+			}
+		}
+	}
+	"1222686"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4139935978556642585"
+				"size" "178532"
+				"download" "72000"
+			}
+		}
+	}
+	"1222687"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7498522625082584980"
+				"size" "174250"
+				"download" "71184"
+			}
+		}
+	}
+	"1222688"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1279642730456692929"
+				"size" "257000"
+				"download" "75344"
+			}
+		}
+	}
+	"1222689"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5547551303099253415"
+				"size" "392069"
+				"download" "32592"
+			}
+		}
+	}
+	"1239381"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2014000203717803678"
+				"size" "177582"
+				"download" "73072"
+			}
+		}
+	}
+	"1239382"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3142845027285203463"
+				"size" "113884"
+				"download" "28224"
+			}
+		}
+	}
+	"1239383"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4525595491971643433"
+				"size" "243031"
+				"download" "75312"
+			}
+		}
+	}
+	"1239384"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1259673667407970256"
+				"size" "178325"
+				"download" "31648"
+			}
+		}
+	}
+	"1239385"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5278051178232028739"
+				"size" "167226"
+				"download" "30576"
+			}
+		}
+	}
+	"3340991"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4079816251012753833"
+				"size" "235656703"
+				"download" "235144896"
+			}
+		}
+		"depotfromapp" "3340990"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10351341"
+			"timeupdated" "1674821022"
+		}
+	}
+	"privatebranches" "1"
+}
+"_missing_token" "False"
+"_change_number" "30905105"
+"_sha" "ca350350ad4f088ee2d315dcff945695c4333abb"
+"_size" "11131"
