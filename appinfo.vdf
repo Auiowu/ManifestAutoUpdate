@@ -1,0 +1,66 @@
+"appid" "1674390"
+"common"
+{
+	"name" "Craftopia DevKit"
+	"type" "Tool"
+	"parent" "1307550"
+	"logo" "286820a18f6f348343a3767cf79dda5544325180"
+	"logo_small" "286820a18f6f348343a3767cf79dda5544325180_thumb"
+	"icon" "51d2ce598e11bb589644d746f674f73e53a22eab"
+	"clienticon" "b6eabc569cbd4aef7355abca16037d5c20b0f755"
+	"clienttga" "0a13b8ab342e36699b198f01b24fbadd8e43ea70"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1674390"
+}
+"config"
+{
+	"installdir" "Craftopia DevKit"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "installURL.bat"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1674391"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4393953740702637133"
+				"size" "69"
+				"download" "128"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "20946616"
+			"timeupdated" "1764144992"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "32457716"
+"_sha" "5600888ece5f416c63f864c9a9bb98a1ab01b9fa"
+"_size" "1024"
