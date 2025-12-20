@@ -1,0 +1,75 @@
+"appid" "4212470"
+"common"
+{
+	"name" "Palworld Mod Uploader"
+	"type" "Tool"
+	"parent" "1623730"
+	"icon" "f1c85825b3208f7b5860a8413c3f2579beff0b39"
+	"clienticon" "f1c85825b3208f7b5860a8413c3f2579beff0b39"
+	"oslist" ""
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"gameid" "4212470"
+}
+"config"
+{
+	"installdir" "PalworldModUploader"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PalworldModUploader.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"4212471"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5762590504654017865"
+				"size" "163137616"
+				"download" "63815472"
+			}
+		}
+	}
+	"workshopdepot" "4212470"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "21251948"
+			"timeupdated" "1766116573"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"appidredirect" "1623730"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Pal/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"copied_from_parent" "1"
+	}
+}
+"_missing_token" "False"
+"_change_number" "32883757"
+"_sha" "cf66b2bb2217d3e24549dda613c8bdfabd4c2dec"
+"_size" "1121"
