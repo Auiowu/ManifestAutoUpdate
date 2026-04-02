@@ -1,5 +1,3 @@
-import git
-import json
 import time
 import logging
 import argparse
@@ -150,7 +148,7 @@ def get_app_info(repo):
         app.dump()
 
 
-def export_xlsx(save_path='.'):
+def export_xlsx(save_path='.'): 
     save_path = Path(save_path).absolute()
     appuserlist = MyJson(save_path / 'appuserlist.json')
     workbook = Workbook()
