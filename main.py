@@ -10,606 +10,855 @@ import argparse
 import platform
 import requests
 import functools
-import threading
 import traceback
 import subprocess
 from pathlib import Path
+from threading import Lock
+from typing import Optional, Dict, List, Any
 from steam.enums import EResult
 from push import push, push_data
 from multiprocessing.pool import ThreadPool
-from multiprocessing.dummy import Pool, Lock
+from multiprocessing.dummy import Pool
 from steam.guard import generate_twofactor_code
 from DepotManifestGen.main import MySteamClient, MyCDNClient, get_manifest, BillingType, Result
 
-lock = Lock()
-#改大100倍修复添加多账号导致堆栈溢出
-sys.setrecursionlimit(10000000)
-parser = argparse.ArgumentParser()
-parser.add_argument('-c', '--credential-location', default=None)
-parser.add_argument('-l', '--level', default='INFO')
-parser.add_argument('-p', '--pool-num', type=int, default=8)
-parser.add_argument('-r', '--retry-num', type=int, default=3)
-parser.add_argument('-t', '--update-wait-time', type=int, default=86400)
-parser.add_argument('-k', '--key', default=None)
-parser.add_argument('-i', '--init-only', action='store_true', default=False)
-parser.add_argument('-C', '--cli', action='store_true', default=False)
-parser.add_argument('-P', '--no-push', action='store_true', default=False)
-parser.add_argument('-u', '--update', action='store_true', default=False)
-parser.add_argument('-a', '--app-id', dest='app_id_list', action='extend', nargs='*')
-parser.add_argument('-U', '--users', dest='user_list', action='extend', nargs='*')
+# Global thread-safe lock
+_global_lock = Lock()
+
+# Increase recursion limit with reasonable bounds (not 10 million)
+sys.setrecursionlimit(100000)
+
+# Command-line argument parser
+parser = argparse.ArgumentParser(description='Steam Manifest Auto Update Tool')
+parser.add_argument('-c', '--credential-location', default=None, help='Credential location path')
+parser.add_argument('-l', '--level', default='INFO', choices=['DEBUG', 'INFO', 'WARNING', 'ERROR'], help='Logging level')
+parser.add_argument('-p', '--pool-num', type=int, default=8, help='Number of thread pool workers')
+parser.add_argument('-r', '--retry-num', type=int, default=3, help='Number of retry attempts')
+parser.add_argument('-t', '--update-wait-time', type=int, default=86400, help='Wait time between updates in seconds')
+parser.add_argument('-k', '--key', default=None, help='Encryption key')
+parser.add_argument('-i', '--init-only', action='store_true', default=False, help='Only initialize, do not run updates')
+parser.add_argument('-C', '--cli', action='store_true', default=False, help='Use CLI for interactive login')
+parser.add_argument('-P', '--no-push', action='store_true', default=False, help='Skip git push operations')
+parser.add_argument('-u', '--update', action='store_true', default=False, help='Check for updates')
+parser.add_argument('-a', '--app-id', dest='app_id_list', action='extend', nargs='*', help='Specific app IDs to update')
+parser.add_argument('-U', '--users', dest='user_list', action='extend', nargs='*', help='Specific users to update')
 
 
 class MyJson(dict):
-
-    def __init__(self, path):
+    """JSON file wrapper for persistent storage with auto-loading/dumping."""
+    
+    def __init__(self, path: Path):
         super().__init__()
         self.path = Path(path)
         self.load()
-
-    def load(self):
+    
+    def load(self) -> None:
+        """Load JSON from file or create if not exists."""
         if not self.path.exists():
             self.dump()
             return
-        with self.path.open() as f:
-            self.update(json.load(f))
+        try:
+            with self.path.open('r', encoding='utf-8') as f:
+                self.update(json.load(f))
+        except (json.JSONDecodeError, IOError) as e:
+            logging.warning(f"Failed to load JSON from {self.path}: {e}")
+            self.dump()
+    
+    def dump(self) -> None:
+        """Save JSON to file."""
+        try:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            with self.path.open('w', encoding='utf-8') as f:
+                json.dump(dict(self), f, indent=2)
+        except IOError as e:
+            logging.error(f"Failed to dump JSON to {self.path}: {e}")
 
-    def dump(self):
-        with self.path.open('w') as f:
-            json.dump(self, f)
 
-
-class LogExceptions:
-    def __init__(self, fun):
-        self.__callable = fun
-        return
-
+class SafeExceptionHandler:
+    """Decorator for safe exception handling in async tasks."""
+    
+    def __init__(self, func):
+        self.func = func
+        functools.update_wrapper(self, func)
+    
     def __call__(self, *args, **kwargs):
         try:
-            return self.__callable(*args, **kwargs)
+            return self.func(*args, **kwargs)
         except KeyboardInterrupt:
             raise
-        except:
-            logging.error(traceback.format_exc())
+        except Exception as e:
+            logging.error(f"Error in {self.func.__name__}: {traceback.format_exc()}")
+            return None
 
 
 class ManifestAutoUpdate:
+    """Main class for automated Steam manifest updates."""
+    
     log = logging.getLogger('ManifestAutoUpdate')
     ROOT = Path('data').absolute()
-    users_path = ROOT / Path('users.json')
-    app_info_path = ROOT / Path('appinfo.json')
-    user_info_path = ROOT / Path('userinfo.json')
-    two_factor_path = ROOT / Path('2fa.json')
-    appuserlist_path = ROOT / Path('appuserlist.json')
-    Avalidaccount_path = ROOT / Path('Avalidaccount.json')
+    
+    # File paths
+    users_path = ROOT / 'users.json'
+    app_info_path = ROOT / 'appinfo.json'
+    user_info_path = ROOT / 'userinfo.json'
+    two_factor_path = ROOT / '2fa.json'
+    appuserlist_path = ROOT / 'appuserlist.json'
     key_path = ROOT / 'KEY'
     git_crypt_path = ROOT / ('git-crypt' + ('.exe' if platform.system().lower() == 'windows' else ''))
-    repo = git.Repo()
-    app_lock = {}
-    pool_num = 8
-    retry_num = 3
-    remote_head = {}
-    update_wait_time = 86400
-    tags = set()
-
-    def __init__(self, credential_location=None, level=None, pool_num=None, retry_num=None, update_wait_time=None,
-                 key=None, init_only=False, cli=False, app_id_list=None, user_list=None):
-        if level:
-            level = logging.getLevelName(level.upper())
-        else:
-            level = logging.INFO
-        logging.basicConfig(format='%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s',
-                            level=level)
+    
+    def __init__(
+        self,
+        credential_location: Optional[str] = None,
+        level: Optional[str] = None,
+        pool_num: Optional[int] = None,
+        retry_num: Optional[int] = None,
+        update_wait_time: Optional[int] = None,
+        key: Optional[str] = None,
+        init_only: bool = False,
+        cli: bool = False,
+        app_id_list: Optional[List[str]] = None,
+        user_list: Optional[List[str]] = None,
+    ):
+        """Initialize the manifest auto-update system."""
+        # Setup logging
+        log_level = logging.getLevelName((level or 'INFO').upper())
+        logging.basicConfig(
+            format='%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s',
+            level=log_level
+        )
         logging.getLogger('MySteamClient').setLevel(logging.WARNING)
+        
+        # Initialize attributes
         self.init_only = init_only
         self.cli = cli
         self.users = 0
-        self.ret = 0   
-        self.pool_num = pool_num or self.pool_num
-        self.retry_num = retry_num or self.retry_num
-        self.update_wait_time = update_wait_time or self.update_wait_time
+        self.invalid_password_count = 0
+        self.pool_num = pool_num or 8
+        self.retry_num = retry_num or 3
+        self.update_wait_time = update_wait_time or 86400
         self.credential_location = Path(credential_location or self.ROOT / 'client')
-        self.log.debug(f'credential_location: {credential_location}')
         self.key = key
         self.app_sha = None
-        if not self.check_app_repo_local('app'):
-            if self.check_app_repo_remote('app'):
-                self.log.info('Pulling remote app branch!')
-                self.repo.git.fetch('origin', 'app:app')
-            else:
-                try:
-                    self.log.info('Getting the full branch!')
-                    self.repo.git.fetch('--unshallow')
-                except git.exc.GitCommandError as e:
-                    self.log.debug(f'Getting the full branch failed: {e}')
-                self.app_sha = self.repo.git.rev_list('--max-parents=0', 'HEAD').strip()
-                self.log.debug(f'app_sha: {self.app_sha}')
-                self.repo.git.branch('app', self.app_sha)
-        if not self.app_sha:
-            self.app_sha = self.repo.git.rev_list('--max-parents=0', 'app').strip()
-            self.log.debug(f'app_sha: {self.app_sha}')
-        if not self.check_app_repo_local('data'):
-            if self.check_app_repo_remote('data'):
-                self.log.info('Pulling remote data branch!')
-                self.repo.git.fetch('origin', 'data:origin_data')
-                self.repo.git.worktree('add', '-b', 'data', 'data', 'origin_data')
-            else:
-                self.repo.git.worktree('add', '-b', 'data', 'data', 'app')
-        data_repo = git.Repo('data')
-        if data_repo.head.commit.hexsha == self.app_sha:
-            self.log.info('Initialize the data branch!')
-            self.download_git_crypt()
-            self.log.info('Key being generated!')
-            subprocess.run([self.git_crypt_path, 'init'], cwd='data')
-            subprocess.run([self.git_crypt_path, 'export-key', self.key_path], cwd='data')
-            self.log.info(f'Your key path: {self.key_path}')
-            with self.key_path.open('rb') as f:
-                self.key = f.read().hex()
-            self.log.info(f'Your key hex: {self.key}')
-            self.log.info(
-                f'Please save this key to Repository secrets\nIt\'s located in Project -> Settings -> Secrets -> Actions -> Repository secrets')
-            with (self.ROOT / '.gitattributes').open('w') as f:
-                f.write('\n'.join(
-                    [i + ' filter=git-crypt diff=git-crypt' for i in ['users.json', 'client/*.key', '2fa.json']]))
-            data_repo.git.add('.gitattributes')
-        if self.key and self.users_path.exists() and self.users_path.stat().st_size > 0:
-            with Path(self.ROOT / 'users.json').open('rb') as f:
-                content = f.read(10)
-            if content == b'\x00GITCRYPT\x00':
-                self.download_git_crypt()
-                with self.key_path.open('wb') as f:
-                    f.write(bytes.fromhex(self.key))
-                subprocess.run([self.git_crypt_path, 'unlock', self.key_path], cwd='data')
-                self.log.info('git crypt unlock successfully!')
-        if not self.credential_location.exists():
-            self.credential_location.mkdir(exist_ok=True)
+        self.app_lock: Dict[int, set] = {}
+        self.remote_head: Dict[str, str] = {}
+        self.tags: set = set()
+        
+        # Initialize git repo
+        try:
+            self.repo = git.Repo()
+        except git.InvalidGitRepositoryError:
+            self.log.error("Current directory is not a valid git repository")
+            sys.exit(1)
+        
+        # Initialize git branches and encryption
+        self._initialize_git_branches()
+        self._initialize_encryption()
+        
+        # Load JSON configs
         self.account_info = MyJson(self.users_path)
         self.user_info = MyJson(self.user_info_path)
         self.app_info = MyJson(self.app_info_path)
         self.two_factor = MyJson(self.two_factor_path)
         self.appuserlist = MyJson(self.appuserlist_path)
-        #self.Avalidaccountlist = MyJson(self.Avalidaccount_path)
-        self.log.info('Waiting to get remote tags!')
+        
+        # Setup update lists
+        self.log.info('Fetching remote tags...')
         self.get_remote_tags()
-        self.update_user_list = [*user_list] if user_list else []
+        self.update_user_list = list(set(user_list or []))
         self.update_app_id_list = []
+        
         if app_id_list:
-            self.update_app_id_list = list(set(int(i) for i in app_id_list if i.isdecimal()))
-            for user, info in self.user_info.items():
-                if info['enable'] and info['app']:
-                    for app_id in info['app']:
-                        if app_id in self.update_app_id_list:
-                            self.update_user_list.append(user)
+            self.update_app_id_list = list(set(
+                int(i) for i in app_id_list if i.isdecimal()
+            ))
+            self._filter_users_by_app_id()
+    
+    def _initialize_git_branches(self) -> None:
+        """Initialize required git branches (app and data)."""
+        try:
+            if not self.check_app_repo_local('app'):
+                if self.check_app_repo_remote('app'):
+                    self.log.info('Pulling remote app branch...')
+                    self.repo.git.fetch('origin', 'app:app')
+                else:
+                    try:
+                        self.log.info('Fetching full repository history...')
+                        self.repo.git.fetch('--unshallow')
+                    except git.exc.GitCommandError as e:
+                        self.log.debug(f'Unshallow fetch failed: {e}')
+                    
+                    self.app_sha = self.repo.git.rev_list('--max-parents=0', 'HEAD').strip()
+                    self.repo.git.branch('app', self.app_sha)
+            
+            if not self.app_sha:
+                self.app_sha = self.repo.git.rev_list('--max-parents=0', 'app').strip()
+            
+            if not self.check_app_repo_local('data'):
+                if self.check_app_repo_remote('data'):
+                    self.log.info('Pulling remote data branch...')
+                    self.repo.git.fetch('origin', 'data:origin_data')
+                    self.repo.git.worktree('add', '-b', 'data', 'data', 'origin_data')
+                else:
+                    self.repo.git.worktree('add', '-b', 'data', 'data', 'app')
+        except git.exc.GitCommandError as e:
+            self.log.error(f"Git initialization failed: {e}")
+            sys.exit(1)
+    
+    def _initialize_encryption(self) -> None:
+        """Initialize git-crypt encryption."""
+        try:
+            data_repo = git.Repo('data')
+            
+            if data_repo.head.commit.hexsha == self.app_sha:
+                self.log.info('Initializing data branch encryption...')
+                self.download_git_crypt()
+                subprocess.run([self.git_crypt_path, 'init'], cwd='data', check=True)
+                subprocess.run([self.git_crypt_path, 'export-key', self.key_path], cwd='data', check=True)
+                
+                with self.key_path.open('rb') as f:
+                    self.key = f.read().hex()
+                
+                self.log.info(f'Key exported. Add to Repository secrets: {self.key}')
+                self._setup_git_attributes(data_repo)
+            
+            if self.key and self._is_encrypted_file(self.users_path):
+                self._unlock_encrypted_files()
+            
+            if not self.credential_location.exists():
+                self.credential_location.mkdir(parents=True, exist_ok=True)
+        except Exception as e:
+            self.log.error(f"Encryption initialization failed: {e}")
+    
+    def _is_encrypted_file(self, file_path: Path) -> bool:
+        """Check if file is encrypted by git-crypt."""
+        if not file_path.exists() or file_path.stat().st_size == 0:
+            return False
+        try:
+            with file_path.open('rb') as f:
+                return f.read(10) == b'\x00GITCRYPT\x00'
+        except IOError:
+            return False
+    
+    def _unlock_encrypted_files(self) -> None:
+        """Unlock encrypted files using git-crypt."""
+        try:
+            self.download_git_crypt()
+            with self.key_path.open('wb') as f:
+                f.write(bytes.fromhex(self.key))
+            subprocess.run([self.git_crypt_path, 'unlock', self.key_path], cwd='data', check=True)
+            self.log.info('Git-crypt unlocked successfully')
+        except Exception as e:
+            self.log.error(f"Failed to unlock encrypted files: {e}")
+    
+    def _setup_git_attributes(self, data_repo: git.Repo) -> None:
+        """Configure .gitattributes for git-crypt."""
+        try:
+            gitattributes = self.ROOT / '.gitattributes'
+            encrypted_files = ['users.json', 'client/*.key', '2fa.json']
+            content = '\n'.join(f'{f} filter=git-crypt diff=git-crypt' for f in encrypted_files)
+            
+            with gitattributes.open('w') as f:
+                f.write(content)
+            
+            data_repo.git.add('.gitattributes')
+        except IOError as e:
+            self.log.error(f"Failed to setup .gitattributes: {e}")
+    
+    def _filter_users_by_app_id(self) -> None:
+        """Filter users that have the specified app IDs."""
+        for user, info in self.user_info.items():
+            if info.get('enable') and info.get('app'):
+                if any(app_id in self.update_app_id_list for app_id in info['app']):
+                    self.update_user_list.append(user)
         self.update_user_list = list(set(self.update_user_list))
-
-    def download_git_crypt(self):
+    
+    def download_git_crypt(self) -> None:
+        """Download git-crypt executable if not already present."""
         if self.git_crypt_path.exists():
             return
-        self.log.info('Waiting to download git-crypt!')
-        url = 'https://github.com/AGWA/git-crypt/releases/download/0.7.0/'
-        url_win = 'git-crypt-0.7.0-x86_64.exe'
-        url_linux = 'git-crypt-0.7.0-linux-x86_64'
-        url = url + (url_win if platform.system().lower() == 'windows' else url_linux)
+        
+        self.log.info('Downloading git-crypt...')
+        base_url = 'https://github.com/AGWA/git-crypt/releases/download/0.7.0/'
+        filename = 'git-crypt-0.7.0-x86_64.exe' if platform.system().lower() == 'windows' else 'git-crypt-0.7.0-linux-x86_64'
+        url = base_url + filename
+        
         try:
-            r = requests.get(url)
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
             with self.git_crypt_path.open('wb') as f:
-                f.write(r.content)
+                f.write(response.content)
+            
             if platform.system().lower() != 'windows':
-                subprocess.run(['chmod', '+x', self.git_crypt_path])
-        except requests.exceptions.ConnectionError:
-            traceback.print_exc()
-            exit()
-
-    def get_manifest_callback(self, username, app_id, depot_id, manifest_gid, args):
+                subprocess.run(['chmod', '+x', str(self.git_crypt_path)], check=True)
+            
+            self.log.info('Git-crypt downloaded successfully')
+        except Exception as e:
+            self.log.error(f"Failed to download git-crypt: {e}")
+            sys.exit(1)
+    
+    def get_manifest_callback(self, username: str, app_id: int, depot_id: str, manifest_gid: str, args) -> None:
+        """Handle manifest retrieval callback."""
         result = args.value
+        
         if not result:
-            self.log.warning(f'User {username}: get_manifest return {result.code.__repr__()}')
+            self.log.warning(f'User {username}: manifest retrieval failed - {result.code}')
             return
+        
         app_path = self.ROOT / f'depots/{app_id}'
+        
         try:
             delete_list = result.get('delete_list') or []
             manifest_commit = result.get('manifest_commit')
+            
             if len(delete_list) > 1:
-                self.log.warning('Deleted multiple files?')
+                self.log.warning(f'Multiple files deleted for {app_id}')
+            
             self.set_depot_info(depot_id, manifest_gid)
             app_repo = git.Repo(app_path)
-            with lock:
+            
+            with _global_lock:
                 if manifest_commit:
                     app_repo.create_tag(f'{depot_id}_{manifest_gid}', manifest_commit)
                 else:
                     if delete_list:
                         app_repo.git.rm(delete_list)
+                    
                     app_repo.git.add(f'{depot_id}_{manifest_gid}.manifest')
-                    #修改将资源Key保存到Key.vdf，新增appinfo(保存app信息 DLC(包括独立DLC))，新增config.json(保存depot_id和dlc_id)
                     app_repo.git.add('Key.vdf')
                     app_repo.git.add('config.json')
                     app_repo.git.add('appinfo.vdf')
                     app_repo.index.commit(f'Update depot: {depot_id}_{manifest_gid}')
                     app_repo.create_tag(f'{depot_id}_{manifest_gid}')
-        except KeyboardInterrupt:
-            raise
-        except:
-            logging.error(traceback.format_exc())
+        except Exception as e:
+            self.log.error(f"Error in manifest callback for {app_id}: {e}")
         finally:
-            with lock:
+            with _global_lock:
                 if int(app_id) in self.app_lock:
-                    self.app_lock[int(app_id)].remove(depot_id)
+                    self.app_lock[int(app_id)].discard(depot_id)
                     if int(app_id) not in self.user_info[username]['app']:
                         self.user_info[username]['app'].append(int(app_id))
+                    
                     if not self.app_lock[int(app_id)]:
-                        self.log.debug(f'Unlock app: {app_id}')
                         self.app_lock.pop(int(app_id))
-
-    def set_depot_info(self, depot_id, manifest_gid):
-        with lock:
+    
+    def set_depot_info(self, depot_id: str, manifest_gid: str) -> None:
+        """Update depot info thread-safely."""
+        with _global_lock:
             self.app_info[depot_id] = manifest_gid
-
-    def save_user_info(self):
-        with lock:
+    
+    def save(self) -> None:
+        """Save all JSON data."""
+        with _global_lock:
             self.user_info.dump()
-
-    def save(self):
-        self.save_depot_info()
-        self.save_user_info()
-
-    def save_depot_info(self):
-        with lock:
             self.app_info.dump()
-
-    def get_app_worktree(self):
+    
+    def get_app_worktree(self) -> Dict[str, tuple]:
+        """Get list of app worktrees."""
         worktree_dict = {}
-        with lock:
-            worktree_list = self.repo.git.worktree('list').split('\n')
-        for worktree in worktree_list:
-            path, head, name, *_ = worktree.split()
-            name = name[1:-1]
-            if not name.isdecimal():
-                continue
-            worktree_dict[name] = (path, head)
+        try:
+            with _global_lock:
+                worktree_list = self.repo.git.worktree('list').split('\n')
+            
+            for worktree in worktree_list:
+                parts = worktree.split()
+                if len(parts) >= 3:
+                    path, head, name = parts[0], parts[1], parts[2]
+                    name = name.strip('()')
+                    if name.isdecimal():
+                        worktree_dict[name] = (path, head)
+        except git.exc.GitCommandError as e:
+            self.log.warning(f"Failed to get worktrees: {e}")
+        
         return worktree_dict
-
-    def get_remote_head(self):
+    
+    def get_remote_head(self) -> Dict[str, str]:
+        """Get remote branch heads."""
         if self.remote_head:
             return self.remote_head
-        head_dict = {}
-        for i in self.repo.git.ls_remote('--head', 'origin').split('\n'):
-            commit, head = i.split()
-            head = head.split('/')[2]
-            head_dict[head] = commit
-        self.remote_head = head_dict
-        return head_dict
-
-    def check_app_repo_remote(self, repo):
+        
+        try:
+            head_dict = {}
+            for line in self.repo.git.ls_remote('--head', 'origin').split('\n'):
+                if not line.strip():
+                    continue
+                parts = line.split()
+                if len(parts) >= 2:
+                    commit, head = parts[0], parts[1]
+                    head = head.split('/')[-1]
+                    head_dict[head] = commit
+            self.remote_head = head_dict
+            return head_dict
+        except git.exc.GitCommandError as e:
+            self.log.error(f"Failed to get remote heads: {e}")
+            return {}
+    
+    def check_app_repo_remote(self, repo: str) -> bool:
+        """Check if app repo exists remotely."""
         return str(repo) in self.get_remote_head()
-
-    def check_app_repo_local(self, repo):
-        for branch in self.repo.heads:
-            if branch.name == str(repo):
-                return True
-        return False
-
-    def get_remote_tags(self):
-        if not self.tags:
-            for i in filter(None, self.repo.git.ls_remote('--tags').split('\n')):
-                sha, tag = i.split()
-                tag = tag.split('/')[-1]
-                self.tags.add(tag)
+    
+    def check_app_repo_local(self, repo: str) -> bool:
+        """Check if app repo exists locally."""
+        try:
+            return any(branch.name == str(repo) for branch in self.repo.heads)
+        except git.exc.GitCommandError:
+            return False
+    
+    def get_remote_tags(self) -> set:
+        """Fetch remote tags."""
+        if self.tags:
+            return self.tags
+        
+        try:
+            for line in filter(None, self.repo.git.ls_remote('--tags').split('\n')):
+                parts = line.split()
+                if len(parts) >= 2:
+                    tag = parts[1].split('/')[-1]
+                    self.tags.add(tag)
+        except git.exc.GitCommandError as e:
+            self.log.warning(f"Failed to get remote tags: {e}")
+        
         return self.tags
-
-    def check_manifest_exist(self, depot_id, manifest_gid):
-        for tag in set([i.name for i in self.repo.tags] + [*self.tags]):
-            if f'{depot_id}_{manifest_gid}' == tag:
-                return True
-        return False
-
-    def init_app_repo(self, app_id):
+    
+    def check_manifest_exist(self, depot_id: str, manifest_gid: str) -> bool:
+        """Check if manifest tag exists."""
+        tag_name = f'{depot_id}_{manifest_gid}'
+        try:
+            local_tags = {tag.name for tag in self.repo.tags}
+            return tag_name in local_tags or tag_name in self.tags
+        except git.exc.GitCommandError:
+            return tag_name in self.tags
+    
+    def init_app_repo(self, app_id: int) -> None:
+        """Initialize app repository worktree."""
         app_path = self.ROOT / f'depots/{app_id}'
-        if str(app_id) not in self.get_app_worktree():
+        app_id_str = str(app_id)
+        
+        if app_id_str in self.get_app_worktree():
+            return
+        
+        try:
             if app_path.exists():
-                app_path.unlink(missing_ok=True)
+                app_path.unlink()
+            
             if self.check_app_repo_remote(app_id):
-                with lock:
+                with _global_lock:
                     if not self.check_app_repo_local(app_id):
                         self.repo.git.fetch('origin', f'{app_id}:origin_{app_id}')
-                self.repo.git.worktree('add', '-b', app_id, app_path, f'origin_{app_id}')
+                self.repo.git.worktree('add', '-b', app_id_str, app_path, f'origin_{app_id}')
             else:
                 if self.check_app_repo_local(app_id):
-                    self.log.warning(f'Branch {app_id} does not exist locally and remotely!')
-                    self.repo.git.branch('-d', app_id)
-                self.repo.git.worktree('add', '-b', app_id, app_path, 'app')
-
-    def retry(self, fun, *args, retry_num=-1, **kwargs):
-        while retry_num:
+                    self.log.warning(f'Branch {app_id} not found locally or remotely')
+                    self.repo.git.branch('-d', app_id_str)
+                self.repo.git.worktree('add', '-b', app_id_str, app_path, 'app')
+        except git.exc.GitCommandError as e:
+            self.log.error(f"Failed to initialize app repo {app_id}: {e}")
+    
+    def retry(self, func, *args, retry_num: int = -1, **kwargs) -> Any:
+        """Retry a function with exponential backoff."""
+        retries = retry_num if retry_num > 0 else self.retry_num
+        backoff = 1
+        
+        while retries > 0:
             try:
-                return fun(*args, **kwargs)
+                return func(*args, **kwargs)
             except gevent.timeout.Timeout as e:
-                retry_num -= 1
-                self.log.warning(e)
+                retries -= 1
+                if retries > 0:
+                    self.log.warning(f'Timeout, retrying in {backoff}s: {e}')
+                    time.sleep(backoff)
+                    backoff = min(backoff * 2, 30)
             except Exception as e:
-                self.log.error(e)
-                return
-
-    def login(self, steam, username, password):
-        #密码错误次数过超过15次导致ip封禁结束所有登录
-        if self.ret >= 15:
-            return
-        self.log.info(f'Logging in to account {username}!')
+                self.log.error(f"Error in retry: {e}")
+                return None
+        
+        return None
+    
+    def login(self, steam: MySteamClient, username: str, password: str) -> EResult:
+        """Handle user login with retry logic."""
+        if self.invalid_password_count >= 15:
+            self.log.error('Too many invalid password attempts. IP may be blocked.')
+            return EResult.Fail
+        
+        self.log.info(f'Logging in as {username}...')
         shared_secret = self.two_factor.get(username)
         steam.username = username
         result = steam.relogin()
-        wait = 1
+        
         if result != EResult.OK:
-            if result != EResult.Fail:
-                self.log.warning(f'User {username}: Relogin failure reason: {result.__repr__()}')
-            if result == EResult.RateLimitExceeded:
-                with lock:
-                    time.sleep(wait)
-            result = steam.login(username, password, steam.login_key,None, two_factor_code=generate_twofactor_code(
-                base64.b64decode(shared_secret)) if shared_secret else None)
-        count = self.retry_num
-        while result != EResult.OK and count:
-            if self.cli:
-                with lock:
-                    self.log.warning(f'Using the command line to interactively log in to account {username}!')
-                    result = steam.cli_login(username, password)
-                break
-            #避免多次挤号导致ip封禁
-            elif result == EResult.AlreadyLoggedInElsewhere:
-                break
-            elif result == EResult.RateLimitExceeded:
-                if not count:
-                    break
-                with lock:
-                    time.sleep(wait)
-                result = steam.login(username, password, steam.login_key,None, two_factor_code=generate_twofactor_code(
-                base64.b64decode(shared_secret)) if shared_secret else None)
-            elif result in (EResult.AccountLogonDenied, EResult.AccountDisabled,
-                            EResult.AccountLoginDeniedNeedTwoFactor, EResult.PasswordUnset,
-                            EResult.InvalidPassword):
-                logging.warning(f'User {username} has been disabled!')
-                self.user_info[username]['enable'] = False
-                self.user_info[username]['status'] = result
-                break
-            wait += 1
-            count -= 1
+            result = self._perform_login(steam, username, password, shared_secret)
+        
         if result == EResult.InvalidPassword:
-            self.ret+=1
+            self.invalid_password_count += 1
+        
         if result == EResult.OK:
-            self.log.info(f'User {username} login successfully!')
+            self.log.info(f'User {username} logged in successfully')
         else:
-            self.log.error(f'User: {username}: Login failure reason: {result.__repr__()}')
+            self.log.error(f'Login failed for {username}: {result}')
+        
         return result
-
-    def async_task(self, cdn, app_id,appinfo,package,depot):
-        self.init_app_repo(app_id)
-        manifest_path = self.ROOT / f'depots/{app_id}/{depot.depot_id}_{depot.gid}.manifest'
-        if manifest_path.exists():
-            self.log.debug(f'manifest_path exists: {manifest_path}')
-            app_repo = git.Repo(self.ROOT / f'depots/{app_id}')
-            try:
-                manifest_commit = app_repo.git.rev_list('-1', str(app_id),
-                                                        f'{depot.depot_id}_{depot.gid}.manifest').strip()
-            except git.exc.GitCommandError:
-                manifest_path.unlink(missing_ok=True)
-            else:
-                self.log.debug(f'manifest_commit: {manifest_commit}')
-                return Result(result=True, app_id=app_id, depot_id=depot.depot_id, manifest_gid=depot.gid,
-                              manifest_commit=manifest_commit)
-        return get_manifest(cdn,app_id,appinfo,package,depot, True, self.ROOT, self.retry_num)
-
-    def get_manifest(self, username, password, sentry_name=None):
-        self.users+=1
-        Number = len(self.update_user_list)
-        if Number == 0:
-           Number = len(self.user_info)
-        self.log.info(f'-----------{username}: [{self.users}/{Number}]------------')    
+    
+    def _perform_login(self, steam: MySteamClient, username: str, password: str, shared_secret: Optional[str]) -> EResult:
+        """Perform login attempts with rate limiting."""
+        retry_count = self.retry_num
+        wait_time = 1
+        
+        while retry_count > 0:
+            two_factor = None
+            if shared_secret:
+                try:
+                    two_factor = generate_twofactor_code(base64.b64decode(shared_secret))
+                except Exception as e:
+                    self.log.warning(f"Failed to generate 2FA code: {e}")
+            
+            result = steam.login(username, password, steam.login_key, None, two_factor_code=two_factor)
+            
+            if result == EResult.OK:
+                return result
+            
+            if self.cli and result == EResult.AccountLoginDeniedNeedTwoFactor:
+                try:
+                    return steam.cli_login(username, password)
+                except KeyboardInterrupt:
+                    raise
+                except Exception:
+                    break
+            
+            if result in (EResult.AlreadyLoggedInElsewhere, EResult.AccountDisabled, 
+                         EResult.AccountLogonDenied, EResult.PasswordUnset):
+                break
+            
+            if result == EResult.RateLimitExceeded:
+                self.log.warning(f'Rate limited, waiting {wait_time}s...')
+                time.sleep(wait_time)
+                wait_time = min(wait_time * 2, 60)
+            
+            retry_count -= 1
+        
+        return result
+    
+    def async_task(self, cdn: MyCDNClient, app_id: int, appinfo: dict, package: dict, depot) -> Optional[Result]:
+        """Async task for manifest retrieval."""
+        try:
+            self.init_app_repo(app_id)
+            manifest_path = self.ROOT / f'depots/{app_id}/{depot.depot_id}_{depot.gid}.manifest'
+            
+            if manifest_path.exists():
+                app_repo = git.Repo(self.ROOT / f'depots/{app_id}')
+                try:
+                    manifest_commit = app_repo.git.rev_list('-1', str(app_id),
+                                                           f'{depot.depot_id}_{depot.gid}.manifest').strip()
+                    return Result(result=True, app_id=app_id, depot_id=depot.depot_id, 
+                                manifest_gid=depot.gid, manifest_commit=manifest_commit)
+                except git.exc.GitCommandError:
+                    manifest_path.unlink(missing_ok=True)
+            
+            return get_manifest(cdn, app_id, appinfo, package, depot, True, self.ROOT, self.retry_num)
+        except Exception as e:
+            self.log.error(f"Error in async_task for app {app_id}: {e}")
+            return None
+    
+    def get_manifest(self, username: str, password: str, sentry_name: Optional[str] = None) -> None:
+        """Main manifest retrieval for a user."""
+        self.users += 1
+        total_users = len(self.update_user_list) or len(self.user_info)
+        self.log.info(f'Processing user {self.users}/{total_users}: {username}')
+        
+        # Initialize user info
         if username not in self.user_info:
-            self.user_info[username] = {}
-            self.user_info[username]['app'] = []
-        if 'update' not in self.user_info[username]:
-            self.user_info[username]['update'] = 0
-        if 'enable' not in self.user_info[username]:
-            self.user_info[username]['enable'] = True
-        if not self.user_info[username]['enable']:
-            logging.warning(f'User {username} is disabled!')
+            self.user_info[username] = {'app': [], 'update': 0, 'enable': True}
+        
+        user_info = self.user_info[username]
+        user_info.setdefault('enable', True)
+        user_info.setdefault('app', [])
+        user_info.setdefault('update', 0)
+        
+        # Check if user is enabled
+        if not user_info['enable']:
+            self.log.warning(f'User {username} is disabled')
             return
-        #self.user_info[username]['update'] = 0
-        t = self.user_info[username]['update'] + self.update_wait_time - time.time()
-        if t > 0:
-            logging.warning(f'User {username} interval from next update: {int(t)}s!')
+        
+        # Check update interval
+        time_since_update = time.time() - user_info['update']
+        if time_since_update < self.update_wait_time:
+            wait_time = int(self.update_wait_time - time_since_update)
+            self.log.warning(f'User {username} will be updated in {wait_time}s')
             return
-        sentry_path = None
-        if sentry_name:
-            sentry_path = Path(
-                self.credential_location if self.credential_location else MySteamClient.credential_location) / sentry_name
-        self.log.debug(f'User {username} sentry_path: {sentry_path}')
-        steam = MySteamClient(str(self.credential_location), sentry_path)
-        result = self.login(steam, username, password)
-        if result != EResult.OK:
-            return
-        self.log.info(f'User {username}: Waiting to initialize the cdn client!')
-        cdn = self.retry(MyCDNClient, steam, retry_num=self.retry_num)
-        if not cdn:
-            logging.error(f'User {username}: Failed to initialize cdn!')
-            return
-        app_id_list = cdn.load_licenses()
-        self.log.info(f'User {username}: {len(app_id_list)} paid app found!')
-        #忽略获取app_id_list失败导致误判
-        if not app_id_list and result != EResult.OK:
-            self.user_info[username]['enable'] = False
-            self.user_info[username]['status'] = result
-            logging.warning(f'User {username}: Does not have any app and has been disabled!')
-            return
-        self.log.debug(f'User {username}, paid app id list: ' + ','.join([str(i) for i in app_id_list]))
-        self.log.info(f'User {username}: Waiting to get app info!')
-        fresh_resp = self.retry(steam.get_product_info, app_id_list,timeout=30, retry_num=self.retry_num)
-        if not fresh_resp:
-            logging.error(f'User {username}: Failed to get app info!')
-            return
+        
+        try:
+            # Setup sentry path
+            sentry_path = None
+            if sentry_name:
+                sentry_path = (self.credential_location if self.credential_location 
+                             else MySteamClient.credential_location) / sentry_name
+            
+            # Login
+            steam = MySteamClient(str(self.credential_location), sentry_path)
+            result = self.login(steam, username, password)
+            if result != EResult.OK:
+                return
+            
+            # Initialize CDN client
+            self.log.info(f'Initializing CDN client for {username}...')
+            cdn = self.retry(MyCDNClient, steam, retry_num=self.retry_num)
+            if not cdn:
+                self.log.error(f'Failed to initialize CDN for {username}')
+                return
+            
+            # Load licenses
+            app_id_list = cdn.load_licenses()
+            self.log.info(f'User {username}: {len(app_id_list)} apps found')
+            
+            if not app_id_list:
+                user_info['enable'] = False
+                self.log.warning(f'User {username} has no apps')
+                return
+            
+            # Get app info
+            self.log.info(f'Fetching app info for {username}...')
+            fresh_resp = self.retry(steam.get_product_info, app_id_list, timeout=30)
+            if not fresh_resp:
+                self.log.error(f'Failed to get app info for {username}')
+                return
+            
+            # Process manifests
+            self._process_manifests(username, app_id_list, fresh_resp, cdn, steam)
+            
+            # Update last update time
+            with _global_lock:
+                user_info['update'] = int(time.time())
+        
+        except KeyboardInterrupt:
+            raise
+        except Exception as e:
+            self.log.error(f"Error processing {username}: {e}")
+    
+    def _process_manifests(self, username: str, app_id_list: List[int], fresh_resp: dict, 
+                          cdn: MyCDNClient, steam: MySteamClient) -> None:
+        """Process manifests for all apps."""
         job_list = []
-        flag = True        
+        has_new_manifest = False
+        
         for app_id in app_id_list:
             if self.update_app_id_list and int(app_id) not in self.update_app_id_list:
                 continue
-            with lock:
+            
+            with _global_lock:
                 if int(app_id) in self.app_lock:
                     continue
-                self.log.debug(f'Lock app: {app_id}')
                 self.app_lock[int(app_id)] = set()
-            #改为get_manifests获取manifests
-            manifests = cdn.get_manifests(int(app_id))
-            if not manifests:
-                continue
-            #尝试获取dlc或额外内容并添加到配置文件(仅添加拥有的DLC)
-            app = fresh_resp['apps'][app_id]
-            package = {'dlcs': [], 'packagedlcs': []}
-            dlcappids = {}
-            if 'extended' in app and 'listofdlc' in app['extended']:
-                dlc_list = list(map(int, app['extended']['listofdlc'].split(',')))
-                package['dlcs'] = dlc_list
-                element = self.retry(steam.get_product_info, dlc_list,timeout=30, retry_num=self.retry_num).get('apps',{})
-                for appid, info in element.items():
-                    if info.get('depots',{}):
+            
+            try:
+                manifests = cdn.get_manifests(int(app_id))
+                if not manifests:
+                    continue
+                
+                app = fresh_resp['apps'].get(app_id, {})
+                package = self._get_package_info(app, manifests, steam)
+                
+                for depot in manifests:
+                    depot_id = str(depot.depot_id)
+                    manifest_gid = str(depot.gid)
+                    
+                    self.app_lock[int(app_id)].add(depot_id)
+                    self.set_depot_info(depot_id, manifest_gid)
+                    
+                    with _global_lock:
+                        if int(app_id) not in self.user_info[username]['app']:
+                            self.user_info[username]['app'].append(int(app_id))
+                        
+                        if self.check_manifest_exist(depot_id, manifest_gid):
+                            continue
+                    
+                    has_new_manifest = True
+                    job = gevent.Greenlet(SafeExceptionHandler(self.async_task), 
+                                        cdn, app_id, app, package, depot)
+                    job.rawlink(functools.partial(self.get_manifest_callback, username, app_id, depot_id, manifest_gid))
+                    job_list.append(job)
+                    gevent.idle()
+                
+                # Start jobs for this app
+                for job in job_list[-len(manifests):]:
+                    job.start()
+            
+            except Exception as e:
+                self.log.error(f"Error processing app {app_id}: {e}")
+            finally:
+                with _global_lock:
+                    if int(app_id) in self.app_lock and not self.app_lock[int(app_id)]:
+                        self.app_lock.pop(int(app_id))
+        
+        # Wait for all jobs to complete
+        if job_list:
+            gevent.joinall(job_list)
+    
+    def _get_package_info(self, app: dict, manifests: list, steam: MySteamClient) -> dict:
+        """Extract DLC and package information."""
+        package = {'dlcs': [], 'packagedlcs': []}
+        
+        try:
+            if 'extended' not in app or 'listofdlc' not in app['extended']:
+                return package
+            
+            dlc_list = list(map(int, app['extended']['listofdlc'].split(',')))
+            package['dlcs'] = dlc_list
+            
+            dlc_info = self.retry(steam.get_product_info, dlc_list, timeout=30)
+            if dlc_info:
+                for appid, info in dlc_info.get('apps', {}).items():
+                    if info.get('depots'):
                         package['packagedlcs'].append(int(appid))
                         package['dlcs'].remove(int(appid))
-                for depotid, info in app['depots'].items():
-                    if 'dlcappid' in info and 'manifests' in info:
-                        dlcappids[depotid]=int(info['dlcappid'])
-                for depot in manifests:
-                    dlcappids.pop(str(depot.depot_id), None)
-                for value in dlcappids.values():
-                    if value in package['dlcs']:
-                         package['dlcs'].remove(value)
-            for depot in manifests:
-                depot_id = str(depot.depot_id)
-                manifest_gid = str(depot.gid)
-                self.app_lock[int(app_id)].add(depot_id)
-                self.set_depot_info(depot_id, manifest_gid)
-                with lock:
-                    if int(app_id) not in self.user_info[username]['app']:
-                        self.user_info[username]['app'].append(int(app_id))
-                    if self.check_manifest_exist(depot_id, manifest_gid):
-                        self.log.info(f'Already got the manifest: {depot_id}_{manifest_gid}')
-                        continue
-                flag = False
-                job = gevent.Greenlet(LogExceptions(self.async_task), cdn, app_id,app,package,depot)
-                job.rawlink(functools.partial(self.get_manifest_callback, username, app_id, depot_id, manifest_gid))
-                job_list.append(job)
-                gevent.idle()
-            for job in job_list:
-                job.start()
             
-            with lock:
-                if int(app_id) in self.app_lock and not self.app_lock[int(app_id)]:
-                    self.log.debug(f'Unlock app: {app_id}')
-                    self.app_lock.pop(int(app_id))
-        with lock:
-            if flag:
-                self.user_info[username]['update'] = int(time.time())
-        gevent.joinall(job_list)
-        #steam.logout()
-        #steam.disconnect()
-        #cdn.clear_cache()
-            
-    def run(self, update=False):
+            # Remove depots already in manifests
+            manifest_depot_ids = {str(depot.depot_id) for depot in manifests}
+            for depotid, info in app.get('depots', {}).items():
+                if 'dlcappid' in info and 'manifests' in info:
+                    dlc_appid = int(info['dlcappid'])
+                    if dlc_appid in package['dlcs'] and depotid in manifest_depot_ids:
+                        package['dlcs'].remove(dlc_appid)
+        
+        except Exception as e:
+            self.log.warning(f"Error getting package info: {e}")
+        
+        return package
+    
+    def run(self, update: bool = False) -> None:
+        """Main execution method."""
         if not self.account_info or self.init_only:
+            self.log.info('Initialization complete')
             self.save()
-            self.account_info.dump()
             return
-        if update and not self.update_user_list:
+        
+        if update:
             self.update()
             if not self.update_user_list:
                 return
+        
+        # Process users with thread pool
         with Pool(self.pool_num) as pool:
-            pool: ThreadPool
             result_list = []
             for username in self.account_info:
                 if self.update_user_list and username not in self.update_user_list:
-                    self.log.debug(f'User {username} has skipped the update!')
                     continue
-                password, sentry_name = self.account_info[username]
                 
+                password, sentry_name = self.account_info[username]
                 result_list.append(
-                    pool.apply_async(LogExceptions(self.get_manifest), (username, password, sentry_name)))
+                    pool.apply_async(SafeExceptionHandler(self.get_manifest), 
+                                   (username, password, sentry_name))
+                )
+            
             try:
-                while pool._state == 'RUN':
-                    if all([result.ready() for result in result_list]):
-                        self.log.info('The program is finished and will exit in 10 seconds!')
-                        time.sleep(10)
+                # Wait for results
+                start_time = time.time()
+                while any(not result.ready() for result in result_list):
+                    if time.time() - start_time > 3600:  # 1 hour timeout
+                        self.log.warning('Processing timeout reached')
                         break
                     self.save()
-                    time.sleep(1)
+                    time.sleep(5)
+                
+                self.log.info('All users processed successfully')
+                time.sleep(10)
+            
             except KeyboardInterrupt:
-                with lock:
-                    pool.terminate()
-                os._exit(0)
+                self.log.info('Interrupted by user')
+                pool.terminate()
+                sys.exit(0)
+            
             finally:
                 self.save()
-                
-    def update(self):
+    
+    def update(self) -> None:
+        """Check for app updates and determine which users need updating."""
+        self.log.info('Checking for app updates...')
+        
+        # Collect all app IDs
         app_id_list = []
         for user, info in self.user_info.items():
-            if info['enable']:
-                if info['app']:
-                    app_id_list.extend(info['app'])
+            if info.get('enable') and info.get('app'):
+                app_id_list.extend(info['app'])
+        
         app_id_list = list(set(app_id_list))
-        logging.debug(app_id_list)
-        steam = MySteamClient(str(self.credential_location))
-        self.log.info('Logging in to anonymous!')
-        steam.anonymous_login()
-        self.log.info('Waiting to get all app info!')
-        app_info_dict = {}
-        count = 0
-        while app_id_list[count:count + 300]:
-            fresh_resp = self.retry(steam.get_product_info, app_id_list[count:count + 300],
-                                    retry_num=self.retry_num, timeout=60)
-            count += 300
-            if fresh_resp:
-                for app_id, info in fresh_resp['apps'].items():
-                    if depots := info.get('depots'):
-                        app_info_dict[int(app_id)] = depots
-                self.log.info(f'Acquired {len(app_info_dict)} app info!')
-        update_app_set = set()
-        for app_id, app_info in app_info_dict.items():
-            for depot_id, depot in app_info.items():
-                if depot_id.isdecimal():
-                    if manifests := depot.get('manifests'):
+        if not app_id_list:
+            self.log.info('No apps to check for updates')
+            return
+        
+        # Anonymous login and fetch app info
+        try:
+            steam = MySteamClient(str(self.credential_location))
+            self.log.info('Logging in anonymously...')
+            steam.anonymous_login()
+            
+            # Fetch app info in batches
+            app_info_dict = {}
+            for i in range(0, len(app_id_list), 300):
+                batch = app_id_list[i:i+300]
+                fresh_resp = self.retry(steam.get_product_info, batch, timeout=60)
+                if fresh_resp:
+                    for app_id, info in fresh_resp['apps'].items():
+                        if depots := info.get('depots'):
+                            app_info_dict[int(app_id)] = depots
+            
+            # Find updated apps
+            update_app_set = set()
+            for app_id, app_depots in app_info_dict.items():
+                for depot_id, depot in app_depots.items():
+                    if depot_id.isdecimal() and (manifests := depot.get('manifests')):
                         if manifest := manifests.get('public'):
                             if depot_id in self.app_info and self.app_info[depot_id] != manifest:
                                 update_app_set.add(app_id)
-        update_app_user = {}
-        update_user_set = set()
-        for user, info in self.user_info.items():
-            if info['enable'] and info['app']:
-                for app_id in info['app']:
-                    if int(app_id) in update_app_set:
-                        if int(app_id) not in update_app_user:
-                            update_app_user[int(app_id)] = []
-                        update_app_user[int(app_id)].append(user)
+            
+            # Find users to update
+            update_user_set = set()
+            for user, info in self.user_info.items():
+                if info.get('enable') and info.get('app'):
+                    if any(app_id in update_app_set for app_id in info['app']):
                         update_user_set.add(user)
-                        #导出可以账户和密码到Avalidaccountlist
-                        #self.Avalidaccountlist.update({user:self.account_info[user][0]})
-        self.log.debug(str(update_app_user))
-        for user in self.account_info:
-            if user not in self.user_info:
-                update_user_set.add(user)
-        self.update_user_list.extend(list(update_user_set))
-        for app_id, user_list in update_app_user.items():
-            #导出所有对应app所包含的账号到appuserlist
-            self.appuserlist.update({app_id:",".join(user_list)})
-            self.log.info(f'{app_id}: {",".join(user_list)}')
-        self.appuserlist.dump()
-        #导出可以账户和密码到Avalidaccountlist
-        #self.Avalidaccountlist.dump()
-        self.log.info(f'{len(update_app_user)} app and {len(self.update_user_list)} users need to update!')
-        return self.update_user_list
+            
+            # Add users without info
+            for user in self.account_info:
+                if user not in self.user_info:
+                    update_user_set.add(user)
+            
+            self.update_user_list.extend(list(update_user_set))
+            self.log.info(f'{len(update_app_set)} apps and {len(update_user_set)} users need updates')
+        
+        except Exception as e:
+            self.log.error(f"Update check failed: {e}")
+
+
+def main():
+    """Entry point."""
+    args = parser.parse_args()
+    
+    try:
+        updater = ManifestAutoUpdate(
+            credential_location=args.credential_location,
+            level=args.level,
+            pool_num=args.pool_num,
+            retry_num=args.retry_num,
+            update_wait_time=args.update_wait_time,
+            key=args.key,
+            init_only=args.init_only,
+            cli=args.cli,
+            app_id_list=args.app_id_list,
+            user_list=args.user_list,
+        )
+        
+        updater.run(update=args.update)
+        
+        if not args.no_push and not args.init_only:
+            push()
+            push_data()
+    
+    except KeyboardInterrupt:
+        logging.info('Interrupted by user')
+        sys.exit(0)
+    except Exception as e:
+        logging.error(f'Fatal error: {e}')
+        sys.exit(1)
 
 
 if __name__ == '__main__':
-    args = parser.parse_args()
-    ManifestAutoUpdate(args.credential_location, level=args.level, pool_num=args.pool_num, retry_num=args.retry_num,
-                       update_wait_time=args.update_wait_time, key=args.key, init_only=args.init_only,
-                       cli=args.cli, app_id_list=args.app_id_list, user_list=args.user_list).run(update=args.update)
-    if not args.no_push:
-        if not args.init_only:
-            push()
-        push_data()
+    main()
+                
